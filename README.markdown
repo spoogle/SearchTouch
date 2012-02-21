@@ -12,8 +12,9 @@ acknowledgement, but it is not required.
 ## Contributors
 
 All of the code has been contributed by Julian Richardson,
-julianrichardson@acm.org. Please contact me if you would like to
-contribute, or if you have bug reports, questions or suggestions.
+julianrichardson@acm.org. Contributions are very welcome. Please contact
+me if you would like to contribute, or if you have bug reports,
+questions or suggestions.
 
 ## Incorporating into your project
 
@@ -110,7 +111,7 @@ So for example, the first position of the first *enable* in the first result for
 
 By default, *Core Data* is used to store and manipulate search
 indexes. If you don't want to use Core Data, there is an alternative set
-of data structures, based on *CFTree*s. Building and searching these
+of data structures, based on *CFTree*. Building and searching these
 indexes is fast, but they cannot be saved to persistent storage - they
 must be rebuilt every time your app is used. To use these data
 structures, define the *NO_CORE_DATA* preprocessor symbol in the
@@ -121,7 +122,7 @@ target's *Build Settings*.
 
 When using Core Data, built indexes are stored in a file
 *DataModel.sqlite* in the top level directory of your application. You
-can check to see whether an index already exists using the `[index
+can check to see whether an index already exists using `(BOOL)[index
 hasBeenBuilt]`. If an index has already been built then you can use it
 directly without rebuilding it, e.g.
 
@@ -134,7 +135,5 @@ directly without rebuilding it, e.g.
 
 The following are considered stop words and neither indexed nor searched for: 
 
-    a, an, and, but, he, her, hers, him, his, how, i, it, its, of, or,
-    she, the, their, them, there, these, they, to, who, why, where,
-    when, what, which, you, your
+    a, an, and, but, he, her, hers, him, his, how, i, it, its, of, or, she, the, their, them, there, these, they, to, who, why, where, when, what, which, you, your
 
