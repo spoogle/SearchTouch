@@ -1,9 +1,19 @@
-# SearchTouch
-This is a search engine written in Objective C.
+# SearchTouch 
+
+This is a search engine written in Objective C which compiles and runs
+on Mac OSX or iOS.
 
 ## License
 
-The software is distributed under an MIT license. See LICENSE.TXT for details.
+The software is distributed under an MIT license. See LICENSE.TXT for
+details. If you use SearchTouch in a project, I would appreciate an
+acknowledgement, but it is not required.
+
+## Contributors
+
+All of the code has been contributed by Julian Richardson,
+julianrichardson@acm.org. Please contact me if you would like to
+contribute, or if you have bug reports, questions or suggestions.
 
 ## Incorporating into your project
 
@@ -23,8 +33,6 @@ select *CoreData.Framework*.
 
 ## Automatic Reference Counting (ARC) or Manual Memory Management?
 The code is currently set up to use ARC.
-
-## Choosing a back end data structure
 
 ## Building an index
 
@@ -64,11 +72,11 @@ Given an index built as above, search the index with:
 where searchtermtext is a string containing a list of space-separated
 search terms. This string is normalized by downcasing and removing all
 punctuation and stop words before performing the search - searches for
-`@"enable improvement"`, `@"the imProvement ENABLE"` should give the same
+*enable improvement*, *the imProvement ENABLE* should give the same
 results.
 
-`rankedResults` lists every document in the index which contains all of
-the search terms. It is represented as an array of `SearchResult`
+*rankedResults* lists every document in the index which contains all of
+the search terms. It is represented as an array of *SearchResult*
 instances, ranked (best first) using TFIDF according to the [BM25
 formula]:http://en.wikipedia.org/wiki/Probabilistic_relevance_model_(BM25).
 
@@ -81,15 +89,15 @@ Each SearchResult instance has the following readable instance variables:
     NSString *snippet;
     NSDictionary *postingsForTerm;
 
-`snippet` is currently always the empty string.
+*snippet* is currently always the empty string.
 
-`postingsForTerm` is a dictionary mapping each search term to a `Postings` instance, with readable instance variables:
+*postingsForTerm* is a dictionary mapping each search term to a *Postings* instance, with readable instance variables:
 
     DocID docid;
     int npostings;
     uint32_t *positions;
 
-So for example, the first position of the first `@"enable"` in the first result for the query `@"enable improvement"` can be found by:
+So for example, the first position of the first *enable* in the first result for the query *enable improvement* can be found by:
 
     Search *s = [[Search alloc] initWithQueryString:@"enable improvement" andIndex:index];
     NSArray *rankedResults = [s rankedResults];
@@ -98,7 +106,35 @@ So for example, the first position of the first `@"enable"` in the first result 
     Postings *postingsForEnable = [[topresult postingsForTerm] valueForKey:@"enable"];
     uint32_t firstPosition = (postingsForEnable.positions)[0];
 
+## Choosing a back end data structure
+
+By default, *Core Data* is used to store and manipulate search
+indexes. If you don't want to use Core Data, there is an alternative set
+of data structures, based on *CFTree*s. Building and searching these
+indexes is fast, but they cannot be saved to persistent storage - they
+must be rebuilt every time your app is used. To use these data
+structures, define the *NO_CORE_DATA* preprocessor symbol in the
+*Preprocessor Macros Not Used in Precompiled Headers* section of your
+target's *Build Settings*.
+
 ## Using an index which was previously built
 
+When using Core Data, built indexes are stored in a file
+*DataModel.sqlite* in the top level directory of your application. You
+can check to see whether an index already exists using the `[index
+hasBeenBuilt]`. If an index has already been built then you can use it
+directly without rebuilding it, e.g.
 
+    NSString *filelist = @"/Users/you/files.txt";
+    Index *index = [[Index alloc] initWithFilenamesFromFile:filelist];
+    Search *s = [[Search alloc] initWithQueryString:searchtermtext andIndex:index];
+    NSArray *rankedResults = [s rankedResults];
+
+## Stop Words
+
+The following are considered stop words and neither indexed nor searched for: 
+
+    a, an, and, but, he, her, hers, him, his, how, i, it, its, of, or,
+    she, the, their, them, there, these, they, to, who, why, where,
+    when, what, which, you, your
 
