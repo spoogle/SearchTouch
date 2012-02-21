@@ -12,7 +12,7 @@ search engine into your code.
 
 Using XCode, add that entire directory to your project by selecting the menu item:
 
-File -> Add Files to <<Your Project>> 
+File -> Add Files to (Your Project)
 
 then navigating to the SearchTouch project folder and selecting the src/ folder.
 
@@ -21,194 +21,75 @@ framework: select your target, build target, select the Build Phases
 tab, expand the "Link Binary With Libraries" item, hit the "+" and
 select CoreData.Framework.
 
-
-## The FMDB Mailing List:
-http://groups.google.com/group/fmdb
-
-## Read the SQLite FAQ:
-http://www.sqlite.org/faq.html
-
-Since FMDB is built on top of SQLite, you're going to want to read this page top to bottom at least once.  And while you're there, make sure to bookmark the SQLite Documentation page: http://www.sqlite.org/docs.html
-
 ## Automatic Reference Counting (ARC) or Manual Memory Management?
-You can use either style in your Cocoa project.  FMDB Will figure out which you are using at compile time and do the right thing.
+The code is currently set up to use ARC.
 
-## Usage
-There are three main classes in FMDB:
+## Choosing a back end data structure
 
-1. `FMDatabase` - Represents a single SQLite database.  Used for executing SQL statements.
-2. `FMResultSet` - Represents the results of executing a query on an `FMDatabase`.
-3. `FMDatabaseQueue` - If you're wanting to perform queries and updates on multiple threads, you'll want to use this class.  It's described in the "Thread Safety" section below.
+## Building an index
 
-### Database Creation
-An `FMDatabase` is created with a path to a SQLite database file.  This path can be one of these three:
+You must supply the path to a file which contains a list of files to
+index, separated by newlines. Each line in that file list should be a
+full path name. For example, if the contents of /Users/you/files.txt is:
 
-1. A file system path.  The file does not have to exist on disk.  If it does not exist, it is created for you.
-2. An empty string (`@""`).  An empty database is created at a temporary location.  This database is deleted with the `FMDatabase` connection is closed.
-3. `NULL`.  An in-memory database is created.  This database will be destroyed with the `FMDatabase` connection is closed.
+/Users/you/world_factbook/2001.txt
+/Users/you/world_factbook/2002.txt
 
-(For more information on temporary and in-memory databases, read the sqlite documentation on the subject: http://www.sqlite.org/inmemorydb.html)
+then you should initialize an instance of the Index class with:
 
-	FMDatabase *db = [FMDatabase databaseWithPath:@"/tmp/tmp.db"];
-	
-### Opening
+  #include <Search.h>
 
-Before you can interact with the database, it must be opened.  Opening fails if there are insufficient resources or permissions to open and/or create the database.
+  NSString *filelist = @"/Users/you/files.txt";
+  Index *index = [[Index alloc] initWithFilenamesFromFile:filelist];
 
-	if (![db open]) {
-		[db release];
-		return;
-	}
-	
-### Executing Updates
+You can then build a searchable index of the contents of 2001.txt and
+2002.txt with:
 
-Any sort of SQL statement which is not a `SELECT` statement qualifies as an update.  This includes `CREATE`, `PRAGMA`, `UPDATE`, `INSERT`, `ALTER`, `COMMIT`, `BEGIN`, `DETACH`, `DELETE`, `DROP`, `END`, `EXPLAIN`, `VACUUM`, and `REPLACE` statements (plus many more).  Basically, if your SQL statement does not begin with `SELECT`, it is an update statement.
+  [index buildIndex:nil];
 
-Executing updates returns a single value, a `BOOL`.  A return value of `YES` means the update was successfully executed, and a return value of `NO` means that some error was encountered.  If you use the `-[FMDatabase executeUpdate:error:withArgumentsInArray:orVAList:]` method to execute an update, you may supply an `NSError **` that will be filled in if execution fails.  Otherwise you may invoke the `-lastErrorMessage` and `-lastErrorCode` methods to retrieve more information.
+The single argument to buildIndex is a dictionary of options. Currently the
+only option supported is storetext, which stores the tokenized text of the
+indexed documents in the index. So instead of the above line of code you
+could write:
 
-### Executing Queries
+  [index buildIndex:[NSDictionary dictionaryWithObject:[NSNumber numberWithBool:NO] forKey:@"storetext"]];
 
-A `SELECT` statement is a query and is executed via one of the `-executeQuery...` methods.
+## Searching an index
 
-Executing queries returns an `FMResultSet` object if successful, and `nil` upon failure.  Like executing updates, there is a variant that accepts an `NSError **` parameter.  Otherwise you should use the `-lastErrorMessage` and `-lastErrorCode` methods to determine why a query failed.
+Given an index built as above, search the index with:
 
-In order to iterate through the results of your query, you use a `while()` loop.  You also need to "step" from one record to the other.  With FMDB, the easiest way to do that is like this:
+    Search *s = [[Search alloc] initWithQueryString:searchtermtext andIndex:index];
+    NSArray *rankedResults = [s rankedResults];
 
-	FMResultSet *s = [db executeQuery:@"SELECT * FROM myTable"];
-	while ([s next]) {
-		//retrieve values for each record
-	}
-	
-You must always invoke `-[FMResultSet next]` before attempting to access the values returned in a query, even if you're only expecting one:
+where searchtermtext is a string containing a list of space-separated search terms. This string is normalized by downcasing and removing all punctuation and stop words before performing the search.
 
-	FMResultSet *s = [db executeQuery:@"SELECT COUNT(*) FROM myTable"];
-	if ([s next]) {
-		int totalCount = [s intForColumnIndex:0];
-	}
-	
-`FMResultSet` has many methods to retrieve data in an appropriate format:
+rankedResults is an array of SearchResult instances. Each SearchResult instance has the following readable instance variables:
 
-- `intForColumn:`
-- `longForColumn:`
-- `longLongIntForColumn:`
-- `boolForColumn:`
-- `doubleForColumn:`
-- `stringForColumn:`
-- `dateForColumn:`
-- `dataForColumn:`
-- `dataNoCopyForColumn:`
-- `UTF8StringForColumnIndex:`
-- `objectForColumn:`
+    int rank;
+    double score;
+    DocID docid;
+    NSString *docname;
+    NSString *snippet;
+    NSDictionary *postingsForTerm;
 
-Each of these methods also has a `{type}ForColumnIndex:` variant that is used to retrieve the data based on the position of the column in the results, as opposed to the column's name.
+snippet is currently always the empty string.
 
-Typically, there's no need to `-close` an `FMResultSet` yourself, since that happens when either the result set is deallocated, or the parent database is closed.
+postingsForTerm is a dictionary mapping each search term to a Postings instance, with readable instance variables:
 
-### Closing
+DocID docid;
+int npostings;
+uint32_t *positions;
 
-When you have finished executing queries and updates on the database, you should `-close` the `FMDatabase` connection so that SQLite will relinquish any resources it has acquired during the course of its operation.
+So for example, the first position of the first @"enable" in the first result for the query "enable improvement" can be found by:
 
-	[db close];
-	
-### Transactions
+    Search *s = [[Search alloc] initWithQueryString:@"enable improvement" andIndex:index];
+    NSArray *rankedResults = [s rankedResults];
 
-`FMDatabase` can begin and commit a transaction by invoking one of the appropriate methods or executing a begin/end transaction statement.
+SearchResult *topresult = [rankedResults objectAtIndex:0];
+Postings *postingsForEnable = [[topresult postingsForTerm] valueForKey:@"enable"];
+uint32_t firstPosition = (postingsForEnable.positions)[0];
 
-### Data Sanitization
-
-When providing a SQL statement to FMDB, you should not attempt to "sanitize" any values before insertion.  Instead, you should use the standard SQLite binding syntax:
-
-	INSERT INTO myTable VALUES (?, ?, ?)
-	
-The `?` character is recognized by SQLite as a placeholder for a value to be inserted.  The execution methods all accept a variable number of arguments (or a representation of those arguments, such as an `NSArray`, `NSDictionary`, or a `va_list`), which are properly escaped for you.
-
-Alternatively, you may use named parameters syntax:
-
-    INSERT INTO myTable VALUES (:id, :name, :value)
-    
-The parameters *must* start with a colon. SQLite itself supports other characters, but internally the Dictionary keys are prefixed with a colon, do **not** include the colon in your dictionary keys.
-
-    NSDictionary *argsDict = [NSDictionary dictionaryWithObjectsAndKeys:@"My Name", @"name", nil];
-    [db executeUpdate:@"INSERT INTO myTable (name) VALUES (:name)" withArgumentsInDictionary:argsDict];
-
-Thus, you SHOULD NOT do this (or anything like this):
-
-	[db executeUpdate:[NSString stringWithFormat:@"INSERT INTO myTable VALUES (%@)", @"this has \" lots of ' bizarre \" quotes '"]];
-	
-Instead, you SHOULD do:
-
-	[db executeUpdate:@"INSERT INTO myTable VALUES (?)", @"this has \" lots of ' bizarre \" quotes '"];
-	
-All arguments provided to the `-executeUpdate:` method (or any of the variants that accept a `va_list` as a parameter) must be objects.  The following will not work (and will result in a crash):
-
-	[db executeUpdate:@"INSERT INTO myTable VALUES (?)", 42];
-	
-The proper way to insert a number is to box it in an `NSNumber` object:
-
-	[db executeUpdate:@"INSERT INTO myTable VALUES (?)", [NSNumber numberWithInt:42]];
-	
-Alternatively, you can use the `-execute*WithFormat:` variant to use `NSString`-style substitution:
-
-	[db executeUpdateWithFormat:@"INSERT INTO myTable VALUES (%d)", 42];
-	
-Internally, the `-execute*WithFormat:` methods are properly boxing things for you.  The following percent modifiers are recognized:  `%@`, `%c`, `%s`, `%d`, `%D`, `%i`, `%u`, `%U`, `%hi`, `%hu`, `%qi`, `%qu`, `%f`, `%g`, `%ld`, `%lu`, `%lld`, and `%llu`.  Using a modifier other than those will have unpredictable results.  If, for some reason, you need the `%` character to appear in your SQL statement, you should use `%%`.
+## Using an index which was previously built
 
 
-<h2 id="threads">Using FMDatabaseQueue and Thread Safety.</h2>
 
-Using a single instance of FMDatabase from multiple threads at once is a bad idea.  It has always been OK to make a FMDatabase object *per thread*.  Just don't share a single instance across threads, and definitely not across multiple threads at the same time.  Bad things will eventually happen and you'll eventually get something to crash, or maybe get an exception, or maybe meteorites will fall out of the sky and hit your Mac Pro.  *This would suck*.
-
-**So don't instantiate a single FMDatabase object and use it across multiple threads.**
-
-Instead, use FMDatabaseQueue.  It's your friend and it's here to help.  Here's how to use it:
-
-First, make your queue.
-
-	FMDatabaseQueue *queue = [FMDatabaseQueue databaseQueueWithPath:aPath];
-
-Then use it like so:
-
-    [queue inDatabase:^(FMDatabase *db) {
-		[db executeUpdate:@"INSERT INTO myTable VALUES (?)", [NSNumber numberWithInt:1]];
-		[db executeUpdate:@"INSERT INTO myTable VALUES (?)", [NSNumber numberWithInt:2]];
-		[db executeUpdate:@"INSERT INTO myTable VALUES (?)", [NSNumber numberWithInt:3]];
-		
-		FMResultSet *rs = [db executeQuery:@"select * from foo"];
-        while ([rs next]) {
-            …
-        }
-    }];
-
-An easy way to wrap things up in a transaction can be done like this:
-
-    [queue inTransaction:^(FMDatabase *db, BOOL *rollback) {
-        [db executeUpdate:@"INSERT INTO myTable VALUES (?)", [NSNumber numberWithInt:1]];
-		[db executeUpdate:@"INSERT INTO myTable VALUES (?)", [NSNumber numberWithInt:2]];
-		[db executeUpdate:@"INSERT INTO myTable VALUES (?)", [NSNumber numberWithInt:3]];
-		
-		if (whoopsSomethingWrongHappened) {
-		    *rollback = YES;
-		    return;
-		}
-		// etc…
-		[db executeUpdate:@"INSERT INTO myTable VALUES (?)", [NSNumber numberWithInt:4]];
-    }];
-
-
-FMDatabaseQueue will make a serialized GCD queue in the background and execute the blocks you pass to the GCD queue.  This means if you call your FMDatabaseQueue's methods from multiple threads at the same time GDC will execute them in the order they are received.  This means queries and updates won't step on each other's toes, and every one is happy.
-
-## Making custom sqlite functions, based on blocks.
-
-You can do this!  For an example, look for "makeFunctionNamed:" in main.m
-
-## History
-
-The history and changes are availbe on its [GitHub page](https://github.com/ccgus/fmdb) and are summarized in the "CHANGES_AND_TODO_LIST.txt" file.
-
-## Contributors
-
-The contributors to FMDB are contained in the "Contributors.txt" file.
-
-## License
-
-The license for FMDB is contained in the "License.txt" file.
