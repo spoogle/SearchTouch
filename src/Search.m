@@ -163,7 +163,7 @@
             double tfidf = idf * nmatches * (1.0 + k1) / (nmatches + k1 * (1.0 - b + b * doclen / self.index.avgdoclen));
             score = score + tfidf;
         }
-        [results addObject:[[[SearchResult alloc] initWithRank:-1 andScore:score andDocID:docid andDocname:filename andSnippet:@"" andPayloads:match] autorelease]];
+        [results addObject:[[[SearchResult alloc] initWithRank:-1 andScore:score andDocID:docid andDocname:filename andSnippet:@"" andPostingsForTerms:match] autorelease]];
     }
 
     [results sortUsingComparator:(NSComparator)^(id a, id b) 

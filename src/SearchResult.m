@@ -15,16 +15,16 @@
 @synthesize docid=_docid;
 @synthesize docname=_docname;
 @synthesize snippet=_snippet;
-@synthesize payloads=_payloads;
+@synthesize postingsForTerm=_postingsForTerm;
 
-- (id)initWithRank:(int)rank andScore:(double)score andDocID:(DocID)docid andDocname:(NSString *)docname andSnippet:(NSString *)snippet andPayloads:(NSDictionary *)payloads {
+- (id)initWithRank:(int)rank andScore:(double)score andDocID:(DocID)docid andDocname:(NSString *)docname andSnippet:(NSString *)snippet andPostingsForTerms:(NSDictionary *)postings {
     if (( self = [super init])) {
         self.rank = rank;
         self.score = score;
         self.docid = docid;
         self.docname = docname;
         self.snippet = snippet;
-        self.payloads = payloads;
+        self.postingsForTerm = postings;
     }
     return self;
 }
@@ -32,7 +32,7 @@
 - (void)dealloc {
     [_docname release];
     [_snippet release];
-    [_payloads release];
+    [_postingsForTerm release];
     [super dealloc];
 }
 

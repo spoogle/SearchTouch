@@ -15,7 +15,7 @@
     DocID _docid;
     NSString *_docname;
     NSString *_snippet;
-    NSDictionary *_payloads;
+    NSDictionary *_postingsForTerm;
 }
 
 @property (nonatomic) int rank;
@@ -23,7 +23,7 @@
 @property (nonatomic) DocID docid;
 @property (nonatomic, copy) NSString *docname;
 @property (nonatomic, copy) NSString *snippet;
-@property (nonatomic, retain) NSDictionary *payloads;
+@property (nonatomic, retain) NSDictionary *postingsForTerm;
 
-- (id)initWithRank:(int)rank andScore:(double)score andDocID:(DocID)docid andDocname:(NSString *)docname andSnippet:(NSString *)snippet andPayloads:(NSDictionary *)payloads;
+- (id)initWithRank:(int)rank andScore:(double)score andDocID:(DocID)docid andDocname:(NSString *)docname andSnippet:(NSString *)snippet andPostingsForTerms:(NSDictionary *)postings;
 @end
