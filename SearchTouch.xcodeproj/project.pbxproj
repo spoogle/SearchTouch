@@ -1,0 +1,783 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		FDAB679714EF0FF000754C83 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FDBD1EA114EF0B2D0021FDC1 /* main.m */; };
+		FDAB679814EF0FF000754C83 /* SearchAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FDBD1EA414EF0B2D0021FDC1 /* SearchAppDelegate.m */; };
+		FDAB679914EF0FF000754C83 /* SearchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FDBD1EA914EF0B2D0021FDC1 /* SearchViewController.m */; };
+		FDAB679A14EF0FF000754C83 /* DocDetails.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E8E514EF0F7D009DF198 /* DocDetails.m */; };
+		FDAB679B14EF0FF000754C83 /* DocTree.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E8E714EF0F7D009DF198 /* DocTree.m */; };
+		FDAB679C14EF0FF000754C83 /* Extractor.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E8E914EF0F7D009DF198 /* Extractor.m */; };
+		FDAB679D14EF0FF000754C83 /* Index.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E8EB14EF0F7D009DF198 /* Index.m */; };
+		FDAB679E14EF0FF000754C83 /* IndexPlaceholder.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E8ED14EF0F7D009DF198 /* IndexPlaceholder.m */; };
+		FDAB679F14EF0FF000754C83 /* Posting.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E8EF14EF0F7D009DF198 /* Posting.m */; };
+		FDAB67A014EF0FF000754C83 /* PostingPlaceholder.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E8F114EF0F7D009DF198 /* PostingPlaceholder.m */; };
+		FDAB67A114EF0FF000754C83 /* Search.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E8F314EF0F7D009DF198 /* Search.m */; };
+		FDAB67A214EF0FF000754C83 /* SearchResult.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E8F614EF0F7D009DF198 /* SearchResult.m */; };
+		FDAB67A314EF0FF000754C83 /* CFTreeIndex.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E8FB14EF0F7D009DF198 /* CFTreeIndex.m */; };
+		FDAB67A414EF0FF000754C83 /* CFTreeTree.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E8FD14EF0F7D009DF198 /* CFTreeTree.m */; };
+		FDAB67A514EF0FF000754C83 /* PostingCF.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E8FF14EF0F7D009DF198 /* PostingCF.m */; };
+		FDAB67A614EF0FF000754C83 /* CDDocDetails.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E90214EF0F7D009DF198 /* CDDocDetails.m */; };
+		FDAB67A714EF0FF000754C83 /* CDIndex.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E90414EF0F7D009DF198 /* CDIndex.m */; };
+		FDAB67A814EF0FF000754C83 /* CDIndexForWord.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E90614EF0F7D009DF198 /* CDIndexForWord.m */; };
+		FDAB67A914EF0FF000754C83 /* CDManager.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E90814EF0F7D009DF198 /* CDManager.m */; };
+		FDAB67AA14EF0FF000754C83 /* CDPosting.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E90A14EF0F7D009DF198 /* CDPosting.m */; };
+		FDAB67AB14EF0FF000754C83 /* CDTree.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E90C14EF0F7D009DF198 /* CDTree.m */; };
+		FDAB67AC14EF0FF000754C83 /* CDTree.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E90D14EF0F7D009DF198 /* CDTree.xcdatamodeld */; };
+		FDAB67AD14EF0FF000754C83 /* IndexCDW.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E91014EF0F7D009DF198 /* IndexCDW.m */; };
+		FDAB67AE14EF0FF000754C83 /* PostingCDW.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E91214EF0F7D009DF198 /* PostingCDW.m */; };
+		FDAB67AF14EF0FF000754C83 /* Stream.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E91414EF0F7D009DF198 /* Stream.m */; };
+		FDAB67B014EF0FF000754C83 /* Util.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E91714EF0F7D009DF198 /* Util.m */; };
+		FDAB67B214EF0FF000754C83 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FDBD1EB214EF0B5E0021FDC1 /* CoreData.framework */; };
+		FDAB67B314EF0FF000754C83 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FDBD1E0814EF0A2A0021FDC1 /* UIKit.framework */; };
+		FDAB67B414EF0FF000754C83 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FDBD1E0A14EF0A2A0021FDC1 /* Foundation.framework */; };
+		FDAB67B514EF0FF000754C83 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FDBD1E0C14EF0A2A0021FDC1 /* CoreGraphics.framework */; };
+		FDAB67B714EF0FF000754C83 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = FDBD1EA214EF0B2D0021FDC1 /* MainWindow.xib */; };
+		FDAB67B814EF0FF000754C83 /* SearchViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = FDBD1EAA14EF0B2D0021FDC1 /* SearchViewController.xib */; };
+		FDAB67B914EF0FF000754C83 /* LICENCE.TXT in Resources */ = {isa = PBXBuildFile; fileRef = FDBD1EB514EF0C2B0021FDC1 /* LICENCE.TXT */; };
+		FDAB67BA14EF0FF000754C83 /* README.markdown in Resources */ = {isa = PBXBuildFile; fileRef = FDBD1EB614EF0C2B0021FDC1 /* README.markdown */; };
+		FDBD1E0914EF0A2A0021FDC1 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FDBD1E0814EF0A2A0021FDC1 /* UIKit.framework */; };
+		FDBD1E0B14EF0A2A0021FDC1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FDBD1E0A14EF0A2A0021FDC1 /* Foundation.framework */; };
+		FDBD1E0D14EF0A2A0021FDC1 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FDBD1E0C14EF0A2A0021FDC1 /* CoreGraphics.framework */; };
+		FDBD1EAB14EF0B2D0021FDC1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FDBD1EA114EF0B2D0021FDC1 /* main.m */; };
+		FDBD1EAC14EF0B2D0021FDC1 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = FDBD1EA214EF0B2D0021FDC1 /* MainWindow.xib */; };
+		FDBD1EAD14EF0B2D0021FDC1 /* SearchAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FDBD1EA414EF0B2D0021FDC1 /* SearchAppDelegate.m */; };
+		FDBD1EB014EF0B2D0021FDC1 /* SearchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FDBD1EA914EF0B2D0021FDC1 /* SearchViewController.m */; };
+		FDBD1EB114EF0B2D0021FDC1 /* SearchViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = FDBD1EAA14EF0B2D0021FDC1 /* SearchViewController.xib */; };
+		FDBD1EB414EF0B690021FDC1 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FDBD1EB214EF0B5E0021FDC1 /* CoreData.framework */; };
+		FDBD1EB714EF0C2B0021FDC1 /* LICENCE.TXT in Resources */ = {isa = PBXBuildFile; fileRef = FDBD1EB514EF0C2B0021FDC1 /* LICENCE.TXT */; };
+		FDBD1EB814EF0C2B0021FDC1 /* README.markdown in Resources */ = {isa = PBXBuildFile; fileRef = FDBD1EB614EF0C2B0021FDC1 /* README.markdown */; };
+		FDBD1F0114EF0CD70021FDC1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FDBD1E0A14EF0A2A0021FDC1 /* Foundation.framework */; };
+		FDBD1F0814EF0CD70021FDC1 /* MacOSX.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = FDBD1F0714EF0CD70021FDC1 /* MacOSX.1 */; };
+		FDBD1F0D14EF0D690021FDC1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FDBD1F0C14EF0D690021FDC1 /* main.m */; };
+		FDBD1F3F14EF0DAB0021FDC1 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FDBD1F3E14EF0DAB0021FDC1 /* CoreData.framework */; };
+		FDF6E91814EF0F7D009DF198 /* DocDetails.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E8E514EF0F7D009DF198 /* DocDetails.m */; };
+		FDF6E91914EF0F7D009DF198 /* DocDetails.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E8E514EF0F7D009DF198 /* DocDetails.m */; };
+		FDF6E91A14EF0F7D009DF198 /* DocTree.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E8E714EF0F7D009DF198 /* DocTree.m */; };
+		FDF6E91B14EF0F7D009DF198 /* DocTree.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E8E714EF0F7D009DF198 /* DocTree.m */; };
+		FDF6E91C14EF0F7D009DF198 /* Extractor.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E8E914EF0F7D009DF198 /* Extractor.m */; };
+		FDF6E91D14EF0F7D009DF198 /* Extractor.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E8E914EF0F7D009DF198 /* Extractor.m */; };
+		FDF6E91E14EF0F7D009DF198 /* Index.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E8EB14EF0F7D009DF198 /* Index.m */; };
+		FDF6E91F14EF0F7D009DF198 /* Index.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E8EB14EF0F7D009DF198 /* Index.m */; };
+		FDF6E92014EF0F7D009DF198 /* IndexPlaceholder.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E8ED14EF0F7D009DF198 /* IndexPlaceholder.m */; };
+		FDF6E92114EF0F7D009DF198 /* IndexPlaceholder.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E8ED14EF0F7D009DF198 /* IndexPlaceholder.m */; };
+		FDF6E92214EF0F7D009DF198 /* Posting.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E8EF14EF0F7D009DF198 /* Posting.m */; };
+		FDF6E92314EF0F7D009DF198 /* Posting.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E8EF14EF0F7D009DF198 /* Posting.m */; };
+		FDF6E92414EF0F7D009DF198 /* PostingPlaceholder.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E8F114EF0F7D009DF198 /* PostingPlaceholder.m */; };
+		FDF6E92514EF0F7D009DF198 /* PostingPlaceholder.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E8F114EF0F7D009DF198 /* PostingPlaceholder.m */; };
+		FDF6E92614EF0F7D009DF198 /* Search.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E8F314EF0F7D009DF198 /* Search.m */; };
+		FDF6E92714EF0F7D009DF198 /* Search.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E8F314EF0F7D009DF198 /* Search.m */; };
+		FDF6E92814EF0F7D009DF198 /* SearchResult.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E8F614EF0F7D009DF198 /* SearchResult.m */; };
+		FDF6E92914EF0F7D009DF198 /* SearchResult.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E8F614EF0F7D009DF198 /* SearchResult.m */; };
+		FDF6E92A14EF0F7D009DF198 /* CFTreeIndex.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E8FB14EF0F7D009DF198 /* CFTreeIndex.m */; };
+		FDF6E92B14EF0F7D009DF198 /* CFTreeIndex.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E8FB14EF0F7D009DF198 /* CFTreeIndex.m */; };
+		FDF6E92C14EF0F7D009DF198 /* CFTreeTree.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E8FD14EF0F7D009DF198 /* CFTreeTree.m */; };
+		FDF6E92D14EF0F7D009DF198 /* CFTreeTree.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E8FD14EF0F7D009DF198 /* CFTreeTree.m */; };
+		FDF6E92E14EF0F7D009DF198 /* PostingCF.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E8FF14EF0F7D009DF198 /* PostingCF.m */; };
+		FDF6E92F14EF0F7D009DF198 /* PostingCF.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E8FF14EF0F7D009DF198 /* PostingCF.m */; };
+		FDF6E93014EF0F7D009DF198 /* CDDocDetails.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E90214EF0F7D009DF198 /* CDDocDetails.m */; };
+		FDF6E93114EF0F7D009DF198 /* CDDocDetails.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E90214EF0F7D009DF198 /* CDDocDetails.m */; };
+		FDF6E93214EF0F7D009DF198 /* CDIndex.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E90414EF0F7D009DF198 /* CDIndex.m */; };
+		FDF6E93314EF0F7D009DF198 /* CDIndex.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E90414EF0F7D009DF198 /* CDIndex.m */; };
+		FDF6E93414EF0F7D009DF198 /* CDIndexForWord.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E90614EF0F7D009DF198 /* CDIndexForWord.m */; };
+		FDF6E93514EF0F7D009DF198 /* CDIndexForWord.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E90614EF0F7D009DF198 /* CDIndexForWord.m */; };
+		FDF6E93614EF0F7D009DF198 /* CDManager.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E90814EF0F7D009DF198 /* CDManager.m */; };
+		FDF6E93714EF0F7D009DF198 /* CDManager.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E90814EF0F7D009DF198 /* CDManager.m */; };
+		FDF6E93814EF0F7D009DF198 /* CDPosting.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E90A14EF0F7D009DF198 /* CDPosting.m */; };
+		FDF6E93914EF0F7D009DF198 /* CDPosting.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E90A14EF0F7D009DF198 /* CDPosting.m */; };
+		FDF6E93A14EF0F7D009DF198 /* CDTree.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E90C14EF0F7D009DF198 /* CDTree.m */; };
+		FDF6E93B14EF0F7D009DF198 /* CDTree.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E90C14EF0F7D009DF198 /* CDTree.m */; };
+		FDF6E93C14EF0F7D009DF198 /* CDTree.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E90D14EF0F7D009DF198 /* CDTree.xcdatamodeld */; };
+		FDF6E93D14EF0F7D009DF198 /* CDTree.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E90D14EF0F7D009DF198 /* CDTree.xcdatamodeld */; };
+		FDF6E93E14EF0F7D009DF198 /* IndexCDW.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E91014EF0F7D009DF198 /* IndexCDW.m */; };
+		FDF6E93F14EF0F7D009DF198 /* IndexCDW.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E91014EF0F7D009DF198 /* IndexCDW.m */; };
+		FDF6E94014EF0F7D009DF198 /* PostingCDW.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E91214EF0F7D009DF198 /* PostingCDW.m */; };
+		FDF6E94114EF0F7D009DF198 /* PostingCDW.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E91214EF0F7D009DF198 /* PostingCDW.m */; };
+		FDF6E94214EF0F7D009DF198 /* Stream.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E91414EF0F7D009DF198 /* Stream.m */; };
+		FDF6E94314EF0F7D009DF198 /* Stream.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E91414EF0F7D009DF198 /* Stream.m */; };
+		FDF6E94414EF0F7D009DF198 /* Util.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E91714EF0F7D009DF198 /* Util.m */; };
+		FDF6E94514EF0F7D009DF198 /* Util.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF6E91714EF0F7D009DF198 /* Util.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		FDBD1EFD14EF0CD70021FDC1 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+				FDBD1F0814EF0CD70021FDC1 /* MacOSX.1 in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		FDAB67BE14EF0FF000754C83 /* SearchTouch copy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SearchTouch copy.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FDBD1E0414EF0A2A0021FDC1 /* SearchTouch Core Data.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SearchTouch Core Data.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FDBD1E0814EF0A2A0021FDC1 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		FDBD1E0A14EF0A2A0021FDC1 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		FDBD1E0C14EF0A2A0021FDC1 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		FDBD1E1014EF0A2A0021FDC1 /* SearchTouch-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SearchTouch-Info.plist"; sourceTree = "<group>"; };
+		FDBD1E1614EF0A2A0021FDC1 /* SearchTouch-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SearchTouch-Prefix.pch"; sourceTree = "<group>"; };
+		FDBD1EA114EF0B2D0021FDC1 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = iOS/main.m; sourceTree = SOURCE_ROOT; };
+		FDBD1EA214EF0B2D0021FDC1 /* MainWindow.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = MainWindow.xib; path = iOS/MainWindow.xib; sourceTree = SOURCE_ROOT; };
+		FDBD1EA314EF0B2D0021FDC1 /* SearchAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SearchAppDelegate.h; path = iOS/SearchAppDelegate.h; sourceTree = SOURCE_ROOT; };
+		FDBD1EA414EF0B2D0021FDC1 /* SearchAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SearchAppDelegate.m; path = iOS/SearchAppDelegate.m; sourceTree = SOURCE_ROOT; };
+		FDBD1EA514EF0B2D0021FDC1 /* SearchTouch No Core Data-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "SearchTouch No Core Data-Info.plist"; path = "iOS/SearchTouch No Core Data-Info.plist"; sourceTree = SOURCE_ROOT; };
+		FDBD1EA614EF0B2D0021FDC1 /* SearchTouch-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "SearchTouch-Info.plist"; path = "iOS/SearchTouch-Info.plist"; sourceTree = SOURCE_ROOT; };
+		FDBD1EA714EF0B2D0021FDC1 /* SearchTouch-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "SearchTouch-Prefix.pch"; path = "iOS/SearchTouch-Prefix.pch"; sourceTree = SOURCE_ROOT; };
+		FDBD1EA814EF0B2D0021FDC1 /* SearchViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SearchViewController.h; path = iOS/SearchViewController.h; sourceTree = SOURCE_ROOT; };
+		FDBD1EA914EF0B2D0021FDC1 /* SearchViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SearchViewController.m; path = iOS/SearchViewController.m; sourceTree = SOURCE_ROOT; };
+		FDBD1EAA14EF0B2D0021FDC1 /* SearchViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = SearchViewController.xib; path = iOS/SearchViewController.xib; sourceTree = SOURCE_ROOT; };
+		FDBD1EB214EF0B5E0021FDC1 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		FDBD1EB514EF0C2B0021FDC1 /* LICENCE.TXT */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENCE.TXT; sourceTree = SOURCE_ROOT; };
+		FDBD1EB614EF0C2B0021FDC1 /* README.markdown */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.markdown; sourceTree = SOURCE_ROOT; };
+		FDBD1EFF14EF0CD70021FDC1 /* MacOSX */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = MacOSX; sourceTree = BUILT_PRODUCTS_DIR; };
+		FDBD1F0614EF0CD70021FDC1 /* MacOSX-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MacOSX-Prefix.pch"; sourceTree = "<group>"; };
+		FDBD1F0714EF0CD70021FDC1 /* MacOSX.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = MacOSX.1; sourceTree = "<group>"; };
+		FDBD1F0C14EF0D690021FDC1 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		FDBD1F3E14EF0DAB0021FDC1 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = SDKs/MacOSX10.7.sdk/System/Library/Frameworks/CoreData.framework; sourceTree = DEVELOPER_DIR; };
+		FDF6E8E414EF0F7D009DF198 /* DocDetails.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DocDetails.h; sourceTree = "<group>"; };
+		FDF6E8E514EF0F7D009DF198 /* DocDetails.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DocDetails.m; sourceTree = "<group>"; };
+		FDF6E8E614EF0F7D009DF198 /* DocTree.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DocTree.h; sourceTree = "<group>"; };
+		FDF6E8E714EF0F7D009DF198 /* DocTree.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DocTree.m; sourceTree = "<group>"; };
+		FDF6E8E814EF0F7D009DF198 /* Extractor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Extractor.h; sourceTree = "<group>"; };
+		FDF6E8E914EF0F7D009DF198 /* Extractor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Extractor.m; sourceTree = "<group>"; };
+		FDF6E8EA14EF0F7D009DF198 /* Index.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Index.h; sourceTree = "<group>"; };
+		FDF6E8EB14EF0F7D009DF198 /* Index.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Index.m; sourceTree = "<group>"; };
+		FDF6E8EC14EF0F7D009DF198 /* IndexPlaceholder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IndexPlaceholder.h; sourceTree = "<group>"; };
+		FDF6E8ED14EF0F7D009DF198 /* IndexPlaceholder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IndexPlaceholder.m; sourceTree = "<group>"; };
+		FDF6E8EE14EF0F7D009DF198 /* Posting.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Posting.h; sourceTree = "<group>"; };
+		FDF6E8EF14EF0F7D009DF198 /* Posting.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Posting.m; sourceTree = "<group>"; };
+		FDF6E8F014EF0F7D009DF198 /* PostingPlaceholder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostingPlaceholder.h; sourceTree = "<group>"; };
+		FDF6E8F114EF0F7D009DF198 /* PostingPlaceholder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostingPlaceholder.m; sourceTree = "<group>"; };
+		FDF6E8F214EF0F7D009DF198 /* Search.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Search.h; sourceTree = "<group>"; };
+		FDF6E8F314EF0F7D009DF198 /* Search.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Search.m; sourceTree = "<group>"; };
+		FDF6E8F414EF0F7D009DF198 /* SearchDefs.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SearchDefs.h; sourceTree = "<group>"; };
+		FDF6E8F514EF0F7D009DF198 /* SearchResult.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SearchResult.h; sourceTree = "<group>"; };
+		FDF6E8F614EF0F7D009DF198 /* SearchResult.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SearchResult.m; sourceTree = "<group>"; };
+		FDF6E8F714EF0F7D009DF198 /* Singleton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Singleton.h; sourceTree = "<group>"; };
+		FDF6E8FA14EF0F7D009DF198 /* CFTreeIndex.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CFTreeIndex.h; sourceTree = "<group>"; };
+		FDF6E8FB14EF0F7D009DF198 /* CFTreeIndex.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CFTreeIndex.m; sourceTree = "<group>"; };
+		FDF6E8FC14EF0F7D009DF198 /* CFTreeTree.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CFTreeTree.h; sourceTree = "<group>"; };
+		FDF6E8FD14EF0F7D009DF198 /* CFTreeTree.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CFTreeTree.m; sourceTree = "<group>"; };
+		FDF6E8FE14EF0F7D009DF198 /* PostingCF.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostingCF.h; sourceTree = "<group>"; };
+		FDF6E8FF14EF0F7D009DF198 /* PostingCF.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostingCF.m; sourceTree = "<group>"; };
+		FDF6E90114EF0F7D009DF198 /* CDDocDetails.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CDDocDetails.h; sourceTree = "<group>"; };
+		FDF6E90214EF0F7D009DF198 /* CDDocDetails.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CDDocDetails.m; sourceTree = "<group>"; };
+		FDF6E90314EF0F7D009DF198 /* CDIndex.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CDIndex.h; sourceTree = "<group>"; };
+		FDF6E90414EF0F7D009DF198 /* CDIndex.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CDIndex.m; sourceTree = "<group>"; };
+		FDF6E90514EF0F7D009DF198 /* CDIndexForWord.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CDIndexForWord.h; sourceTree = "<group>"; };
+		FDF6E90614EF0F7D009DF198 /* CDIndexForWord.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CDIndexForWord.m; sourceTree = "<group>"; };
+		FDF6E90714EF0F7D009DF198 /* CDManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CDManager.h; sourceTree = "<group>"; };
+		FDF6E90814EF0F7D009DF198 /* CDManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CDManager.m; sourceTree = "<group>"; };
+		FDF6E90914EF0F7D009DF198 /* CDPosting.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CDPosting.h; sourceTree = "<group>"; };
+		FDF6E90A14EF0F7D009DF198 /* CDPosting.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CDPosting.m; sourceTree = "<group>"; };
+		FDF6E90B14EF0F7D009DF198 /* CDTree.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CDTree.h; sourceTree = "<group>"; };
+		FDF6E90C14EF0F7D009DF198 /* CDTree.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CDTree.m; sourceTree = "<group>"; };
+		FDF6E90E14EF0F7D009DF198 /* CDTree.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CDTree.xcdatamodel; sourceTree = "<group>"; };
+		FDF6E90F14EF0F7D009DF198 /* IndexCDW.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IndexCDW.h; sourceTree = "<group>"; };
+		FDF6E91014EF0F7D009DF198 /* IndexCDW.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IndexCDW.m; sourceTree = "<group>"; };
+		FDF6E91114EF0F7D009DF198 /* PostingCDW.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostingCDW.h; sourceTree = "<group>"; };
+		FDF6E91214EF0F7D009DF198 /* PostingCDW.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostingCDW.m; sourceTree = "<group>"; };
+		FDF6E91314EF0F7D009DF198 /* Stream.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Stream.h; sourceTree = "<group>"; };
+		FDF6E91414EF0F7D009DF198 /* Stream.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Stream.m; sourceTree = "<group>"; };
+		FDF6E91514EF0F7D009DF198 /* Tree.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Tree.h; sourceTree = "<group>"; };
+		FDF6E91614EF0F7D009DF198 /* Util.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Util.h; sourceTree = "<group>"; };
+		FDF6E91714EF0F7D009DF198 /* Util.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Util.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		FDAB67B114EF0FF000754C83 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FDAB67B214EF0FF000754C83 /* CoreData.framework in Frameworks */,
+				FDAB67B314EF0FF000754C83 /* UIKit.framework in Frameworks */,
+				FDAB67B414EF0FF000754C83 /* Foundation.framework in Frameworks */,
+				FDAB67B514EF0FF000754C83 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FDBD1E0114EF0A2A0021FDC1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FDBD1EB414EF0B690021FDC1 /* CoreData.framework in Frameworks */,
+				FDBD1E0914EF0A2A0021FDC1 /* UIKit.framework in Frameworks */,
+				FDBD1E0B14EF0A2A0021FDC1 /* Foundation.framework in Frameworks */,
+				FDBD1E0D14EF0A2A0021FDC1 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FDBD1EFC14EF0CD70021FDC1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FDBD1F0114EF0CD70021FDC1 /* Foundation.framework in Frameworks */,
+				FDBD1F3F14EF0DAB0021FDC1 /* CoreData.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		FDBD1DF914EF0A2A0021FDC1 = {
+			isa = PBXGroup;
+			children = (
+				FDBD1E0E14EF0A2A0021FDC1 /* SearchTouch */,
+				FDBD1E0714EF0A2A0021FDC1 /* Frameworks */,
+				FDBD1E0514EF0A2A0021FDC1 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		FDBD1E0514EF0A2A0021FDC1 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FDBD1E0414EF0A2A0021FDC1 /* SearchTouch Core Data.app */,
+				FDBD1EFF14EF0CD70021FDC1 /* MacOSX */,
+				FDAB67BE14EF0FF000754C83 /* SearchTouch copy.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FDBD1E0714EF0A2A0021FDC1 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				FDBD1F3E14EF0DAB0021FDC1 /* CoreData.framework */,
+				FDBD1EB214EF0B5E0021FDC1 /* CoreData.framework */,
+				FDBD1E0814EF0A2A0021FDC1 /* UIKit.framework */,
+				FDBD1E0A14EF0A2A0021FDC1 /* Foundation.framework */,
+				FDBD1E0C14EF0A2A0021FDC1 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		FDBD1E0E14EF0A2A0021FDC1 /* SearchTouch */ = {
+			isa = PBXGroup;
+			children = (
+				FDF6E8E314EF0F7D009DF198 /* src */,
+				FDBD1EB514EF0C2B0021FDC1 /* LICENCE.TXT */,
+				FDBD1EB614EF0C2B0021FDC1 /* README.markdown */,
+				FDBD1F0214EF0CD70021FDC1 /* MacOSX */,
+				FDBD1E5E14EF0A550021FDC1 /* iOS */,
+				FDBD1E0F14EF0A2A0021FDC1 /* Supporting Files */,
+			);
+			path = SearchTouch;
+			sourceTree = "<group>";
+		};
+		FDBD1E0F14EF0A2A0021FDC1 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				FDBD1E1014EF0A2A0021FDC1 /* SearchTouch-Info.plist */,
+				FDBD1E1614EF0A2A0021FDC1 /* SearchTouch-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		FDBD1E5E14EF0A550021FDC1 /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				FDBD1EA114EF0B2D0021FDC1 /* main.m */,
+				FDBD1EA214EF0B2D0021FDC1 /* MainWindow.xib */,
+				FDBD1EA314EF0B2D0021FDC1 /* SearchAppDelegate.h */,
+				FDBD1EA414EF0B2D0021FDC1 /* SearchAppDelegate.m */,
+				FDBD1EA514EF0B2D0021FDC1 /* SearchTouch No Core Data-Info.plist */,
+				FDBD1EA614EF0B2D0021FDC1 /* SearchTouch-Info.plist */,
+				FDBD1EA714EF0B2D0021FDC1 /* SearchTouch-Prefix.pch */,
+				FDBD1EA814EF0B2D0021FDC1 /* SearchViewController.h */,
+				FDBD1EA914EF0B2D0021FDC1 /* SearchViewController.m */,
+				FDBD1EAA14EF0B2D0021FDC1 /* SearchViewController.xib */,
+			);
+			path = iOS;
+			sourceTree = "<group>";
+		};
+		FDBD1F0214EF0CD70021FDC1 /* MacOSX */ = {
+			isa = PBXGroup;
+			children = (
+				FDBD1F0C14EF0D690021FDC1 /* main.m */,
+				FDBD1F0714EF0CD70021FDC1 /* MacOSX.1 */,
+				FDBD1F0514EF0CD70021FDC1 /* Supporting Files */,
+			);
+			name = MacOSX;
+			path = ../MacOSX;
+			sourceTree = "<group>";
+		};
+		FDBD1F0514EF0CD70021FDC1 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				FDBD1F0614EF0CD70021FDC1 /* MacOSX-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		FDF6E8E314EF0F7D009DF198 /* src */ = {
+			isa = PBXGroup;
+			children = (
+				FDF6E8F814EF0F7D009DF198 /* Storage */,
+				FDF6E8E414EF0F7D009DF198 /* DocDetails.h */,
+				FDF6E8E514EF0F7D009DF198 /* DocDetails.m */,
+				FDF6E8E614EF0F7D009DF198 /* DocTree.h */,
+				FDF6E8E714EF0F7D009DF198 /* DocTree.m */,
+				FDF6E8E814EF0F7D009DF198 /* Extractor.h */,
+				FDF6E8E914EF0F7D009DF198 /* Extractor.m */,
+				FDF6E8EA14EF0F7D009DF198 /* Index.h */,
+				FDF6E8EB14EF0F7D009DF198 /* Index.m */,
+				FDF6E8EC14EF0F7D009DF198 /* IndexPlaceholder.h */,
+				FDF6E8ED14EF0F7D009DF198 /* IndexPlaceholder.m */,
+				FDF6E8EE14EF0F7D009DF198 /* Posting.h */,
+				FDF6E8EF14EF0F7D009DF198 /* Posting.m */,
+				FDF6E8F014EF0F7D009DF198 /* PostingPlaceholder.h */,
+				FDF6E8F114EF0F7D009DF198 /* PostingPlaceholder.m */,
+				FDF6E8F214EF0F7D009DF198 /* Search.h */,
+				FDF6E8F314EF0F7D009DF198 /* Search.m */,
+				FDF6E8F414EF0F7D009DF198 /* SearchDefs.h */,
+				FDF6E8F514EF0F7D009DF198 /* SearchResult.h */,
+				FDF6E8F614EF0F7D009DF198 /* SearchResult.m */,
+				FDF6E8F714EF0F7D009DF198 /* Singleton.h */,
+				FDF6E91314EF0F7D009DF198 /* Stream.h */,
+				FDF6E91414EF0F7D009DF198 /* Stream.m */,
+				FDF6E91514EF0F7D009DF198 /* Tree.h */,
+				FDF6E91614EF0F7D009DF198 /* Util.h */,
+				FDF6E91714EF0F7D009DF198 /* Util.m */,
+			);
+			path = src;
+			sourceTree = SOURCE_ROOT;
+		};
+		FDF6E8F814EF0F7D009DF198 /* Storage */ = {
+			isa = PBXGroup;
+			children = (
+				FDF6E8F914EF0F7D009DF198 /* CFTree */,
+				FDF6E90014EF0F7D009DF198 /* CoreData */,
+			);
+			path = Storage;
+			sourceTree = "<group>";
+		};
+		FDF6E8F914EF0F7D009DF198 /* CFTree */ = {
+			isa = PBXGroup;
+			children = (
+				FDF6E8FA14EF0F7D009DF198 /* CFTreeIndex.h */,
+				FDF6E8FB14EF0F7D009DF198 /* CFTreeIndex.m */,
+				FDF6E8FC14EF0F7D009DF198 /* CFTreeTree.h */,
+				FDF6E8FD14EF0F7D009DF198 /* CFTreeTree.m */,
+				FDF6E8FE14EF0F7D009DF198 /* PostingCF.h */,
+				FDF6E8FF14EF0F7D009DF198 /* PostingCF.m */,
+			);
+			path = CFTree;
+			sourceTree = "<group>";
+		};
+		FDF6E90014EF0F7D009DF198 /* CoreData */ = {
+			isa = PBXGroup;
+			children = (
+				FDF6E90114EF0F7D009DF198 /* CDDocDetails.h */,
+				FDF6E90214EF0F7D009DF198 /* CDDocDetails.m */,
+				FDF6E90314EF0F7D009DF198 /* CDIndex.h */,
+				FDF6E90414EF0F7D009DF198 /* CDIndex.m */,
+				FDF6E90514EF0F7D009DF198 /* CDIndexForWord.h */,
+				FDF6E90614EF0F7D009DF198 /* CDIndexForWord.m */,
+				FDF6E90714EF0F7D009DF198 /* CDManager.h */,
+				FDF6E90814EF0F7D009DF198 /* CDManager.m */,
+				FDF6E90914EF0F7D009DF198 /* CDPosting.h */,
+				FDF6E90A14EF0F7D009DF198 /* CDPosting.m */,
+				FDF6E90B14EF0F7D009DF198 /* CDTree.h */,
+				FDF6E90C14EF0F7D009DF198 /* CDTree.m */,
+				FDF6E90D14EF0F7D009DF198 /* CDTree.xcdatamodeld */,
+				FDF6E90F14EF0F7D009DF198 /* IndexCDW.h */,
+				FDF6E91014EF0F7D009DF198 /* IndexCDW.m */,
+				FDF6E91114EF0F7D009DF198 /* PostingCDW.h */,
+				FDF6E91214EF0F7D009DF198 /* PostingCDW.m */,
+			);
+			path = CoreData;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		FDAB679514EF0FF000754C83 /* SearchTouch No Core Data */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FDAB67BB14EF0FF000754C83 /* Build configuration list for PBXNativeTarget "SearchTouch No Core Data" */;
+			buildPhases = (
+				FDAB679614EF0FF000754C83 /* Sources */,
+				FDAB67B114EF0FF000754C83 /* Frameworks */,
+				FDAB67B614EF0FF000754C83 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "SearchTouch No Core Data";
+			productName = SearchTouch;
+			productReference = FDAB67BE14EF0FF000754C83 /* SearchTouch copy.app */;
+			productType = "com.apple.product-type.application";
+		};
+		FDBD1E0314EF0A2A0021FDC1 /* SearchTouch Core Data */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FDBD1E2214EF0A2A0021FDC1 /* Build configuration list for PBXNativeTarget "SearchTouch Core Data" */;
+			buildPhases = (
+				FDBD1E0014EF0A2A0021FDC1 /* Sources */,
+				FDBD1E0114EF0A2A0021FDC1 /* Frameworks */,
+				FDBD1E0214EF0A2A0021FDC1 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "SearchTouch Core Data";
+			productName = SearchTouch;
+			productReference = FDBD1E0414EF0A2A0021FDC1 /* SearchTouch Core Data.app */;
+			productType = "com.apple.product-type.application";
+		};
+		FDBD1EFE14EF0CD70021FDC1 /* MacOSX */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FDBD1F0914EF0CD70021FDC1 /* Build configuration list for PBXNativeTarget "MacOSX" */;
+			buildPhases = (
+				FDBD1EFB14EF0CD70021FDC1 /* Sources */,
+				FDBD1EFC14EF0CD70021FDC1 /* Frameworks */,
+				FDBD1EFD14EF0CD70021FDC1 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MacOSX;
+			productName = MacOSX;
+			productReference = FDBD1EFF14EF0CD70021FDC1 /* MacOSX */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		FDBD1DFB14EF0A2A0021FDC1 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+				ORGANIZATIONNAME = "Julian Richardson";
+			};
+			buildConfigurationList = FDBD1DFE14EF0A2A0021FDC1 /* Build configuration list for PBXProject "SearchTouch" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = FDBD1DF914EF0A2A0021FDC1;
+			productRefGroup = FDBD1E0514EF0A2A0021FDC1 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				FDBD1E0314EF0A2A0021FDC1 /* SearchTouch Core Data */,
+				FDBD1EFE14EF0CD70021FDC1 /* MacOSX */,
+				FDAB679514EF0FF000754C83 /* SearchTouch No Core Data */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		FDAB67B614EF0FF000754C83 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FDAB67B714EF0FF000754C83 /* MainWindow.xib in Resources */,
+				FDAB67B814EF0FF000754C83 /* SearchViewController.xib in Resources */,
+				FDAB67B914EF0FF000754C83 /* LICENCE.TXT in Resources */,
+				FDAB67BA14EF0FF000754C83 /* README.markdown in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FDBD1E0214EF0A2A0021FDC1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FDBD1EAC14EF0B2D0021FDC1 /* MainWindow.xib in Resources */,
+				FDBD1EB114EF0B2D0021FDC1 /* SearchViewController.xib in Resources */,
+				FDBD1EB714EF0C2B0021FDC1 /* LICENCE.TXT in Resources */,
+				FDBD1EB814EF0C2B0021FDC1 /* README.markdown in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		FDAB679614EF0FF000754C83 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FDAB679714EF0FF000754C83 /* main.m in Sources */,
+				FDAB679814EF0FF000754C83 /* SearchAppDelegate.m in Sources */,
+				FDAB679914EF0FF000754C83 /* SearchViewController.m in Sources */,
+				FDAB679A14EF0FF000754C83 /* DocDetails.m in Sources */,
+				FDAB679B14EF0FF000754C83 /* DocTree.m in Sources */,
+				FDAB679C14EF0FF000754C83 /* Extractor.m in Sources */,
+				FDAB679D14EF0FF000754C83 /* Index.m in Sources */,
+				FDAB679E14EF0FF000754C83 /* IndexPlaceholder.m in Sources */,
+				FDAB679F14EF0FF000754C83 /* Posting.m in Sources */,
+				FDAB67A014EF0FF000754C83 /* PostingPlaceholder.m in Sources */,
+				FDAB67A114EF0FF000754C83 /* Search.m in Sources */,
+				FDAB67A214EF0FF000754C83 /* SearchResult.m in Sources */,
+				FDAB67A314EF0FF000754C83 /* CFTreeIndex.m in Sources */,
+				FDAB67A414EF0FF000754C83 /* CFTreeTree.m in Sources */,
+				FDAB67A514EF0FF000754C83 /* PostingCF.m in Sources */,
+				FDAB67A614EF0FF000754C83 /* CDDocDetails.m in Sources */,
+				FDAB67A714EF0FF000754C83 /* CDIndex.m in Sources */,
+				FDAB67A814EF0FF000754C83 /* CDIndexForWord.m in Sources */,
+				FDAB67A914EF0FF000754C83 /* CDManager.m in Sources */,
+				FDAB67AA14EF0FF000754C83 /* CDPosting.m in Sources */,
+				FDAB67AB14EF0FF000754C83 /* CDTree.m in Sources */,
+				FDAB67AC14EF0FF000754C83 /* CDTree.xcdatamodeld in Sources */,
+				FDAB67AD14EF0FF000754C83 /* IndexCDW.m in Sources */,
+				FDAB67AE14EF0FF000754C83 /* PostingCDW.m in Sources */,
+				FDAB67AF14EF0FF000754C83 /* Stream.m in Sources */,
+				FDAB67B014EF0FF000754C83 /* Util.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FDBD1E0014EF0A2A0021FDC1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FDBD1EAB14EF0B2D0021FDC1 /* main.m in Sources */,
+				FDBD1EAD14EF0B2D0021FDC1 /* SearchAppDelegate.m in Sources */,
+				FDBD1EB014EF0B2D0021FDC1 /* SearchViewController.m in Sources */,
+				FDF6E91814EF0F7D009DF198 /* DocDetails.m in Sources */,
+				FDF6E91A14EF0F7D009DF198 /* DocTree.m in Sources */,
+				FDF6E91C14EF0F7D009DF198 /* Extractor.m in Sources */,
+				FDF6E91E14EF0F7D009DF198 /* Index.m in Sources */,
+				FDF6E92014EF0F7D009DF198 /* IndexPlaceholder.m in Sources */,
+				FDF6E92214EF0F7D009DF198 /* Posting.m in Sources */,
+				FDF6E92414EF0F7D009DF198 /* PostingPlaceholder.m in Sources */,
+				FDF6E92614EF0F7D009DF198 /* Search.m in Sources */,
+				FDF6E92814EF0F7D009DF198 /* SearchResult.m in Sources */,
+				FDF6E92A14EF0F7D009DF198 /* CFTreeIndex.m in Sources */,
+				FDF6E92C14EF0F7D009DF198 /* CFTreeTree.m in Sources */,
+				FDF6E92E14EF0F7D009DF198 /* PostingCF.m in Sources */,
+				FDF6E93014EF0F7D009DF198 /* CDDocDetails.m in Sources */,
+				FDF6E93214EF0F7D009DF198 /* CDIndex.m in Sources */,
+				FDF6E93414EF0F7D009DF198 /* CDIndexForWord.m in Sources */,
+				FDF6E93614EF0F7D009DF198 /* CDManager.m in Sources */,
+				FDF6E93814EF0F7D009DF198 /* CDPosting.m in Sources */,
+				FDF6E93A14EF0F7D009DF198 /* CDTree.m in Sources */,
+				FDF6E93C14EF0F7D009DF198 /* CDTree.xcdatamodeld in Sources */,
+				FDF6E93E14EF0F7D009DF198 /* IndexCDW.m in Sources */,
+				FDF6E94014EF0F7D009DF198 /* PostingCDW.m in Sources */,
+				FDF6E94214EF0F7D009DF198 /* Stream.m in Sources */,
+				FDF6E94414EF0F7D009DF198 /* Util.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FDBD1EFB14EF0CD70021FDC1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FDBD1F0D14EF0D690021FDC1 /* main.m in Sources */,
+				FDF6E91914EF0F7D009DF198 /* DocDetails.m in Sources */,
+				FDF6E91B14EF0F7D009DF198 /* DocTree.m in Sources */,
+				FDF6E91D14EF0F7D009DF198 /* Extractor.m in Sources */,
+				FDF6E91F14EF0F7D009DF198 /* Index.m in Sources */,
+				FDF6E92114EF0F7D009DF198 /* IndexPlaceholder.m in Sources */,
+				FDF6E92314EF0F7D009DF198 /* Posting.m in Sources */,
+				FDF6E92514EF0F7D009DF198 /* PostingPlaceholder.m in Sources */,
+				FDF6E92714EF0F7D009DF198 /* Search.m in Sources */,
+				FDF6E92914EF0F7D009DF198 /* SearchResult.m in Sources */,
+				FDF6E92B14EF0F7D009DF198 /* CFTreeIndex.m in Sources */,
+				FDF6E92D14EF0F7D009DF198 /* CFTreeTree.m in Sources */,
+				FDF6E92F14EF0F7D009DF198 /* PostingCF.m in Sources */,
+				FDF6E93114EF0F7D009DF198 /* CDDocDetails.m in Sources */,
+				FDF6E93314EF0F7D009DF198 /* CDIndex.m in Sources */,
+				FDF6E93514EF0F7D009DF198 /* CDIndexForWord.m in Sources */,
+				FDF6E93714EF0F7D009DF198 /* CDManager.m in Sources */,
+				FDF6E93914EF0F7D009DF198 /* CDPosting.m in Sources */,
+				FDF6E93B14EF0F7D009DF198 /* CDTree.m in Sources */,
+				FDF6E93D14EF0F7D009DF198 /* CDTree.xcdatamodeld in Sources */,
+				FDF6E93F14EF0F7D009DF198 /* IndexCDW.m in Sources */,
+				FDF6E94114EF0F7D009DF198 /* PostingCDW.m in Sources */,
+				FDF6E94314EF0F7D009DF198 /* Stream.m in Sources */,
+				FDF6E94514EF0F7D009DF198 /* Util.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		FDAB67BC14EF0FF000754C83 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SearchTouch/SearchTouch-Prefix.pch";
+				INFOPLIST_FILE = "iOS/SearchTouch-No-Core-Data-Info.plist";
+				PRODUCT_NAME = "SearchTouch copy";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		FDAB67BD14EF0FF000754C83 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SearchTouch/SearchTouch-Prefix.pch";
+				INFOPLIST_FILE = "iOS/SearchTouch-No-Core-Data-Info.plist";
+				PRODUCT_NAME = "SearchTouch copy";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		FDBD1E2014EF0A2A0021FDC1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		FDBD1E2114EF0A2A0021FDC1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		FDBD1E2314EF0A2A0021FDC1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SearchTouch/SearchTouch-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS_NOT_USED_IN_PRECOMPS = USE_CORE_DATA;
+				INFOPLIST_FILE = "iOS/SearchTouch-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		FDBD1E2414EF0A2A0021FDC1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SearchTouch/SearchTouch-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS_NOT_USED_IN_PRECOMPS = USE_CORE_DATA;
+				INFOPLIST_FILE = "iOS/SearchTouch-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		FDBD1F0A14EF0CD70021FDC1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MacOSX/MacOSX-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS_NOT_USED_IN_PRECOMPS = USE_CORE_DATA;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		FDBD1F0B14EF0CD70021FDC1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MacOSX/MacOSX-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS_NOT_USED_IN_PRECOMPS = USE_CORE_DATA;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		FDAB67BB14EF0FF000754C83 /* Build configuration list for PBXNativeTarget "SearchTouch No Core Data" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FDAB67BC14EF0FF000754C83 /* Debug */,
+				FDAB67BD14EF0FF000754C83 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FDBD1DFE14EF0A2A0021FDC1 /* Build configuration list for PBXProject "SearchTouch" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FDBD1E2014EF0A2A0021FDC1 /* Debug */,
+				FDBD1E2114EF0A2A0021FDC1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FDBD1E2214EF0A2A0021FDC1 /* Build configuration list for PBXNativeTarget "SearchTouch Core Data" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FDBD1E2314EF0A2A0021FDC1 /* Debug */,
+				FDBD1E2414EF0A2A0021FDC1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FDBD1F0914EF0CD70021FDC1 /* Build configuration list for PBXNativeTarget "MacOSX" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FDBD1F0A14EF0CD70021FDC1 /* Debug */,
+				FDBD1F0B14EF0CD70021FDC1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		FDF6E90D14EF0F7D009DF198 /* CDTree.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				FDF6E90E14EF0F7D009DF198 /* CDTree.xcdatamodel */,
+			);
+			currentVersion = FDF6E90E14EF0F7D009DF198 /* CDTree.xcdatamodel */;
+			path = CDTree.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = FDBD1DFB14EF0A2A0021FDC1 /* Project object */;
+}

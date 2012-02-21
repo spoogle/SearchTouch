@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model name="" userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="872" systemVersion="11D50b" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="CDDocDetails" representedClassName="CDDocDetails" syncable="YES">
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="pdocid" attributeType="Integer 32" defaultValueString="0" indexed="YES" syncable="YES"/>
+        <attribute name="plen" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="text" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="CDIndex" representedClassName="CDIndex" syncable="YES">
+        <attribute name="pavgdoclen" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="pndocs" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="sourcename" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="docdetails" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="CDDocDetails" syncable="YES"/>
+        <relationship name="indicesforwords" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="CDIndexForWord" syncable="YES"/>
+    </entity>
+    <entity name="CDIndexForWord" representedClassName="CDIndexForWord" syncable="YES">
+        <attribute name="pnumberOfOccurrencesInDocset" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="word" attributeType="String" indexed="YES" syncable="YES"/>
+        <relationship name="index" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="CDTree" syncable="YES"/>
+    </entity>
+    <entity name="CDPosting" representedClassName="CDPosting" syncable="YES">
+        <attribute name="pdocid" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="pnpostings" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="ppositions" optional="YES" attributeType="Binary" syncable="YES"/>
+    </entity>
+    <entity name="CDTree" representedClassName="CDTree" syncable="YES">
+        <attribute name="max" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="pivot" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <relationship name="l" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="CDTree" inverseName="p" inverseEntity="CDTree" syncable="YES"/>
+        <relationship name="p" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="CDTree" inverseName="r" inverseEntity="CDTree" syncable="YES"/>
+        <relationship name="ppostings" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="CDPosting" syncable="YES"/>
+        <relationship name="r" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="CDTree" inverseName="p" inverseEntity="CDTree" syncable="YES"/>
+        <relationship name="root" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="CDTree" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="CDDocDetails" positionX="160" positionY="192" width="128" height="105"/>
+        <element name="CDIndex" positionX="-243" positionY="-360" width="128" height="120"/>
+        <element name="CDIndexForWord" positionX="160" positionY="192" width="128" height="90"/>
+        <element name="CDPosting" positionX="160" positionY="192" width="128" height="90"/>
+        <element name="CDTree" positionX="-261" positionY="-423" width="128" height="150"/>
+    </elements>
+</model>
