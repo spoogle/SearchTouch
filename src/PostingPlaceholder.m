@@ -16,7 +16,7 @@ SYNTHESIZE_SINGLETON_FOR_CLASS(PostingPlaceholder)
 
 /*! Designated initializer */
 - (Posting *)initWithDocID:(DocID)_docid andContents:(NSArray *)contents {
-#ifdef USE_CORE_DATA
+#ifndef NO_CORE_DATA
     return [[PostingCDW alloc] initWithDocID:_docid andContents:contents];
 #else
     return [[PostingCF alloc] initWithDocID:_docid andContents:contents];

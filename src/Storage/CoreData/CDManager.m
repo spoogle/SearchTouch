@@ -3,9 +3,10 @@
 //  Search
 //
 //  Created by Julian Richardson on 1/31/12.
-//  Copyright (c) 2012 Julian Richardson. Licensed under MIT license. See LICENCE.TXT.
+//  Most of the code in this class is boilerplate belonging to Apple, which permits
+//  it to be distributed, modified and copied. See for example: 
+//  https://developer.apple.com/library/ios/#samplecode/iPhoneCoreDataRecipes/Listings/Classes_RecipesAppDelegate_m.html
 //
-
 #import "CDManager.h"
 #import "Singleton.h"
 

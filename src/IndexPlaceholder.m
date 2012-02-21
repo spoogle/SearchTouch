@@ -16,7 +16,7 @@ SYNTHESIZE_SINGLETON_FOR_CLASS(IndexPlaceholder)
 
 /*! Designated initializer */
 - (Index *)initWithFilenamesFromFile:(NSString *)_filename {
-#ifdef USE_CORE_DATA
+#ifndef NO_CORE_DATA
     return [[IndexCDW alloc] initWithFilenamesFromFile:_filename];
 #else
     return [[CFTreeIndex alloc] initWithFilenamesFromFile:_filename];
