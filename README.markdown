@@ -1,7 +1,8 @@
 # SearchTouch 
 
 This is a search engine written in Objective C which compiles and runs
-on Mac OSX or iOS.
+on Mac OS X or iOS. It is designed to allow searches to be efficiently
+carried out on a device. It is not a web search engine.
 
 ## License
 
@@ -131,9 +132,43 @@ directly without rebuilding it, e.g.
     Search *s = [[Search alloc] initWithQueryString:searchtermtext andIndex:index];
     NSArray *rankedResults = [s rankedResults];
 
+It is perfectly possible to build an index on the Mac and include the
+built index in an iOS project. Locate the built index in your Mac file
+system - it will probably be in *~/Documents/DataModel.sqlite*. Drag
+this into your project folder and make sure the boxes are checked for
+"Copy files into group's destination folder" and for adding to the
+appropriate build target.
+
 ## Stop Words
 
 The following are considered stop words and neither indexed nor searched for: 
 
     a, an, and, but, he, her, hers, him, his, how, i, it, its, of, or, she, the, their, them, there, these, they, to, who, why, where, when, what, which, you, your
 
+## Architecture
+
+The code builds an index for a document set consisting of an inverted
+index for each word in a document set. The index can be stored on the
+device, and can be efficiently searched to produce a ranked list of
+every document which contains all of any given set of search terms. 
+
+There is a strict separation between the search and indexing code, and
+the data structures used to store indexes. This separation is mainly
+achieved by defining the Index class as a class cluster, although a
+prototcol is also used. 
+
+## Limitations
+
+As this is a the first public version of the code, there are some loose
+ends. Additional interfaces should be added soon to tailor the list of
+stop words and provide document text in a more flexible format than
+simply a list of filenames.
+
+There is no currently caption/snippet generation.
+
+Documents must be purely text, without markup. There is no detection or
+special indexing of titles or other document structures. 
+
+More attention can be paid to achieving compact indexes.
+
+There is little documentation, apart from this README file.
