@@ -1,0 +1,548 @@
+2172
+
+
+Field Listing :: Distribution of family income - Gini index
+
+  This index measures the degree of inequality in the distribution of
+  family income in a country. The index is calculated from the Lorenz
+  curve, in which cumulative family income is plotted against the
+  number of families arranged from the poorest to the richest. The
+  index is the ratio of (a) the area between a country's Lorenz curve
+  and the 45 degree helping line to (b) the entire triangular area
+  under the 45 degree line. The more nearly equal a country's income
+  distribution, the closer its Lorenz curve to the 45 degree line and
+  the lower its Gini index, e.g., a Scandinavian country with an index
+  of 25. The more unequal a country's income distribution, the farther
+  its Lorenz curve from the 45 degree line and the higher its Gini
+  index, e.g., a Sub-Saharan country with an index of 50. If income
+  were distributed with perfect equality, the Lorenz curve would
+  coincide with the 45 degree line and the index would be zero; if
+  income were distributed with perfect inequality, the Lorenz curve
+  would coincide with the horizontal axis and the right vertical axis
+  and the index would be 100.
+  Country Comparison to the World
+  Country
+
+
+  Distribution of family income - Gini index
+
+Albania
+  26.7 (2005)
+
+Algeria
+  35.3 (1995)
+
+Argentina
+  45.7 (2009)
+
+Armenia
+  37 (2006)
+  44.4 (1996)
+
+Australia
+  30.5 (2006)
+  35.2 (1994)
+
+Austria
+  26 (2007)
+  31 (1995)
+
+Azerbaijan
+  36.5 (2001)
+  36 (1995)
+
+Bangladesh
+  33.2 (2005)
+  33.6 (1996)
+
+Belarus
+  27.9 (2005)
+  21.7 (1998)
+
+Belgium
+  28 (2005)
+  28.7 (1996)
+
+Benin
+  36.5 (2003)
+
+Bolivia
+  58.2 (2009)
+  44.7 (1999)
+
+Bosnia and Herzegovina
+  56.2 (2007)
+
+Botswana
+  63 (1993)
+
+Brazil
+  56.7 (2005)
+  60.7 (1998)
+
+Bulgaria
+  29.8 (2008)
+  26.4 (2001)
+
+Burkina Faso
+  39.5 (2007)
+  48.2 (1994)
+
+Burundi
+  42.4 (1998)
+
+Cambodia
+  43 (2007 est.)
+  40 (2004 est.)
+
+Cameroon
+  44.6 (2001)
+  47.7 (1996)
+
+Canada
+  32.1 (2005)
+  31.5 (1994)
+
+Central African Republic
+  61.3 (1993)
+
+Chile
+  54.9 (2003)
+  57.1 (2000)
+
+China
+  41.5 (2007)
+  40 (2001)
+
+Colombia
+  58.5 (2009)
+  53.8 (1996)
+
+Costa Rica
+  48 (2008)
+  45.9 (1997)
+
+Cote d'Ivoire
+  44.6 (2002)
+  36.7 (1995)
+
+Croatia
+  29 (2008)
+  29 (1998)
+
+Cyprus
+  29 (2005)
+
+Czech Republic
+  26 (2005)
+  25.4 (1996)
+
+Denmark
+  29 (2007)
+  24.7 (1992)
+
+Dominican Republic
+  49.9 (2005)
+  47.4 (1998)
+
+Ecuador
+  47.9 (2009)
+  50.5 (2006)
+  note: data are for urban households
+
+Egypt
+  34.4 (2001)
+
+El Salvador
+  52.4 (2002)
+  52.5 (2001)
+
+Estonia
+  34 (2008)
+  37 (1999)
+
+Ethiopia
+  30 (2000)
+  40 (1995)
+
+European Union
+  31 (2005 est.)
+  31.2 (1996 est.)
+
+Finland
+  29.5 (2007)
+  25.6 (1991)
+
+France
+  32.7 (2008)
+  32.7 (1995)
+
+Gambia, The
+  50.2 (1998)
+
+Georgia
+  40.8 (2009)
+  37.1 (1996)
+
+Germany
+  27 (2006)
+  30 (1994)
+
+Ghana
+  39.4 (2005-06)
+  40.7 (1999)
+
+Greece
+  33 (2005)
+  35.4 (1998)
+
+Guatemala
+  55.1 (2007)
+  55.8 (1998)
+
+Guinea
+  38.1 (2006)
+  40.3 (1994)
+
+Guyana
+  43.2 (1999)
+
+Haiti
+  59.2 (2001)
+
+Honduras
+  53.8 (2003)
+  56.3 (1998)
+
+Hong Kong
+  53.3 (2007)
+
+Hungary
+  28 (2005)
+  24.4 (1998)
+
+Iceland
+  28 (2006)
+  25 (2005)
+
+India
+  36.8 (2004)
+  37.8 (1997)
+
+Indonesia
+  39.4 (2005)
+  37 (2001)
+
+Iran
+  44.5 (2006)
+
+Ireland
+  30.7 (2008)
+  35.9 (1987)
+
+Israel
+  39.2 (2008)
+  35.5 (2001)
+
+Italy
+  32 (2006)
+  27.3 (1995)
+
+Jamaica
+  45.5 (2004)
+  37.9 (2000)
+
+Japan
+  38.1 (2002)
+  24.9 (1993)
+
+Jordan
+  39.7 (2007)
+  36.4 (1997)
+
+Kazakhstan
+  28.8 (2008)
+  31.5 (2003)
+
+Kenya
+  42.5 (2008 est.)
+  44.9 (1997)
+
+Korea, South
+  31.4 (2009)
+  35.8 (2000)
+
+Kosovo
+  30 (FY05/06)
+
+Kyrgyzstan
+  30.3 (2003)
+  29 (2001)
+
+Laos
+  34.6 (2002)
+  37 (1997)
+
+Latvia
+  36 (2005)
+  32 (1999)
+
+Lesotho
+  63.2 (1995)
+  56 (1986-87)
+
+Lithuania
+  36 (2005)
+  34 (1999)
+
+Luxembourg
+  26 (2005)
+
+Macedonia
+  39 (2003)
+
+Madagascar
+  47.5 (2001)
+  38.1 (1999)
+
+Malawi
+  39 (2004)
+
+Malaysia
+  46.1 (2002)
+  49.2 (1997)
+
+Mali
+  40.1 (2001)
+  50.5 (1994)
+
+Malta
+  26 (2007)
+
+Mauritania
+  39 (2000)
+  37.3 (1995)
+
+Mauritius
+  39 (2006 est.)
+  37 (1987 est.)
+
+Mexico
+  48.2 (2008)
+  53.1 (1998)
+
+Moldova
+  33.2 (2003)
+  40.6 (1997)
+
+Mongolia
+  32.8 (2002)
+  44 (1998)
+
+Montenegro
+  30 (2003)
+
+Morocco
+  40.9 (2005 est.)
+  39.5 (1999 est.)
+
+Mozambique
+  47.3 (2002)
+  39.6 (1997)
+
+Namibia
+  70.7 (2003)
+
+Nepal
+  47.2 (2008)
+  36.7 (1996)
+
+Netherlands
+  30.9 (2007)
+  32.6 (1994)
+
+New Zealand
+  36.2 (1997)
+
+Nicaragua
+  43.1 (2001)
+  60.3 (1998)
+
+Niger
+  50.5 (1995)
+
+Nigeria
+  43.7 (2003)
+  50.6 (1997)
+
+Norway
+  25 (2008)
+  25.8 (1995)
+
+Pakistan
+  30.6 (FY07/08)
+  41 (FY98/99)
+
+Panama
+  56.1 (2003)
+  48.5 (1997)
+
+Papua New Guinea
+  50.9 (1996)
+
+Paraguay
+  53.2 (2009)
+  57.7 (1998)
+
+Peru
+  49.6 (2009)
+  46.2 (1996)
+
+Philippines
+  45.8 (2006)
+  46.6 (2003)
+
+Poland
+  34.9 (2005)
+  31.6 (1998)
+
+Portugal
+  38.5 (2007)
+  35.6 (1995)
+
+Romania
+  32 (2008)
+  28.8 (2003)
+
+Russia
+  42.2 (2009)
+  39.9 (2001)
+
+Rwanda
+  46.8 (2000)
+  28.9 (1985)
+
+Senegal
+  41.3 (2001)
+  41.3 (1995)
+
+Serbia
+  26 (2008)
+  30 (2003)
+
+Sierra Leone
+  62.9 (1989)
+
+Singapore
+  48.1 (2008)
+
+Slovakia
+  26 (2005)
+  26.3 (1996)
+
+Slovenia
+  28.4 (2008)
+  23.8 (2004)
+
+South Africa
+  65 (2005)
+  59.3 (1994)
+
+Spain
+  32 (2005)
+  32.5 (1990)
+
+Sri Lanka
+  49 (2007)
+  46 (1995)
+
+Swaziland
+  50.4 (2001)
+
+Sweden
+  23 (2005)
+  25 (1992)
+
+Switzerland
+  33.7 (2008)
+  33.1 (1992)
+
+Tajikistan
+  32.6 (2006)
+  34.7 (1998)
+
+Tanzania
+  34.6 (2000)
+  38.2 (1993)
+
+Thailand
+  43 (2006)
+  42 (2002)
+
+Timor-Leste
+  38 (2002 est.)
+
+Tunisia
+  40 (2005 est.)
+  41.7 (1995 est.)
+
+Turkey
+  41 (2007)
+  43.6 (2003)
+
+Turkmenistan
+  40.8 (1998)
+
+Uganda
+  45.7 (2002)
+  37.4 (1996)
+
+Ukraine
+  31 (2006)
+  29 (1999)
+
+United Kingdom
+  34 (2005)
+  36.8 (1999)
+
+United States
+  45 (2007)
+  40.8 (1997)
+
+Uruguay
+  45.2 (2006)
+  44.8 (1999)
+
+Uzbekistan
+  36.8 (2003)
+  44.7 (1998)
+
+Venezuela
+  41 (2009)
+  49.5 (1998)
+
+Vietnam
+  37 (2004)
+  36.1 (1998)
+
+Yemen
+  37.7 (2005)
+  33.4 (1998)
+
+Zambia
+  50.8 (2004)
+  52.6 (1998)
+
+Zimbabwe
+  50.1 (2006)
+  50.1 (1995)
+
+
+
+
+======================================================================
+
+
+
+
+

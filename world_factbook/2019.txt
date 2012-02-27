@@ -1,0 +1,333 @@
+2019
+
+
+Field Listing :: Heliports
+
+  This entry gives the total number of heliports with hard-surface
+  runways, helipads, or landing areas that support routine sustained
+  helicopter operations exclusively and have support facilities
+  including one or more of the following facilities: lighting, fuel,
+  passenger handling, or maintenance. It includes former airports used
+  exclusively for helicopter operations but excludes heliports limited
+  to day operations and natural clearings that could support
+  helicopter landings and takeoffs.
+  Country
+
+
+  Heliports
+
+Afghanistan
+  11 (2010)
+
+Albania
+  1 (2010)
+
+Algeria
+  2 (2010)
+
+Antarctica
+  53
+  note: all year-round and seasonal stations operated by National
+  Antarctic Programs stations have some kind of helicopter landing
+  facilities, prepared (helipads) or unprepared (2010)
+
+Argentina
+  2 (2010)
+
+Australia
+  1 (2010)
+
+Austria
+  1 (2010)
+
+Azerbaijan
+  1 (2010)
+
+Bahamas, The
+  1 (2010)
+
+Bahrain
+  1 (2010)
+
+Belarus
+  1 (2010)
+
+Belgium
+  1 (2010)
+
+Bosnia and Herzegovina
+  5 (2010)
+
+Brazil
+  13 (2010)
+
+Brunei
+  3 (2010)
+
+Bulgaria
+  3 (2010)
+
+Burma
+  6 (2010)
+
+Burundi
+  1 (2010)
+
+Cambodia
+  1 (2010)
+
+Canada
+  12 (2010)
+
+China
+  48 (2010)
+
+Colombia
+  2 (2010)
+
+Croatia
+  1 (2010)
+
+Cyprus
+  9 (2010)
+
+Czech Republic
+  1 (2010)
+
+Ecuador
+  2 (2010)
+
+Egypt
+  6 (2010)
+
+El Salvador
+  1 (2010)
+
+Eritrea
+  1 (2010)
+
+Estonia
+  1 (2010)
+
+European Union
+  99 (2010)
+
+France
+  1 (2010)
+
+French Polynesia
+  1 (2010)
+
+Gaza Strip
+  1 (2010)
+
+Georgia
+  3 (2010)
+
+Germany
+  25 (2010)
+
+Greece
+  9 (2010)
+
+Hong Kong
+  9 (2010)
+
+Hungary
+  5 (2010)
+
+India
+  40 (2010)
+
+Indonesia
+  64 (2010)
+
+Iran
+  19 (2010)
+
+Iraq
+  21 (2010)
+
+Israel
+  3 (2010)
+
+Italy
+  6 (2010)
+
+Japan
+  15 (2010)
+
+Jordan
+  1 (2010)
+
+Kazakhstan
+  3 (2010)
+
+Korea, North
+  22 (2010)
+
+Korea, South
+  510 (2010)
+
+Kosovo
+  2 (2010)
+
+Kuwait
+  4 (2010)
+
+Libya
+  2 (2010)
+
+Luxembourg
+  1 (2010)
+
+Macau
+  2 (2010)
+
+Malaysia
+  3 (2010)
+
+Mexico
+  1 (2010)
+
+Monaco
+  1 (2010)
+
+Mongolia
+  1 (2010)
+
+Montenegro
+  1 (2010)
+
+Morocco
+  1 (2010)
+
+Netherlands
+  1 (2010)
+
+New Caledonia
+  8 (2010)
+
+Nigeria
+  4 (2010)
+
+Northern Mariana Islands
+  1 (2010)
+
+Norway
+  1 (2010)
+
+Oman
+  3 (2010)
+
+Pakistan
+  20 (2010)
+
+Panama
+  3 (2010)
+
+Papua New Guinea
+  2 (2010)
+
+Peru
+  1 (2010)
+
+Philippines
+  2 (2010)
+
+Poland
+  7 (2010)
+
+Qatar
+  1 (2010)
+
+Romania
+  3 (2010)
+
+Russia
+  50 (2010)
+
+Saudi Arabia
+  9 (2010)
+
+Serbia
+  2 (2010)
+
+Sierra Leone
+  2 (2010)
+
+Slovakia
+  1 (2010)
+
+Solomon Islands
+  3 (2010)
+
+South Africa
+  1 (2010)
+
+Spain
+  9 (2010)
+
+Spratly Islands
+  3 (2010)
+
+Sudan
+  5 (2010)
+
+Svalbard
+  1 (2010)
+
+Sweden
+  2 (2010)
+
+Switzerland
+  1 (2010)
+
+Syria
+  7 (2010)
+
+Taiwan
+  4 (2010)
+
+Thailand
+  4 (2010)
+
+Timor-Leste
+  8 (2010)
+
+Turkey
+  20 (2010)
+
+Turkmenistan
+  1 (2010)
+
+Ukraine
+  7 (2010)
+
+United Arab Emirates
+  5 (2010)
+
+United Kingdom
+  11 (2010)
+
+United States
+  126 (2010)
+
+Venezuela
+  4 (2010)
+
+Vietnam
+  1 (2010)
+
+World
+  3,825 (2010)
+
+
+
+
+======================================================================
+
+
+
+
+

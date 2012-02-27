@@ -1,0 +1,1658 @@
+2018
+
+
+Field Listing :: Sex ratio
+
+  This entry includes the number of males for each female in five age
+  groups - at birth, under 15 years, 15-64 years, 65 years and over,
+  and for the total population. Sex ratio at birth has recently
+  emerged as an indicator of certain kinds of sex discrimination in
+  some countries. For instance, high sex ratios at birth in some Asian
+  countries are now attributed to sex-selective abortion and
+  infanticide due to a strong preference for sons. This will affect
+  future marriage patterns and fertility patterns. Eventually, it
+  could cause unrest among young adult males who are unable to find
+  partners.
+  Country
+
+
+  Sex ratio(male(s)/female)
+
+Afghanistan
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.05 male(s)/female
+  15-64 years: 1.05 male(s)/female
+  65 years and over: 0.92 male(s)/female
+  total population: 1.05 male(s)/female (2010 est.)
+
+Albania
+  at birth: 1.123 male(s)/female
+  under 15 years: 1.1 male(s)/female
+  15-64 years: 1.05 male(s)/female
+  65 years and over: 0.87 male(s)/female
+  total population: 1.04 male(s)/female (2010 est.)
+
+Algeria
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 1.02 male(s)/female
+  65 years and over: 0.86 male(s)/female
+  total population: 1.01 male(s)/female (2010 est.)
+
+American Samoa
+  at birth: 1.061 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 1.03 male(s)/female
+  65 years and over: 0.88 male(s)/female
+  total population: 1.02 male(s)/female (2010 est.)
+
+Andorra
+  at birth: 1.066 male(s)/female
+  under 15 years: 1.06 male(s)/female
+  15-64 years: 1.09 male(s)/female
+  65 years and over: 0.99 male(s)/female
+  total population: 1.07 male(s)/female (2010 est.)
+
+Angola
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.02 male(s)/female
+  15-64 years: 1.03 male(s)/female
+  65 years and over: 0.79 male(s)/female
+  total population: 1.02 male(s)/female (2010 est.)
+
+Anguilla
+  at birth: 1.032 male(s)/female
+  under 15 years: 1.05 male(s)/female
+  15-64 years: 0.9 male(s)/female
+  65 years and over: 0.93 male(s)/female
+  total population: 0.94 male(s)/female (2010 est.)
+
+Antigua and Barbuda
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.03 male(s)/female
+  15-64 years: 0.87 male(s)/female
+  65 years and over: 0.76 male(s)/female
+  total population: 0.9 male(s)/female (2010 est.)
+
+Argentina
+  at birth: 1.052 male(s)/female
+  under 15 years: 1.05 male(s)/female
+  15-64 years: 1 male(s)/female
+  65 years and over: 0.7 male(s)/female
+  total population: 0.97 male(s)/female (2010 est.)
+
+Armenia
+  at birth: 1.133 male(s)/female
+  under 15 years: 1.15 male(s)/female
+  15-64 years: 0.88 male(s)/female
+  65 years and over: 0.62 male(s)/female
+  total population: 0.89 male(s)/female (2010 est.)
+
+Aruba
+  at birth: 1.021 male(s)/female
+  under 15 years: 1.01 male(s)/female
+  15-64 years: 0.92 male(s)/female
+  65 years and over: 0.66 male(s)/female
+  total population: 0.9 male(s)/female (2010 est.)
+
+Australia
+  at birth: 1.055 male(s)/female
+  under 15 years: 1.05 male(s)/female
+  15-64 years: 1.03 male(s)/female
+  65 years and over: 0.84 male(s)/female
+  total population: 1 male(s)/female (2010 est.)
+
+Austria
+  at birth: 1.051 male(s)/female
+  under 15 years: 1.05 male(s)/female
+  15-64 years: 1.01 male(s)/female
+  65 years and over: 0.71 male(s)/female
+  total population: 0.95 male(s)/female (2010 est.)
+
+Azerbaijan
+  at birth: 1.124 male(s)/female
+  under 15 years: 1.13 male(s)/female
+  15-64 years: 0.97 male(s)/female
+  65 years and over: 0.58 male(s)/female
+  total population: 0.97 male(s)/female (2010 est.)
+
+Bahamas, The
+  at birth: 1.03 male(s)/female
+  under 15 years: 1.03 male(s)/female
+  15-64 years: 0.97 male(s)/female
+  65 years and over: 0.62 male(s)/female
+  total population: 0.96 male(s)/female (2010 est.)
+
+Bahrain
+  at birth: 1.03 male(s)/female
+  under 15 years: 1.02 male(s)/female
+  15-64 years: 1.33 male(s)/female
+  65 years and over: 1.13 male(s)/female
+  total population: 1.24 male(s)/female (2010 est.)
+
+Bangladesh
+  at birth: 1.04 male(s)/female
+  under 15 years: 1.01 male(s)/female
+  15-64 years: 0.89 male(s)/female
+  65 years and over: 0.93 male(s)/female
+  total population: 0.93 male(s)/female (2010 est.)
+
+Barbados
+  at birth: 1.012 male(s)/female
+  under 15 years: 1 male(s)/female
+  15-64 years: 0.97 male(s)/female
+  65 years and over: 0.64 male(s)/female
+  total population: 0.94 male(s)/female (2010 est.)
+
+Belarus
+  at birth: 1.062 male(s)/female
+  under 15 years: 1.06 male(s)/female
+  15-64 years: 0.94 male(s)/female
+  65 years and over: 0.47 male(s)/female
+  total population: 0.87 male(s)/female (2010 est.)
+
+Belgium
+  at birth: 1.045 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 1.02 male(s)/female
+  65 years and over: 0.71 male(s)/female
+  total population: 0.96 male(s)/female (2010 est.)
+
+Belize
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 1.02 male(s)/female
+  65 years and over: 0.91 male(s)/female
+  total population: 1.03 male(s)/female (2010 est.)
+
+Benin
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 0.99 male(s)/female
+  65 years and over: 0.69 male(s)/female
+  total population: 1 male(s)/female (2010 est.)
+
+Bermuda
+  at birth: 1.018 male(s)/female
+  under 15 years: 1.01 male(s)/female
+  15-64 years: 0.97 male(s)/female
+  65 years and over: 0.71 male(s)/female
+  total population: 0.94 male(s)/female (2010 est.)
+
+Bhutan
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 1.13 male(s)/female
+  65 years and over: 1.12 male(s)/female
+  total population: 1.1 male(s)/female (2010 est.)
+
+Bolivia
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 0.96 male(s)/female
+  65 years and over: 0.79 male(s)/female
+  total population: 0.98 male(s)/female (2010 est.)
+
+Bosnia and Herzegovina
+  at birth: 1.074 male(s)/female
+  under 15 years: 1.07 male(s)/female
+  15-64 years: 1.02 male(s)/female
+  65 years and over: 0.69 male(s)/female
+  total population: 0.97 male(s)/female (2010 est.)
+
+Botswana
+  at birth: 1.03 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 1.02 male(s)/female
+  65 years and over: 0.68 male(s)/female
+  total population: 1.01 male(s)/female (2010 est.)
+
+Brazil
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 0.98 male(s)/female
+  65 years and over: 0.73 male(s)/female
+  total population: 0.98 male(s)/female (2010 est.)
+
+British Virgin Islands
+  at birth: 1.045 male(s)/female
+  under 15 years: 1.03 male(s)/female
+  15-64 years: 1.05 male(s)/female
+  65 years and over: 1.07 male(s)/female
+  total population: 1.05 male(s)/female (2010 est.)
+
+Brunei
+  at birth: 1.047 male(s)/female
+  under 15 years: 1.06 male(s)/female
+  15-64 years: 0.99 male(s)/female
+  65 years and over: 0.94 male(s)/female
+  total population: 1 male(s)/female (2010 est.)
+
+Bulgaria
+  at birth: 1.06 male(s)/female
+  under 15 years: 1.05 male(s)/female
+  15-64 years: 0.97 male(s)/female
+  65 years and over: 0.68 male(s)/female
+  total population: 0.92 male(s)/female (2010 est.)
+
+Burkina Faso
+  at birth: 1.03 male(s)/female
+  under 15 years: 1.01 male(s)/female
+  15-64 years: 1 male(s)/female
+  65 years and over: 0.64 male(s)/female
+  total population: 0.99 male(s)/female (2010 est.)
+
+Burma
+  at birth: 1.06 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 0.99 male(s)/female
+  65 years and over: 0.77 male(s)/female
+  total population: 0.99 male(s)/female (2010 est.)
+
+Burundi
+  at birth: 1.03 male(s)/female
+  under 15 years: 1.01 male(s)/female
+  15-64 years: 0.97 male(s)/female
+  65 years and over: 0.67 male(s)/female
+  total population: 0.98 male(s)/female (2010 est.)
+
+Cambodia
+  at birth: 1.045 male(s)/female
+  under 15 years: 1.02 male(s)/female
+  15-64 years: 0.95 male(s)/female
+  65 years and over: 0.6 male(s)/female
+  total population: 0.96 male(s)/female (2010 est.)
+
+Cameroon
+  at birth: 1.03 male(s)/female
+  under 15 years: 1.02 male(s)/female
+  15-64 years: 1.01 male(s)/female
+  65 years and over: 0.85 male(s)/female
+  total population: 1.01 male(s)/female (2010 est.)
+
+Canada
+  at birth: 1.056 male(s)/female
+  under 15 years: 1.05 male(s)/female
+  15-64 years: 1.02 male(s)/female
+  65 years and over: 0.78 male(s)/female
+  total population: 0.98 male(s)/female (2010 est.)
+
+Cape Verde
+  at birth: 1.03 male(s)/female
+  under 15 years: 1.01 male(s)/female
+  15-64 years: 0.94 male(s)/female
+  65 years and over: 0.61 male(s)/female
+  total population: 0.94 male(s)/female (2010 est.)
+
+Cayman Islands
+  at birth: 1.016 male(s)/female
+  under 15 years: 1.01 male(s)/female
+  15-64 years: 0.95 male(s)/female
+  65 years and over: 0.89 male(s)/female
+  total population: 0.96 male(s)/female (2010 est.)
+
+Central African Republic
+  at birth: 1.03 male(s)/female
+  under 15 years: 1.01 male(s)/female
+  15-64 years: 0.98 male(s)/female
+  65 years and over: 0.67 male(s)/female
+  total population: 0.98 male(s)/female (2010 est.)
+
+Chad
+  at birth: 1.04 male(s)/female
+  under 15 years: 1.03 male(s)/female
+  15-64 years: 0.85 male(s)/female
+  65 years and over: 0.73 male(s)/female
+  total population: 0.92 male(s)/female (2010 est.)
+
+Chile
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.05 male(s)/female
+  15-64 years: 1 male(s)/female
+  65 years and over: 0.72 male(s)/female
+  total population: 0.98 male(s)/female (2010 est.)
+
+China
+  at birth: 1.14 male(s)/female
+  under 15 years: 1.17 male(s)/female
+  15-64 years: 1.06 male(s)/female
+  65 years and over: 0.93 male(s)/female
+  total population: 1.06 male(s)/female (2010 est.)
+
+Christmas Island
+  NA (2009 est.)
+
+Colombia
+  at birth: 1.06 male(s)/female
+  under 15 years: 1.05 male(s)/female
+  15-64 years: 0.97 male(s)/female
+  65 years and over: 0.74 male(s)/female
+  total population: 0.98 male(s)/female (2010 est.)
+
+Comoros
+  at birth: 1.03 male(s)/female
+  under 15 years: 1.01 male(s)/female
+  15-64 years: 0.98 male(s)/female
+  65 years and over: 0.83 male(s)/female
+  total population: 0.98 male(s)/female (2010 est.)
+
+Congo, Democratic Republic of the
+  at birth: 1.03 male(s)/female
+  under 15 years: 1.01 male(s)/female
+  15-64 years: 0.99 male(s)/female
+  65 years and over: 0.69 male(s)/female
+  total population: 0.99 male(s)/female (2010 est.)
+
+Congo, Republic of the
+  at birth: 1.03 male(s)/female
+  under 15 years: 1.01 male(s)/female
+  15-64 years: 0.99 male(s)/female
+  65 years and over: 0.7 male(s)/female
+  total population: 0.99 male(s)/female (2010 est.)
+
+Cook Islands
+  at birth: 1.046 male(s)/female
+  under 15 years: 1.13 male(s)/female
+  15-64 years: 1.07 male(s)/female
+  65 years and over: 0.96 male(s)/female
+  total population: 1.07 male(s)/female (2010 est.)
+
+Costa Rica
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.05 male(s)/female
+  15-64 years: 1.01 male(s)/female
+  65 years and over: 0.86 male(s)/female
+  total population: 1.01 male(s)/female (2010 est.)
+
+Cote d'Ivoire
+  at birth: 1.03 male(s)/female
+  under 15 years: 1.02 male(s)/female
+  15-64 years: 1.04 male(s)/female
+  65 years and over: 0.99 male(s)/female
+  total population: 1.03 male(s)/female (2010 est.)
+
+Croatia
+  at birth: 1.055 male(s)/female
+  under 15 years: 1.06 male(s)/female
+  15-64 years: 0.99 male(s)/female
+  65 years and over: 0.64 male(s)/female
+  total population: 0.93 male(s)/female (2010 est.)
+
+Cuba
+  at birth: 1.06 male(s)/female
+  under 15 years: 1.06 male(s)/female
+  15-64 years: 1 male(s)/female
+  65 years and over: 0.83 male(s)/female
+  total population: 0.99 male(s)/female (2010 est.)
+
+Curacao
+  at birth: 1.15 male(s)/female
+  under 15 years: 1.05 male(s)/female
+  15-64 years: 0.82 male(s)/female
+  65 years and over: 0.67 male(s)/female
+  total population: 0.85 male(s)/female (2010)
+
+Cyprus
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.06 male(s)/female
+  15-64 years: 1.08 male(s)/female
+  65 years and over: 0.77 male(s)/female
+  total population: 1.04 male(s)/female (2010 est.)
+
+Czech Republic
+  at birth: 1.059 male(s)/female
+  under 15 years: 1.06 male(s)/female
+  15-64 years: 1.01 male(s)/female
+  65 years and over: 0.66 male(s)/female
+  total population: 0.95 male(s)/female (2010 est.)
+
+Denmark
+  at birth: 1.055 male(s)/female
+  under 15 years: 1.05 male(s)/female
+  15-64 years: 1.01 male(s)/female
+  65 years and over: 0.78 male(s)/female
+  total population: 0.98 male(s)/female (2010 est.)
+
+Djibouti
+  at birth: 1.03 male(s)/female
+  under 15 years: 1 male(s)/female
+  15-64 years: 0.8 male(s)/female
+  65 years and over: 0.81 male(s)/female
+  total population: 0.86 male(s)/female (2010 est.)
+
+Dominica
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 1.05 male(s)/female
+  65 years and over: 0.76 male(s)/female
+  total population: 1.02 male(s)/female (2010 est.)
+
+Dominican Republic
+  at birth: 1.04 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 1.04 male(s)/female
+  65 years and over: 0.86 male(s)/female
+  total population: 1.03 male(s)/female (2010 est.)
+
+Ecuador
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 0.97 male(s)/female
+  65 years and over: 0.93 male(s)/female
+  total population: 0.99 male(s)/female (2010 est.)
+
+Egypt
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.05 male(s)/female
+  15-64 years: 1.03 male(s)/female
+  65 years and over: 0.83 male(s)/female
+  total population: 1.03 male(s)/female (2010 est.)
+
+El Salvador
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.05 male(s)/female
+  15-64 years: 0.89 male(s)/female
+  65 years and over: 0.81 male(s)/female
+  total population: 0.93 male(s)/female (2010 est.)
+
+Equatorial Guinea
+  at birth: 1.03 male(s)/female
+  under 15 years: 1.03 male(s)/female
+  15-64 years: 0.97 male(s)/female
+  65 years and over: 0.78 male(s)/female
+  total population: 0.99 male(s)/female (2010 est.)
+
+Eritrea
+  at birth: 1.03 male(s)/female
+  under 15 years: 1.01 male(s)/female
+  15-64 years: 0.96 male(s)/female
+  65 years and over: 0.82 male(s)/female
+  total population: 0.98 male(s)/female (2010 est.)
+
+Estonia
+  at birth: 1.063 male(s)/female
+  under 15 years: 1.06 male(s)/female
+  15-64 years: 0.91 male(s)/female
+  65 years and over: 0.49 male(s)/female
+  total population: 0.84 male(s)/female (2010 est.)
+
+Ethiopia
+  at birth: 1.03 male(s)/female
+  under 15 years: 1 male(s)/female
+  15-64 years: 0.96 male(s)/female
+  65 years and over: 0.75 male(s)/female
+  total population: 0.97 male(s)/female (2010 est.)
+
+European Union
+  at birth: 1.06 male(s)/female
+  under 15 years: 1.06 male(s)/female
+  15-64 years: 1 male(s)/female
+  65 years and over: 0.68 male(s)/female
+  total population: 0.92 male(s)/female (2009 est.)
+
+Faroe Islands
+  at birth: 1.069 male(s)/female
+  under 15 years: 1.07 male(s)/female
+  15-64 years: 1.15 male(s)/female
+  65 years and over: 0.9 male(s)/female
+  total population: 1.09 male(s)/female (2010 est.)
+
+Fiji
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 1 male(s)/female
+  65 years and over: 0.81 male(s)/female
+  total population: 1 male(s)/female (2010 est.)
+
+Finland
+  at birth: 1.04 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 1.02 male(s)/female
+  65 years and over: 0.69 male(s)/female
+  total population: 0.96 male(s)/female (2010 est.)
+
+France
+  at birth: 1.051 male(s)/female
+  under 15 years: 1.05 male(s)/female
+  15-64 years: 1 male(s)/female
+  65 years and over: 0.72 male(s)/female
+  total population: 0.96 male(s)/female (2010 est.)
+
+French Polynesia
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 1.07 male(s)/female
+  65 years and over: 1.02 male(s)/female
+  total population: 1.06 male(s)/female (2010 est.)
+
+Gabon
+  at birth: 1.03 male(s)/female
+  under 15 years: 1.01 male(s)/female
+  15-64 years: 1 male(s)/female
+  65 years and over: 0.72 male(s)/female
+  total population: 0.99 male(s)/female (2010 est.)
+
+Gambia, The
+  at birth: 1.03 male(s)/female
+  under 15 years: 1.01 male(s)/female
+  15-64 years: 0.98 male(s)/female
+  65 years and over: 0.98 male(s)/female
+  total population: 1 male(s)/female (2010 est.)
+
+Gaza Strip
+  at birth: 1.06 male(s)/female
+  under 15 years: 1.06 male(s)/female
+  15-64 years: 1.05 male(s)/female
+  65 years and over: 0.68 male(s)/female
+  total population: 1.04 male(s)/female (2010 est.)
+
+Georgia
+  at birth: 1.12 male(s)/female
+  under 15 years: 1.15 male(s)/female
+  15-64 years: 0.93 male(s)/female
+  65 years and over: 0.66 male(s)/female
+  total population: 0.91 male(s)/female (2010 est.)
+
+Germany
+  at birth: 1.055 male(s)/female
+  under 15 years: 1.05 male(s)/female
+  15-64 years: 1.04 male(s)/female
+  65 years and over: 0.72 male(s)/female
+  total population: 0.97 male(s)/female (2010 est.)
+
+Ghana
+  at birth: 1.03 male(s)/female
+  under 15 years: 1.02 male(s)/female
+  15-64 years: 1 male(s)/female
+  65 years and over: 0.84 male(s)/female
+  total population: 1 male(s)/female (2010 est.)
+
+Gibraltar
+  at birth: 1.071 male(s)/female
+  under 15 years: 1.06 male(s)/female
+  15-64 years: 1.02 male(s)/female
+  65 years and over: 0.93 male(s)/female
+  total population: 1.01 male(s)/female (2010 est.)
+
+Greece
+  at birth: 1.064 male(s)/female
+  under 15 years: 1.06 male(s)/female
+  15-64 years: 1 male(s)/female
+  65 years and over: 0.78 male(s)/female
+  total population: 0.96 male(s)/female (2010 est.)
+
+Greenland
+  at birth: 1.053 male(s)/female
+  under 15 years: 1.03 male(s)/female
+  15-64 years: 1.15 male(s)/female
+  65 years and over: 1.05 male(s)/female
+  total population: 1.12 male(s)/female (2010 est.)
+
+Grenada
+  at birth: 1.097 male(s)/female
+  under 15 years: 1.05 male(s)/female
+  15-64 years: 1.04 male(s)/female
+  65 years and over: 0.82 male(s)/female
+  total population: 1.02 male(s)/female (2010 est.)
+
+Guam
+  at birth: 1.06 male(s)/female
+  under 15 years: 1.07 male(s)/female
+  15-64 years: 1.04 male(s)/female
+  65 years and over: 0.85 male(s)/female
+  total population: 1.03 male(s)/female (2010 est.)
+
+Guatemala
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 0.94 male(s)/female
+  65 years and over: 0.86 male(s)/female
+  total population: 0.97 male(s)/female (2010 est.)
+
+Guernsey
+  at birth: 1.049 male(s)/female
+  under 15 years: 1.03 male(s)/female
+  15-64 years: 0.98 male(s)/female
+  65 years and over: 0.77 male(s)/female
+  total population: 0.95 male(s)/female (2010 est.)
+
+Guinea
+  at birth: 1.03 male(s)/female
+  under 15 years: 1.02 male(s)/female
+  15-64 years: 1 male(s)/female
+  65 years and over: 0.78 male(s)/female
+  total population: 1 male(s)/female (2010 est.)
+
+Guinea-Bissau
+  at birth: 1.03 male(s)/female
+  under 15 years: 1 male(s)/female
+  15-64 years: 0.93 male(s)/female
+  65 years and over: 0.66 male(s)/female
+  total population: 0.95 male(s)/female (2010 est.)
+
+Guyana
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 1 male(s)/female
+  65 years and over: 0.71 male(s)/female
+  total population: 1 male(s)/female (2010 est.)
+
+Haiti
+  at birth: 1.011 male(s)/female
+  under 15 years: 1.02 male(s)/female
+  15-64 years: 0.99 male(s)/female
+  65 years and over: 0.62 male(s)/female
+  total population: 0.98 male(s)/female (2010 est.)
+
+Honduras
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 1.01 male(s)/female
+  65 years and over: 0.81 male(s)/female
+  total population: 1.01 male(s)/female (2010 est.)
+
+Hong Kong
+  at birth: 1.076 male(s)/female
+  under 15 years: 1.09 male(s)/female
+  15-64 years: 0.94 male(s)/female
+  65 years and over: 0.88 male(s)/female
+  total population: 0.95 male(s)/female (2010 est.)
+
+Hungary
+  at birth: 1.057 male(s)/female
+  under 15 years: 1.06 male(s)/female
+  15-64 years: 0.98 male(s)/female
+  65 years and over: 0.57 male(s)/female
+  total population: 0.91 male(s)/female (2010 est.)
+
+Iceland
+  at birth: 1.04 male(s)/female
+  under 15 years: 1.03 male(s)/female
+  15-64 years: 1.02 male(s)/female
+  65 years and over: 0.83 male(s)/female
+  total population: 1 male(s)/female (2010 est.)
+
+India
+  at birth: 1.12 male(s)/female
+  under 15 years: 1.13 male(s)/female
+  15-64 years: 1.07 male(s)/female
+  65 years and over: 0.91 male(s)/female
+  total population: 1.08 male(s)/female (2010 est.)
+
+Indonesia
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 1.01 male(s)/female
+  65 years and over: 0.79 male(s)/female
+  total population: 1 male(s)/female (2010 est.)
+
+Iran
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.05 male(s)/female
+  15-64 years: 1.02 male(s)/female
+  65 years and over: 0.91 male(s)/female
+  total population: 1.02 male(s)/female (2010 est.)
+
+Iraq
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 1.03 male(s)/female
+  65 years and over: 0.88 male(s)/female
+  total population: 1.03 male(s)/female (2010 est.)
+
+Ireland
+  at birth: 1.057 male(s)/female
+  under 15 years: 1.07 male(s)/female
+  15-64 years: 1 male(s)/female
+  65 years and over: 0.81 male(s)/female
+  total population: 0.99 male(s)/female (2010 est.)
+
+Isle of Man
+  at birth: 1.077 male(s)/female
+  under 15 years: 1.05 male(s)/female
+  15-64 years: 1.01 male(s)/female
+  65 years and over: 0.71 male(s)/female
+  total population: 0.96 male(s)/female (2010 est.)
+
+Israel
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.05 male(s)/female
+  15-64 years: 1.03 male(s)/female
+  65 years and over: 0.78 male(s)/female
+  total population: 1 male(s)/female (2010 est.)
+
+Italy
+  at birth: 1.066 male(s)/female
+  under 15 years: 1.06 male(s)/female
+  15-64 years: 1.03 male(s)/female
+  65 years and over: 0.72 male(s)/female
+  total population: 0.96 male(s)/female (2010 est.)
+
+Jamaica
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.03 male(s)/female
+  15-64 years: 0.97 male(s)/female
+  65 years and over: 0.81 male(s)/female
+  total population: 0.98 male(s)/female (2010 est.)
+
+Japan
+  at birth: 1.056 male(s)/female
+  under 15 years: 1.06 male(s)/female
+  15-64 years: 1.02 male(s)/female
+  65 years and over: 0.74 male(s)/female
+  total population: 0.95 male(s)/female (2010 est.)
+
+Jersey
+  at birth: 1.06 male(s)/female
+  under 15 years: 1.08 male(s)/female
+  15-64 years: 1 male(s)/female
+  65 years and over: 0.8 male(s)/female
+  total population: 0.97 male(s)/female (2010 est.)
+
+Jordan
+  at birth: 1.06 male(s)/female
+  under 15 years: 1.06 male(s)/female
+  15-64 years: 1.03 male(s)/female
+  65 years and over: 0.97 male(s)/female
+  total population: 1.04 male(s)/female (2010 est.)
+
+Kazakhstan
+  at birth: 1.058 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 0.95 male(s)/female
+  65 years and over: 0.53 male(s)/female
+  total population: 0.93 male(s)/female (2010 est.)
+
+Kenya
+  at birth: 1.02 male(s)/female
+  under 15 years: 1.01 male(s)/female
+  15-64 years: 1.01 male(s)/female
+  65 years and over: 0.83 male(s)/female
+  total population: 1.01 male(s)/female (2010 est.)
+
+Kiribati
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 0.95 male(s)/female
+  65 years and over: 0.64 male(s)/female
+  total population: 0.97 male(s)/female (2010 est.)
+
+Korea, North
+  at birth: 1.06 male(s)/female
+  under 15 years: 1.03 male(s)/female
+  15-64 years: 0.98 male(s)/female
+  65 years and over: 0.64 male(s)/female
+  total population: 0.95 male(s)/female (2010 est.)
+
+Korea, South
+  at birth: 1.07 male(s)/female
+  under 15 years: 1.1 male(s)/female
+  15-64 years: 1.04 male(s)/female
+  65 years and over: 0.67 male(s)/female
+  total population: 1 male(s)/female (2010 est.)
+
+Kosovo
+  at birth: 1.086 male(s)/female
+  under 15 years: 1.09 male(s)/female
+  15-64 years: 1.09 male(s)/female
+  65 years and over: 0.74 male(s)/female
+  total population: 1.06 male(s)/female (2010 est.)
+
+Kuwait
+  at birth: 1.041 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 1.79 male(s)/female
+  65 years and over: 1.65 male(s)/female
+  total population: 1.54 male(s)/female (2010 est.)
+
+Kyrgyzstan
+  at birth: 1.053 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 0.96 male(s)/female
+  65 years and over: 0.64 male(s)/female
+  total population: 0.96 male(s)/female (2010 est.)
+
+Laos
+  at birth: 1.04 male(s)/female
+  under 15 years: 1.01 male(s)/female
+  15-64 years: 0.98 male(s)/female
+  65 years and over: 0.75 male(s)/female
+  total population: 0.98 male(s)/female (2010 est.)
+
+Latvia
+  at birth: 1.054 male(s)/female
+  under 15 years: 1.05 male(s)/female
+  15-64 years: 0.95 male(s)/female
+  65 years and over: 0.48 male(s)/female
+  total population: 0.86 male(s)/female (2010 est.)
+
+Lebanon
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.05 male(s)/female
+  15-64 years: 0.95 male(s)/female
+  65 years and over: 0.87 male(s)/female
+  total population: 0.96 male(s)/female (2010 est.)
+
+Lesotho
+  at birth: 1.03 male(s)/female
+  under 15 years: 1.01 male(s)/female
+  15-64 years: 0.95 male(s)/female
+  65 years and over: 0.96 male(s)/female
+  total population: 0.97 male(s)/female (2010 est.)
+
+Liberia
+  at birth: 1.03 male(s)/female
+  under 15 years: 1.01 male(s)/female
+  15-64 years: 0.98 male(s)/female
+  65 years and over: 1.03 male(s)/female
+  total population: 1 male(s)/female (2010 est.)
+
+Libya
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 1.06 male(s)/female
+  65 years and over: 0.96 male(s)/female
+  total population: 1.05 male(s)/female (2010 est.)
+
+Liechtenstein
+  at birth: 1.006 male(s)/female
+  under 15 years: 0.98 male(s)/female
+  15-64 years: 0.97 male(s)/female
+  65 years and over: 0.77 male(s)/female
+  total population: 0.94 male(s)/female (2010 est.)
+
+Lithuania
+  at birth: 1.057 male(s)/female
+  under 15 years: 1.06 male(s)/female
+  15-64 years: 0.96 male(s)/female
+  65 years and over: 0.53 male(s)/female
+  total population: 0.89 male(s)/female (2010 est.)
+
+Luxembourg
+  at birth: 1.066 male(s)/female
+  under 15 years: 1.07 male(s)/female
+  15-64 years: 1.01 male(s)/female
+  65 years and over: 0.7 male(s)/female
+  total population: 0.97 male(s)/female (2010 est.)
+
+Macau
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.14 male(s)/female
+  15-64 years: 0.88 male(s)/female
+  65 years and over: 0.88 male(s)/female
+  total population: 0.92 male(s)/female (2010 est.)
+
+Macedonia
+  at birth: 1.077 male(s)/female
+  under 15 years: 1.08 male(s)/female
+  15-64 years: 1.02 male(s)/female
+  65 years and over: 0.76 male(s)/female
+  total population: 1 male(s)/female (2010 est.)
+
+Madagascar
+  at birth: 1.03 male(s)/female
+  under 15 years: 1.01 male(s)/female
+  15-64 years: 0.99 male(s)/female
+  65 years and over: 0.8 male(s)/female
+  total population: 0.99 male(s)/female (2010 est.)
+
+Malawi
+  at birth: 1.015 male(s)/female
+  under 15 years: 1 male(s)/female
+  15-64 years: 1 male(s)/female
+  65 years and over: 0.76 male(s)/female
+  total population: 0.99 male(s)/female (2010 est.)
+
+Malaysia
+  at birth: 1.069 male(s)/female
+  under 15 years: 1.06 male(s)/female
+  15-64 years: 1.01 male(s)/female
+  65 years and over: 0.79 male(s)/female
+  total population: 1.01 male(s)/female (2010 est.)
+
+Maldives
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 1.57 male(s)/female
+  65 years and over: 0.98 male(s)/female
+  total population: 1.4 male(s)/female (2010 est.)
+
+Mali
+  at birth: 1.03 male(s)/female
+  under 15 years: 1.01 male(s)/female
+  15-64 years: 0.95 male(s)/female
+  65 years and over: 0.92 male(s)/female
+  total population: 0.98 male(s)/female (2010 est.)
+
+Malta
+  at birth: 1.058 male(s)/female
+  under 15 years: 1.05 male(s)/female
+  15-64 years: 1.03 male(s)/female
+  65 years and over: 0.77 male(s)/female
+  total population: 0.99 male(s)/female (2010 est.)
+
+Marshall Islands
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 1.04 male(s)/female
+  65 years and over: 0.94 male(s)/female
+  total population: 1.04 male(s)/female (2010 est.)
+
+Mauritania
+  at birth: 1.03 male(s)/female
+  under 15 years: 1.01 male(s)/female
+  15-64 years: 0.89 male(s)/female
+  65 years and over: 0.74 male(s)/female
+  total population: 0.93 male(s)/female (2010 est.)
+
+Mauritius
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 0.99 male(s)/female
+  65 years and over: 0.67 male(s)/female
+  total population: 0.97 male(s)/female (2010 est.)
+
+Mayotte
+  at birth: 1.03 male(s)/female
+  under 15 years: 1.01 male(s)/female
+  15-64 years: 1.15 male(s)/female
+  65 years and over: 1.05 male(s)/female
+  total population: 1.08 male(s)/female (2010 est.)
+
+Mexico
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 0.94 male(s)/female
+  65 years and over: 0.82 male(s)/female
+  total population: 0.96 male(s)/female (2010 est.)
+
+Micronesia, Federated States of
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.03 male(s)/female
+  15-64 years: 0.99 male(s)/female
+  65 years and over: 0.74 male(s)/female
+  total population: 0.99 male(s)/female (2010 est.)
+
+Moldova
+  at birth: 1.059 male(s)/female
+  under 15 years: 1.06 male(s)/female
+  15-64 years: 0.94 male(s)/female
+  65 years and over: 0.58 male(s)/female
+  total population: 0.91 male(s)/female (2010 est.)
+
+Monaco
+  at birth: 1.048 male(s)/female
+  under 15 years: 1.05 male(s)/female
+  15-64 years: 1 male(s)/female
+  65 years and over: 0.8 male(s)/female
+  total population: 0.95 male(s)/female (2010 est.)
+
+Mongolia
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 1 male(s)/female
+  65 years and over: 0.77 male(s)/female
+  total population: 1 male(s)/female (2010 est.)
+
+Montenegro
+  at birth: 1.074 male(s)/female
+  under 15 years: 0.95 male(s)/female
+  15-64 years: 1.08 male(s)/female
+  65 years and over: 0.67 male(s)/female
+  total population: 0.99 male(s)/female (2010 est.)
+
+Montserrat
+  at birth: 1.033 male(s)/female
+  under 15 years: 1.09 male(s)/female
+  15-64 years: 0.91 male(s)/female
+  65 years and over: 2.03 male(s)/female
+  total population: 1.01 male(s)/female (2010 est.)
+
+Morocco
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.03 male(s)/female
+  15-64 years: 0.96 male(s)/female
+  65 years and over: 0.83 male(s)/female
+  total population: 0.97 male(s)/female (2010 est.)
+
+Mozambique
+  at birth: 1.017 male(s)/female
+  under 15 years: 1.01 male(s)/female
+  15-64 years: 0.96 male(s)/female
+  65 years and over: 0.71 male(s)/female
+  total population: 0.98 male(s)/female (2010 est.)
+
+Namibia
+  at birth: 1.03 male(s)/female
+  under 15 years: 1.02 male(s)/female
+  15-64 years: 1.03 male(s)/female
+  65 years and over: 0.8 male(s)/female
+  total population: 1.01 male(s)/female (2010 est.)
+
+Nauru
+  at birth: 0.838 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 0.97 male(s)/female
+  65 years and over: 1 male(s)/female
+  total population: 0.99 male(s)/female (2010 est.)
+
+Nepal
+  at birth: 1.04 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 0.92 male(s)/female
+  65 years and over: 0.88 male(s)/female
+  total population: 0.96 male(s)/female (2010 est.)
+
+Netherlands
+  at birth: 1.052 male(s)/female
+  under 15 years: 1.05 male(s)/female
+  15-64 years: 1.02 male(s)/female
+  65 years and over: 0.76 male(s)/female
+  total population: 0.98 male(s)/female (2010 est.)
+
+New Caledonia
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 1.01 male(s)/female
+  65 years and over: 0.86 male(s)/female
+  total population: 1 male(s)/female (2010 est.)
+
+New Zealand
+  at birth: 1.048 male(s)/female
+  under 15 years: 1.05 male(s)/female
+  15-64 years: 1 male(s)/female
+  65 years and over: 0.84 male(s)/female
+  total population: 0.99 male(s)/female (2010 est.)
+
+Nicaragua
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 1 male(s)/female
+  65 years and over: 0.78 male(s)/female
+  total population: 1 male(s)/female (2010 est.)
+
+Niger
+  at birth: 1.03 male(s)/female
+  under 15 years: 1.02 male(s)/female
+  15-64 years: 0.99 male(s)/female
+  65 years and over: 0.8 male(s)/female
+  total population: 1 male(s)/female (2010 est.)
+
+Nigeria
+  at birth: 1.06 male(s)/female
+  under 15 years: 1.05 male(s)/female
+  15-64 years: 1.04 male(s)/female
+  65 years and over: 0.94 male(s)/female
+  total population: 1.04 male(s)/female (2010 est.)
+
+Niue
+  NA
+
+Norfolk Island
+  NA
+
+Northern Mariana Islands
+  at birth: 1.059 male(s)/female
+  under 15 years: 1.15 male(s)/female
+  15-64 years: 0.85 male(s)/female
+  65 years and over: 0.92 male(s)/female
+  total population: 0.93 male(s)/female (2010 est.)
+
+Norway
+  at birth: 1.054 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 1.03 male(s)/female
+  65 years and over: 0.76 male(s)/female
+  total population: 0.98 male(s)/female (2010 est.)
+
+Oman
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.05 male(s)/female
+  15-64 years: 1.34 male(s)/female
+  65 years and over: 1.06 male(s)/female
+  total population: 1.23 male(s)/female (2010 est.)
+
+Pakistan
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.06 male(s)/female
+  15-64 years: 1.09 male(s)/female
+  65 years and over: 0.92 male(s)/female
+  total population: 1.07 male(s)/female (2010 est.)
+
+Palau
+  at birth: 1.065 male(s)/female
+  under 15 years: 1.06 male(s)/female
+  15-64 years: 1.25 male(s)/female
+  65 years and over: 0.43 male(s)/female
+  total population: 1.13 male(s)/female (2010 est.)
+
+Panama
+  at birth: 1.045 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 1.02 male(s)/female
+  65 years and over: 0.87 male(s)/female
+  total population: 1.02 male(s)/female (2010 est.)
+
+Papua New Guinea
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.03 male(s)/female
+  15-64 years: 1.06 male(s)/female
+  65 years and over: 1.2 male(s)/female
+  total population: 1.06 male(s)/female (2010 est.)
+
+Paraguay
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.03 male(s)/female
+  15-64 years: 1.01 male(s)/female
+  65 years and over: 0.86 male(s)/female
+  total population: 1.01 male(s)/female (2010 est.)
+
+Peru
+  at birth: 1.046 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 1.01 male(s)/female
+  65 years and over: 0.89 male(s)/female
+  total population: 1.01 male(s)/female (2010 est.)
+
+Philippines
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 1 male(s)/female
+  65 years and over: 0.76 male(s)/female
+  total population: 1 male(s)/female (2010 est.)
+
+Pitcairn Islands
+  NA
+
+Poland
+  at birth: 1.061 male(s)/female
+  under 15 years: 1.06 male(s)/female
+  15-64 years: 0.99 male(s)/female
+  65 years and over: 0.62 male(s)/female
+  total population: 0.94 male(s)/female (2010 est.)
+
+Portugal
+  at birth: 1.067 male(s)/female
+  under 15 years: 1.09 male(s)/female
+  15-64 years: 1 male(s)/female
+  65 years and over: 0.7 male(s)/female
+  total population: 0.95 male(s)/female (2010 est.)
+
+Puerto Rico
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 0.93 male(s)/female
+  65 years and over: 0.75 male(s)/female
+  total population: 0.92 male(s)/female (2010 est.)
+
+Qatar
+  at birth: 1.056 male(s)/female
+  under 15 years: 1.06 male(s)/female
+  15-64 years: 2.44 male(s)/female
+  65 years and over: 1.36 male(s)/female
+  total population: 1.99 male(s)/female (2010 est.)
+
+Romania
+  at birth: 1.06 male(s)/female
+  under 15 years: 1.05 male(s)/female
+  15-64 years: 0.99 male(s)/female
+  65 years and over: 0.69 male(s)/female
+  total population: 0.95 male(s)/female (2010 est.)
+
+Russia
+  at birth: 1.06 male(s)/female
+  under 15 years: 1.06 male(s)/female
+  15-64 years: 0.92 male(s)/female
+  65 years and over: 0.44 male(s)/female
+  total population: 0.85 male(s)/female (2010 est.)
+
+Rwanda
+  at birth: 1.03 male(s)/female
+  under 15 years: 1.01 male(s)/female
+  15-64 years: 0.99 male(s)/female
+  65 years and over: 0.67 male(s)/female
+  total population: 0.99 male(s)/female (2010 est.)
+
+Saint Barthelemy
+  at birth: 1.053 male(s)/female
+  under 15 years: 1.06 male(s)/female
+  15-64 years: 1.19 male(s)/female
+  65 years and over: 0.98 male(s)/female
+  total population: 1.14 male(s)/female (2010 est.)
+
+Saint Helena, Ascension, and Tristan da Cunha
+  at birth: 1.049
+  male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 1.04 male(s)/female
+  65 years and over: 0.94 male(s)/female
+  total population: 1.02 male(s)/female (2010 est.)
+
+Saint Kitts and Nevis
+  at birth: 1.02 male(s)/female
+  under 15 years: 0.99 male(s)/female
+  15-64 years: 1.03 male(s)/female
+  65 years and over: 0.78 male(s)/female
+  total population: 1 male(s)/female (2010 est.)
+
+Saint Lucia
+  at birth: 1.055 male(s)/female
+  under 15 years: 1.05 male(s)/female
+  15-64 years: 0.94 male(s)/female
+  65 years and over: 0.82 male(s)/female
+  total population: 0.95 male(s)/female (2010 est.)
+
+Saint Martin
+  at birth: 1.04 male(s)/female
+  under 15 years: 0.99 male(s)/female
+  15-64 years: 0.91 male(s)/female
+  65 years and over: 0.82 male(s)/female
+  total population: 0.93 male(s)/female (2010 est.)
+
+Saint Pierre and Miquelon
+  at birth: 1.04 male(s)/female
+  under 15 years: 1.06 male(s)/female
+  15-64 years: 1.03 male(s)/female
+  65 years and over: 0.68 male(s)/female
+  total population: 0.98 male(s)/female (2010 est.)
+
+Saint Vincent and the Grenadines
+  at birth: 1.03 male(s)/female
+  under 15 years: 1.02 male(s)/female
+  15-64 years: 1.06 male(s)/female
+  65 years and over: 0.83 male(s)/female
+  total population: 1.03 male(s)/female (2010 est.)
+
+Samoa
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.07 male(s)/female
+  15-64 years: 1.08 male(s)/female
+  65 years and over: 0.8 male(s)/female
+  total population: 1.06 male(s)/female (2010 est.)
+
+San Marino
+  at birth: 1.086 male(s)/female
+  under 15 years: 1.14 male(s)/female
+  15-64 years: 0.94 male(s)/female
+  65 years and over: 0.8 male(s)/female
+  total population: 0.94 male(s)/female (2010 est.)
+
+Sao Tome and Principe
+  at birth: 1.03 male(s)/female
+  under 15 years: 1.03 male(s)/female
+  15-64 years: 0.97 male(s)/female
+  65 years and over: 0.86 male(s)/female
+  total population: 1 male(s)/female (2010 est.)
+
+Saudi Arabia
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 1.27 male(s)/female
+  65 years and over: 1.03 male(s)/female
+  total population: 1.17 male(s)/female (2010 est.)
+
+Senegal
+  at birth: 1.03 male(s)/female
+  under 15 years: 1.01 male(s)/female
+  15-64 years: 0.98 male(s)/female
+  65 years and over: 0.87 male(s)/female
+  total population: 0.99 male(s)/female (2010 est.)
+
+Serbia
+  at birth: 1.065 male(s)/female
+  under 15 years: 1.07 male(s)/female
+  15-64 years: 1 male(s)/female
+  65 years and above: 0.7 male(s)/female
+  total population: 0.95 male(s)/female (2010 est.)
+
+Seychelles
+  at birth: 1.031 male(s)/female
+  under 15 years: 1.05 male(s)/female
+  15-64 years: 1.09 male(s)/female
+  65 years and over: 0.6 male(s)/female
+  total population: 1.03 male(s)/female (2010 est.)
+
+Sierra Leone
+  at birth: 1.03 male(s)/female
+  under 15 years: 0.98 male(s)/female
+  15-64 years: 0.92 male(s)/female
+  65 years and over: 0.81 male(s)/female
+  total population: 0.94 male(s)/female (2010 est.)
+
+Singapore
+  at birth: 1.077 male(s)/female
+  under 15 years: 1.08 male(s)/female
+  15-64 years: 0.95 male(s)/female
+  65 years and over: 0.81 male(s)/female
+  total population: 0.95 male(s)/female (2010 est.)
+
+Sint Maarten
+  at birth: 0.98 male(s)/female
+  under 15 years: 0.96 male(s)/female
+  15-64 years: 0.92 male(s)/female
+  65 years and over: 0.81 male(s)/female
+  total population: 0.92 male(s)/female (2010)
+
+Slovakia
+  at birth: 1.051 male(s)/female
+  under 15 years: 1.05 male(s)/female
+  15-64 years: 0.99 male(s)/female
+  65 years and over: 0.6 male(s)/female
+  total population: 0.94 male(s)/female (2010 est.)
+
+Slovenia
+  at birth: 1.066 male(s)/female
+  under 15 years: 1.06 male(s)/female
+  15-64 years: 1.02 male(s)/female
+  65 years and over: 0.65 male(s)/female
+  total population: 0.95 male(s)/female (2010 est.)
+
+Solomon Islands
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 1.02 male(s)/female
+  65 years and over: 0.89 male(s)/female
+  total population: 1.02 male(s)/female (2010 est.)
+
+Somalia
+  at birth: 1.03 male(s)/female
+  under 15 years: 1 male(s)/female
+  15-64 years: 1 male(s)/female
+  65 years and over: 0.7 male(s)/female
+  total population: 1 male(s)/female (2010 est.)
+
+South Africa
+  at birth: 1.02 male(s)/female
+  under 15 years: 1 male(s)/female
+  15-64 years: 1.02 male(s)/female
+  65 years and over: 0.68 male(s)/female
+  total population: 0.99 male(s)/female (2010 est.)
+
+Spain
+  at birth: 1.065 male(s)/female
+  under 15 years: 1.06 male(s)/female
+  15-64 years: 1.01 male(s)/female
+  65 years and over: 0.72 male(s)/female
+  total population: 0.96 male(s)/female (2010 est.)
+
+Sri Lanka
+  at birth: 1.044 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 0.96 male(s)/female
+  65 years and over: 0.86 male(s)/female
+  total population: 0.97 male(s)/female (2010 est.)
+
+Sudan
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 1.01 male(s)/female
+  65 years and over: 1.05 male(s)/female
+  total population: 1.03 male(s)/female (2010 est.)
+
+Suriname
+  at birth: 1.068 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 0.99 male(s)/female
+  65 years and over: 0.75 male(s)/female
+  total population: 0.99 male(s)/female (2010 est.)
+
+Svalbard
+  NA
+
+Swaziland
+  at birth: 1.03 male(s)/female
+  under 15 years: 1.02 male(s)/female
+  15-64 years: 0.98 male(s)/female
+  65 years and over: 0.72 male(s)/female
+  total population: 0.99 male(s)/female (2010 est.)
+
+Sweden
+  at birth: 1.061 male(s)/female
+  under 15 years: 1.06 male(s)/female
+  15-64 years: 1.02 male(s)/female
+  65 years and over: 0.8 male(s)/female
+  total population: 0.98 male(s)/female (2010 est.)
+
+Switzerland
+  at birth: 1.054 male(s)/female
+  under 15 years: 1.08 male(s)/female
+  15-64 years: 1.02 male(s)/female
+  65 years and over: 0.72 male(s)/female
+  total population: 0.97 male(s)/female (2010 est.)
+
+Syria
+  at birth: 1.06 male(s)/female
+  under 15 years: 1.05 male(s)/female
+  15-64 years: 1.03 male(s)/female
+  65 years and over: 0.86 male(s)/female
+  total population: 1.03 male(s)/female (2010 est.)
+
+Taiwan
+  at birth: 1.086 male(s)/female
+  under 15 years: 1.08 male(s)/female
+  15-64 years: 1.02 male(s)/female
+  65 years and over: 0.92 male(s)/female
+  total population: 1.02 male(s)/female (2010 est.)
+
+Tajikistan
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 0.98 male(s)/female
+  65 years and over: 0.74 male(s)/female
+  total population: 0.99 male(s)/female (2010 est.)
+
+Tanzania
+  at birth: 1.03 male(s)/female
+  under 15 years: 1.01 male(s)/female
+  15-64 years: 0.98 male(s)/female
+  65 years and over: 0.77 male(s)/female
+  total population: 0.98 male(s)/female (2010 est.)
+
+Thailand
+  at birth: 1.054 male(s)/female
+  under 15 years: 1.05 male(s)/female
+  15-64 years: 0.98 male(s)/female
+  65 years and over: 0.82 male(s)/female
+  total population: 0.98 male(s)/female (2010 est.)
+
+Timor-Leste
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.03 male(s)/female
+  15-64 years: 1.04 male(s)/female
+  65 years and over: 0.9 male(s)/female
+  total population: 1.03 male(s)/female (2010 est.)
+
+Togo
+  at birth: 1.03 male(s)/female
+  under 15 years: 1 male(s)/female
+  15-64 years: 0.96 male(s)/female
+  65 years and over: 0.63 male(s)/female
+  total population: 0.97 male(s)/female (2010 est.)
+
+Tokelau
+  NA
+
+Tonga
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 0.99 male(s)/female
+  65 years and over: 0.7 male(s)/female
+  total population: 0.99 male(s)/female (2010 est.)
+
+Trinidad and Tobago
+  at birth: 1.028 male(s)/female
+  under 15 years: 1.05 male(s)/female
+  15-64 years: 1.06 male(s)/female
+  65 years and over: 0.75 male(s)/female
+  total population: 1.02 male(s)/female (2010 est.)
+
+Tunisia
+  at birth: 1.073 male(s)/female
+  under 15 years: 1.07 male(s)/female
+  15-64 years: 1.01 male(s)/female
+  65 years and over: 0.86 male(s)/female
+  total population: 1.01 male(s)/female (2010 est.)
+
+Turkey
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.05 male(s)/female
+  15-64 years: 1.02 male(s)/female
+  65 years and over: 0.84 male(s)/female
+  total population: 1.02 male(s)/female (2010 est.)
+
+Turkmenistan
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.02 male(s)/female
+  15-64 years: 0.98 male(s)/female
+  65 years and over: 0.77 male(s)/female
+  total population: 0.98 male(s)/female (2010 est.)
+
+Turks and Caicos Islands
+  at birth: 1.047 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 1.1 male(s)/female
+  65 years and over: 0.98 male(s)/female
+  total population: 1.07 male(s)/female (2010 est.)
+
+Tuvalu
+  at birth: 1.051 male(s)/female
+  under 15 years: 1.06 male(s)/female
+  15-64 years: 0.95 male(s)/female
+  65 years and over: 0.73 male(s)/female
+  total population: 0.97 male(s)/female (2010 est.)
+
+Uganda
+  at birth: 1.03 male(s)/female
+  under 15 years: 1.01 male(s)/female
+  15-64 years: 1.01 male(s)/female
+  65 years and over: 0.7 male(s)/female
+  total population: 1.01 male(s)/female (2010 est.)
+
+Ukraine
+  at birth: 1.065 male(s)/female
+  under 15 years: 1.06 male(s)/female
+  15-64 years: 0.92 male(s)/female
+  65 years and over: 0.49 male(s)/female
+  total population: 0.85 male(s)/female (2010 est.)
+
+United Arab Emirates
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.05 male(s)/female
+  15-64 years: 2.75 male(s)/female
+  65 years and over: 1.8 male(s)/female
+  total population: 2.2 male(s)/female (2010 est.)
+
+United Kingdom
+  at birth: 1.052 male(s)/female
+  under 15 years: 1.05 male(s)/female
+  15-64 years: 1.03 male(s)/female
+  65 years and over: 0.76 male(s)/female
+  total population: 0.98 male(s)/female (2010 est.)
+
+United States
+  at birth: 1.047 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 1 male(s)/female
+  65 years and over: 0.75 male(s)/female
+  total population: 0.97 male(s)/female (2010 est.)
+
+Uruguay
+  at birth: 1.037 male(s)/female
+  under 15 years: 1.03 male(s)/female
+  15-64 years: 0.99 male(s)/female
+  65 years and over: 0.67 male(s)/female
+  total population: 0.95 male(s)/female (2010 est.)
+
+Uzbekistan
+  at birth: 1.06 male(s)/female
+  under 15 years: 1.05 male(s)/female
+  15-64 years: 0.99 male(s)/female
+  65 years and over: 0.75 male(s)/female
+  total population: 0.99 male(s)/female (2010 est.)
+
+Vanuatu
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 1.04 male(s)/female
+  65 years and over: 1.05 male(s)/female
+  total population: 1.04 male(s)/female (2010 est.)
+
+Venezuela
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.03 male(s)/female
+  15-64 years: 0.97 male(s)/female
+  65 years and over: 0.79 male(s)/female
+  total population: 0.98 male(s)/female (2010 est.)
+
+Vietnam
+  at birth: 1.115 male(s)/female
+  under 15 years: 1.1 male(s)/female
+  15-64 years: 0.99 male(s)/female
+  65 years and over: 0.62 male(s)/female
+  total population: 0.99 male(s)/female (2010 est.)
+
+Virgin Islands
+  at birth: 1.059 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 0.87 male(s)/female
+  65 years and over: 0.83 male(s)/female
+  total population: 0.9 male(s)/female (2010 est.)
+
+Wallis and Futuna
+  at birth: 1.057 male(s)/female
+  under 15 years: 1.1 male(s)/female
+  15-64 years: 1.01 male(s)/female
+  65 years and over: 0.85 male(s)/female
+  total population: 1.02 male(s)/female (2010 est.)
+
+West Bank
+  at birth: 1.06 male(s)/female
+  under 15 years: 1.05 male(s)/female
+  15-64 years: 1.05 male(s)/female
+  65 years and over: 0.71 male(s)/female
+  total population: 1.04 male(s)/female (2010 est.)
+
+Western Sahara
+  at birth: 1.04 male(s)/female
+  under 15 years: 1.02 male(s)/female
+  15-64 years: 0.97 male(s)/female
+  65 years and over: 0.78 male(s)/female
+  total population: 0.98 male(s)/female (2010 est.)
+
+World
+  at birth: 1.07 male(s)/female
+  under 15 years: 1.07 male(s)/female
+  15-64 years: 1.02 male(s)/female
+  65 years and over: 0.79 male(s)/female
+  total population: 1.01 male(s)/female (2009 est.)
+
+Yemen
+  at birth: 1.05 male(s)/female
+  under 15 years: 1.04 male(s)/female
+  15-64 years: 1.03 male(s)/female
+  65 years and over: 0.91 male(s)/female
+  total population: 1.03 male(s)/female (2010 est.)
+
+Zambia
+  at birth: 1.03 male(s)/female
+  under 15 years: 1.01 male(s)/female
+  15-64 years: 1.01 male(s)/female
+  65 years and over: 0.68 male(s)/female
+  total population: 1 male(s)/female (2010 est.)
+
+Zimbabwe
+  at birth: 1.03 male(s)/female
+  under 15 years: 1.02 male(s)/female
+  15-64 years: 0.83 male(s)/female
+  65 years and over: 0.75 male(s)/female
+  total population: 0.91 male(s)/female (2010 est.)
+
+
+
+
+======================================================================
+
+
+
+
+

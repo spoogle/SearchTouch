@@ -17,6 +17,9 @@ julianrichardson@acm.org. Contributions are very welcome. Please contact
 me if you would like to contribute, or if you have bug reports,
 questions or suggestions.
 
+The *world_factbook/* directory contains files extracted from a text version
+of the 2010 CIA World Factbook, which can be used for testing the search code.
+
 ## Incorporating into your project
 
 The *src/* directory contains all the files needed to incorporate a
@@ -39,8 +42,10 @@ The code is currently set up to use ARC.
 ## Building an index
 
 You must supply the path to a file which contains a list of files to
-index, separated by newlines. Each line in that file list should be a
-full path name. For example, if the contents of */Users/you/files.txt* is:
+index, separated by newlines. If any of the filenames is not specified
+using an absolute path, then it is assumed to be a file in the same
+directory as the file list. For example, if the contents of
+*/Users/you/files.txt* is:
 
      /Users/you/world_factbook/2001.txt
      /Users/you/world_factbook/2002.txt
@@ -138,6 +143,20 @@ system - it will probably be in *~/Documents/DataModel.sqlite*. Drag
 this into your project folder and make sure the boxes are checked for
 "Copy files into group's destination folder" and for adding to the
 appropriate build target.
+
+## Testing the code
+
+To test the code using the CIA World Factbook 2010 text, edit *main.m*
+(for the MacOSX target) or *SearchViewController.m* (for the iOS
+target), changing the argument to *initWithFilenamesFromFile:* to
+specify the full pathname to the list file in the *world_factbook*
+directory. You should now be able to build and run the MacOSX targets
+and, on the simulator, iOS targets. If you would like to run the example
+on an iOS device, then you will either need to have the *world_factbook*
+directory copied onto the iOS device and an appropriate filename
+specified in *initWithFilenamesFromFile:*, or you will need to build an
+index using the MacOSX target, and then drop it into the iOS build
+target as described in the previous section.
 
 ## Stop Words
 

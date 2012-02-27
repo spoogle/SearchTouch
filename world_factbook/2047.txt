@@ -1,0 +1,924 @@
+2047
+
+
+Field Listing :: Household income or consumption by percentage share
+
+  Data on household income or consumption come from household surveys,
+  the results adjusted for household size. Nations use different
+  standards and procedures in collecting and adjusting the data.
+  Surveys based on income will normally show a more unequal
+  distribution than surveys based on consumption. The quality of
+  surveys is improving with time, yet caution is still necessary in
+  making inter-country comparisons.
+  Country
+
+
+  Household income or consumption by percentage share(%)
+
+Afghanistan
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Albania
+  lowest 10%: 3.2%
+  highest 10%: 25.9% (2005)
+
+Algeria
+  lowest 10%: 2.8%
+  highest 10%: 26.8% (1995)
+
+American Samoa
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Andorra
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Angola
+  lowest 10%: 0.6%
+  highest 10%: 44.7% (2000)
+
+Anguilla
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Antigua and Barbuda
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Argentina
+  lowest 10%: 1.2%
+  highest 10%: 32.6% (2009)
+
+Armenia
+  lowest 10%: 1.6%
+  highest 10%: 41.3% (2004)
+
+Aruba
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Australia
+  lowest 10%: 2%
+  highest 10%: 25.4% (1994)
+
+Austria
+  lowest 10%: 4%
+  highest 10%: 22% (2007)
+
+Azerbaijan
+  lowest 10%: 6.1%
+  highest 10%: 17.5% (2005)
+
+Bahamas, The
+  lowest 10%: NA%
+  highest 10%: 27% (2000)
+
+Bahrain
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Bangladesh
+  lowest 10%: 8.8%
+  highest 10%: 26.6% (2008 est.)
+
+Barbados
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Belarus
+  lowest 10%: 3.6%
+  highest 10%: 22% (2005)
+
+Belgium
+  lowest 10%: 3.4%
+  highest 10%: 28.4% (2006)
+
+Belize
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Benin
+  lowest 10%: 3.1%
+  highest 10%: 29% (2003)
+
+Bermuda
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Bhutan
+  lowest 10%: 2.3%
+  highest 10%: 37.6% (2003)
+
+Bolivia
+  lowest 10%: 0.5%
+  highest 10%: 44.1% (2005)
+
+Bosnia and Herzegovina
+  lowest 10%: 2.8%
+  highest 10%: 27.4% (2004)
+
+Botswana
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Brazil
+  lowest 10%: 1.1%
+  highest 10%: 43% (2007)
+
+British Virgin Islands
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Brunei
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Bulgaria
+  lowest 10%: 2.9%
+  highest 10%: 24.1% (2008)
+
+Burkina Faso
+  lowest 10%: 2.8%
+  highest 10%: 32.2% (2004)
+
+Burma
+  lowest 10%: 2.8%
+  highest 10%: 32.4% (1998)
+
+Burundi
+  lowest 10%: 4.1%
+  highest 10%: 28% (2006)
+
+Cambodia
+  lowest 10%: 3%
+  highest 10%: 34.2% (2007)
+
+Cameroon
+  lowest 10%: 2.3%
+  highest 10%: 35.4% (2001)
+
+Canada
+  lowest 10%: 2.6%
+  highest 10%: 24.8% (2000)
+
+Cape Verde
+  lowest 10%: 1.9%
+  highest 10%: 40.6% (2000)
+
+Cayman Islands
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Central African Republic
+  lowest 10%: 2.1%
+  highest 10%: 33% (2003)
+
+Chad
+  lowest 10%: 2.6%
+  highest 10%: 30.8% (2003)
+
+Chile
+  lowest 10%: 1.6%
+  highest 10%: 41.7% (2006)
+
+China
+  lowest 10%: 3.5%
+  highest 10%: 15%
+  note: data are for urban households only (2008)
+
+Colombia
+  lowest 10%: 0.8%
+  highest 10%: 45% (2008)
+
+Comoros
+  lowest 10%: 0.9%
+  highest 10%: 55.2% (2004)
+
+Congo, Democratic Republic of the
+  lowest 10%: 2.3%
+  highest 10%: 34.7% (2006)
+
+Congo, Republic of the
+  lowest 10%: 2.1%
+  highest 10%: 37.1% (2005)
+
+Cook Islands
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Costa Rica
+  lowest 10%: 1.5%
+  highest 10%: 35.5% (2005)
+
+Cote d'Ivoire
+  lowest 10%: 2%
+  highest 10%: 34% (2002)
+
+Croatia
+  lowest 10%: 3.6%
+  highest 10%: 23.1% (2005 est.)
+
+Cuba
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Cyprus
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Czech Republic
+  lowest 10%: 4.3%
+  highest 10%: 22.4% (1996)
+
+Denmark
+  lowest 10%: 1.9%
+  highest 10%: 28.7% (2007)
+
+Djibouti
+  lowest 10%: 2.4%
+  highest 10%: 30.9% (2002)
+
+Dominica
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Dominican Republic
+  lowest 10%: 1.5%
+  highest 10%: 38.7% (2005)
+
+Ecuador
+  lowest 10%: 1.2%
+  highest 10%: 43.3%
+  note: data for urban households only (2007)
+
+Egypt
+  lowest 10%: 3.9%
+  highest 10%: 27.6% (2005)
+
+El Salvador
+  lowest 10%: 1%
+  highest 10%: 37% (2005)
+
+Equatorial Guinea
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Eritrea
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Estonia
+  lowest 10%: 2.7%
+  highest 10%: 27.7% (2004)
+
+Ethiopia
+  lowest 10%: 4.1%
+  highest 10%: 25.6% (2005)
+
+European Union
+  lowest 10%: 2.9%
+  highest 10%: 25.6% (2002 est.)
+
+Falkland Islands (Islas Malvinas)
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Faroe Islands
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Fiji
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Finland
+  lowest 10%: 3.6%
+  highest 10%: 24.7% (2007)
+
+France
+  lowest 10%: 3%
+  highest 10%: 24.8% (2004)
+
+French Polynesia
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Gabon
+  lowest 10%: 2.5%
+  highest 10%: 32.7% (2005)
+
+Gambia, The
+  lowest 10%: 2%
+  highest 10%: 36.9% (2003)
+
+Georgia
+  lowest 10%: 1.9%
+  highest 10%: 30.6% (2008)
+
+Germany
+  lowest 10%: 3.6%
+  highest 10%: 24% (2000)
+
+Ghana
+  lowest 10%: 2%
+  highest 10%: 32.8% (2006)
+
+Gibraltar
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Greece
+  lowest 10%: 2.5%
+  highest 10%: 26% (2000 est.)
+
+Greenland
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Grenada
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Guam
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Guatemala
+  lowest 10%: 1.3%
+  highest 10%: 42.4% (2006)
+
+Guernsey
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Guinea
+  lowest 10%: 1.9%
+  highest 10%: 41% (2006)
+
+Guinea-Bissau
+  lowest 10%: 2.9%
+  highest 10%: 28% (2002)
+
+Guyana
+  lowest 10%: 1.3%
+  highest 10%: 33.8% (1999)
+
+Haiti
+  lowest 10%: 0.7%
+  highest 10%: 47.7% (2001)
+
+Honduras
+  lowest 10%: 0.7%
+  highest 10%: 42.2% (2006)
+
+Hong Kong
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Hungary
+  lowest 10%: 3.5%
+  highest 10%: 24.1% (2004)
+
+Iceland
+  lowest 10%: NA%
+  highest 10%: NA%
+
+India
+  lowest 10%: 3.6%
+  highest 10%: 31.1% (2005)
+
+Indonesia
+  lowest 10%: 3%
+  highest 10%: 32.3% (2006)
+
+Iran
+  lowest 10%: 2.6%
+  highest 10%: 29.6% (2005)
+
+Iraq
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Ireland
+  lowest 10%: 2.9%
+  highest 10%: 27.2% (2000)
+
+Isle of Man
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Israel
+  lowest 10%: 2.5%
+  highest 10%: 24.3% (2008)
+
+Italy
+  lowest 10%: 2.3%
+  highest 10%: 26.8% (2000)
+
+Jamaica
+  lowest 10%: 2.1%
+  highest 10%: 35.8% (2004)
+
+Japan
+  lowest 10%: 4.8%
+  highest 10%: 21.7% (1993)
+
+Jersey
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Jordan
+  lowest 10%: 3%
+  highest 10%: 30.7% (2006)
+
+Kazakhstan
+  lowest 10%: 3.3%
+  highest 10%: 26.5% (2004 est.)
+
+Kenya
+  lowest 10%: 1.8%
+  highest 10%: 37.8% (2005)
+
+Kiribati
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Korea, North
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Korea, South
+  lowest 10%: 2.7%
+  highest 10%: 24.2% (2007)
+
+Kuwait
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Kyrgyzstan
+  lowest 10%: 3.6%
+  highest 10%: 25.9% (2004)
+
+Laos
+  lowest 10%: 3.4%
+  highest 10%: 28.5% (2002)
+
+Latvia
+  lowest 10%: 2.7%
+  highest 10%: 27.4% (2004)
+
+Lebanon
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Lesotho
+  lowest 10%: 1%
+  highest 10%: 39.4% (2003)
+
+Liberia
+  lowest 10%: 2.4%
+  highest 10%: 30.1% (2007)
+
+Libya
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Liechtenstein
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Lithuania
+  lowest 10%: 2.7%
+  highest 10%: 27.4% (2004)
+
+Luxembourg
+  lowest 10%: 3.5%
+  highest 10%: 23.8% (2000)
+
+Macau
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Macedonia
+  lowest 10%: 2.4%
+  highest 10%: 29.6% (2003)
+
+Madagascar
+  lowest 10%: 2.6%
+  highest 10%: 41.5% (2005)
+
+Malawi
+  lowest 10%: 3%
+  highest 10%: 31.9% (2004)
+
+Malaysia
+  lowest 10%: 2.6%
+  highest 10%: 28.5% (2005 est.)
+
+Maldives
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Mali
+  lowest 10%: 2.7%
+  highest 10%: 30.5% (2006)
+
+Malta
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Marshall Islands
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Mauritania
+  lowest 10%: 2.5%
+  highest 10%: 29.5% (2000)
+
+Mauritius
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Mayotte
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Mexico
+  lowest 10%: 1.7%
+  highest 10%: 36.3% (2008)
+
+Micronesia, Federated States of
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Moldova
+  lowest 10%: 3%
+  highest 10%: 28.2% (2004)
+
+Monaco
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Mongolia
+  lowest 10%: 2.9%
+  highest 10%: 24.9% (2005)
+
+Montserrat
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Morocco
+  lowest 10%: 2.7%
+  highest 10%: 33.2% (2007)
+
+Mozambique
+  lowest 10%: 2.1%
+  highest 10%: 39.2% (2003)
+
+Namibia
+  lowest 10%: 1.1%
+  highest 10%: 53% (2008)
+
+Nauru
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Nepal
+  lowest 10%: 6%
+  highest 10%: 40.6% (2008)
+
+Netherlands
+  lowest 10%: 2.5%
+  highest 10%: 22.9% (1999)
+
+New Caledonia
+  lowest 10%: NA%
+  highest 10%: NA%
+
+New Zealand
+  lowest 10%: %NA
+  highest 10%: %NA
+
+Nicaragua
+  lowest 10%: 1.4%
+  highest 10%: 41.8% (2005)
+
+Niger
+  lowest 10%: 2.3%
+  highest 10%: 35.7% (2005)
+
+Nigeria
+  lowest 10%: 2%
+  highest 10%: 32.4% (2004)
+
+Niue
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Northern Mariana Islands
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Norway
+  lowest 10%: 3.9%
+  highest 10%: 23.4% (2000)
+
+Oman
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Pakistan
+  lowest 10%: 3.9%
+  highest 10%: 26.5% (2005)
+
+Palau
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Panama
+  lowest 10%: 0.8%
+  highest 10%: 41.4% (2006)
+
+Papua New Guinea
+  lowest 10%: 1.7%
+  highest 10%: 40.5% (1996)
+
+Paraguay
+  lowest 10%: 1.1%
+  highest 10%: 42.3% (2007)
+
+Peru
+  lowest 10%: 1.5%
+  highest 10%: 37.9% (2006)
+
+Philippines
+  lowest 10%: 2.4%
+  highest 10%: 31.2% (2006)
+
+Poland
+  lowest 10%: 3%
+  highest 10%: 27.2% (2005)
+
+Portugal
+  lowest 10%: 3.1%
+  highest 10%: 28.4% (1995 est.)
+
+Puerto Rico
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Qatar
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Romania
+  lowest 10%: 1.2%
+  highest 10%: 20.8% (2006)
+
+Russia
+  lowest 10%: 1.9%
+  highest 10%: 30.4% (September 2007)
+
+Rwanda
+  lowest 10%: 2.1%
+  highest 10%: 38.2% (2000)
+
+Saint Helena, Ascension, and Tristan da Cunha
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Saint Kitts and Nevis
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Saint Lucia
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Saint Pierre and Miquelon
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Saint Vincent and the Grenadines
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Samoa
+  lowest 10%: NA%
+  highest 10%: NA%
+
+San Marino
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Sao Tome and Principe
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Saudi Arabia
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Senegal
+  lowest 10%: 2.5%
+  highest 10%: 30.1% (2005)
+
+Seychelles
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Sierra Leone
+  lowest 10%: 2.6%
+  highest 10%: 33.6% (2003)
+
+Singapore
+  lowest 10%: 4.4%
+  highest 10%: 23.2% (2008)
+
+Slovakia
+  lowest 10%: 3.1%
+  highest 10%: 20.9% (1996)
+
+Slovenia
+  lowest 10%: 3.4%
+  highest 10%: 24.6% (2004)
+
+Solomon Islands
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Somalia
+  lowest 10%: NA%
+  highest 10%: NA%
+
+South Africa
+  lowest 10%: 1.3%
+  highest 10%: 44.7% (2000)
+
+Spain
+  lowest 10%: 2.6%
+  highest 10%: 26.6% (2000)
+
+Sri Lanka
+  lowest 10%: 1.1%
+  highest 10%: 39.7% (2004)
+
+Sudan
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Suriname
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Swaziland
+  lowest 10%: 1.6%
+  highest 10%: 40.7% (2001)
+
+Sweden
+  lowest 10%: 3.6%
+  highest 10%: 22.2% (2000)
+
+Switzerland
+  lowest 10%: 7.5%
+  highest 10%: 19% (2007)
+
+Syria
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Taiwan
+  lowest 10%: NA
+  highest 10%: 41.1% (2002)
+
+Tajikistan
+  lowest 10%: 3.3%
+  highest 10%: 25.6% (2007 est.)
+
+Tanzania
+  lowest 10%: 2.9%
+  highest 10%: 26.9% (2000)
+
+Thailand
+  lowest 10%: 1.6%
+  highest 10%: 33.7% (2006)
+
+Timor-Leste
+  lowest 10%: 2.9%
+  highest 10%: 31.3% (2001)
+
+Togo
+  lowest 10%: 3.3%
+  highest 10%: 27.1% (2006)
+
+Tonga
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Trinidad and Tobago
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Tunisia
+  lowest 10%: 2.3%
+  highest 10%: 31.5% (2000)
+
+Turkey
+  lowest 10%: 1.9%
+  highest 10%: 33.2% (2005)
+
+Turkmenistan
+  lowest 10%: 2.6%
+  highest 10%: 31.7% (1998)
+
+Turks and Caicos Islands
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Tuvalu
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Uganda
+  lowest 10%: 2.6%
+  highest 10%: 34.1% (2005)
+
+Ukraine
+  lowest 10%: 3.4%
+  highest 10%: 25.7% (2006)
+
+United Arab Emirates
+  lowest 10%: NA%
+  highest 10%: NA%
+
+United Kingdom
+  lowest 10%: 2.1%
+  highest 10%: 28.5% (1999)
+
+United States
+  lowest 10%: 2%
+  highest 10%: 30% (2007 est.)
+
+Uruguay
+  lowest 10%: 1.7%
+  highest 10%: 34.8% (2006)
+
+Uzbekistan
+  lowest 10%: 2.8%
+  highest 10%: 29.6% (2003)
+
+Vanuatu
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Venezuela
+  lowest 10%: 1.7%
+  highest 10%: 32.7% (2006)
+
+Vietnam
+  lowest 10%: 3.1%
+  highest 10%: 29.8% (2006)
+
+Virgin Islands
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Wallis and Futuna
+  lowest 10%: NA%
+  highest 10%: NA%
+
+West Bank
+  lowest 10%: NA%
+  highest 10%: NA%
+
+Western Sahara
+  lowest 10%: NA%
+  highest 10%: NA%
+
+World
+  lowest 10%: 2.7%
+  highest 10%: 27.3% (2005 est.)
+
+Yemen
+  lowest 10%: 2.9%
+  highest 10%: 30.8% (2005)
+
+Zambia
+  lowest 10%: 1.2%
+  highest 10%: 38.8% (2004)
+
+Zimbabwe
+  lowest 10%: 2%
+  highest 10%: 40.4% (1995)
+
+
+
+
+======================================================================
+
+
+
+
+

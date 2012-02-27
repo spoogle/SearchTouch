@@ -1,0 +1,738 @@
+2150
+
+
+Field Listing :: Telephones - main lines in use
+
+  This entry gives the total number of main telephone lines in use.
+  Country Comparison to the World
+  Country
+
+
+  Telephones - main lines in use
+
+Afghanistan
+  129,300 (2009)
+
+Albania
+  363,000 (2009)
+
+Algeria
+  2.576 million (2009)
+
+American Samoa
+  10,400 (2009)
+
+Andorra
+  37,900 (2009)
+
+Angola
+  303,200 (2009)
+
+Anguilla
+  6,300 (2009)
+
+Antarctica
+  0; note - information for US bases only (2001)
+
+Antigua and Barbuda
+  37,400 (2009)
+
+Argentina
+  9.764 million (2009)
+
+Armenia
+  630,000 (2009)
+
+Aruba
+  38,300 (2009)
+
+Australia
+  9.02 million (2009)
+
+Austria
+  3.253 million (2009)
+
+Azerbaijan
+  1.397 million (2009)
+
+Bahamas, The
+  129,000 (2009)
+
+Bahrain
+  238,400 (2009)
+
+Bangladesh
+  1.522 million (2009)
+
+Barbados
+  135,700 (2009)
+
+Belarus
+  3.969 million (2009)
+
+Belgium
+  4,255 (2009)
+
+Belize
+  31,200 (2009)
+
+Benin
+  127,100 (2009)
+
+Bermuda
+  57,700 (2009)
+
+Bhutan
+  26,300 (2009)
+
+Bolivia
+  810,200 (2009)
+
+Bosnia and Herzegovina
+  998,600 (2009)
+
+Botswana
+  144,200 (2009)
+
+Brazil
+  41.497 million (2009)
+
+British Indian Ocean Territory
+  NA
+
+British Virgin Islands
+  20,100 (2009)
+
+Brunei
+  80,500 (2009)
+
+Bulgaria
+  2.164 million (2009)
+
+Burkina Faso
+  167,000 (2009)
+
+Burma
+  812,000 (2009)
+
+Burundi
+  31,500 (2009)
+
+Cambodia
+  54,200 (2009)
+
+Cameroon
+  323,800 (2009)
+
+Canada
+  18.251 million (2009)
+
+Cape Verde
+  72,200 (2009)
+
+Cayman Islands
+  38,000 (2009)
+
+Central African Republic
+  12,000 (2009)
+
+Chad
+  13,000 (2009)
+
+Chile
+  3.575 million (2009)
+
+China
+  313.68 million (2009)
+
+Christmas Island
+  NA
+
+Cocos (Keeling) Islands
+  287 (1992)
+
+Colombia
+  7.5 million (2009)
+
+Comoros
+  25,400 (2009)
+
+Congo, Democratic Republic of the
+  40,000 (2009)
+
+Congo, Republic of the
+  24,300 (2009)
+
+Cook Islands
+  6,900 (2009)
+
+Costa Rica
+  1.493 million (2009)
+
+Cote d'Ivoire
+  282,100 (2009)
+
+Croatia
+  1.859 million (2009)
+
+Cuba
+  1.168 million (2009)
+
+Cyprus
+  area under government control: 414,500 (2009); area
+  administered by Turkish Cypriots: 86,228 (2002)
+
+Czech Republic
+  2.092 million (2009)
+
+Denmark
+  2.062 million (2009)
+
+Djibouti
+  16,800 (2009)
+
+Dominica
+  17,500 (2009)
+
+Dominican Republic
+  965,400 (2009)
+
+Ecuador
+  2.004 million (2009)
+
+Egypt
+  10.313 million (2009)
+
+El Salvador
+  1.099 million (2009)
+
+Equatorial Guinea
+  10,000 (2009)
+
+Eritrea
+  48,500 (2009)
+
+Estonia
+  492,800 (2009)
+
+Ethiopia
+  915,100 (2009)
+
+European Union
+  238 million (2005)
+
+Falkland Islands (Islas Malvinas)
+  2,000 (2009)
+
+Faroe Islands
+  20,900 (2009)
+
+Fiji
+  136,800 (2009)
+
+Finland
+  1.43 million (2009)
+
+France
+  36.431 million; 35.5 million (metropolitan France) (2009)
+
+French Polynesia
+  54,300 (2009)
+
+Gabon
+  26,500 (2009)
+
+Gambia, The
+  49,000 (2009)
+
+Gaza Strip
+  360,400 (includes West Bank) (2010)
+
+Georgia
+  620,000 (2009)
+
+Germany
+  48.7 million (2009)
+
+Ghana
+  267,400 (2009)
+
+Gibraltar
+  24,000 (2009)
+
+Greece
+  5.93 million (2009)
+
+Greenland
+  22,000 (2009)
+
+Grenada
+  28,600 (2009)
+
+Guam
+  65,500 (2009)
+
+Guatemala
+  1.413 million (2009)
+
+Guernsey
+  45,100 (2009)
+
+Guinea
+  22,000 (2009)
+
+Guinea-Bissau
+  4,800 (2009)
+
+Guyana
+  130,000 (2009)
+
+Haiti
+  108,300 (2009)
+
+Holy See (Vatican City)
+  5,120 (2005)
+
+Honduras
+  830,000 (2009)
+
+Hong Kong
+  4.188 million (2009)
+
+Hungary
+  3.069 million (2009)
+
+Iceland
+  185,200 (2009)
+
+India
+  35.77 million (2010)
+
+Indonesia
+  33.958 million (2009)
+
+Iran
+  25.804 million (2009)
+
+Iraq
+  1.108 million (2009)
+
+Ireland
+  2.08 million (2009)
+
+Isle of Man
+  51,000 (1999)
+
+Israel
+  3.25 million (2009)
+
+Italy
+  21.3 million (2009)
+
+Jamaica
+  302,300 (2009)
+
+Japan
+  44.364 million (2009)
+
+Jersey
+  73,900 (2009)
+
+Jordan
+  501,200 (2009)
+
+Kazakhstan
+  3.763 million (2009)
+
+Kenya
+  664,100 (2009)
+
+Kiribati
+  4,000 (2009)
+
+Korea, North
+  1.18 million (2008)
+
+Korea, South
+  19.289 million (2009)
+
+Kosovo
+  106,300 (2006)
+
+Kuwait
+  553,500 (2009)
+
+Kyrgyzstan
+  498,300 (2009)
+
+Laos
+  132,200 (2009)
+
+Latvia
+  644,000 (2009)
+
+Lebanon
+  750,000 (2009)
+
+Lesotho
+  40,000 (2009)
+
+Liberia
+  2,000 (2009)
+
+Libya
+  1.101 million (2009)
+
+Liechtenstein
+  19,600 (2009)
+
+Lithuania
+  747,400 (2009)
+
+Luxembourg
+  273,600 (2009)
+
+Macau
+  168,903 (2010)
+
+Macedonia
+  442,200 (2009)
+
+Madagascar
+  181,200 (2009)
+
+Malawi
+  175,000 (2009)
+
+Malaysia
+  4.312 million (2009)
+
+Maldives
+  49,913 (2009)
+
+Mali
+  81,000 (2009)
+
+Malta
+  252,700 (2009)
+
+Marshall Islands
+  4,400 (2009)
+
+Mauritania
+  74,500 (2009)
+
+Mauritius
+  379,100 (2009)
+
+Mayotte
+  10,000 (2009)
+
+Mexico
+  19.425 million (2009)
+
+Micronesia, Federated States of
+  8,700 (2009)
+
+Moldova
+  1.139 million (2009)
+
+Monaco
+  35,400 (2009)
+
+Mongolia
+  188,900 (2009)
+
+Montenegro
+  366,600 (2009)
+
+Montserrat
+  2,700 (2009)
+
+Morocco
+  3.516 million (2009)
+
+Mozambique
+  82,400 (2009)
+
+Namibia
+  142,100 (2009)
+
+Nauru
+  1,900 (2009)
+
+Nepal
+  820,500 (2009)
+
+Netherlands
+  7.32 million (2009)
+
+New Caledonia
+  65,900 (2009)
+
+New Zealand
+  1.87 million (2009)
+
+Nicaragua
+  255,000 (2009)
+
+Niger
+  65,000 (2009)
+
+Nigeria
+  1.419 million (2009)
+
+Niue
+  1,100 (2009)
+
+Norfolk Island
+  2,532; note - a mix of analog (2,500) and digital
+  (32) circuits (2004)
+
+Northern Mariana Islands
+  25,100 (2009)
+
+Norway
+  1.9 million (2009)
+
+Oman
+  300,100 (2009)
+
+Pakistan
+  4.058 million (2009)
+
+Palau
+  7,100 (2009)
+
+Panama
+  537,100 (2009)
+
+Papua New Guinea
+  60,000 (2009)
+
+Paraguay
+  387,300 (2009)
+
+Peru
+  2.965 million (2009)
+
+Philippines
+  4.1 million (2009)
+
+Pitcairn Islands
+  1 (there are 17 telephones on one party line);
+  (2004)
+
+Poland
+  9.556 million (2009)
+
+Portugal
+  4.049 million (2009)
+
+Puerto Rico
+  870,100 (2009)
+
+Qatar
+  285,300 (2009)
+
+Romania
+  5.313 million (2009)
+
+Russia
+  44.802 million (2009)
+
+Rwanda
+  33,500 (2009)
+
+Saint Helena, Ascension, and Tristan da Cunha
+  2,900 (2009)
+
+Saint Kitts and Nevis
+  20,500 (2009)
+
+Saint Lucia
+  41,000 (2009)
+
+Saint Pierre and Miquelon
+  4,800 (2009)
+
+Saint Vincent and the Grenadines
+  23,000 (2009)
+
+Samoa
+  31,900 (2009)
+
+San Marino
+  21,500 (2009)
+
+Sao Tome and Principe
+  7,800 (2009)
+
+Saudi Arabia
+  4.171 million (2009)
+
+Senegal
+  278,800 (2009)
+
+Serbia
+  3.106 million (2009)
+
+Seychelles
+  22,100 (2009)
+
+Sierra Leone
+  32,800 (2009)
+
+Singapore
+  1.852 million (2009)
+
+Sint Maarten
+  5,153 (2001)
+
+Slovakia
+  1.022 million (2009)
+
+Slovenia
+  1.034 million (2009)
+
+Solomon Islands
+  8,200 (2009)
+
+Somalia
+  100,000 (2009)
+
+South Africa
+  4.32 million (2009)
+
+Spain
+  20.057 million (2009)
+
+Sri Lanka
+  3.523 million (2010)
+
+Sudan
+  370,400 (2009)
+
+Suriname
+  83,700 (2009)
+
+Svalbard
+  NA
+
+Swaziland
+  44,000 (2009)
+
+Sweden
+  5.146 million (2009)
+
+Switzerland
+  4.65 million (2009)
+
+Syria
+  3.871 million (2009)
+
+Taiwan
+  14.596 million (2009)
+
+Tajikistan
+  290,000 (2009)
+
+Tanzania
+  173,552 (2010)
+
+Thailand
+  7.024 million (2009)
+
+Timor-Leste
+  2,400 (2009)
+
+Togo
+  178,700 (2009)
+
+Tokelau
+  300 (2009)
+
+Tonga
+  31,000 (2009)
+
+Trinidad and Tobago
+  314,800 (2009)
+
+Tunisia
+  1.279 million (2009)
+
+Turkey
+  16.534 million (2009)
+
+Turkmenistan
+  478,000 (2009)
+
+Turks and Caicos Islands
+  3,700 (2009)
+
+Tuvalu
+  1,700 (2009)
+
+Uganda
+  233,500 (2009)
+
+Ukraine
+  13.026 million (2009)
+
+United Arab Emirates
+  1.561 million (2009)
+
+United Kingdom
+  32.117 million (2009)
+
+United States
+  141 million (2009)
+
+Uruguay
+  953,400 (2009)
+
+Uzbekistan
+  1.857 million (2009)
+
+Vanuatu
+  7,200 (2009)
+
+Venezuela
+  6.867 million (2009)
+
+Vietnam
+  17.427 million (2009)
+
+Virgin Islands
+  75,000 (2009)
+
+Wallis and Futuna
+  3,000 (2009)
+
+West Bank
+  360,400 (includes Gaza Strip) (2010)
+
+Western Sahara
+  about 2,000 (1999 est.)
+
+World
+  1.268 billion (2008)
+
+Yemen
+  997,000 (2009)
+
+Zambia
+  90,300 (2009)
+
+Zimbabwe
+  385,100 (2009)
+
+
+
+
+======================================================================
+
+
+
+
+

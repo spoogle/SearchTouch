@@ -1,0 +1,1668 @@
+2057
+
+
+Field Listing :: Capital
+
+  This entry gives the name of the seat of government, its geographic
+  coordinates, the time difference relative to Coordinated Universal
+  Time (UTC) and the time observed in Washington, DC, and, if
+  applicable, information on daylight saving time (DST). Where
+  appropriate, a special note has been added to highlight those
+  countries that have multiple time zones.
+  Country
+
+
+  Capital
+
+Afghanistan
+  name: Kabul
+  geographic coordinates: 34 31 N, 69 11 E
+  time difference: UTC+4.5 (9.5 hours ahead of Washington, DC during
+  Standard Time)
+
+Akrotiri
+  name: Episkopi Cantonment (base administrative center for
+  Akrotiri and Dhekelia)
+  geographic coordinates: 34 40 N, 32 51 E
+  time difference: UTC+2 (7 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Albania
+  name: Tirana (Tirane)
+  geographic coordinates: 41 19 N, 19 49 E
+  time difference: UTC+1 (6 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Algeria
+  name: Algiers
+  geographic coordinates: 36 45 N, 3 03 E
+  time difference: UTC+1 (6 hours ahead of Washington, DC during
+  Standard Time)
+
+American Samoa
+  name: Pago Pago
+  geographic coordinates: 14 16 S, 170 42 W
+  time difference: UTC-11 (6 hours behind Washington, DC during
+  Standard Time)
+
+Andorra
+  name: Andorra la Vella
+  geographic coordinates: 42 30 N, 1 31 E
+  time difference: UTC+1 (6 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Angola
+  name: Luanda
+  geographic coordinates: 8 50 S, 13 14 E
+  time difference: UTC+1 (6 hours ahead of Washington, DC during
+  Standard Time)
+
+Anguilla
+  name: The Valley
+  geographic coordinates: 18 13 N, 63 03 W
+  time difference: UTC-4 (1 hour ahead of Washington, DC during
+  Standard Time)
+
+Antigua and Barbuda
+  name: Saint John's
+  geographic coordinates: 17 07 N, 61 51 W
+  time difference: UTC-4 (1 hour ahead of Washington, DC during
+  Standard Time)
+
+Argentina
+  name: Buenos Aires
+  geographic coordinates: 34 36 S, 58 40 W
+  time difference: UTC-3 (3 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: none scheduled for 2010
+
+Armenia
+  name: Yerevan
+  geographic coordinates: 40 10 N, 44 30 E
+  time difference: UTC+4 (9 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Aruba
+  name: Oranjestad
+  geographic coordinates: 12 31 N, 70 02 W
+  time difference: UTC-4 (1 hour ahead of Washington, DC during
+  Standard Time)
+
+Australia
+  name: Canberra
+  geographic coordinates: 35 17 S, 149 13 E
+  time difference: UTC+10 (15 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins first Sunday in October; ends
+  first Sunday in April
+  note: Australia is divided into three time zones
+
+Austria
+  name: Vienna
+  geographic coordinates: 48 12 N, 16 22 E
+  time difference: UTC+1 (6 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Azerbaijan
+  name: Baku (Baki, Baky)
+  geographic coordinates: 40 23 N, 49 52 E
+  time difference: UTC+4 (9 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Bahamas, The
+  name: Nassau
+  geographic coordinates: 25 05 N, 77 21 W
+  time difference: UTC-5 (same time as Washington, DC during Standard
+  Time)
+  daylight saving time: +1hr, begins second Sunday in March; ends
+  first Sunday in November
+
+Bahrain
+  name: Manama
+  geographic coordinates: 26 14 N, 50 34 E
+  time difference: UTC+3 (8 hours ahead of Washington, DC during
+  Standard Time)
+
+Bangladesh
+  name: Dhaka
+  geographic coordinates: 23 43 N, 90 24 E
+  time difference: UTC+6 (11 hours ahead of Washington, DC during
+  Standard Time)
+
+Barbados
+  name: Bridgetown
+  geographic coordinates: 13 06 N, 59 37 W
+  time difference: UTC-4 (1 hour ahead of Washington, DC during
+  Standard Time)
+
+Belarus
+  name: Minsk
+  geographic coordinates: 53 54 N, 27 34 E
+  time difference: UTC+2 (7 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Belgium
+  name: Brussels
+  geographic coordinates: 50 50 N, 4 20 E
+  time difference: UTC+1 (6 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Belize
+  name: Belmopan
+  geographic coordinates: 17 15 N, 88 46 W
+  time difference: UTC-6 (1 hour behind Washington, DC during Standard
+  Time)
+
+Benin
+  name: Porto-Novo (official capital)
+  geographic coordinates: 6 29 N, 2 37 E
+  time difference: UTC+1 (6 hours ahead of Washington, DC during
+  Standard Time)
+  note: Cotonou (seat of government)
+
+Bermuda
+  name: Hamilton
+  geographic coordinates: 32 17 N, 64 47 W
+  time difference: UTC-4 (1 hour ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins second Sunday in March; ends
+  first Sunday in November
+
+Bhutan
+  name: Thimphu
+  geographic coordinates: 27 29 N, 89 36 E
+  time difference: UTC+6 (11 hours ahead of Washington, DC during
+  Standard Time)
+
+Bolivia
+  name: La Paz (administrative capital)
+  geographic coordinates: 16 30 S, 68 09 W
+  time difference: UTC-4 (1 hour ahead of Washington, DC during
+  Standard Time)
+  note: Sucre (constitutional capital)
+
+Bosnia and Herzegovina
+  name: Sarajevo
+  geographic coordinates: 43 52 N, 18 25 E
+  time difference: UTC+1 (6 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Botswana
+  name: Gaborone
+  geographic coordinates: 24 45 S, 25 55 E
+  time difference: UTC+2 (7 hours ahead of Washington, DC during
+  Standard Time)
+
+Brazil
+  name: Brasilia
+  geographic coordinates: 15 47 S, 47 55 W
+  time difference: UTC-3 (2 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins third Sunday in October; ends
+  third Sunday in February
+  note: Brazil is divided into three time zones, including one for the
+  Fernando de Noronha Islands
+
+British Virgin Islands
+  name: Road Town
+  geographic coordinates: 18 27 N, 64 37 W
+  time difference: UTC-4 (1 hour ahead of Washington, DC during
+  Standard Time)
+
+Brunei
+  name: Bandar Seri Begawan
+  geographic coordinates: 4 53 N, 114 56 E
+  time difference: UTC+8 (13 hours ahead of Washington, DC during
+  Standard Time)
+
+Bulgaria
+  name: Sofia
+  geographic coordinates: 42 41 N, 23 19 E
+  time difference: UTC+2 (7 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Burkina Faso
+  name: Ouagadougou
+  geographic coordinates: 12 22 N, 1 31 W
+  time difference: UTC 0 (5 hours ahead of Washington, DC during
+  Standard Time)
+
+Burma
+  name: Rangoon (Yangon)
+  geographic coordinates: 16 48 N, 96 09 E
+  time difference: UTC+6.5 (11.5 hours ahead of Washington, DC during
+  Standard Time)
+  note: Nay Pyi Taw is administrative capital
+
+Burundi
+  name: Bujumbura
+  geographic coordinates: 3 22 S, 29 21 E
+  time difference: UTC+2 (7 hours ahead of Washington, DC during
+  Standard Time)
+
+Cambodia
+  name: Phnom Penh
+  geographic coordinates: 11 33 N, 104 55 E
+  time difference: UTC+7 (12 hours ahead of Washington, DC during
+  Standard Time)
+
+Cameroon
+  name: Yaounde
+  geographic coordinates: 3 52 N, 11 31 E
+  time difference: UTC+1 (6 hours ahead of Washington, DC during
+  Standard Time)
+
+Canada
+  name: Ottawa
+  geographic coordinates: 45 25 N, 75 42 W
+  time difference: UTC-5 (same time as Washington, DC during Standard
+  Time)
+  daylight saving time: +1hr, begins second Sunday in March; ends
+  first Sunday in November
+  note: Canada is divided into six time zones
+
+Cape Verde
+  name: Praia
+  geographic coordinates: 14 55 N, 23 31 W
+  time difference: UTC-1 (4 hours ahead of Washington, DC during
+  Standard Time)
+
+Cayman Islands
+  name: George Town (on Grand Cayman)
+  geographic coordinates: 19 18 N, 81 23 W
+  time difference: UTC-5 (same time as Washington, DC during Standard
+  Time)
+
+Central African Republic
+  name: Bangui
+  geographic coordinates: 4 22 N, 18 35 E
+  time difference: UTC+1 (6 hours ahead of Washington, DC during
+  Standard Time)
+
+Chad
+  name: N'Djamena
+  geographic coordinates: 12 06 N, 15 02 E
+  time difference: UTC+1 (6 hours ahead of Washington, DC during
+  Standard Time)
+
+Chile
+  name: Santiago
+  geographic coordinates: 33 27 S, 70 40 W
+  time difference: UTC-4 (1 hour ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins second Sunday in October; ends
+  second Sunday in March
+  note: the Chilean Government announced on 4 March 2010 that the end
+  of DST would be delayed until 4 April 2010 providing respite to
+  those affected by the 8.8 magnitude earthquake of February 2010
+
+China
+  name: Beijing
+  geographic coordinates: 39 55 N, 116 23 E
+  time difference: UTC+8 (13 hours ahead of Washington, DC during
+  Standard Time)
+  note: despite its size, all of China falls within one time zone;
+  many people in Xinjiang Province observe an unofficial "Xinjiang
+  timezone" of UTC+6, two hours behind Beijing
+
+Christmas Island
+  name: The Settlement
+  geographic coordinates: 10 25 S, 105 43 E
+  time difference: UTC+7 (12 hours ahead of Washington, DC during
+  Standard Time)
+
+Cocos (Keeling) Islands
+  name: West Island
+  geographic coordinates: 12 10 S, 96 50 E
+  time difference: UTC+6.5 (11.5 hours ahead of Washington, DC during
+  Standard Time)
+
+Colombia
+  name: Bogota
+  geographic coordinates: 4 36 N, 74 05 W
+  time difference: UTC-5 (same time as Washington, DC during Standard
+  Time)
+
+Comoros
+  name: Moroni
+  geographic coordinates: 11 42 S, 43 14 E
+  time difference: UTC+3 (8 hours ahead of Washington, DC during
+  Standard Time)
+
+Congo, Democratic Republic of the
+  name: Kinshasa
+  geographic coordinates: 4 19 S, 15 18 E
+  time difference: UTC+1 (six hours ahead of Washington, DC during
+  Standard Time)
+
+Congo, Republic of the
+  name: Brazzaville
+  geographic coordinates: 4 15 S, 15 17 E
+  time difference: UTC+1 (six hours ahead of Washington, DC during
+  Standard Time)
+
+Cook Islands
+  name: Avarua
+  geographic coordinates: 21 12 S, 159 46 W
+  time difference: UTC-10 (5 hours behind Washington, DC during
+  Standard Time)
+
+Costa Rica
+  name: San Jose
+  geographic coordinates: 9 56 N, 84 05 W
+  time difference: UTC-6 (1 hour behind Washington, DC during Standard
+  Time)
+
+Cote d'Ivoire
+  name: Yamoussoukro
+  geographic coordinates: 6 49 N, 5 17 W
+  time difference: UTC 0 (5 hours ahead of Washington, DC during
+  Standard Time)
+  note: although Yamoussoukro has been the official capital since
+  1983, Abidjan remains the commercial and administrative center; the
+  US, like other countries, maintains its Embassy in Abidjan
+
+Croatia
+  name: Zagreb
+  geographic coordinates: 45 48 N, 16 00 E
+  time difference: UTC+1 (6 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Cuba
+  name: Havana
+  geographic coordinates: 23 07 N, 82 21 W
+  time difference: UTC-5 (same time as Washington, DC during Standard
+  Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Curacao
+  name: Willemstad
+  geographic coordinates: 12 06 N, 68 55 W
+  time difference: UTC-4 (1 hour ahead of Washington, DC during
+  Standard Time)
+
+Cyprus
+  name: Nicosia (Lefkosia)
+  geographic coordinates: 35 10 N, 33 22 E
+  time difference: UTC+2 (7 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Czech Republic
+  name: Prague
+  geographic coordinates: 50 05 N, 14 28 E
+  time difference: UTC+1 (6 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Denmark
+  name: Copenhagen
+  geographic coordinates: 55 40 N, 12 35 E
+  time difference: UTC+1 (6 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+  note: applies to continental Denmark only, not to its North Atlantic
+  components
+
+Dhekelia
+  name: Episkopi Cantonment (base administrative center for
+  Akrotiri and Dhekelia); located in Akrotiri
+  geographic coordinates: 34 40 N, 32 51 E
+  time difference: UTC+2 (7 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Djibouti
+  name: Djibouti
+  geographic coordinates: 11 35 N, 43 09 E
+  time difference: UTC+3 (8 hours ahead of Washington, DC during
+  Standard Time)
+
+Dominica
+  name: Roseau
+  geographic coordinates: 15 18 N, 61 24 W
+  time difference: UTC-4 (1 hour ahead of Washington, DC during
+  Standard Time)
+
+Dominican Republic
+  name: Santo Domingo
+  geographic coordinates: 18 28 N, 69 54 W
+  time difference: UTC-4 (1 hour ahead of Washington, DC during
+  Standard Time)
+
+Ecuador
+  name: Quito
+  geographic coordinates: 0 13 S, 78 30 W
+  time difference: UTC-5 (same time as Washington, DC during Standard
+  Time)
+
+Egypt
+  name: Cairo
+  geographic coordinates: 30 03 N, 31 15 E
+  time difference: UTC+2 (7 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Friday in April; ends first
+  Friday in August
+
+El Salvador
+  name: San Salvador
+  geographic coordinates: 13 42 N, 89 12 W
+  time difference: UTC-6 (1 hour behind Washington, DC during Standard
+  Time)
+
+Equatorial Guinea
+  name: Malabo
+  geographic coordinates: 3 45 N, 8 47 E
+  time difference: UTC+1 (6 hours ahead of Washington, DC during
+  Standard Time)
+
+Eritrea
+  name: Asmara (Asmera)
+  geographic coordinates: 15 20 N, 38 56 E
+  time difference: UTC+3 (8 hours ahead of Washington, DC during
+  Standard Time)
+
+Estonia
+  name: Tallinn
+  geographic coordinates: 59 26 N, 24 43 E
+  time difference: UTC+2 (7 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Ethiopia
+  name: Addis Ababa
+  geographic coordinates: 9 02 N, 38 42 E
+  time difference: UTC+3 (8 hours ahead of Washington, DC during
+  Standard Time)
+
+European Union
+  name: Brussels (Belgium), Strasbourg (France),
+  Luxembourg
+  geographic coordinates: 50 50 N, 4 20 E
+  time difference: UTC+1 (6 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+  note: the Council of the European Union meets in Brussels, Belgium;
+  the European Parliament meets in Brussels and Strasbourg, France;
+  the Court of Justice of the European Communities meets in Luxembourg
+
+Falkland Islands (Islas Malvinas)
+  name: Stanley
+  geographic coordinates: 51 42 S, 57 51 W
+  time difference: UTC-4 (1 hour ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins first Sunday in September; ends
+  third Sunday in April
+
+Faroe Islands
+  name: Torshavn
+  geographic coordinates: 62 01 N, 6 46 W
+  time difference: UTC 0 (5 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Fiji
+  name: Suva (on Viti Levu)
+  geographic coordinates: 18 08 S, 178 25 E
+  time difference: UTC+12 (17 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins fourth Sunday in October; ends
+  last Sunday in March
+
+Finland
+  name: Helsinki
+  geographic coordinates: 60 10 N, 24 56 E
+  time difference: UTC+2 (7 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+France
+  name: Paris
+  geographic coordinates: 48 52 N, 2 20 E
+  time difference: UTC+1 (6 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+  note: applies to metropolitan France only, not to its overseas
+  departments, collectivities, or territories
+
+French Polynesia
+  name: Papeete
+  geographic coordinates: 17 32 S, 149 34 W
+  time difference: UTC-10 (5 hours behind Washington, DC during
+  Standard Time)
+
+Gabon
+  name: Libreville
+  geographic coordinates: 0 23 N, 9 27 E
+  time difference: UTC+1 (6 hours ahead of Washington, DC during
+  Standard Time)
+
+Gambia, The
+  name: Banjul
+  geographic coordinates: 13 27 N, 16 34 W
+  time difference: UTC 0 (5 hours ahead of Washington, DC during
+  Standard Time)
+
+Georgia
+  name: T'bilisi
+  geographic coordinates: 41 43 N, 44 47 E
+  time difference: UTC+4 (9 hours ahead of Washington, DC during
+  Standard Time)
+
+Germany
+  name: Berlin
+  geographic coordinates: 52 31 N, 13 24 E
+  time difference: UTC+1 (6 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Ghana
+  name: Accra
+  geographic coordinates: 5 33 N, 0 13 W
+  time difference: UTC 0 (5 hours ahead of Washington, DC during
+  Standard Time)
+
+Gibraltar
+  name: Gibraltar
+  geographic coordinates: 36 08 N, 5 21 W
+  time difference: UTC+1 (6 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Greece
+  name: Athens
+  geographic coordinates: 37 59 N, 23 44 E
+  time difference: UTC+2 (7 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Greenland
+  name: Nuuk (Godthab)
+  geographic coordinates: 64 11 N, 51 45 W
+  time difference: UTC-3 (2 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+  note: Greenland is divided into four time zones
+
+Grenada
+  name: Saint George's
+  geographic coordinates: 12 03 N, 61 45 W
+  time difference: UTC-4 (1 hour ahead of Washington, DC during
+  Standard Time)
+
+Guam
+  name: Hagatna (Agana)
+  geographic coordinates: 13 28 N, 144 44 E
+  time difference: UTC+10 (15 hours ahead of Washington, DC during
+  Standard Time)
+
+Guatemala
+  name: Guatemala City
+  geographic coordinates: 14 37 N, 90 31 W
+  time difference: UTC-6 (1 hour behind Washington, DC during Standard
+  Time)
+  daylight saving time: +1hr, begins last Sunday in April; ends last
+  Friday in September; note - there is no DST planned for 2010
+
+Guernsey
+  name: Saint Peter Port
+  geographic coordinates: 49 27 N, 2 32 W
+  time difference: UTC 0 (5 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Guinea
+  name: Conakry
+  geographic coordinates: 9 33 N, 13 42 W
+  time difference: UTC 0 (5 hours ahead of Washington, DC during
+  Standard Time)
+
+Guinea-Bissau
+  name: Bissau
+  geographic coordinates: 11 51 N, 15 35 W
+  time difference: UTC 0 (5 hours ahead of Washington, DC during
+  Standard Time)
+
+Guyana
+  name: Georgetown
+  geographic coordinates: 6 48 N, 58 10 W
+  time difference: UTC-4 (1 hour ahead of Washington, DC during
+  Standard Time)
+
+Haiti
+  name: Port-au-Prince
+  geographic coordinates: 18 32 N, 72 20 W
+  time difference: UTC-5 (same time as Washington, DC during Standard
+  Time)
+  daylight saving time: +1hr, begins first Sunday in April; ends last
+  Sunday in October
+
+Holy See (Vatican City)
+  name: Vatican City
+  geographic coordinates: 41 54 N, 12 27 E
+  time difference: UTC+1 (6 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Honduras
+  name: Tegucigalpa
+  geographic coordinates: 14 06 N, 87 13 W
+  time difference: UTC-6 (1 hour behind Washington, DC during Standard
+  Time)
+  daylight saving time: +1hr, begins second Sunday in March; ends
+  first Sunday in November
+
+Hungary
+  name: Budapest
+  geographic coordinates: 47 30 N, 19 05 E
+  time difference: UTC+1 (6 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Iceland
+  name: Reykjavik
+  geographic coordinates: 64 09 N, 21 57 W
+  time difference: UTC 0 (5 hours ahead of Washington, DC during
+  Standard Time)
+
+India
+  name: New Delhi
+  geographic coordinates: 28 36 N, 77 12 E
+  time difference: UTC+5.5 (10.5 hours ahead of Washington, DC during
+  Standard Time)
+
+Indonesia
+  name: Jakarta
+  geographic coordinates: 6 10 S, 106 49 E
+  time difference: UTC+7 (12 hours ahead of Washington, DC during
+  Standard Time)
+  note: Indonesia is divided into three time zones
+
+Iran
+  name: Tehran
+  geographic coordinates: 35 40 N, 51 25 E
+  time difference: UTC+3.5 (8.5 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins fourth Monday in March; ends
+  fourth Wednesday in September
+
+Iraq
+  name: Baghdad
+  geographic coordinates: 33 20 N, 44 23 E
+  time difference: UTC+3 (8 hours ahead of Washington, DC during
+  Standard Time)
+
+Ireland
+  name: Dublin
+  geographic coordinates: 53 19 N, 6 14 W
+  time difference: UTC 0 (5 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Isle of Man
+  name: Douglas
+  geographic coordinates: 54 09 N, 4 29 W
+  time difference: UTC 0 (five hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Israel
+  name: Jerusalem
+  geographic coordinates: 31 46 N, 35 14 E
+  time difference: UTC+2 (7 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Friday in March; ends the
+  Sunday between the holidays of Rosh Hashana and Yom Kippur
+  note: Israel proclaimed Jerusalem as its capital in 1950, but the
+  US, like all other countries, maintains its Embassy in Tel Aviv
+
+Italy
+  name: Rome
+  geographic coordinates: 41 54 N, 12 29 E
+  time difference: UTC+1 (6 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Jamaica
+  name: Kingston
+  geographic coordinates: 18 00 N, 76 48 W
+  time difference: UTC-5 (same time as Washington, DC during Standard
+  Time)
+
+Japan
+  name: Tokyo
+  geographic coordinates: 35 41 N, 139 45 E
+  time difference: UTC+9 (14 hours ahead of Washington, DC during
+  Standard Time)
+
+Jersey
+  name: Saint Helier
+  geographic coordinates: 49 11 N, 2 06 W
+  time difference: UTC 0 (5 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Jordan
+  name: Amman
+  geographic coordinates: 31 57 N, 35 56 E
+  time difference: UTC+2 (7 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Friday in March; ends last
+  Friday in October
+
+Kazakhstan
+  name: Astana
+  geographic coordinates: 51 10 N, 71 25 E
+  time difference: UTC+6 (11 hours ahead of Washington, DC during
+  Standard Time)
+  note: Kazakhstan is divided into two time zones
+
+Kenya
+  name: Nairobi
+  geographic coordinates: 1 17 S, 36 49 E
+  time difference: UTC+3 (8 hours ahead of Washington, DC during
+  Standard Time)
+
+Kiribati
+  name: Tarawa
+  geographic coordinates: 1 19 N, 172 58 E
+  time difference: UTC+12 (17 hours ahead of Washington, DC during
+  Standard Time)
+
+Korea, North
+  name: Pyongyang
+  geographic coordinates: 39 01 N, 125 45 E
+  time difference: UTC+9 (14 hours ahead of Washington, DC during
+  Standard Time)
+
+Korea, South
+  name: Seoul
+  geographic coordinates: 37 33 N, 126 59 E
+  time difference: UTC+9 (14 hours ahead of Washington, DC during
+  Standard Time)
+
+Kosovo
+  name: Pristina (Prishtine, Prishtina)
+  geographic coordinates: 42 40 N, 21 10 E
+  time difference: UTC+1 (6 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Kuwait
+  name: Kuwait City
+  geographic coordinates: 29 22 N, 47 58 E
+  time difference: UTC+3 (8 hours ahead of Washington, DC during
+  Standard Time)
+
+Kyrgyzstan
+  name: Bishkek
+  geographic coordinates: 42 52 N, 74 36 E
+  time difference: UTC+6 (11 hours ahead of Washington, DC during
+  Standard Time)
+
+Laos
+  name: Vientiane (Viangchan)
+  geographic coordinates: 17 58 N, 102 36 E
+  time difference: UTC+7 (12 hours ahead of Washington, DC during
+  Standard Time)
+
+Latvia
+  name: Riga
+  geographic coordinates: 56 57 N, 24 06 E
+  time difference: UTC+2 (7 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Lebanon
+  name: Beirut
+  geographic coordinates: 33 52 N, 35 30 E
+  time difference: UTC+2 (7 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Lesotho
+  name: Maseru
+  geographic coordinates: 29 19 S, 27 29 E
+  time difference: UTC+2 (7 hours ahead of Washington, DC during
+  Standard Time)
+
+Liberia
+  name: Monrovia
+  geographic coordinates: 6 18 N, 10 48 W
+  time difference: UTC 0 (5 hours ahead of Washington, DC during
+  Standard Time)
+
+Libya
+  name: Tripoli (Tarabulus)
+  geographic coordinates: 32 53 N, 13 10 E
+  time difference: UTC+2 (7 hours ahead of Washington, DC during
+  Standard Time)
+
+Liechtenstein
+  name: Vaduz
+  geographic coordinates: 47 08 N, 9 31 E
+  time difference: UTC+1 (6 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Lithuania
+  name: Vilnius
+  geographic coordinates: 54 41 N, 25 19 E
+  time difference: UTC+2 (7 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Luxembourg
+  name: Luxembourg
+  geographic coordinates: 49 36 N, 6 07 E
+  time difference: UTC+1 (6 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Macedonia
+  name: Skopje
+  geographic coordinates: 42 00 N, 21 26 E
+  time difference: UTC+1 (6 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Madagascar
+  name: Antananarivo
+  geographic coordinates: 18 55 S, 47 31 E
+  time difference: UTC+3 (8 hours ahead of Washington, DC during
+  Standard Time)
+
+Malawi
+  name: Lilongwe
+  geographic coordinates: 13 59 S, 33 47 E
+  time difference: UTC+2 (7 hours ahead of Washington, DC during
+  Standard Time)
+
+Malaysia
+  name: Kuala Lumpur
+  geographic coordinates: 3 10 N, 101 42 E
+  time difference: UTC+8 (13 hours ahead of Washington, DC during
+  Standard Time)
+  note: Putrajaya is referred to as administrative center not capital;
+  Parliament meets in Kuala Lumpur
+
+Maldives
+  name: Male
+  geographic coordinates: 4 10 N, 73 30 E
+  time difference: UTC+5 (10 hours ahead of Washington, DC during
+  Standard Time)
+
+Mali
+  name: Bamako
+  geographic coordinates: 12 39 N, 8 00 W
+  time difference: UTC 0 (5 hours ahead of Washington, DC during
+  Standard Time)
+
+Malta
+  name: Valletta
+  geographic coordinates: 35 53 N, 14 30 E
+  time difference: UTC+1 (6 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Marshall Islands
+  name: Majuro
+  geographic coordinates: 7 06 N, 171 23 E
+  time difference: UTC+12 (17 hours ahead of Washington, DC during
+  Standard Time)
+
+Mauritania
+  name: Nouakchott
+  geographic coordinates: 18 07 N, 16 02 W
+  time difference: UTC 0 (5 hours ahead of Washington, DC during
+  Standard Time)
+
+Mauritius
+  name: Port Louis
+  geographic coordinates: 20 09 S, 57 29 E
+  time difference: UTC+4 (9 hours ahead of Washington, DC during
+  Standard Time)
+
+Mayotte
+  name: Mamoudzou
+  geographic coordinates: 12 46 S, 45 13 E
+  time difference: UTC+3 (8 hours ahead of Washington, DC during
+  Standard Time)
+
+Mexico
+  name: Mexico City (Distrito Federal)
+  geographic coordinates: 19 26 N, 99 08 W
+  time difference: UTC-6 (1 hour behind Washington, DC during Standard
+  Time)
+  daylight saving time: +1hr, begins first Sunday in April; ends last
+  Sunday in October
+  note: Mexico is divided into three time zones
+
+Micronesia, Federated States of
+  name: Palikir
+  geographic coordinates: 6 55 N, 158 09 E
+  time difference: UTC+11 (16 hours ahead of Washington, DC during
+  Standard Time)
+
+Moldova
+  name: Chisinau (Kishinev)
+  note: pronounced KEE-shee-now
+  geographic coordinates: 47 00 N, 28 51 E
+  time difference: UTC+2 (7 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Monaco
+  name: Monaco
+  geographic coordinates: 43 44 N, 7 25 E
+  time difference: UTC+1 (6 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Mongolia
+  name: Ulaanbaatar
+  geographic coordinates: 47 55 N, 106 55 E
+  time difference: UTC+8 (13 hours ahead of Washington, DC during
+  Standard Time)
+
+Montenegro
+  name: Podgorica
+  geographic coordinates: 42 26 N, 19 16 E
+  time difference: UTC+1 (6 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1 hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Montserrat
+  name: Plymouth
+  geographic coordinates: 16 42 N, 62 13 W
+  time difference: UTC-4 (1 hour ahead of Washington, DC during
+  Standard Time)
+  note: Plymouth was abandoned in 1997 because of volcanic activity;
+  interim government buildings have been built at Brades Estate in the
+  Carr's Bay/Little Bay vicinity at the northwest end of Montserrat
+
+Morocco
+  name: Rabat
+  geographic coordinates: 34 01 N, 6 49 W
+  time difference: UTC 0 (5 hours ahead of Washington, DC during
+  Standard Time)
+
+Mozambique
+  name: Maputo
+  geographic coordinates: 25 57 S, 32 35 E
+  time difference: UTC+2 (7 hours ahead of Washington, DC during
+  Standard Time)
+
+Namibia
+  name: Windhoek
+  geographic coordinates: 22 34 S, 17 05 E
+  time difference: UTC+1 (6 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins first Sunday in September; ends
+  first Sunday in April
+
+Nauru
+  no official capital; government offices in Yaren District
+  time difference: UTC+12 (17 hours ahead of Washington, DC during
+  Standard Time)
+
+Nepal
+  name: Kathmandu
+  geographic coordinates: 27 43 N, 85 19 E
+  time difference: UTC+5.75 (10.75 hours ahead of Washington, DC
+  during Standard Time)
+
+Netherlands
+  name: Amsterdam
+  geographic coordinates: 52 23 N, 4 54 E
+  time difference: UTC+1 (6 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+  note: The Hague is the seat of government; time descriptions apply
+  to the continental Netherlands only, not to the Caribbean components
+
+New Caledonia
+  name: Noumea
+  geographic coordinates: 22 16 S, 166 27 E
+  time difference: UTC+11 (16 hours ahead of Washington, DC during
+  Standard Time)
+
+New Zealand
+  name: Wellington
+  geographic coordinates: 41 28 S, 174 51 E
+  time difference: UTC+12 (17 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in September; ends
+  first Sunday in April
+  note: New Zealand is divided into two time zones - New Zealand
+  standard time (12 hours in advance of UTC), and Chatham Islands time
+  (45 minutes in advance of New Zealand standard time)
+
+Nicaragua
+  name: Managua
+  geographic coordinates: 12 09 N, 86 17 W
+  time difference: UTC-6 (1 hour behind Washington, DC during Standard
+  Time)
+
+Niger
+  name: Niamey
+  geographic coordinates: 13 31 N, 2 07 E
+  time difference: UTC+1 (6 hours ahead of Washington, DC during
+  Standard Time)
+
+Nigeria
+  name: Abuja
+  geographic coordinates: 9 05 N, 7 32 E
+  time difference: UTC+1 (6 hours ahead of Washington, DC during
+  Standard Time)
+
+Niue
+  name: Alofi
+  geographic coordinates: 19 01 S, 169 55 W
+  time difference: UTC-11 (6 hours behind Washington, DC during
+  Standard Time)
+
+Norfolk Island
+  name: Kingston
+  geographic coordinates: 29 03 S, 167 58 E
+  time difference: UTC+11.5 (16.5 hours ahead of Washington, DC during
+  Standard Time)
+
+Northern Mariana Islands
+  name: Saipan
+  geographic coordinates: 15 12 N, 145 45 E
+  time difference: UTC+10 (15 hours ahead of Washington, DC during
+  Standard Time)
+
+Norway
+  name: Oslo
+  geographic coordinates: 59 55 N, 10 45 E
+  time difference: UTC+1 (6 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Oman
+  name: Muscat
+  geographic coordinates: 23 37 N, 58 35 E
+  time difference: UTC+4 (9 hours ahead of Washington, DC during
+  Standard Time)
+
+Pakistan
+  name: Islamabad
+  geographic coordinates: 33 42 N, 73 10 E
+  time difference: UTC+5 (10 hours ahead of Washington, DC during
+  Standard Time)
+
+Palau
+  name: Melekeok
+  geographic coordinates: 7 29 N, 134 38 E
+  time difference: UTC+9 (14 hours ahead of Washington, DC during
+  Standard Time)
+
+Panama
+  name: Panama City
+  geographic coordinates: 8 58 N, 79 32 W
+  time difference: UTC-5 (same time as Washington, DC during Standard
+  Time)
+
+Papua New Guinea
+  name: Port Moresby
+  geographic coordinates: 9 30 S, 147 10 E
+  time difference: UTC+10 (15 hours ahead of Washington, DC during
+  Standard Time)
+
+Paraguay
+  name: Asuncion
+  geographic coordinates: 25 16 S, 57 40 W
+  time difference: UTC-4 (1 hour ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins first Sunday in October; ends
+  second Sunday in April
+
+Peru
+  name: Lima
+  geographic coordinates: 12 03 S, 77 03 W
+  time difference: UTC-5 (same time as Washington, DC during Standard
+  Time)
+
+Philippines
+  name: Manila
+  geographic coordinates: 14 35 N, 121 00 E
+  time difference: UTC+8 (13 hours ahead of Washington, DC during
+  Standard Time)
+
+Pitcairn Islands
+  name: Adamstown
+  geographic coordinates: 25 04 S, 130 05 W
+  time difference: UTC-9 (4 hours behind Washington, DC during
+  Standard Time)
+
+Poland
+  name: Warsaw
+  geographic coordinates: 52 15 N, 21 00 E
+  time difference: UTC+1 (6 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Portugal
+  name: Lisbon
+  geographic coordinates: 38 43 N, 9 08 W
+  time difference: UTC 0 (5 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Puerto Rico
+  name: San Juan
+  geographic coordinates: 18 28 N, 66 07 W
+  time difference: UTC-4 (1 hour ahead of Washington, DC during
+  Standard Time)
+
+Qatar
+  name: Doha
+  geographic coordinates: 25 17 N, 51 32 E
+  time difference: UTC+3 (8 hours ahead of Washington, DC during
+  Standard Time)
+
+Romania
+  name: Bucharest
+  geographic coordinates: 44 26 N, 26 06 E
+  time difference: UTC+2 (7 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Russia
+  name: Moscow
+  geographic coordinates: 55 45 N, 37 35 E
+  time difference: UTC+3 (8 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+  note: Russia is divided into 9 time zones
+
+Rwanda
+  name: Kigali
+  geographic coordinates: 1 57 S, 30 04 E
+  time difference: UTC+2 (7 hours ahead of Washington, DC during
+  Standard Time)
+
+Saint Barthelemy
+  name: Gustavia
+  geographic coordinates: 17 53 N, 62 51 W
+  time difference: UTC-4 (1 hour ahead of Washington, DC, during
+  Standard Time)
+
+Saint Helena, Ascension, and Tristan da Cunha
+  name: Jamestown
+  geographic coordinates: 15 56 S, 5 44 W
+  time difference: UTC 0 (5 hours ahead of Washington, DC during
+  Standard Time)
+
+Saint Kitts and Nevis
+  name: Basseterre
+  geographic coordinates: 17 18 N, 62 43 W
+  time difference: UTC-4 (1 hour ahead of Washington, DC during
+  Standard Time)
+
+Saint Lucia
+  name: Castries
+  geographic coordinates: 14 01 N, 61 00 W
+  time difference: UTC-4 (1 hour ahead of Washington, DC during
+  Standard Time)
+
+Saint Martin
+  name: Marigot
+  geographical coordinates: 18 04 N, 63 05 W
+  time difference: UTC-4 (1 hour behind Washington, DC, during
+  Standard Time)
+  daylight savings: +1 hour
+
+Saint Pierre and Miquelon
+  name: Saint-Pierre
+  geographic coordinates: 46 46 N, 56 11 W
+  time difference: UTC-3 (2 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins second Sunday in March; ends
+  first Sunday in November
+
+Saint Vincent and the Grenadines
+  name: Kingstown
+  geographic coordinates: 13 09 N, 61 14 W
+  time difference: UTC-4 (1 hour ahead of Washington, DC during
+  Standard Time)
+
+Samoa
+  name: Apia
+  geographic coordinates: 13 50 S, 171 44 W
+  time difference: UTC-11 (6 hours behind Washington, DC during
+  Standard Time)
+  +1hr, begins last Sunday in September; ends first Sunday in April
+
+San Marino
+  name: San Marino
+  geographic coordinates: 43 56 N, 12 25 E
+  time difference: UTC+1 (6 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Sao Tome and Principe
+  name: Sao Tome
+  geographic coordinates: 0 12 N, 6 39 E
+  time difference: UTC 0 (5 hours ahead of Washington, DC during
+  Standard Time)
+
+Saudi Arabia
+  name: Riyadh
+  geographic coordinates: 24 38 N, 46 43 E
+  time difference: UTC+3 (8 hours ahead of Washington, DC during
+  Standard Time)
+
+Senegal
+  name: Dakar
+  geographic coordinates: 14 40 N, 17 26 W
+  time difference: UTC 0 (5 hours ahead of Washington, DC during
+  Standard Time)
+
+Serbia
+  name: Belgrade (Beograd)
+  geographic coordinates: 44 50 N, 20 30 E
+  time difference: UTC+1 (6 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Seychelles
+  name: Victoria
+  geographic coordinates: 4 38 S, 55 27 E
+  time difference: UTC+4 (9 hours ahead of Washington, DC during
+  Standard Time)
+
+Sierra Leone
+  name: Freetown
+  geographic coordinates: 8 30 N, 13 15 W
+  time difference: UTC 0 (5 hours ahead of Washington, DC during
+  Standard Time)
+
+Singapore
+  name: Singapore
+  geographic coordinates: 1 17 N, 103 51 E
+  time difference: UTC+8 (13 hours ahead of Washington, DC during
+  Standard Time)
+
+Sint Maarten
+  name: Philipsburg
+  geographic coordinates: 18 1 N, 63 2 W
+  time difference: UTC-4 (1 hour ahead of Washington, DC during
+  Standard Time)
+
+Slovakia
+  name: Bratislava
+  geographic coordinates: 48 09 N, 17 07 E
+  time difference: UTC+1 (6 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Slovenia
+  name: Ljubljana
+  geographic coordinates: 46 03 N, 14 31 E
+  time difference: UTC+1 (6 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Solomon Islands
+  name: Honiara
+  geographic coordinates: 9 26 S, 159 57 E
+  time difference: UTC+11 (16 hours ahead of Washington, DC during
+  Standard Time)
+
+Somalia
+  name: Mogadishu
+  geographic coordinates: 2 04 N, 45 22 E
+  time difference: UTC+3 (8 hours ahead of Washington, DC during
+  Standard Time)
+
+South Africa
+  name: Pretoria (administrative capital)
+  geographic coordinates: 25 42 S, 28 13 E
+  time difference: UTC+2 (7 hours ahead of Washington, DC during
+  Standard Time)
+  note: Cape Town (legislative capital); Bloemfontein (judicial
+  capital)
+
+Spain
+  name: Madrid
+  geographic coordinates: 40 24 N, 3 41 W
+  time difference: UTC+1 (6 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+  note: Spain is divided into two time zones including the Canary
+  Islands
+
+Sri Lanka
+  name: Colombo
+  geographic coordinates: 6 56 N, 79 51 E
+  time difference: UTC+5.5 (10.5 hours ahead of Washington, DC during
+  Standard Time)
+  note: Sri Jayewardenepura Kotte (legislative capital)
+
+Sudan
+  name: Khartoum
+  geographic coordinates: 15 36 N, 32 32 E
+  time difference: UTC+3 (8 hours ahead of Washington, DC during
+  Standard Time)
+
+Suriname
+  name: Paramaribo
+  geographic coordinates: 5 50 N, 55 10 W
+  time difference: UTC-3 (2 hours ahead of Washington, DC during
+  Standard Time)
+
+Svalbard
+  name: Longyearbyen
+  geographic coordinates: 78 13 N, 15 33 E
+  time difference: UTC+1 (6 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Swaziland
+  name: Mbabane
+  geographic coordinates: 26 18 S, 31 06 E
+  time difference: UTC+2 (7 hours ahead of Washington, DC during
+  Standard Time)
+  note: Lobamba (royal and legislative capital)
+
+Sweden
+  name: Stockholm
+  geographic coordinates: 59 20 N, 18 03 E
+  time difference: UTC+1 (6 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Switzerland
+  name: Bern
+  geographic coordinates: 46 57 N, 7 26 E
+  time difference: UTC+1 (6 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Syria
+  name: Damascus
+  geographic coordinates: 33 30 N, 36 18 E
+  time difference: UTC+2 (7 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins first Friday in April; ends last
+  Friday in October
+
+Taiwan
+  name: Taipei
+  geographic coordinates: 25 03 N, 121 30 E
+  time difference: UTC+8 (13 hours ahead of Washington, DC during
+  Standard Time)
+
+Tajikistan
+  name: Dushanbe
+  geographic coordinates: 38 35 N, 68 48 E
+  time difference: UTC+5 (10 hours ahead of Washington, DC during
+  Standard Time)
+
+Tanzania
+  name: Dar es Salaam
+  geographic coordinates: 6 48 S, 39 17 E
+  time difference: UTC+3 (8 hours ahead of Washington, DC during
+  Standard Time)
+  note: legislative offices have been transferred to Dodoma, which is
+  planned as the new national capital, and the National Assembly now
+  meets there on a regular basis; the Executive Branch with all
+  ministries and diplomatic representation remains located in Dar es
+  Salaam
+
+Thailand
+  name: Bangkok
+  geographic coordinates: 13 45 N, 100 31 E
+  time difference: UTC+7 (12 hours ahead of Washington, DC during
+  Standard Time)
+
+Timor-Leste
+  name: Dili
+  geographic coordinates: 8 35 S, 125 36 E
+  time difference: UTC+9 (14 hours ahead of Washington, DC during
+  Standard Time)
+
+Togo
+  name: Lome
+  geographic coordinates: 6 08 N, 1 13 E
+  time difference: UTC 0 (5 hours ahead of Washington, DC during
+  Standard Time)
+
+Tokelau
+  none; each atoll has its own administrative center
+  time difference: UTC-11 (6 hours behind Washington, DC during
+  Standard Time)
+
+Tonga
+  name: Nuku'alofa
+  geographic coordinates: 21 08 S, 175 12 W
+  time difference: UTC+13 (18 hours ahead of Washington, DC during
+  Standard Time)
+
+Trinidad and Tobago
+  name: Port-of-Spain
+  geographic coordinates: 10 39 N, 61 31 W
+  time difference: UTC-4 (1 hour ahead of Washington, DC during
+  Standard Time)
+
+Tunisia
+  name: Tunis
+  geographic coordinates: 36 48 N, 10 11 E
+  time difference: UTC+1 (6 hours ahead of Washington, DC during
+  Standard Time)
+
+Turkey
+  name: Ankara
+  geographic coordinates: 39 56 N, 32 52 E
+  time difference: UTC+2 (7 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+Turkmenistan
+  name: Ashgabat (Ashkhabad)
+  geographic coordinates: 37 57 N, 58 23 E
+  time difference: UTC+5 (10 hours ahead of Washington, DC during
+  Standard Time)
+
+Turks and Caicos Islands
+  name: Grand Turk (Cockburn Town)
+  geographic coordinates: 21 28 N, 71 08 W
+  time difference: UTC-5 (same time as Washington, DC during Standard
+  Time)
+  daylight saving time: +1hr, begins second Sunday in March; ends
+  first Sunday in November
+
+Tuvalu
+  name: Funafuti
+  geographic coordinates: 8 30 S, 179 12 E
+  time difference: UTC+12 (17 hours ahead of Washington, DC during
+  Standard Time)
+  note: administrative offices are in Vaiaku Village on Fongafale Islet
+
+Uganda
+  name: Kampala
+  geographic coordinates: 0 19 N, 32 25 E
+  time difference: UTC+3 (8 hours ahead of Washington, DC during
+  Standard Time)
+
+Ukraine
+  name: Kyiv (Kiev)
+  note: pronounced KAY-yiv
+  geographic coordinates: 50 26 N, 30 31 E
+  time difference: UTC+2 (7 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+
+United Arab Emirates
+  name: Abu Dhabi
+  geographic coordinates: 24 28 N, 54 22 E
+  time difference: UTC+4 (9 hours ahead of Washington, DC during
+  Standard Time)
+
+United Kingdom
+  name: London
+  geographic coordinates: 51 30 N, 0 10 W
+  time difference: UTC 0 (5 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins last Sunday in March; ends last
+  Sunday in October
+  note: applies to the United Kingdom proper, not to its overseas
+  dependencies or territories
+
+United States
+  name: Washington, DC
+  geographic coordinates: 38 53 N, 77 02 W
+  time difference: UTC-5 (during Standard Time)
+  daylight saving time: +1hr, begins second Sunday in March; ends
+  first Sunday in November
+  note: the 50 United States cover six time zones
+
+Uruguay
+  name: Montevideo
+  geographic coordinates: 34 53 S, 56 11 W
+  time difference: UTC-3 (2 hours ahead of Washington, DC during
+  Standard Time)
+  daylight saving time: +1hr, begins first Sunday in October; ends
+  second Sunday in March
+
+Uzbekistan
+  name: Tashkent (Toshkent)
+  geographic coordinates: 41 20 N, 69 18 E
+  time difference: UTC+5 (10 hours ahead of Washington, DC during
+  Standard Time)
+
+Vanuatu
+  name: Port-Vila (on Efate)
+  geographic coordinates: 17 44 S, 168 19 E
+  time difference: UTC+11 (16 hours ahead of Washington, DC during
+  Standard Time)
+
+Venezuela
+  name: Caracas
+  geographic coordinates: 10 30 N, 66 56 W
+  time difference: UTC-4.5 (half an hour ahead of Washington, DC
+  during Standard Time)
+
+Vietnam
+  name: Hanoi (Ha Noi)
+  geographic coordinates: 21 02 N, 105 51 E
+  time difference: UTC+7 (12 hours ahead of Washington, DC during
+  Standard Time)
+
+Virgin Islands
+  name: Charlotte Amalie
+  geographic coordinates: 18 21 N, 64 56 W
+  time difference: UTC-4 (1 hour ahead of Washington, DC during
+  Standard Time)
+
+Wallis and Futuna
+  name: Mata-Utu (on Ile Uvea)
+  geographic coordinates: 13 57 S, 171 56 W
+  time difference: UTC+12 (17 hours ahead of Washington, DC during
+  Standard Time)
+
+Western Sahara
+  none
+  time difference: UTC 0 (5 hours ahead of Washington, DC during
+  Standard Time)
+
+Yemen
+  name: Sanaa
+  geographic coordinates: 15 21 N, 44 12 E
+  time difference: UTC+3 (8 hours ahead of Washington, DC during
+  Standard Time)
+
+Zambia
+  name: Lusaka
+  geographic coordinates: 15 25 S, 28 17 E
+  time difference: UTC+2 (7 hours ahead of Washington, DC during
+  Standard Time)
+
+Zimbabwe
+  name: Harare
+  geographic coordinates: 17 50 S, 31 03 E
+  time difference: UTC+2 (7 hours ahead of Washington, DC during
+  Standard Time)
+
+
+
+
+======================================================================
+
+
+
+
+

@@ -1,0 +1,661 @@
+2179
+
+
+Field Listing :: Natural gas - proved reserves
+
+  This entry is the stock of proved reserves of natural gas in cubic
+  meters (cu m). Proved reserves are those quantities of natural gas,
+  which, by analysis of geological and engineering data, can be
+  estimated with a high degree of confidence to be commercially
+  recoverable from a given date forward, from known reservoirs and
+  under current economic conditions.
+  Country Comparison to the World
+  Country
+
+
+  Natural gas - proved reserves(cu m)
+
+Afghanistan
+  49.55 billion cu m (1 January 2010 est.)
+
+Albania
+  849.5 million cu m (1 January 2010 est.)
+
+Algeria
+  4.502 trillion cu m (1 January 2010 est.)
+
+American Samoa
+  0 cu m (1 January 2010 est.)
+
+Angola
+  271.8 billion cu m (1 January 2010 est.)
+
+Antigua and Barbuda
+  0 cu m (1 January 2010 est.)
+
+Argentina
+  398.4 billion cu m (1 January 2010 est.)
+
+Armenia
+  0 cu m (1 January 2010 est.)
+
+Aruba
+  0 cu m (1 January 2010 est.)
+
+Australia
+  3.115 trillion cu m (1 January 2010 est.)
+
+Austria
+  16.14 billion cu m (1 January 2010 est.)
+
+Azerbaijan
+  849.5 billion cu m (1 January 2010 est.)
+
+Bahamas, The
+  NA cu m (1 January 2009 est.)
+
+Bahrain
+  92.03 billion cu m (1 January 2010 est.)
+
+Bangladesh
+  195.4 billion cu m (1 January 2010 est.)
+
+Barbados
+  113.3 million cu m (1 January 2010 est.)
+
+Belarus
+  2.832 billion cu m (1 January 2010 est.)
+
+Belgium
+  0 cu m (1 January 2010 est.)
+
+Belize
+  0 cu m (1 January 2010 est.)
+
+Benin
+  1.133 billion cu m (1 January 2010 est.)
+
+Bermuda
+  0 cu m (1 January 2010 est.)
+
+Bhutan
+  0 cu m (1 January 2010 est.)
+
+Bolivia
+  750.4 billion cu m (1 January 2010 est.)
+
+Bosnia and Herzegovina
+  0 cu m (1 January 2010 est.)
+
+Botswana
+  0 cu m (1 January 2010 est.)
+
+Brazil
+  364.2 billion cu m (1 January 2010 est.)
+
+British Virgin Islands
+  0 cu m (1 January 2010 est.)
+
+Brunei
+  390.8 billion cu m (1 January 2010 est.)
+
+Bulgaria
+  5.663 billion cu m (1 January 2010 est.)
+
+Burkina Faso
+  0 cu m (1 January 2010 est.)
+
+Burma
+  283.2 billion cu m (1 January 2010 est.)
+
+Burundi
+  0 cu m (1 January 2010 est.)
+
+Cambodia
+  0 cu m (1 January 2010 est.)
+
+Cameroon
+  135.1 billion cu m (1 January 2010 est.)
+
+Canada
+  1.754 trillion cu m (1 January 2010 est.)
+
+Cape Verde
+  0 cu m (1 January 2010 est.)
+
+Cayman Islands
+  0 cu m (1 January 2010 est.)
+
+Central African Republic
+  0 cu m (1 January 2010 est.)
+
+Chad
+  0 cu m (1 January 2010 est.)
+
+Chile
+  97.97 billion cu m (1 January 2010 est.)
+
+China
+  3.03 trillion cu m (1 January 2010 est.)
+
+Colombia
+  112 billion cu m (1 January 2010 est.)
+
+Comoros
+  0 cu m (1 January 2010 est.)
+
+Congo, Democratic Republic of the
+  991.1 million cu m (1 January 2010
+  est.)
+
+Congo, Republic of the
+  90.61 billion cu m (1 January 2010 est.)
+
+Cook Islands
+  0 cu m (1 January 2010 est.)
+
+Costa Rica
+  0 cu m (1 January 2010 est.)
+
+Cote d'Ivoire
+  28.32 billion cu m (1 January 2010 est.)
+
+Croatia
+  30.58 billion cu m (1 January 2010 est.)
+
+Cuba
+  70.79 billion cu m (1 January 2010 est.)
+
+Cyprus
+  0 cu m (1 January 2010 est.)
+
+Czech Republic
+  3.964 billion cu m (1 January 2010 est.)
+
+Denmark
+  61.3 billion cu m (1 January 2010 est.)
+
+Djibouti
+  0 cu m (1 January 2010 est.)
+
+Dominica
+  0 cu m (1 January 2010 est.)
+
+Dominican Republic
+  0 cu m (1 January 2010 est.)
+
+Ecuador
+  7.985 billion cu m (1 January 2010 est.)
+
+Egypt
+  1.656 trillion cu m (1 January 2010 est.)
+
+El Salvador
+  0 cu m (1 January 2010 est.)
+
+Equatorial Guinea
+  36.81 billion cu m (1 January 2010 est.)
+
+Eritrea
+  0 cu m (1 January 2010 est.)
+
+Estonia
+  0 cu m (1 January 2010 est.)
+
+Ethiopia
+  24.92 billion cu m (1 January 2010 est.)
+
+European Union
+  2.242 trillion cu m (1 January 2010 est.)
+
+Falkland Islands (Islas Malvinas)
+  0 cu m (1 January 2010 est.)
+
+Faroe Islands
+  0 cu m (1 January 2010 est.)
+
+Fiji
+  0 cu m (1 January 2010 est.)
+
+Finland
+  0 cu m (1 January 2010 est.)
+
+France
+  7.079 billion cu m (1 January 2010 est.)
+
+French Polynesia
+  0 cu m (1 January 2010 est.)
+
+Gabon
+  28.32 billion cu m (1 January 2010 est.)
+
+Gambia, The
+  0 cu m (1 January 2010 est.)
+
+Georgia
+  8.495 billion cu m (1 January 2010 est.)
+
+Germany
+  175.6 billion cu m (1 January 2010 est.)
+
+Ghana
+  22.65 billion cu m (1 January 2010 est.)
+
+Gibraltar
+  0 cu m (1 January 2010 est.)
+
+Greece
+  991.1 million cu m (1 January 2010 est.)
+
+Greenland
+  0 cu m (1 January 2010 est.)
+
+Grenada
+  0 cu m (1 January 2010 est.)
+
+Guam
+  0 cu m (1 January 2010 est.)
+
+Guatemala
+  2.96 billion cu m (1 January 2006 est.)
+
+Guinea
+  0 cu m (1 January 2010 est.)
+
+Guinea-Bissau
+  0 cu m (1 January 2010 est.)
+
+Guyana
+  0 cu m (1 January 2010 est.)
+
+Haiti
+  0 cu m (1 January 2010 est.)
+
+Honduras
+  0 cu m (1 January 2010 est.)
+
+Hong Kong
+  0 cu m (1 January 2010 est.)
+
+Hungary
+  8.098 billion cu m (1 January 2010 est.)
+
+Iceland
+  0 cu m (1 January 2010 est.)
+
+India
+  1.075 trillion cu m (1 January 2010 est.)
+
+Indonesia
+  3.001 trillion cu m (1 January 2010 est.)
+
+Iran
+  29.61 trillion cu m (1 January 2010 est.)
+
+Iraq
+  3.17 trillion cu m (1 January 2010 est.)
+
+Ireland
+  9.911 billion cu m (1 January 2010 est.)
+
+Israel
+  30.44 billion cu m (1 January 2010 est.)
+
+Italy
+  69.83 billion cu m (1 January 2010 est.)
+
+Jamaica
+  0 cu m (1 January 2010 est.)
+
+Japan
+  20.9 billion cu m (1 January 2010 est.)
+
+Jordan
+  6.031 billion cu m (1 January 2010 est.)
+
+Kazakhstan
+  2.407 trillion cu m (1 January 2010 est.)
+
+Kenya
+  0 cu m (1 January 2010 est.)
+
+Kiribati
+  0 cu m (1 January 2010 est.)
+
+Korea, North
+  0 cu m (1 January 2010 est.)
+
+Korea, South
+  50 billion cu m (1 January 2008 est.)
+
+Kosovo
+  NA cu m
+
+Kuwait
+  1.798 trillion cu m (1 January 2010 est.)
+
+Kyrgyzstan
+  5.663 billion cu m (1 January 2010 est.)
+
+Laos
+  0 cu m (1 January 2010 est.)
+
+Lebanon
+  0 cu m (1 January 2010 est.)
+
+Lesotho
+  0 cu m (1 January 2010 est.)
+
+Liberia
+  0 cu m (1 January 2010 est.)
+
+Libya
+  1.539 trillion cu m (1 January 2010 est.)
+
+Lithuania
+  0 cu m (1 January 2010 est.)
+
+Luxembourg
+  0 cu m (1 January 2010 est.)
+
+Macau
+  300,000 cu m (1 January 2008 est.)
+
+Macedonia
+  0 cu m (1 January 2010 est.)
+
+Madagascar
+  0 cu m (1 January 2006 est.)
+
+Malawi
+  0 cu m (1 January 2010 est.)
+
+Malaysia
+  2.35 trillion cu m (1 January 2010 est.)
+
+Maldives
+  0 cu m (1 January 2010 est.)
+
+Mali
+  0 cu m (1 January 2010 est.)
+
+Malta
+  0 cu m (1 January 2010 est.)
+
+Mauritania
+  28.32 billion cu m (1 January 2010 est.)
+
+Mauritius
+  0 cu m (1 January 2010 est.)
+
+Mexico
+  359.7 billion cu m (1 January 2010 est.)
+
+Moldova
+  0 cu m (1 January 2010 est.)
+
+Mongolia
+  0 cu m (1 January 2010 est.)
+
+Montenegro
+  0 cu m (1 January 2010 est.)
+
+Montserrat
+  0 cu m (1 January 2010 est.)
+
+Morocco
+  1.501 billion cu m (1 January 2010 est.)
+
+Mozambique
+  127.4 billion cu m (1 January 2010 est.)
+
+Namibia
+  62.29 billion cu m (1 January 2010 est.)
+
+Nauru
+  0 cu m (1 January 2010 est.)
+
+Nepal
+  0 cu m (1 January 2010 est.)
+
+Netherlands
+  1.416 trillion cu m (1 January 2010 est.)
+
+New Caledonia
+  0 cu m (1 January 2010 est.)
+
+New Zealand
+  33.98 billion cu m (1 January 2010 est.)
+
+Nicaragua
+  0 cu m (1 January 2010 est.)
+
+Niger
+  0 cu m (1 January 2010 est.)
+
+Nigeria
+  5.246 trillion cu m (1 January 2010 est.)
+
+Niue
+  0 cu m (1 January 2010 est.)
+
+Norway
+  2.313 trillion cu m (1 January 2010 est.)
+
+Oman
+  849.5 billion cu m (1 January 2010 est.)
+
+Pakistan
+  840.2 billion cu m (1 January 2010 est.)
+
+Panama
+  0 cu m (1 January 2010 est.)
+
+Papua New Guinea
+  226.5 billion cu m (1 January 2010 est.)
+
+Paraguay
+  0 cu m (1 January 2010 est.)
+
+Peru
+  334.1 billion cu m (1 January 2010 est.)
+
+Philippines
+  98.54 billion cu m (1 January 2010 est.)
+
+Poland
+  164.8 billion cu m (1 January 2010 est.)
+
+Portugal
+  0 cu m (1 January 2010 est.)
+
+Puerto Rico
+  0 cu m (1 January 2010 est.)
+
+Qatar
+  25.47 trillion cu m (1 January 2010 est.)
+
+Romania
+  63 billion cu m (1 January 2010 est.)
+
+Russia
+  47.57 trillion cu m (1 January 2010 est.)
+
+Rwanda
+  56.63 billion cu m (1 January 2010 est.)
+
+Saint Helena, Ascension, and Tristan da Cunha
+  0 cu m (1 January 2010
+  est.)
+
+Saint Kitts and Nevis
+  0 cu m (1 January 2010 est.)
+
+Saint Lucia
+  0 cu m (1 January 2010 est.)
+
+Saint Pierre and Miquelon
+  0 cu m (1 January 2010 est.)
+
+Saint Vincent and the Grenadines
+  0 cu m (1 January 2010 est.)
+
+Samoa
+  0 cu m (1 January 2010 est.)
+
+Sao Tome and Principe
+  0 cu m (1 January 2010 est.)
+
+Saudi Arabia
+  7.461 trillion cu m (1 January 2010 est.)
+
+Senegal
+  NA cu m (1 January 2010 est.)
+
+Serbia
+  48.14 billion cu m (1 January 2010 est.)
+
+Seychelles
+  0 cu m (1 January 2010 est.)
+
+Sierra Leone
+  0 cu m (1 January 2010 est.)
+
+Singapore
+  0 cu m (1 January 2010 est.)
+
+Slovakia
+  14.16 billion cu m (1 January 2010 est.)
+
+Slovenia
+  0 cu m (1 January 2010 est.)
+
+Solomon Islands
+  0 cu m (1 January 2010 est.)
+
+Somalia
+  5.663 billion cu m (1 January 2009 est.)
+
+South Africa
+  27.16 million cu m (1 January 2006 est.)
+
+Spain
+  2.548 billion cu m (1 January 2010 est.)
+
+Sri Lanka
+  0 cu m (1 January 2010 est.)
+
+Sudan
+  84.95 billion cu m (1 January 2010 est.)
+
+Suriname
+  0 cu m (1 January 2010 est.)
+
+Swaziland
+  0 cu m (1 January 2010 est.)
+
+Sweden
+  0 cu m (1 January 2010 est.)
+
+Switzerland
+  NA cu m (1 January 2009 est.)
+
+Syria
+  240.7 billion cu m (1 January 2010 est.)
+
+Taiwan
+  6.229 billion cu m (1 January 2010 est.)
+
+Tajikistan
+  5.663 billion cu m (1 January 2010 est.)
+
+Tanzania
+  6.513 billion cu m (1 January 2010 est.)
+
+Thailand
+  342 billion cu m (1 January 2010 est.)
+
+Timor-Leste
+  200 billion cu m (1 January 2006 est.)
+
+Togo
+  0 cu m (1 January 2010 est.)
+
+Tonga
+  0 cu m (1 January 2010 est.)
+
+Trinidad and Tobago
+  436.1 billion cu m (1 January 2010 est.)
+
+Tunisia
+  65.13 billion cu m (1 January 2010 est.)
+
+Turkey
+  6.088 billion cu m (1 January 2010 est.)
+
+Turkmenistan
+  7.504 trillion cu m (1 January 2010 est.)
+
+Turks and Caicos Islands
+  0 cu m (1 January 2010 est.)
+
+Uganda
+  0 cu m (1 January 2010 est.)
+
+Ukraine
+  1.104 trillion cu m (1 January 2010 est.)
+
+United Arab Emirates
+  6.071 trillion cu m (1 January 2010 est.)
+
+United Kingdom
+  292 billion cu m (1 January 2010 est.)
+
+United States
+  6.928 trillion cu m (1 January 2010 est.)
+
+Uruguay
+  0 cu m (1 January 2010 est.)
+
+Uzbekistan
+  1.841 trillion cu m (1 January 2010 est.)
+
+Vanuatu
+  0 cu m (1 January 2010 est.)
+
+Venezuela
+  4.983 trillion cu m (1 January 2010 est.)
+
+Vietnam
+  610 billion cu m (1 January 2009 est.)
+
+Virgin Islands
+  0 cu m (1 January 2010 est.)
+
+West Bank
+  0 cu m (1 January 2009 est.)
+
+Western Sahara
+  0 cu m (1 January 2010 est.)
+
+World
+  187.8 trillion cu m (1 January 2010 est.)
+
+Yemen
+  478.5 billion cu m (1 January 2010 est.)
+
+Zambia
+  0 cu m (1 January 2010 est.)
+
+Zimbabwe
+  0 cu m (1 January 2010 est.)
+
+
+
+
+======================================================================
+
+
+
+
+

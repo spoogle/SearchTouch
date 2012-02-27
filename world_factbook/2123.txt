@@ -1,0 +1,770 @@
+2123
+
+
+Field Listing :: Suffrage
+
+  This entry gives the age at enfranchisement and whether the right to
+  vote is universal or restricted.
+  Country
+
+
+  Suffrage
+
+Afghanistan
+  18 years of age; universal
+
+Albania
+  18 years of age; universal
+
+Algeria
+  18 years of age; universal
+
+American Samoa
+  18 years of age; universal
+
+Andorra
+  18 years of age; universal
+
+Angola
+  18 years of age; universal
+
+Anguilla
+  18 years of age; universal
+
+Antigua and Barbuda
+  18 years of age; universal
+
+Argentina
+  18 years of age; universal and compulsory
+
+Armenia
+  18 years of age; universal
+
+Aruba
+  18 years of age; universal
+
+Australia
+  18 years of age; universal and compulsory
+
+Austria
+  16 years of age; universal; note - reduced from 18 years of
+  age in 2007
+
+Azerbaijan
+  18 years of age; universal
+
+Bahamas, The
+  18 years of age; universal
+
+Bahrain
+  20 years of age; universal
+
+Bangladesh
+  18 years of age; universal
+
+Barbados
+  18 years of age; universal
+
+Belarus
+  18 years of age; universal
+
+Belgium
+  18 years of age; universal and compulsory
+
+Belize
+  18 years of age; universal
+
+Benin
+  18 years of age; universal
+
+Bermuda
+  18 years of age; universal
+
+Bhutan
+  18 years of age; universal
+
+Bolivia
+  18 years of age, universal and compulsory (married); 21
+  years of age, universal and compulsory (single)
+
+Bosnia and Herzegovina
+  18 years of age, 16 if employed; universal
+
+Botswana
+  18 years of age; universal
+
+Brazil
+  voluntary between 16 and 18 years of age and over 70;
+  compulsory over 18 and under 70 years of age; note - military
+  conscripts do not vote
+
+British Virgin Islands
+  18 years of age; universal
+
+Brunei
+  18 years of age for village elections; universal
+
+Bulgaria
+  18 years of age; universal
+
+Burkina Faso
+  18 years of age; universal
+
+Burma
+  18 years of age; universal
+
+Burundi
+  18 years of age; universal (adult)
+
+Cambodia
+  18 years of age; universal
+
+Cameroon
+  20 years of age; universal
+
+Canada
+  18 years of age; universal
+
+Cape Verde
+  18 years of age; universal
+
+Cayman Islands
+  18 years of age; universal
+
+Central African Republic
+  21 years of age; universal
+
+Chad
+  18 years of age; universal
+
+Chile
+  18 years of age; universal and compulsory
+
+China
+  18 years of age; universal
+
+Christmas Island
+  18 years of age
+
+Cocos (Keeling) Islands
+  18 years of age
+
+Colombia
+  18 years of age; universal
+
+Comoros
+  18 years of age; universal
+
+Congo, Democratic Republic of the
+  18 years of age; universal and
+  compulsory
+
+Congo, Republic of the
+  18 years of age; universal
+
+Cook Islands
+  18 years of age; universal (adult)
+
+Costa Rica
+  18 years of age; universal and compulsory
+
+Cote d'Ivoire
+  18 years of age; universal
+
+Croatia
+  18 years of age, 16 if employed; universal
+
+Cuba
+  16 years of age; universal
+
+Curacao
+  18 years of age; universal
+
+Cyprus
+  18 years of age; universal
+
+Czech Republic
+  18 years of age; universal
+
+Denmark
+  18 years of age; universal
+
+Djibouti
+  18 years of age; universal
+
+Dominica
+  18 years of age; universal
+
+Dominican Republic
+  18 years of age, universal and compulsory;
+  married persons regardless of age; note - members of the armed
+  forces and national police cannot vote
+
+Ecuador
+  16 years of age; universal, compulsory for persons ages
+  18-65, optional for other eligible voters
+
+Egypt
+  18 years of age; universal and compulsory
+
+El Salvador
+  18 years of age; universal
+
+Equatorial Guinea
+  18 years of age; universal
+
+Eritrea
+  18 years of age; universal
+
+Estonia
+  18 years of age; universal for all Estonian citizens
+
+Ethiopia
+  18 years of age; universal
+
+European Union
+  18 years of age; universal
+
+Falkland Islands (Islas Malvinas)
+  18 years of age; universal
+
+Faroe Islands
+  18 years of age; universal
+
+Fiji
+  21 years of age; universal
+
+Finland
+  18 years of age; universal
+
+France
+  18 years of age; universal
+
+French Polynesia
+  18 years of age; universal
+
+Gabon
+  21 years of age; universal
+
+Gambia, The
+  18 years of age; universal
+
+Georgia
+  18 years of age; universal
+
+Germany
+  18 years of age; universal
+
+Ghana
+  18 years of age; universal
+
+Gibraltar
+  18 years of age; universal; and British citizens who have
+  been residents six months or more
+
+Greece
+  18 years of age; universal and compulsory
+
+Greenland
+  18 years of age; universal
+
+Grenada
+  18 years of age; universal
+
+Guam
+  18 years of age; universal; US citizens but do not vote in US
+  presidential elections
+
+Guatemala
+  18 years of age; universal; note - active duty members of
+  the armed forces may not vote and are restricted to their barracks
+  on election day
+
+Guernsey
+  16 years of age; universal
+
+Guinea
+  18 years of age; universal
+
+Guinea-Bissau
+  18 years of age; universal
+
+Guyana
+  18 years of age; universal
+
+Haiti
+  18 years of age; universal
+
+Holy See (Vatican City)
+  limited to cardinals less than 80 years old
+
+Honduras
+  18 years of age; universal and compulsory
+
+Hong Kong
+  direct election - 18 years of age for half the legislature
+  and a majority of seats in 18 district councils; universal for
+  permanent residents living in the territory of Hong Kong for the
+  past seven years
+  indirect election - limited to about 220,000 members of functional
+  constituencies for the other half of the legislature and an
+  800-member election committee for the chief executive drawn from
+  broad sectoral groupings, central government bodies, and municipal
+  organizations
+
+Hungary
+  18 years of age; universal
+
+Iceland
+  18 years of age; universal
+
+India
+  18 years of age; universal
+
+Indonesia
+  17 years of age; universal and married persons regardless
+  of age
+
+Iran
+  18 years of age; universal
+
+Iraq
+  18 years of age; universal
+
+Ireland
+  18 years of age; universal
+
+Isle of Man
+  16 years of age; universal
+
+Israel
+  18 years of age; universal
+
+Italy
+  18 years of age; universal (except in senatorial elections,
+  where minimum age is 25)
+
+Jamaica
+  18 years of age; universal
+
+Japan
+  20 years of age; universal
+
+Jersey
+  16 years of age; universal
+
+Jordan
+  18 years of age; universal
+
+Kazakhstan
+  18 years of age; universal
+
+Kenya
+  18 years of age; universal
+
+Kiribati
+  18 years of age; universal
+
+Korea, North
+  17 years of age; universal
+
+Korea, South
+  19 years of age; universal
+
+Kosovo
+  18 years of age; universal
+
+Kuwait
+  21 years of age; universal (adult); note - males in the
+  military or police are not allowed to vote; adult females were
+  allowed to vote as of 16 May 2005; all voters must have been
+  citizens for 20 years
+
+Kyrgyzstan
+  18 years of age; universal
+
+Laos
+  18 years of age; universal
+
+Latvia
+  18 years of age; universal for Latvian citizens
+
+Lebanon
+  21 years of age; compulsory for all males; authorized for
+  women at age 21 with elementary education; excludes military
+  personnel
+
+Lesotho
+  18 years of age; universal
+
+Liberia
+  18 years of age; universal
+
+Libya
+  18 years of age; universal and technically compulsory
+
+Liechtenstein
+  18 years of age; universal
+
+Lithuania
+  18 years of age; universal
+
+Luxembourg
+  18 years of age; universal and compulsory
+
+Macau
+  direct election 18 years of age for some non-executive
+  positions, universal for permanent residents living in Macau for the
+  past seven years; indirect election limited to organizations
+  registered as "corporate voters" (257 are currently registered) and
+  a 300-member Election Committee drawn from broad regional groupings,
+  municipal organizations, and central government bodies
+
+Macedonia
+  18 years of age; universal
+
+Madagascar
+  18 years of age; universal
+
+Malawi
+  18 years of age; universal
+
+Malaysia
+  21 years of age; universal
+
+Maldives
+  18 years of age; universal
+
+Mali
+  18 years of age; universal
+
+Malta
+  18 years of age; universal
+
+Marshall Islands
+  18 years of age; universal
+
+Mauritania
+  18 years of age; universal
+
+Mauritius
+  18 years of age; universal
+
+Mayotte
+  18 years of age; universal
+
+Mexico
+  18 years of age; universal and compulsory (but not enforced)
+
+Micronesia, Federated States of
+  18 years of age; universal
+
+Moldova
+  18 years of age; universal
+
+Monaco
+  18 years of age; universal
+
+Mongolia
+  18 years of age; universal
+
+Montenegro
+  18 years of age; universal
+
+Montserrat
+  18 years of age; universal
+
+Morocco
+  18 years of age; universal
+
+Mozambique
+  18 years of age; universal
+
+Namibia
+  18 years of age; universal
+
+Nauru
+  20 years of age; universal and compulsory
+
+Nepal
+  18 years of age; universal
+
+Netherlands
+  18 years of age; universal
+
+New Caledonia
+  18 years of age; universal
+
+New Zealand
+  18 years of age; universal
+
+Nicaragua
+  16 years of age; universal
+
+Niger
+  18 years of age; universal
+
+Nigeria
+  18 years of age; universal
+
+Niue
+  18 years of age; universal
+
+Norfolk Island
+  18 years of age; universal
+
+Northern Mariana Islands
+  18 years of age; universal; indigenous
+  inhabitants are US citizens but do not vote in US presidential
+  elections
+
+Norway
+  18 years of age; universal
+
+Oman
+  21 years of age; universal; note - members of the military and
+  security forces are not allowed to vote
+
+Pakistan
+  18 years of age; universal; joint electorates and reserved
+  parliamentary seats for women and non-Muslims
+
+Palau
+  18 years of age; universal
+
+Panama
+  18 years of age; universal and compulsory
+
+Papua New Guinea
+  18 years of age; universal
+
+Paraguay
+  18 years of age; universal and compulsory up to age 75
+
+Peru
+  18 years of age; universal and compulsory until the age of 70
+
+Philippines
+  18 years of age; universal
+
+Pitcairn Islands
+  18 years of age; universal with three years
+  residency
+
+Poland
+  18 years of age; universal
+
+Portugal
+  18 years of age; universal
+
+Puerto Rico
+  18 years of age; universal; island residents are US
+  citizens but do not vote in US presidential elections
+
+Qatar
+  18 years of age; universal
+
+Romania
+  18 years of age; universal
+
+Russia
+  18 years of age; universal
+
+Rwanda
+  18 years of age; universal
+
+Saint Barthelemy
+  18 years of age, universal
+
+Saint Helena, Ascension, and Tristan da Cunha
+  NA
+
+Saint Kitts and Nevis
+  18 years of age; universal
+
+Saint Lucia
+  18 years of age; universal
+
+Saint Martin
+  18 years of age, universal
+
+Saint Pierre and Miquelon
+  18 years of age; universal
+
+Saint Vincent and the Grenadines
+  18 years of age; universal
+
+Samoa
+  21 years of age; universal
+
+San Marino
+  18 years of age; universal
+
+Sao Tome and Principe
+  18 years of age; universal
+
+Saudi Arabia
+  21 years of age; male
+
+Senegal
+  18 years of age; universal
+
+Serbia
+  18 years of age; universal
+
+Seychelles
+  17 years of age; universal
+
+Sierra Leone
+  18 years of age; universal
+
+Singapore
+  21 years of age; universal and compulsory
+
+Sint Maarten
+  18 years of age; universal
+
+Slovakia
+  18 years of age; universal
+
+Slovenia
+  18 years of age, 16 if employed; universal
+
+Solomon Islands
+  21 years of age; universal
+
+Somalia
+  18 years of age; universal
+
+South Africa
+  18 years of age; universal
+
+Spain
+  18 years of age; universal
+
+Sri Lanka
+  18 years of age; universal
+
+Sudan
+  17 years of age; universal
+
+Suriname
+  18 years of age; universal
+
+Swaziland
+  18 years of age
+
+Sweden
+  18 years of age; universal
+
+Switzerland
+  18 years of age; universal
+
+Syria
+  18 years of age; universal
+
+Taiwan
+  20 years of age; universal
+
+Tajikistan
+  18 years of age; universal
+
+Tanzania
+  18 years of age; universal
+
+Thailand
+  18 years of age; universal and compulsory
+
+Timor-Leste
+  17 years of age; universal
+
+Togo
+  18 years of age; universal (adult)
+
+Tokelau
+  21 years of age; universal
+
+Tonga
+  21 years of age; universal
+
+Trinidad and Tobago
+  18 years of age; universal
+
+Tunisia
+  18 years of age; universal except for active government
+  security forces (including the police and the military), people with
+  mental disabilities, people who have served more than three months
+  in prison (criminal cases only), and people given a suspended
+  sentence of more than six months
+
+Turkey
+  18 years of age; universal
+
+Turkmenistan
+  18 years of age; universal
+
+Turks and Caicos Islands
+  18 years of age; universal
+
+Tuvalu
+  18 years of age; universal
+
+Uganda
+  18 years of age; universal
+
+Ukraine
+  18 years of age; universal
+
+United Arab Emirates
+  none
+
+United Kingdom
+  18 years of age; universal
+
+United States
+  18 years of age; universal
+
+Uruguay
+  18 years of age; universal and compulsory
+
+Uzbekistan
+  18 years of age; universal
+
+Vanuatu
+  18 years of age; universal
+
+Venezuela
+  18 years of age; universal
+
+Vietnam
+  18 years of age; universal
+
+Virgin Islands
+  18 years of age; universal; island residents are US
+  citizens but do not vote in US presidential elections
+
+Wallis and Futuna
+  18 years of age; universal
+
+Western Sahara
+  none; (residents of Moroccan-controlled Western
+  Sahara participate in Moroccan elections)
+
+Yemen
+  18 years of age; universal
+
+Zambia
+  18 years of age; universal
+
+Zimbabwe
+  18 years of age; universal
+
+
+
+
+======================================================================
+
+
+
+
+

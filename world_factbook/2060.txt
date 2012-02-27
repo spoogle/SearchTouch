@@ -1,0 +1,852 @@
+2060
+
+
+Field Listing :: Coastline
+
+  This entry gives the total length of the boundary between the land
+  area (including islands) and the sea.
+  Country
+
+
+  Coastline(km)
+
+Afghanistan
+  0 km (landlocked)
+
+Akrotiri
+  56.3 km
+
+Albania
+  362 km
+
+Algeria
+  998 km
+
+American Samoa
+  116 km
+
+Andorra
+  0 km (landlocked)
+
+Angola
+  1,600 km
+
+Anguilla
+  61 km
+
+Antarctica
+  17,968 km
+
+Antigua and Barbuda
+  153 km
+
+Arctic Ocean
+  45,389 km
+
+Argentina
+  4,989 km
+
+Armenia
+  0 km (landlocked)
+
+Aruba
+  68.5 km
+
+Ashmore and Cartier Islands
+  74.1 km
+
+Atlantic Ocean
+  111,866 km
+
+Australia
+  25,760 km
+
+Austria
+  0 km (landlocked)
+
+Azerbaijan
+  0 km (landlocked); note - Azerbaijan borders the Caspian
+  Sea (713 km)
+
+Bahamas, The
+  3,542 km
+
+Bahrain
+  161 km
+
+Bangladesh
+  580 km
+
+Barbados
+  97 km
+
+Belarus
+  0 km (landlocked)
+
+Belgium
+  66.5 km
+
+Belize
+  386 km
+
+Benin
+  121 km
+
+Bermuda
+  103 km
+
+Bhutan
+  0 km (landlocked)
+
+Bolivia
+  0 km (landlocked)
+
+Bosnia and Herzegovina
+  20 km
+
+Botswana
+  0 km (landlocked)
+
+Bouvet Island
+  29.6 km
+
+Brazil
+  7,491 km
+
+British Indian Ocean Territory
+  698 km
+
+British Virgin Islands
+  80 km
+
+Brunei
+  161 km
+
+Bulgaria
+  354 km
+
+Burkina Faso
+  0 km (landlocked)
+
+Burma
+  1,930 km
+
+Burundi
+  0 km (landlocked)
+
+Cambodia
+  443 km
+
+Cameroon
+  402 km
+
+Canada
+  202,080 km
+
+Cape Verde
+  965 km
+
+Cayman Islands
+  160 km
+
+Central African Republic
+  0 km (landlocked)
+
+Chad
+  0 km (landlocked)
+
+Chile
+  6,435 km
+
+China
+  14,500 km
+
+Christmas Island
+  138.9 km
+
+Clipperton Island
+  11.1 km
+
+Cocos (Keeling) Islands
+  26 km
+
+Colombia
+  3,208 km (Caribbean Sea 1,760 km, North Pacific Ocean 1,448
+  km)
+
+Comoros
+  340 km
+
+Congo, Democratic Republic of the
+  37 km
+
+Congo, Republic of the
+  169 km
+
+Cook Islands
+  120 km
+
+Coral Sea Islands
+  3,095 km
+
+Costa Rica
+  1,290 km
+
+Cote d'Ivoire
+  515 km
+
+Croatia
+  5,835 km (mainland 1,777 km, islands 4,058 km)
+
+Cuba
+  3,735 km
+
+Curacao
+  364 km
+
+Cyprus
+  648 km
+
+Czech Republic
+  0 km (landlocked)
+
+Denmark
+  7,314 km
+
+Dhekelia
+  27.5 km
+
+Djibouti
+  314 km
+
+Dominica
+  148 km
+
+Dominican Republic
+  1,288 km
+
+Ecuador
+  2,237 km
+
+Egypt
+  2,450 km
+
+El Salvador
+  307 km
+
+Equatorial Guinea
+  296 km
+
+Eritrea
+  2,234 km (mainland on Red Sea 1,151 km, islands in Red Sea
+  1,083 km)
+
+Estonia
+  3,794 km
+
+Ethiopia
+  0 km (landlocked)
+
+European Union
+  65,992.9 km
+
+Falkland Islands (Islas Malvinas)
+  1,288 km
+
+Faroe Islands
+  1,117 km
+
+Fiji
+  1,129 km
+
+Finland
+  1,250 km
+
+France
+  total: 4,668 km
+  metropolitan France: 3,427 km
+
+French Polynesia
+  2,525 km
+
+French Southern and Antarctic Lands
+  Ile Amsterdam (Ile Amsterdam et
+  Ile Saint-Paul): 28 km
+  Ile Saint-Paul (Ile Amsterdam et Ile Saint-Paul):
+  Iles Kerguelen: 2,800 km
+  Bassas da India (Iles Eparses): 35.2 km
+  Europa Island (Iles Eparses): 22.2 km
+  Glorioso Islands (Iles Eparses): 35.2 km
+  Juan de Nova Island (Iles Eparses): 24.1 km
+  Tromelin Island (Iles Eparses): 3.7 km
+
+Gabon
+  885 km
+
+Gambia, The
+  80 km
+
+Gaza Strip
+  40 km
+
+Georgia
+  310 km
+
+Germany
+  2,389 km
+
+Ghana
+  539 km
+
+Gibraltar
+  12 km
+
+Greece
+  13,676 km
+
+Greenland
+  44,087 km
+
+Grenada
+  121 km
+
+Guam
+  125.5 km
+
+Guatemala
+  400 km
+
+Guernsey
+  50 km
+
+Guinea
+  320 km
+
+Guinea-Bissau
+  350 km
+
+Guyana
+  459 km
+
+Haiti
+  1,771 km
+
+Heard Island and McDonald Islands
+  101.9 km
+
+Holy See (Vatican City)
+  0 km (landlocked)
+
+Honduras
+  820 km
+
+Hong Kong
+  733 km
+
+Hungary
+  0 km (landlocked)
+
+Iceland
+  4,970 km
+
+India
+  7,000 km
+
+Indian Ocean
+  66,526 km
+
+Indonesia
+  54,716 km
+
+Iran
+  2,440 km; note - Iran also borders the Caspian Sea (740 km)
+
+Iraq
+  58 km
+
+Ireland
+  1,448 km
+
+Isle of Man
+  160 km
+
+Israel
+  273 km
+
+Italy
+  7,600 km
+
+Jamaica
+  1,022 km
+
+Jan Mayen
+  124.1 km
+
+Japan
+  29,751 km
+
+Jersey
+  70 km
+
+Jordan
+  26 km
+
+Kazakhstan
+  0 km (landlocked); note - Kazakhstan borders the Aral
+  Sea, now split into two bodies of water (1,070 km), and the Caspian
+  Sea (1,894 km)
+
+Kenya
+  536 km
+
+Kiribati
+  1,143 km
+
+Korea, North
+  2,495 km
+
+Korea, South
+  2,413 km
+
+Kosovo
+  0 km (landlocked)
+
+Kuwait
+  499 km
+
+Kyrgyzstan
+  0 km (landlocked)
+
+Laos
+  0 km (landlocked)
+
+Latvia
+  498 km
+
+Lebanon
+  225 km
+
+Lesotho
+  0 km (landlocked)
+
+Liberia
+  579 km
+
+Libya
+  1,770 km
+
+Liechtenstein
+  0 km (doubly landlocked)
+
+Lithuania
+  90 km
+
+Luxembourg
+  0 km (landlocked)
+
+Macau
+  41 km
+
+Macedonia
+  0 km (landlocked)
+
+Madagascar
+  4,828 km
+
+Malawi
+  0 km (landlocked)
+
+Malaysia
+  4,675 km (Peninsular Malaysia 2,068 km, East Malaysia 2,607
+  km)
+
+Maldives
+  644 km
+
+Mali
+  0 km (landlocked)
+
+Malta
+  196.8 km (excludes 56.01 km for the island of Gozo)
+
+Marshall Islands
+  370.4 km
+
+Mauritania
+  754 km
+
+Mauritius
+  177 km
+
+Mayotte
+  185.2 km
+
+Mexico
+  9,330 km
+
+Micronesia, Federated States of
+  6,112 km
+
+Moldova
+  0 km (landlocked)
+
+Monaco
+  4.1 km
+
+Mongolia
+  0 km (landlocked)
+
+Montenegro
+  293.5 km
+
+Montserrat
+  40 km
+
+Morocco
+  1,835 km
+
+Mozambique
+  2,470 km
+
+Namibia
+  1,572 km
+
+Nauru
+  30 km
+
+Navassa Island
+  8 km
+
+Nepal
+  0 km (landlocked)
+
+Netherlands
+  451 km
+
+New Caledonia
+  2,254 km
+
+New Zealand
+  15,134 km
+
+Nicaragua
+  910 km
+
+Niger
+  0 km (landlocked)
+
+Nigeria
+  853 km
+
+Niue
+  64 km
+
+Norfolk Island
+  32 km
+
+Northern Mariana Islands
+  1,482 km
+
+Norway
+  25,148 km (includes mainland 2,650 km, as well as long
+  fjords, numerous small islands, and minor indentations 22,498 km;
+  length of island coastlines 58,133 km)
+
+Oman
+  2,092 km
+
+Pacific Ocean
+  135,663 km
+
+Pakistan
+  1,046 km
+
+Palau
+  1,519 km
+
+Panama
+  2,490 km
+
+Papua New Guinea
+  5,152 km
+
+Paracel Islands
+  518 km
+
+Paraguay
+  0 km (landlocked)
+
+Peru
+  2,414 km
+
+Philippines
+  36,289 km
+
+Pitcairn Islands
+  51 km
+
+Poland
+  440 km
+
+Portugal
+  1,793 km
+
+Puerto Rico
+  501 km
+
+Qatar
+  563 km
+
+Romania
+  225 km
+
+Russia
+  37,653 km
+
+Rwanda
+  0 km (landlocked)
+
+Saint Helena, Ascension, and Tristan da Cunha
+  Saint Helena: 60 km
+  Ascension Island: NA
+  Tristan da Cunha: 40 km
+
+Saint Kitts and Nevis
+  135 km
+
+Saint Lucia
+  158 km
+
+Saint Martin
+  58.9 km (for entire island)
+
+Saint Pierre and Miquelon
+  120 km
+
+Saint Vincent and the Grenadines
+  84 km
+
+Samoa
+  403 km
+
+San Marino
+  0 km (landlocked)
+
+Sao Tome and Principe
+  209 km
+
+Saudi Arabia
+  2,640 km
+
+Senegal
+  531 km
+
+Serbia
+  0 km (landlocked)
+
+Seychelles
+  491 km
+
+Sierra Leone
+  402 km
+
+Singapore
+  193 km
+
+Sint Maarten
+  364 km
+
+Slovakia
+  0 km (landlocked)
+
+Slovenia
+  46.6 km
+
+Solomon Islands
+  5,313 km
+
+Somalia
+  3,025 km
+
+South Africa
+  2,798 km
+
+South Georgia and South Sandwich Islands
+  NA
+
+Southern Ocean
+  17,968 km
+
+Spain
+  4,964 km
+
+Spratly Islands
+  926 km
+
+Sri Lanka
+  1,340 km
+
+Sudan
+  853 km
+
+Suriname
+  386 km
+
+Svalbard
+  3,587 km
+
+Swaziland
+  0 km (landlocked)
+
+Sweden
+  3,218 km
+
+Switzerland
+  0 km (landlocked)
+
+Syria
+  193 km
+
+Taiwan
+  1,566.3 km
+
+Tajikistan
+  0 km (landlocked)
+
+Tanzania
+  1,424 km
+
+Thailand
+  3,219 km
+
+Timor-Leste
+  706 km
+
+Togo
+  56 km
+
+Tokelau
+  101 km
+
+Tonga
+  419 km
+
+Trinidad and Tobago
+  362 km
+
+Tunisia
+  1,148 km
+
+Turkey
+  7,200 km
+
+Turkmenistan
+  0 km; note - Turkmenistan borders the Caspian Sea
+  (1,768 km)
+
+Turks and Caicos Islands
+  389 km
+
+Tuvalu
+  24 km
+
+Uganda
+  0 km (landlocked)
+
+Ukraine
+  2,782 km
+
+United Arab Emirates
+  1,318 km
+
+United Kingdom
+  12,429 km
+
+United States
+  19,924 km
+
+United States Pacific Island Wildlife Refuges
+  Baker Island: 4.8 km
+  Howland Island: 6.4 km
+  Jarvis Island: 8 km
+  Johnston Atoll: 34 km
+  Kingman Reef: 3 km
+  Midway Islands: 15 km
+  Palmyra Atoll: 14.5 km
+
+Uruguay
+  660 km
+
+Uzbekistan
+  0 km (doubly landlocked); note - Uzbekistan includes the
+  southern portion of the Aral Sea with a 420 km shoreline
+
+Vanuatu
+  2,528 km
+
+Venezuela
+  2,800 km
+
+Vietnam
+  3,444 km (excludes islands)
+
+Virgin Islands
+  188 km
+
+Wake Island
+  19.3 km
+
+Wallis and Futuna
+  129 km
+
+West Bank
+  0 km (landlocked)
+
+Western Sahara
+  1,110 km
+
+World
+  356,000 km
+  note: 95 nations and other entities are islands that border no other
+  countries, they include: American Samoa, Anguilla, Antigua and
+  Barbuda, Aruba, Ashmore and Cartier Islands, The Bahamas, Bahrain,
+  Baker Island, Barbados, Bermuda, Bouvet Island, British Indian Ocean
+  Territory, British Virgin Islands, Cape Verde, Cayman Islands,
+  Christmas Island, Clipperton Island, Cocos (Keeling) Islands,
+  Comoros, Cook Islands, Coral Sea Islands, Cuba, Curacao, Cyprus,
+  Dominica, Falkland Islands (Islas Malvinas), Faroe Islands, Fiji,
+  French Polynesia, French Southern and Antarctic Lands, Greenland,
+  Grenada, Guam, Guernsey, Heard Island and McDonald Islands, Howland
+  Island, Iceland, Isle of Man, Jamaica, Jan Mayen, Japan, Jarvis
+  Island, Jersey, Johnston Atoll, Kingman Reef, Kiribati, Madagascar,
+  Maldives, Malta, Marshall Islands, Martinique, Mauritius, Mayotte,
+  Federated States of Micronesia, Midway Islands, Montserrat, Nauru,
+  Navassa Island, New Caledonia, New Zealand, Niue, Norfolk Island,
+  Northern Mariana Islands, Palau, Palmyra Atoll, Paracel Islands,
+  Philippines, Pitcairn Islands, Puerto Rico, Reunion, Saint
+  Barthelemy, Saint Helena, Saint Kitts and Nevis, Saint Lucia, Saint
+  Pierre and Miquelon, Saint Vincent and the Grenadines, Samoa, Sao
+  Tome and Principe, Seychelles, Singapore, Solomon Islands, South
+  Georgia and the South Sandwich Islands, Spratly Islands, Sri Lanka,
+  Svalbard, Tokelau, Tonga, Trinidad and Tobago, Turks and Caicos
+  Islands, Tuvalu, Vanuatu, Virgin Islands, Wake Island, Wallis and
+  Futuna, Taiwan
+
+Yemen
+  1,906 km
+
+Zambia
+  0 km (landlocked)
+
+Zimbabwe
+  0 km (landlocked)
+
+
+
+
+======================================================================
+
+
+
+
+

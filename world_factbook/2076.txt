@@ -1,0 +1,1047 @@
+2076
+
+
+Field Listing :: Exchange rates
+
+  This entry provides the official value of a country's monetary unit
+  at a given date or over a given period of time, as expressed in
+  units of local currency per US dollar and as determined by
+  international market forces or official fiat. The International
+  Organization for Standardization (ISO) 4217 alphabetic currency code
+  for the national medium of exchange is presented in parenthesis.
+  Country
+
+
+  Exchange rates
+
+Afghanistan
+  afghanis (AFA) per US dollar - 50.23 (2009), 50.25
+  (2008), 50 (2007), 46 (2006), 47.7 (2005), 48 (2004)
+
+Akrotiri
+  euros (EUR) per US dollar - 0.7715 (2010), 0.7338 (2009),
+  0.6827 (2008)
+  note: on 1 January 2008 Akrotiri and Dhekelia adopted the euro along
+  with the rest of Cyprus
+
+Albania
+  leke (ALL) per US dollar - 106.5 (2010), 94.979 (2009),
+  79.546 (2008), 92.668 (2007), 98.384 (2006)
+
+Algeria
+  Algerian dinars (DZD) per US dollar - 76 (2010), 72.6474
+  (2009), 63.25 (2008), 69.9 (2007), 72.647 (2006)
+
+American Samoa
+  the US dollar is used
+
+Andorra
+  euros (EUR) per US dollar - 0.7715 (2010), 0.7179 (2009),
+  0.6827 (2008), 0.7306 (2007), 0.7964 (2006)
+
+Angola
+  kwanza (AOA) per US dollar - 92.08 (2010), 79.328 (2009),
+  75.023 (2008), 76.6 (2007), 80.4 (2006)
+
+Anguilla
+  East Caribbean dollars (XCD) per US dollar - 2.7 (2007),
+  2.7 (2006), 2.7 (2005), 2.7 (2004), 2.7 (2003)
+  note: fixed rate since 1976
+
+Antigua and Barbuda
+  East Caribbean dollars (XCD) per US dollar - 2.7
+  (2007), 2.7 (2006), 2.7 (2005), 2.7 (2004), 2.7 (2003)
+  note: fixed rate since 1976
+
+Argentina
+  Argentine pesos (ARS) per US dollar - 3.8983 (2010),
+  3.7101 (2009), 3.1636 (2008), 3.1105 (2007), 3.0543 (2006)
+
+Armenia
+  drams (AMD) per US dollar - 374.29 (2010), 363.28 (2009),
+  303.93 (2008), 344.06 (2007), 414.69 (2006)
+
+Aruba
+  Aruban guilders/florins (AWG) per US dollar - NA (2007), 1.79
+  (2006), 1.79 (2005), 1.79 (2004), 1.79 (2003)
+
+Australia
+  Australian dollars (AUD) per US dollar - 1.1151 (2010),
+  1.2822 (2009), 1.2059 (2008), 1.2137 (2007), 1.3285 (2006)
+
+Austria
+  euros (EUR) per US dollar - 0.7715 (2010), 0.7179 (2009),
+  0.6827 (2008), 0.7345 (2007), 0.7964 (2006)
+
+Azerbaijan
+  Azerbaijani manats (AZN) per US dollar - 0.8035 (2010),
+  0.8038 (2009), 0.8219 (2008), 0.8581 (2007), 0.8934 (2006)
+
+Bahamas, The
+  Bahamian dollars (BSD) per US dollar - 1 (2009), 1
+  (2008), 1 (2007), 1 (2006)
+
+Bahrain
+  Bahraini dinars (BHD) per US dollar - 0.376 (2010), 0.376
+  (2009), 0.376 (2008), 0.376 (2007), 0.376 (2006)
+
+Bangladesh
+  taka (BDT) per US dollar - 70.59 (2010), 69.039 (2009),
+  68.554 (2008), 69.893 (2007), 69.031 (2006)
+
+Barbados
+  Barbadian dollars (BBD) per US dollar - NA (2007), 2
+  (2006), 2 (2005), 2 (2004), 2 (2003)
+
+Belarus
+  Belarusian rubles (BYB/BYR) per US dollar - 3,019.9 (2010),
+  2,789.5 (2009), 2,130 (2008), 2,145 (2007), 2,144.6 (2006)
+
+Belgium
+  euros (EUR) per US dollar - 0.7715 (2010), 0.7179 (2009),
+  0.6827 (2008), 0.7345 (2007), 0.7964 (2006)
+
+Belize
+  Belizean dollars (BZD) per US dollar - 2 (2010), 2 (2009), 2
+  (2008), 2 (2007), 2 (2006)
+
+Benin
+  Communaute Financiere Africaine francs (XOF) per US dollar -
+  506.04 (2010), 472.19 (2009), 447.81 (2008), 493.51 (2007), 522.59
+  (2006)
+
+Bermuda
+  Bermudian dollars (BMD) per US dollar - 1.0000 (fixed rate
+  pegged to the US dollar)
+
+Bhutan
+  ngultrum (BTN) per US dollar - 46.6 (2009), 41.487 (2007),
+  45.279 (2006), 44.101 (2005), 45.317 (2004)
+  note: the ngultrum is pegged to the Indian rupee
+
+Bolivia
+  bolivianos (BOB) per US dollar - 7.0699 (2010), 7.07 (2009),
+  7.253 (2008), 7.8616 (2007), 8.0159 (2006)
+
+Bosnia and Herzegovina
+  konvertibilna markas (BAM) per US dollar -
+  1.5088 (2010), 1.4079 (2009), 1.3083 (2008), 1.4419 (2007), 1.5576
+  (2006)
+
+Botswana
+  pulas (BWP) per US dollar - 6.7413 (2010), 7.1602 (2009),
+  6.7907 (2008), 6.2035 (2007), 5.8447 (2006)
+
+Brazil
+  reals (BRL) per US dollar - 1.77 (2010), 1.9976 (2009),
+  1.8644 (2008), 1.85 (2007), 2.1761 (2006)
+
+British Indian Ocean Territory
+  the US dollar is used
+
+British Virgin Islands
+  the US dollar is used
+
+Brunei
+  Bruneian dollars (BND) per US dollar - 1.45 (2009), 1.45
+  (2009), 2 (2006), 2 (2005), 2 (2004)
+
+Bulgaria
+  leva (BGN) per US dollar - 1.5138 (2010), 1.404 (2009),
+  1.3171 (2008), 1.4366 (2007), 1.5576 (2006)
+
+Burkina Faso
+  Communaute Financiere Africaine francs (XOF) per US
+  dollar - 506.04 (2010), 472.19 (2009), 447.81 (2008), 493.51 (2007),
+  522.59 (2006)
+
+Burma
+  kyats (MMK) per US dollar - 1,000 (2010), 1,055 (2009), 1,205
+  (2008), 1,296 (2007), 1,280 (2006)
+
+Burundi
+  Burundi francs (BIF) per US dollar - 1,250.75 (2010),
+  1,230.18 (2009), 1,198 (2008), 1,065 (2007), 1,030 (2006)
+
+Cambodia
+  riels (KHR) per US dollar - 4,217.96 (2010), 4,139.33
+  (2009), 4,070.94 (2008), 4,006 (2007), 4,103 (2006)
+
+Cameroon
+  Cooperation Financiere en Afrique Centrale francs 506.04
+  (2010), 472.19 (2009), 447.81 (2008), 493.51 (2007), 522.59 (2006)
+
+Canada
+  Canadian dollars (CAD) per US dollar - 1.0346 (2010), 1.1431
+  (2009), 1.0364 (2008), 1.0724 (2007), 1.1334 (2006)
+
+Cape Verde
+  Cape Verdean escudos (CVE) per US dollar - 88.58 (2010),
+  79.377 (2009), 73.84 (2008), 81.235 (2007), 87.946 (2006)
+
+Cayman Islands
+  Caymanian dollars (KYD) per US dollar - NA (2007),
+  0.8496 (2006)
+
+Central African Republic
+  Cooperation Financiere en Afrique Centrale
+  francs (XAF) per US dollar - 506.04 (2009), 447.81 (2008), 481.8
+  (2007), 522.59 (2006)
+  note: since 1 January 1999, the Central African CFA franc (XAF) has
+  been pegged to the euro at a rate of 655.957 CFA francs per euro;
+  Central African CFA franc (XAF) coins and banknotes are not accepted
+  in countries using West African CFA francs (XOF), and vice versa,
+  even though the two currencies trade at par
+
+Chad
+  Cooperation Financiere en Afrique Centrale francs 506.04
+  (2010), 472.19 (2009), 447.81 (2008), 480.1 (2007), 522.59 (2006)
+
+Chile
+  Chilean pesos (CLP) per US dollar - 525.34 (2010), 560.86
+  (2009), 509.02 (2008), 526.25 (2007), 530.29 (2006)
+
+China
+  Renminbi yuan (RMB) per US dollar - 6.7852 (2010), 6.8314
+  (2009), 6.9385 (2008), 7.61 (2007), 7.97 (2006)
+
+Christmas Island
+  Australian dollars (AUD) per US dollar - 1.1151
+  (2010), 1.2822 (2009), 1.2059 (2008), 1.2137 (2007), 1.3285 (2006)
+
+Cocos (Keeling) Islands
+  Australian dollars (AUD) per US dollar -
+  1.1151 (2010), 1.2822 (2009), 1.2059 (2008), 1.2137 (2007), 1.3285
+  (2006)
+
+Colombia
+  Colombian pesos (COP) per US dollar - 1,893.1 (2010),
+  2,157.6 (2009), 2,243.6 (2008), 2,013.8 (2007), 2,358.6 (2006)
+
+Comoros
+  Comoran francs (KMF) per US dollar - 361.4 (2007), 391.8
+  (2006), 395.6 (2005), 396.21 (2004), 435.9 (2003)
+  note: the Comoran franc is pegged to the euro at a rate of 491.9677
+  Comoran francs per euro
+
+Congo, Democratic Republic of the
+  Congolese francs (CDF) per US
+  dollar - 930 (2010), 810 (2009), 559 (2008), 516 (2007), 464.69
+  (2006)
+
+Congo, Republic of the
+  Cooperation Financiere en Afrique Centrale
+  francs per US dollar - 507.71 (2010), 472.19 (2009), 447.81 (2008),
+  483.6 (2007), 522.59 (2006)
+
+Cook Islands
+  NZ dollars (NZD) per US dollar - 1.4015 (2009), 1.4151
+  (2008), 1.3811 (2007), 1.5408 (2006)
+
+Costa Rica
+  Costa Rican colones (CRC) per US dollar - 526.68 (2010),
+  573.29 (2009), 530.41 (2008), 519.53 (2007), 511.3 (2006)
+
+Cote d'Ivoire
+  Communaute Financiere Africaine francs (XOF) per US
+  dollar - 506.04 (2010), 472.19 (2009), 447.81 (2008), 481.83 (2007),
+  522.89 (2006)
+
+Croatia
+  kuna (HRK) per US dollar - 5.6356 (2010), 5.271 (2009), 4.98
+  (2008), 5.3735 (2007), 5.8625 (2006)
+
+Cuba
+  Cuban pesos (CUP) per US dollar - 0.9259 (2010), 0.9259 (2009),
+  0.9259 (2008), 0.9259 (2007), 0.9231 (2006)
+
+Curacao
+  Netherlands Antillean guilders (ANG) per US dollar - 1.79
+  (2009), 1.79 (2008), 1.79 (2007), 1.79 (2006)
+
+Cyprus
+  euros (EUR) per US dollar - 0.774 (2010), 0.718 (2009),
+  0.6827 (2008), 0.4286 (2007), 0.4586 (2006)
+
+Czech Republic
+  koruny (CZK) per US dollar - 19.737 (2010), 19.063
+  (2009), 17.064 (2008), 20.53 (2007), 22.596 (2006)
+
+Denmark
+  Danish kroner (DKK) per US dollar - 5.774 (2010), 5.3609
+  (2009), 5.0236 (2008), 5.4797 (2007), 5.9468 (2006)
+
+Dhekelia
+  euros (EUR) per US dollar - 0.7715 (2010), 0.7338 (2009),
+  0.6827 (2008)
+  note: on 1 January 2008, Dhekelia and Akrotiri adopted the euro
+  along with the rest of Cyprus
+
+Djibouti
+  Djiboutian francs (DJF) per US dollar - 177.71 (2007),
+  174.75 (2006), 177.72 (2005), 177.72 (2004), 177.72 (2003)
+
+Dominica
+  East Caribbean dollars (XCD) per US dollar - 2.7 (2007),
+  2.7 (2006), 2.7 (2005), 2.7 (2004), 2.7 (2003)
+
+Dominican Republic
+  Dominican pesos (DOP) per US dollar - 36.92
+  (2010), 36.027 (2009), 34.775 (2008), 33.113 (2007), 33.406 (2006)
+
+Ecuador
+  1 (2010), 1 (2009)
+  note: the US dollar is legal tender
+
+Egypt
+  Egyptian pounds (EGP) per US dollar - 5.6124 (2010), 5.545
+  (2009), 5.4 (2008), 5.67 (2007), 5.725 (2006)
+
+El Salvador
+  the US dollar became El Salvador's currency in 2001
+
+Equatorial Guinea
+  Cooperation Financiere en Afrique Centrale francs
+  per US dollar - 506.04 (2010), 472.19 (2009), 447.81 (2008), 481.83
+  (2007), 522.4 (2006)
+
+Eritrea
+  nakfa (ERN) per US dollar - 15.375 (2010), 15.375 (2009),
+  15.38 (2008), 15.5 (2007), 15.4 (2006)
+
+Estonia
+  kroon (EEK) per US dollar - 12.11 (2010), 11.232 (2009),
+  10.7 (2008), 11.535 (2007), 12.473 (2006)
+  note: Estonia adopted the euro on 1 January 2011
+
+Ethiopia
+  birr (ETB) per US dollar - 14.4 (2010), 11.7776 (2009),
+  9.57 (2008), 8.96 (2007), 8.69 (2006)
+
+European Union
+  euros per US dollar - 0.7715 (2010), 0.7338 (2009),
+  0.6827 (2008), 0.7345 (2007), 0.7964 (2006)
+
+Falkland Islands (Islas Malvinas)
+  Falkland pounds (FKP) per US
+  dollar - 0.5302 (2008), 0.4993 (2007), 0.5418 (2006), 0.5493 (2005),
+  0.5462 (2004)
+  note: the Falkland pound is at par with the British pound
+
+Faroe Islands
+  Danish kroner (DKK) per US dollar - 5.774 (2009),
+  5.0236 (2008), 5.4797 (2007), 5.9468 (2006)
+
+Fiji
+  Fijian dollars (FJD) per US dollar - NA (2007), 1.7313 (2006),
+  1.691 (2005), 1.7331 (2004), 1.8958 (2003)
+
+Finland
+  euros (EUR) per US dollar - 0.7715 (2010), 0.7179 (2009),
+  0.6827 (2008), 0.7345 (2007), 0.7964 (2006)
+
+France
+  euros (EUR) per US dollar - 0.7715 (2010), 0.7179 (2009),
+  0.6827 (2008), 0.7345 (2007), 0.7964 (2006)
+
+French Polynesia
+  Comptoirs Francais du Pacifique francs (XPF) per US
+  dollar - 87.59 (2007), 94.97 (2006), 95.89 (2005), 96.04 (2004),
+  105.66 (2003)
+  note: pegged at the rate of 119.25 XPF to the euro
+
+Gabon
+  Cooperation Financiere en Afrique Centrale francs per US
+  dollar - 507.71 (2010), 472.19 (2009), 447.81 (2008), 481.83 (2007),
+  522.89 (2006)
+
+Gambia, The
+  dalasis (GMD) per US dollar - 28.5193 (2010), 26.67
+  (2009), 22.75 (2008), 27.79 (2007), 28.066 (2006)
+
+Gaza Strip
+  new Israeli shekels (ILS) per US dollar - 3.7461 (2010),
+  3.9326 (2009), 3.56 (2008), 4.14 (2007), 4.4565 (2006)
+
+Georgia
+  laris (GEL) per US dollar - 1.8009 (2010), 1.6705 (2009),
+  1.47 (2008), 1.7 (2007), 1.78 (2006)
+
+Germany
+  euros (EUR) per US dollar - 0.7715 (2010), 0.7179 (2009),
+  0.6827 (2008), 0.7345 (2007), 0.7964 (2006)
+
+Ghana
+  cedis (GHC) per US dollar - 1.4 (2010), 1.4 (2009), 1.1
+  (2008), 0.95 (2007), 9,174.8 (2006)
+
+Gibraltar
+  Gibraltar pounds (GIP) per US dollar - 0.6494 (2009),
+  0.5302 (2008), 0.4993 (2007), 0.5418 (2006)
+  note: the Gibraltar pound is at par with the British pound
+
+Greece
+  euros (EUR) per US dollar - 0.7715 (2010), 0.7179 (2009),
+  0.6827 (2008), 0.7345 (2007), 0.7964 (2006)
+
+Greenland
+  Danish kroner (DKK) per US dollar - 5.774 (2009), 5.0236
+  (2008), 5.4797 (2007), 5.9468 (2006)
+
+Grenada
+  East Caribbean dollars (XCD) per US dollar - 2.7 (2007), 2.7
+  (2006), 2.7 (2005), 2.7 (2004), 2.7 (2003)
+
+Guam
+  the US dollar is used
+
+Guatemala
+  quetzales (GTQ) per US dollar - 8.0798 (2010), 8.1616
+  (2009), 7.5895 (2008), 7.6833 (2007), 7.6026 (2006)
+
+Guernsey
+  Guernsey pound 0.6504 (2009), 0.5302 (2008), 0.4993 (2007),
+  0.5418 (2006)
+  note: the Guernsey pound is at par with the British pound
+
+Guinea
+  Guinean francs (GNF) per US dollar - 6,100 (2010), 5,500
+  (2009), 5,500 (2008), 4,122.8 (2007), 5,350 (2006)
+
+Guinea-Bissau
+  Communaute Financiere Africaine francs (XOF) per US
+  dollar - 506.04 (2009), 447.81 (2008), 493.51 (2007), 522.59 (2006)
+  note: since 1 January 1999, the West African CFA franc (XOF) has
+  been pegged to the euro at a rate of 655.957 CFA francs per euro;
+  West African CFA franc (XOF) coins and banknotes are not accepted in
+  countries using Central African CFA francs (XAF), and vice versa,
+  even though the two currencies trade at par
+
+Guyana
+  Guyanese dollars (GYD) per US dollar - 204.07 (2010), 204.02
+  (2009), 203.86 (2008), 201.89 (2007), 200.28 (2006)
+
+Haiti
+  gourdes (HTG) per US dollar - 41.198 (2010), 41.195 (2009),
+  39.216 (2008), 37.138 (2007), 40.232 (2006)
+
+Holy See (Vatican City)
+  euros (EUR) per US dollar - 0.7715 (2010),
+  0.7179 (2009), 0.6827 (2008), 0.7345 (2007), 0.7964 (2006)
+
+Honduras
+  lempiras (HNL) per US dollar - 18.9 (2010), 18.895 (2009),
+  18.983 (2008), 18.9 (2007), 18.895 (2006)
+
+Hong Kong
+  Hong Kong dollars (HKD) per US dollar - 7.78 (2010),
+  7.7518 (2009), 7.751 (2008), 7.802 (2007), 7.7678 (2006)
+
+Hungary
+  forints (HUF) per US dollar - 213.69 (2010), 202.34 (2009),
+  171.8 (2008), 183.83 (2007), 210.39 (2006)
+
+Iceland
+  Icelandic kronur (ISK) per US dollar - 139.319 (2010),
+  123.638 (2009), 85.619 (2008), 63.391 (2007), 70.195 (2006)
+
+India
+  Indian rupees (INR) per US dollar - 46.163 (2010), 48.405
+  (2009), 43.319 (2008), 41.487 (2007), 45.3 (2006)
+
+Indonesia
+  Indonesian rupiah (IDR) per US dollar - 9,169.5 (2010),
+  10,389.9 (2009), 9,698.9 (2008), 9,143 (2007), 9,159.3 (2006)
+
+Iran
+  Iranian rials (IRR) per US dollar - 10,308.2 (2010), 9,864.3
+  (2009), 9,142.8 (2008), 9,407.5 (2007), 9,227.1 (2006)
+
+Iraq
+  Iraqi dinars (IQD) per US dollar - 1,170 (2010), 1,170 (2009),
+  1,176 (2008), 1,255 (2007), 1,466 (2006)
+
+Ireland
+  euros (EUR) per US dollar - 0.7715 (2010), 0.7179 (2009),
+  0.6827 (2008), 0.7345 (2007), 0.7964 (2006)
+
+Isle of Man
+  Manx pounds (IMP) per US dollar - 0.6504 (2010), 0.6389
+  (2009), 0.5302 (2008), 0.4993 (2007), 0.5418 (2006)
+  note: the Manx pound is at par with the British pound
+
+Israel
+  new Israeli shekels (ILS) per US dollar - 3.7461 (2010),
+  3.9326 (2009), 3.588 (2008), 4.14 (2007), 4.4565 (2006)
+
+Italy
+  euros (EUR) per US dollar - 0.7715 (2010), 0.7179 (2009),
+  0.6827 (2008), 0.7345 (2007), 0.7964 (2006)
+
+Jamaica
+  Jamaican dollars (JMD) per US dollar - 87.41 (2010), 87.894
+  (2009), 72.236 (2008), 69.034 (2007), 65.768 (2006)
+
+Japan
+  yen (JPY) per US dollar - 88.67 (2010), 93.57 (2009), 103.58
+  (2008), 117.99 (2007), 116.18 (2006)
+
+Jersey
+  Jersey pounds per US dollar 0.6504 (2010), 0.6389 (2009),
+  0.5302 (2008), 0.4993 (2007), 0.5418 (2006)
+  note: the Jersey pound is at par with the British pound
+
+Jordan
+  Jordanian dinars (JOD) per US dollar - 0.709 (2010), 0.709
+  (2009), 0.709 (2008), 0.709 (2007), 0.709 (2006)
+
+Kazakhstan
+  tenge (KZT) per US dollar - 147.28 (2010), 147.5 (2009),
+  120.25 (2008), 122.55 (2007), 126.09 (2006)
+
+Kenya
+  Kenyan shillings (KES) per US dollar - 79.217 (2010), 77.35
+  (2009), 68.358 (2008), 68.309 (2007), 72.101 (2006)
+
+Kiribati
+  Australian dollars (AUD) per US dollar - 1.1151 (2010),
+  1.2822 (2009), 1.2059 (2008), 1.2137 (2007), 1.3285 (2006)
+
+Korea, North
+  North Korean won (KPW) per US dollar (market rate)
+  1,800 (December 2010), 3,630 (December 2008), 140 (2007), 141 (2006)
+
+Korea, South
+  South Korean won (KRW) per US dollar - 1,153.77 (2010),
+  1,276.93 (2009), 1,101.7 (2008), 929.2 (2007), 954.8 (2006)
+
+Kosovo
+  euros (EUR) per US dollar - 0.7715 (2010), 0.7338 (2009),
+  0.6827 (2008), 0.7345 (2007)
+
+Kuwait
+  Kuwaiti dinars (KD) per US dollar - 0.2888 (2010), 0.2877
+  (2009), 0.2679 (2008), 0.2844 (2007), 0.29 (2006)
+
+Kyrgyzstan
+  soms (KGS) per US dollar - 46.337 (2010), 42.905 (2009),
+  36.108 (2008), 37.746 (2007), 40.149 (2006)
+
+Laos
+  kips (LAK) per US dollar - 8,320.27 (2010), 8,516.04 (2009),
+  8,760.69 (2008), 9,658 (2007), 10,235 (2006)
+
+Latvia
+  lati (LVL) per US dollar - 0.5422 (2010), 0.5056 (2009),
+  0.4701 (2008), 0.5162 (2007), 0.5597 (2006)
+
+Lebanon
+  Lebanese pounds (LBP) per US dollar - 1,507.5 (2010),
+  1,507.5 (2009), 1,507.5 (2008), 1,507.5 (2007), 1,507.5 (2006)
+
+Lesotho
+  maloti (LSL) per US dollar - 7.9 (2010), 8.4737 (2009), 7.75
+  (2008), 7.25 (2007), 6.85 (2006)
+
+Liberia
+  Liberian dollars (LRD) per US dollar - NA (2007), 59.43
+  (2006), 53.098 (2005), 54.906 (2004), 59.379 (2003)
+
+Libya
+  Libyan dinars (LYD) per US dollar - 1.2648 (2010), 1.2535
+  (2009), 1.2112 (2008), 1.2604 (2007), 1.3108 (2006)
+
+Liechtenstein
+  Swiss francs (CHF) per US dollar - 1.0723 (2010),
+  1.0881 (2009), 1.0774 (2008), 1.1973 (2007), 1.2539 (2006)
+
+Lithuania
+  litai (LTL) per US dollar - 2.6637 (2010), 2.4787 (2009),
+  2.3251 (2008), 2.5362 (2007), 2.7498 (2006)
+
+Luxembourg
+  euros (EUR) per US dollar - 0.7715 (2010), 0.7179 (2009),
+  0.6827 (2008), 0.7345 (2007), 0.7964 (2006)
+
+Macau
+  patacas (MOP) per US dollar - 7.985 (2009), 7.983 (2008),
+  8.011 (2007), 8.0015 (2006)
+
+Macedonia
+  Macedonian denars (MKD) per US dollar - 47.601 (2010),
+  44.1 (2009), 41.414 (2008), 44.732 (2007), 48.978 (2006)
+
+Madagascar
+  Malagasy ariary (MGA) per US dollar - 2,062.5 (2010),
+  1,956.21 (2009), 1,654.78 (2008), 1,880 (2007), 2,161.4 (2006)
+
+Malawi
+  Malawian kwachas (MWK) per US dollar - 151.65 (2010), 141.14
+  (2009), 142.41 (2008), 141.12 (2007), 135.96 (2006)
+
+Malaysia
+  ringgits (MYR) per US dollar - 3.2182 (2010), 3.5246
+  (2009), 3.33 (2008), 3.46 (2007), 3.6683 (2006)
+
+Maldives
+  rufiyaa (MVR) per US dollar - 12.8 (2009), 12.8 (2008),
+  12.8 (2007), 12.8 (2006)
+
+Mali
+  Communaute Financiere Africaine francs (XOF) per US dollar -
+  506.04 (2009), 447.81 (2008), 493.51 (2007), 522.59 (2006)
+  note: since 1 January 1999, the West African CFA franc (XOF) has
+  been pegged to the euro at a rate of 655.957 CFA francs per euro;
+  West African CFA franc (XOF) coins and banknotes are not accepted in
+  countries using Central African CFA francs (XAF), and vice versa,
+  even though the two currencies trade at par
+
+Malta
+  euros (EUR) per US dollar - 0.7732 (2010), 0.7179 (2009),
+  0.6827 (2008), Maltese liri per US dollar - 0.3106 (2007), 0.37
+  (2006)
+
+Marshall Islands
+  the US dollar is used
+
+Mauritania
+  ouguiyas (MRO) per US dollar - 261.5 (2010 est.), 262.4
+  (2009), 238.2 (2008), 258.6 (2007), 271.3 (2006)
+
+Mauritius
+  Mauritian rupees (MUR) per US dollar - 30.991 (2010),
+  31.96 (2009), 27.973 (2008), 31.798 (2007), 31.656 (2006)
+
+Mayotte
+  euros (EUR) per US dollar - 0.7715 (2010), 0.7179 (2009),
+  0.6734 (2008), 0.7345 (2007), 0.7964 (2006)
+
+Mexico
+  Mexican pesos (MXN) per US dollar - 12.687 (2010), 13.514
+  (2009), 11.016 (2008), 10.8 (2007), 10.899 (2006)
+
+Micronesia, Federated States of
+  the US dollar is used
+
+Moldova
+  Moldovan lei (MDL) per US dollar - 12.443 (2010), 11.11
+  (2009), 10.326 (2008), 12.177 (2007), 13.131 (2006)
+
+Monaco
+  euros (EUR) per US dollar - 0.7715 (2010), 0.7179 (2009),
+  0.6827 (2008), 0.7345 (2007), 0.7964 (2006)
+
+Mongolia
+  togrog/tugriks (MNT) per US dollar - 1,442.8 (2009),
+  1,267.51 (2008), 1,170 (2007), 1,165 (2006)
+
+Montenegro
+  euros (EUR) per US dollar - 0.7715 (2010), 0.7179 (2009),
+  0.6827 (2008), 0.7345 (2007), 0.7964 (2006)
+
+Montserrat
+  East Caribbean dollars (XCD) per US dollar - 2.7 (2007),
+  2.7 (2006), 2.7 (2005), 2.7 (2004), 2.7 (2003)
+  note: fixed rate since 1976
+
+Morocco
+  Moroccan dirhams (MAD) per US dollar - 8.3619 (2010), 8.0571
+  (2009), 7.526 (2008), 8.3563 (2007), 8.7722 (2006)
+
+Mozambique
+  meticais (MZM) per US dollar - 35 (2010), 26.283 (2009),
+  24.125 (2008), 26.264 (2007), 25.4 (2006)
+
+Namibia
+  Namibian dollars (NAD) per US dollar - 7.57 (2010), 8.4234
+  (2009), 7.75 (2008), 7.18 (2007), 6.7649 (2006)
+
+Nauru
+  Australian dollars (AUD) per US dollar - 1.1151 (2010), 1.2822
+  (2009), 1.2059 (2008), 1.2137 (2007), 1.3285 (2006)
+
+Nepal
+  Nepalese rupees (NPR) per US dollar - 72.56 (2010), 77.44
+  (2009), 65.21 (2008), 70.35 (2007), 72.446 (2006)
+
+Netherlands
+  euros (EUR) per US dollar - 0.774 (2010), 0.7179 (2009),
+  0.6827 (2008), 0.7345 (2007), 0.7964 (2006)
+
+New Caledonia
+  Comptoirs Francais du Pacifique francs (XPF) per US
+  dollar - 87.59 (2007), 94.97 (2006), 95.89 (2005), 96.04 (2004),
+  105.66 (2003)
+
+New Zealand
+  New Zealand dollars (NZD) per US dollar - 1.4015 (2010),
+  1.6002 (2009), 1.4151 (2008), 1.3811 (2007), 1.5408 (2006)
+
+Nicaragua
+  cordobas (NIO) per US dollar - 21.35 (2010), 20.34 (2009),
+  19.374 (2008), 18.457 (2007), 17.582 (2006)
+
+Niger
+  Communaute Financiere Africaine francs (XOF) per US dollar -
+  506.04 (2009), 447.81 (2008), 493.51 (2007), 522.59 (2006)
+  note: since 1 January 1999, the West African CFA franc (XOF) has
+  been pegged to the euro at a rate of 655.957 CFA francs per euro;
+  West African CFA franc (XOF) coins and banknotes are not accepted in
+  countries using Central African CFA francs (XAF), and vice versa,
+  even though the two currencies trade at par
+
+Nigeria
+  nairas (NGN) per US dollar - 150.88 (2010), 148.84 (2009),
+  117.8 (2008), 127.46 (2007), 127.38 (2006)
+
+Niue
+  New Zealand dollars (NZD) per US dollar - 1.4015 (2010), 1.6002
+  (2009), 1.4151 (2008), 1.3811 (2007), 1.5408 (2006)
+
+Norfolk Island
+  Australian dollars (AUD) per US dollar - 1.1151
+  (2010), 1.2822 (2009), 1.2059 (2008), 1.2137 (2007), 1.3285 (2006)
+
+Northern Mariana Islands
+  the US dollar is used
+
+Norway
+  Norwegian kroner (NOK) per US dollar - 6.1533 (2010), 6.2883
+  (2009), 5.6361 (2008), 5.86 (2007), 6.418 (2006)
+
+Oman
+  Omani rials (OMR) per US dollar - 0.3845 (2010), 0.3845 (2009),
+  0.3845 (2008), 0.3845 (2007), 0.3845 (2006)
+
+Pakistan
+  Pakistani rupees (PKR) per US dollar - 85.27 (2010),
+  81.7129 (2009), 70.64 (2008), 60.6295 (2007), 60.35 (2006)
+
+Palau
+  the US dollar is used
+
+Panama
+  balboas (PAB) per US dollar - 1 (2010), 1 (2009), 1 (2008), 1
+  (2007), 1 (2006)
+
+Papua New Guinea
+  kina (PGK) per US dollar - 2.7517 (2010), 2.7551
+  (2009), 2.6956 (2008), 3.03 (2007), 3.0643 (2006)
+
+Paraguay
+  guarani (PYG) per US dollar - 4,767.6 (2010), 4,965.4
+  (2009), 4,337.7 (2008), 5,031 (2007), 5,672.8 (2006)
+
+Peru
+  nuevo sol (PEN) per US dollar - 2.8178 (2010), 3.0115 (2009),
+  2.91 (2008), 3.1731 (2007), 3.2742 (2006)
+
+Philippines
+  Philippine pesos (PHP) per US dollar - 45.459 (2010),
+  47.68 (2009), 44.439 (2008), 46.148 (2007), 51.246 (2006)
+
+Pitcairn Islands
+  New Zealand dollars (NZD) per US dollar - 1.4015
+  (2010), 1.6002 (2009), 1.4151 (2008), 1.3811 (2007), 1.5408 (2006)
+
+Poland
+  zlotych (PLN) per US dollar - 3.0718 (2010), 3.1214 (2009),
+  2.3 (2008), 2.81 (2007), 3.1032 (2006)
+
+Portugal
+  euros (EUR) per US dollar - 0.774 (2010), 0.7179 (2009),
+  0.6827 (2008), 0.7345 (2007), 0.7964 (2006)
+
+Puerto Rico
+  the US dollar is used
+
+Qatar
+  Qatari rials (QAR) per US dollar - 3.64 (2010), 3.64 (2009),
+  3.64 (2008), 3.64 (2007), 3.64 (2006)
+
+Romania
+  lei (RON) per US dollar - 3.2 (2010), 3.0493 (2009), 2.5
+  (2008), 2.43 (2007), 2.809 (2006)
+
+Russia
+  Russian rubles (RUB) per US dollar - 30 (2010), 31.742
+  (2009), 24.853 (2008), 25.581 (2007), 27.191 (2006)
+
+Rwanda
+  Rwandan francs (RWF) per US dollar - 586.25 (2010), 568.176
+  (2009), 550 (2008), 585 (2007), 560 (2006)
+
+Saint Barthelemy
+  euros (EUR) per US dollar - 0.7715 (2010), 0.7338
+  (2009), 0.6827 (2008), 0.7345 (2007), 0.7964 (2006)
+
+Saint Helena, Ascension, and Tristan da Cunha
+  Saint Helenian pounds
+  (SHP) per US dollar - 0.6494 (2009), 0.5302 (2008), 0.4993 (2007),
+  0.5418 (2006), 0.5462 (2004)
+  note: the Saint Helenian pound is on par with the British pound
+
+Saint Kitts and Nevis
+  East Caribbean dollars (XCD) per US dollar -
+  2.7 (2007), 2.7 (2006), 2.7 (2005), 2.7 (2004), 2.7 (2003)
+
+Saint Lucia
+  East Caribbean dollars (XCD) per US dollar - 2.7 (2007),
+  2.7 (2006), 2.7 (2005), 2.7 (2004), 2.7 (2003)
+
+Saint Martin
+  euros (EUR) per US dollar - 0.7715 (2010), 0.7338
+  (2009), 0.6827 (2008), 0.7345 (2007), 0.7964 (2006)
+
+Saint Pierre and Miquelon
+  euros (EUR) per US dollar - 0.7715 (2010),
+  0.7179 (2009), 0.6734 (2008), 0.7345 (2007), 0.7964 (2006)
+
+Saint Vincent and the Grenadines
+  East Caribbean dollars (XCD) per US
+  dollar - 2.7 (2007), 2.7 (2006), 2.7 (2005), 2.7 (2004), 2.7 (2003)
+
+Samoa
+  tala (SAT) per US dollar - NA (2007), 2.7594 (2006), 2.7103
+  (2005), 2.7807 (2004), 2.9732 (2003)
+
+San Marino
+  euros (EUR) per US dollar - 0.7715 (2010), 0.7179 (2009),
+  0.6734 (2008), 0.7345 (2007), 0.7964 (2006)
+
+Sao Tome and Principe
+  dobras (STD) per US dollar - 19,641 (2010),
+  16,000 (2009), 14,900 (2008), 13,700 (2007), 12,050 (2006)
+
+Saudi Arabia
+  Saudi riyals (SAR) per US dollar - 3.75 (2010), 3.75
+  (2009), 3.75 (2008), 3.745 (2007), 3.745 (2006)
+
+Senegal
+  Communaute Financiere Africaine francs (XOF) per US dollar -
+  507.71 (2010), 470.9 (2009), 447.81 (2008), 481.83 (2007), 522.89
+  (2006)
+
+Serbia
+  Serbian dinars (RSD) per US dollar - 79.979 (2010), 62.9
+  (2008), 54.5 (2007), 59.98 (2006)
+
+Seychelles
+  Seychelles rupees (SCR) per US dollar - 12.221 (2010),
+  13.6124 (2009), 8 (2008), 6.5 (2007), 5.5 (2006)
+
+Sierra Leone
+  leones (SLL) per US dollar - NA (2007), 2,961.7 (2006),
+  2,889.6 (2005), 2,701.3 (2004), 2,347.9 (2003)
+
+Singapore
+  Singapore dollars (SGD) per US dollar - 1.3702 (2010),
+  1.4545 (2009), 1.415 (2008), 1.507 (2007), 1.5889 (2006)
+
+Sint Maarten
+  Netherlands Antillean guilders (ANG) per US dollar -
+  1.79 (2009), 1.79 (2008), 1.79 (2007), 1.79 (2006)
+
+Slovakia
+  Slovak koruny (SKK) per US dollar - 0.774 (2010), 0.718
+  (2009), 21.05 (2008), 24.919 (2007), 29.611 (2006)
+
+Slovenia
+  euros (EUR) per US dollar - 0.77399 (2010), 0.72 (2009),
+  0.6827 (2008), 0.7345 (2007)
+
+Solomon Islands
+  Solomon Islands dollars (SBD) per US dollar - NA
+  (2007), 7.3447 (2006), 7.5299 (2005), 7.4847 (2004), 7.5059 (2003)
+
+Somalia
+  Somali shillings (SOS) per US dollar - NA (2007-08), 1,438.3
+  (2006) official rate; the unofficial black market rate was about
+  23,000 shillings per dollar as of February 2007
+  note: the Republic of Somaliland, a self-declared independent
+  country not recognized by any foreign government, issues its own
+  currency, the Somaliland shilling
+
+South Africa
+  rand (ZAR) per US dollar - 7.38 (2010), 8.4234 (2009),
+  7.9576 (2008), 7.05 (2007), 6.7649 (2006)
+
+Spain
+  euros (EUR) per US dollar - 0.7715 (2010), 0.7179 (2009),
+  0.6827 (2008), 0.7345 (2007), 0.7964 (2006)
+
+Sri Lanka
+  Sri Lankan rupees (LKR) per US dollar - 113.36 (2010),
+  114.95 (2009), 108.33 (2008), 110.78 (2007), 103.99 (2006)
+
+Sudan
+  Sudanese pounds (SDG) per US dollar - 2.36 (2010), 2.32
+  (2009), 2.1 (2008), 2.06 (2007), 2.172 (2006)
+
+Suriname
+  Surinamese dollars (SRD) per US dollar - 2.745 (2007),
+  2.745 (2006), 2.7317 (2005), 2.7336 (2004), 2.6013 (2003)
+  note: in January 2004, the government replaced the guilder with the
+  Surinamese dollar, tied to a US dollar-dominated currency basket
+
+Svalbard
+  Norwegian kroner (NOK) per US dollar - 6.1533 (2009),
+  5.6361 (2008), 5.86 (2007), 6.418 (2006)
+
+Swaziland
+  emalangeni per US dollar - 7.57 (2010), 8.4737 (2009),
+  7.75 (2008), 7.4 (2007), 6.85 (2006)
+
+Sweden
+  Swedish kronor (SEK) per US dollar - 7.5077 (2010), 7.6529
+  (2009), 6.4074 (2008), 6.7629 (2007), 7.3731 (2006)
+
+Switzerland
+  Swiss francs (CHF) per US dollar - 1.0723 (2010), 1.0881
+  (2009), 1.0774 (2008), 1.1973 (2007), 1.2539 (2006)
+
+Syria
+  Syrian pounds (SYP) per US dollar - 46.456 (2010), 46.7082
+  (2009), 46.5281 (2008), 50.0085 (2007), 51.689 (2006)
+
+Taiwan
+  New Taiwan dollars (TWD) per US dollar - 31.864 (2010),
+  33.061 (2009), 31.53 (2008), 32.84 (2007), 32.534 (2006)
+
+Tajikistan
+  Tajikistani somoni (TJS) per US dollar - 4.3788 (2010),
+  4.1428 (2009), 3.4563 (2008), 3.4418 (2007), 3.3 (2006)
+
+Tanzania
+  Tanzanian shillings (TZS) per US dollar - 1,423.3 (2010),
+  1,320.3 (2009), 1,178.1 (2008), 1,255 (2007), 1,251.9 (2006)
+
+Thailand
+  baht per US dollar - 31.663 (2010), 34.286 (2009), 33.37
+  (2008), 34.52 (2007), 37.882 (2006)
+
+Timor-Leste
+  the US dollar is used
+
+Togo
+  Communaute Financiere Africaine francs (XOF) per US dollar -
+  507.71 (2010), 472.19 (2009), 447.81 (2008), 482.71 (2007), 522.59
+  (2006)
+
+Tokelau
+  New Zealand dollars (NZD) per US dollar - 1.4015 (2010),
+  1.6002 (2009), 1.4151 (2008), 1.3811 (2007), 1.5408 (2006)
+
+Tonga
+  pa'anga (TOP) per US dollar - NA (2007), 2.0277 (2006), 1.96
+  (2005), 1.9716 (2004), 2.142 (2003)
+
+Trinidad and Tobago
+  Trinidad and Tobago dollars (TTD) per US dollar
+  - 6.3337 (2010), 6.3099 (2009), 6.2896 (2008), 6.3275 (2007), 6.3107
+  (2006)
+
+Tunisia
+  Tunisian dinars (TND) per US dollar - 1.4367 (2010), 1.3503
+  (2009), 1.211 (2008), 1.2776 (2007), 1.331 (2006)
+
+Turkey
+  Turkish liras (TRY) per US dollar - 1.5181 (2010), 1.55
+  (2009), 1.3179 (2008), 1.319 (2007), 1.4286 (2006)
+
+Turkmenistan
+  Turkmen manat (TMM) per US dollar - 2.85 (2010), 2.85
+  (2009), 14,250 (2008)
+
+Turks and Caicos Islands
+  the US dollar is used
+
+Tuvalu
+  Tuvaluan dollars or Australian dollars (AUD) per US dollar -
+  1.1151 (2009), 1.2059 (2008), 1.2137 (2007), 1.3285 (2006)
+
+Uganda
+  Ugandan shillings (UGX) per US dollar - 2,166 (2010), 2,038.9
+  (2009), 1,658.1 (2008), 1,685.8 (2007), 1,834.9 (2006)
+
+Ukraine
+  hryvnia (UAH) per US dollar - 7.9111 (2010), 7.7912 (2009),
+  4.9523 (2008), 5.05 (2007), 5.05 (2006)
+
+United Arab Emirates
+  Emirati dirhams (AED) per US dollar - 3.673
+  (2010), 3.673 (2009), 3.6725 (2008), 3.6725 (2007), 3.6725 (2006)
+
+United Kingdom
+  British pounds (GBP) per US dollar - 0.6504 (2010),
+  0.6389 (2009), 0.5302 (2008), 0.4993 (2007), 0.5418 (2006)
+
+United States
+  British pounds per US dollar: 1 (2010), 0.6504 (2010),
+  0.6494 (2009), 0.5302 (2008), 0.4993 (2007), 0.5418 (2006)
+  Canadian dollars per US dollar: 1.0346 (2010), 1.1548 (2009), 1.0364
+  (2008), 1.0724 (2007), 1.1334 (2006)
+  Chinese yuan per US dollar: 6.7852 (2010), 6.8249 (2009), 6.9385
+  (2008), 7.61 (2007), 7.97 (2006)
+  euros per US dollar: 0.7715 (2010), 0.7338 (2009), 0.6827 (2008),
+  0.7345 (2007), 0.7964 (2006)
+  Japanese yen per US dollar: 88.67 (2010), 94.5 (2009), 103.58
+  (2008), 117.99 (2007), 116.18 (2006)
+
+Uruguay
+  Uruguayan pesos (UYU) per US dollar - 20.276 (2010), 22.568
+  (2009), 20.936 (2008), 23.947 (2007), 24.048 (2006)
+
+Uzbekistan
+  Uzbekistani soum (UZS) per US dollar - 1,588.1 (2010),
+  1,466.7 (2009), 1,317 (2008), 1,263.8 (2007), 1,219.8 (2006)
+
+Vanuatu
+  vatu (VUV) per US dollar - 97.93 (2009), NA (2007), 111.93
+  (2006), NA (2005), 111.79 (2004), 122.19 (2003)
+
+Venezuela
+  bolivars (VEB) per US dollar - 4.3039 (2010), 2.1522
+  (2009), 2.147 (2008), 2,147 (2007), 2,147 (2006)
+
+Vietnam
+  dong (VND) per US dollar - 19,148.9 (2010), 17,799.6 (2009),
+  16,548.3 (2008), 16,119 (2007), 15,983 (2006)
+
+Virgin Islands
+  the US dollar is used
+
+Wallis and Futuna
+  Comptoirs Francais du Pacifique francs (XPF) per
+  US dollar - 87.59 (2007), 94.97 (2006), 95.89 (2005), 96.04 (2004),
+  105.66 (2003)
+
+West Bank
+  new Israeli shekels (ILS) per US dollar - 3.7461 (2010),
+  3.9326 (2009), 3.56 (2008), 4.14 (2007), 4.4565 (2006)
+
+Western Sahara
+  Moroccan dirhams (MAD) per US dollar - 8.3619 (2009),
+  7.526 (2008), 8.3563 (2007), 8.7722 (2006)
+
+Yemen
+  Yemeni rials (YER) per US dollar - 220.05 (2010), 202.85
+  (2009), 199.76 (2008), 199.14 (2007), 197.18 (2006)
+
+Zambia
+  Zambian kwacha (ZMK) per US dollar - 4,823.6 (2010), 5,046.1
+  (2009), 3,512.9 (2008), 3,990.2 (2007), 3,601.5 (2006)
+
+Zimbabwe
+  Zimbabwean dollars (ZWD) per US dollar - 234.25 (2010), 234
+  (2008), 30,000 (2007), 162 (2006), 78 (2005)
+
+
+
+
+======================================================================
+
+
+
+
+

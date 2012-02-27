@@ -1,0 +1,957 @@
+2110
+
+
+Field Listing :: Nationality
+
+  This entry provides the identifying terms for citizens - noun and
+  adjective.
+  Country
+
+
+  Nationality
+
+Afghanistan
+  noun: Afghan(s)
+  adjective: Afghan
+
+Albania
+  noun: Albanian(s)
+  adjective: Albanian
+
+Algeria
+  noun: Algerian(s)
+  adjective: Algerian
+
+American Samoa
+  noun: American Samoan(s) (US nationals)
+  adjective: American Samoan
+
+Andorra
+  noun: Andorran(s)
+  adjective: Andorran
+
+Angola
+  noun: Angolan(s)
+  adjective: Angolan
+
+Anguilla
+  noun: Anguillan(s)
+  adjective: Anguillan
+
+Antigua and Barbuda
+  noun: Antiguan(s), Barbudan(s)
+  adjective: Antiguan, Barbudan
+
+Argentina
+  noun: Argentine(s)
+  adjective: Argentine
+
+Armenia
+  noun: Armenian(s)
+  adjective: Armenian
+
+Aruba
+  noun: Aruban(s)
+  adjective: Aruban; Dutch
+
+Australia
+  noun: Australian(s)
+  adjective: Australian
+
+Austria
+  noun: Austrian(s)
+  adjective: Austrian
+
+Azerbaijan
+  noun: Azerbaijani(s)
+  adjective: Azerbaijani
+
+Bahamas, The
+  noun: Bahamian(s)
+  adjective: Bahamian
+
+Bahrain
+  noun: Bahraini(s)
+  adjective: Bahraini
+
+Bangladesh
+  noun: Bangladeshi(s)
+  adjective: Bangladeshi
+
+Barbados
+  noun: Barbadian(s) or Bajan (colloquial)
+  adjective: Barbadian or Bajan (colloquial)
+
+Belarus
+  noun: Belarusian(s)
+  adjective: Belarusian
+
+Belgium
+  noun: Belgian(s)
+  adjective: Belgian
+
+Belize
+  noun: Belizean(s)
+  adjective: Belizean
+
+Benin
+  noun: Beninese (singular and plural)
+  adjective: Beninese
+
+Bermuda
+  noun: Bermudian(s)
+  adjective: Bermudian
+
+Bhutan
+  noun: Bhutanese (singular and plural)
+  adjective: Bhutanese
+
+Bolivia
+  noun: Bolivian(s)
+  adjective: Bolivian
+
+Bosnia and Herzegovina
+  noun: Bosnian(s), Herzegovinian(s)
+  adjective: Bosnian, Herzegovinian
+
+Botswana
+  noun: Motswana (singular), Batswana (plural)
+  adjective: Motswana (singular), Batswana (plural)
+
+Brazil
+  noun: Brazilian(s)
+  adjective: Brazilian
+
+British Virgin Islands
+  noun: British Virgin Islander(s)
+  adjective: British Virgin Islander
+
+Brunei
+  noun: Bruneian(s)
+  adjective: Bruneian
+
+Bulgaria
+  noun: Bulgarian(s)
+  adjective: Bulgarian
+
+Burkina Faso
+  noun: Burkinabe (singular and plural)
+  adjective: Burkinabe
+
+Burma
+  noun: Burmese (singular and plural)
+  adjective: Burmese
+
+Burundi
+  noun: Burundian(s)
+  adjective: Burundian
+
+Cambodia
+  noun: Cambodian(s)
+  adjective: Cambodian
+
+Cameroon
+  noun: Cameroonian(s)
+  adjective: Cameroonian
+
+Canada
+  noun: Canadian(s)
+  adjective: Canadian
+
+Cape Verde
+  noun: Cape Verdean(s)
+  adjective: Cape Verdean
+
+Cayman Islands
+  noun: Caymanian(s)
+  adjective: Caymanian
+
+Central African Republic
+  noun: Central African(s)
+  adjective: Central African
+
+Chad
+  noun: Chadian(s)
+  adjective: Chadian
+
+Chile
+  noun: Chilean(s)
+  adjective: Chilean
+
+China
+  noun: Chinese (singular and plural)
+  adjective: Chinese
+
+Christmas Island
+  noun: Christmas Islander(s)
+  adjective: Christmas Island
+
+Cocos (Keeling) Islands
+  noun: Cocos Islander(s)
+  adjective: Cocos Islander
+
+Colombia
+  noun: Colombian(s)
+  adjective: Colombian
+
+Comoros
+  noun: Comoran(s)
+  adjective: Comoran
+
+Congo, Democratic Republic of the
+  noun: Congolese (singular and
+  plural)
+  adjective: Congolese or Congo
+
+Congo, Republic of the
+  noun: Congolese (singular and plural)
+  adjective: Congolese or Congo
+
+Cook Islands
+  noun: Cook Islander(s)
+  adjective: Cook Islander
+
+Costa Rica
+  noun: Costa Rican(s)
+  adjective: Costa Rican
+
+Cote d'Ivoire
+  noun: Ivoirian(s)
+  adjective: Ivoirian
+
+Croatia
+  noun: Croat(s), Croatian(s)
+  adjective: Croatian
+
+Cuba
+  noun: Cuban(s)
+  adjective: Cuban
+
+Cyprus
+  noun: Cypriot(s)
+  adjective: Cypriot
+
+Czech Republic
+  noun: Czech(s)
+  adjective: Czech
+
+Denmark
+  noun: Dane(s)
+  adjective: Danish
+
+Djibouti
+  noun: Djiboutian(s)
+  adjective: Djiboutian
+
+Dominica
+  noun: Dominican(s)
+  adjective: Dominican
+
+Dominican Republic
+  noun: Dominican(s)
+  adjective: Dominican
+
+Ecuador
+  noun: Ecuadorian(s)
+  adjective: Ecuadorian
+
+Egypt
+  noun: Egyptian(s)
+  adjective: Egyptian
+
+El Salvador
+  noun: Salvadoran(s)
+  adjective: Salvadoran
+
+Equatorial Guinea
+  noun: Equatorial Guinean(s) or Equatoguinean(s)
+  adjective: Equatorial Guinean or Equatoguinean
+
+Eritrea
+  noun: Eritrean(s)
+  adjective: Eritrean
+
+Estonia
+  noun: Estonian(s)
+  adjective: Estonian
+
+Ethiopia
+  noun: Ethiopian(s)
+  adjective: Ethiopian
+
+Falkland Islands (Islas Malvinas)
+  noun: Falkland Islander(s)
+  adjective: Falkland Island
+
+Faroe Islands
+  noun: Faroese (singular and plural)
+  adjective: Faroese
+
+Fiji
+  noun: Fijian(s)
+  adjective: Fijian
+
+Finland
+  noun: Finn(s)
+  adjective: Finnish
+
+France
+  noun: Frenchman(men), Frenchwoman(women)
+  adjective: French
+
+French Polynesia
+  noun: French Polynesian(s)
+  adjective: French Polynesian
+
+Gabon
+  noun: Gabonese (singular and plural)
+  adjective: Gabonese
+
+Gambia, The
+  noun: Gambian(s)
+  adjective: Gambian
+
+Gaza Strip
+  noun: NA
+  adjective: NA
+
+Georgia
+  noun: Georgian(s)
+  adjective: Georgian
+
+Germany
+  noun: German(s)
+  adjective: German
+
+Ghana
+  noun: Ghanaian(s)
+  adjective: Ghanaian
+
+Gibraltar
+  noun: Gibraltarian(s)
+  adjective: Gibraltar
+
+Greece
+  noun: Greek(s)
+  adjective: Greek
+
+Greenland
+  noun: Greenlander(s)
+  adjective: Greenlandic
+
+Grenada
+  noun: Grenadian(s)
+  adjective: Grenadian
+
+Guam
+  noun: Guamanian(s) (US citizens)
+  adjective: Guamanian
+
+Guatemala
+  noun: Guatemalan(s)
+  adjective: Guatemalan
+
+Guernsey
+  noun: Channel Islander(s)
+  adjective: Channel Islander
+
+Guinea
+  noun: Guinean(s)
+  adjective: Guinean
+
+Guinea-Bissau
+  noun: Guinean(s)
+  adjective: Guinean
+
+Guyana
+  noun: Guyanese (singular and plural)
+  adjective: Guyanese
+
+Haiti
+  noun: Haitian(s)
+  adjective: Haitian
+
+Holy See (Vatican City)
+  noun: none
+  adjective: none
+
+Honduras
+  noun: Honduran(s)
+  adjective: Honduran
+
+Hong Kong
+  noun: Chinese/Hong Konger
+  adjective: Chinese/Hong Kong
+
+Hungary
+  noun: Hungarian(s)
+  adjective: Hungarian
+
+Iceland
+  noun: Icelander(s)
+  adjective: Icelandic
+
+India
+  noun: Indian(s)
+  adjective: Indian
+
+Indonesia
+  noun: Indonesian(s)
+  adjective: Indonesian
+
+Iran
+  noun: Iranian(s)
+  adjective: Iranian
+
+Iraq
+  noun: Iraqi(s)
+  adjective: Iraqi
+
+Ireland
+  noun: Irishman(men), Irishwoman(women), Irish (collective
+  plural)
+  adjective: Irish
+
+Isle of Man
+  noun: Manxman (men), Manxwoman (women)
+  adjective: Manx
+
+Israel
+  noun: Israeli(s)
+  adjective: Israeli
+
+Italy
+  noun: Italian(s)
+  adjective: Italian
+
+Jamaica
+  noun: Jamaican(s)
+  adjective: Jamaican
+
+Japan
+  noun: Japanese (singular and plural)
+  adjective: Japanese
+
+Jersey
+  noun: Channel Islander(s)
+  adjective: Channel Islander
+
+Jordan
+  noun: Jordanian(s)
+  adjective: Jordanian
+
+Kazakhstan
+  noun: Kazakhstani(s)
+  adjective: Kazakhstani
+
+Kenya
+  noun: Kenyan(s)
+  adjective: Kenyan
+
+Kiribati
+  noun: I-Kiribati (singular and plural)
+  adjective: I-Kiribati
+
+Korea, North
+  noun: Korean(s)
+  adjective: Korean
+
+Korea, South
+  noun: Korean(s)
+  adjective: Korean
+
+Kosovo
+  noun: Kosovar (Albanian), Kosovac (Serbian)
+  adjective: Kosovar (Albanian), Kosovski (Serbian)
+  note: Kosovan, a neutral term, is sometimes also used as a noun or
+  adjective
+
+Kuwait
+  noun: Kuwaiti(s)
+  adjective: Kuwaiti
+
+Kyrgyzstan
+  noun: Kyrgyzstani(s)
+  adjective: Kyrgyzstani
+
+Laos
+  noun: Lao(s) or Laotian(s)
+  adjective: Lao or Laotian
+
+Latvia
+  noun: Latvian(s)
+  adjective: Latvian
+
+Lebanon
+  noun: Lebanese (singular and plural)
+  adjective: Lebanese
+
+Lesotho
+  noun: Mosotho (singular), Basotho (plural)
+  adjective: Basotho
+
+Liberia
+  noun: Liberian(s)
+  adjective: Liberian
+
+Libya
+  noun: Libyan(s)
+  adjective: Libyan
+
+Liechtenstein
+  noun: Liechtensteiner(s)
+  adjective: Liechtenstein
+
+Lithuania
+  noun: Lithuanian(s)
+  adjective: Lithuanian
+
+Luxembourg
+  noun: Luxembourger(s)
+  adjective: Luxembourg
+
+Macau
+  noun: Chinese
+  adjective: Chinese
+
+Macedonia
+  noun: Macedonian(s)
+  adjective: Macedonian
+
+Madagascar
+  noun: Malagasy (singular and plural)
+  adjective: Malagasy
+
+Malawi
+  noun: Malawian(s)
+  adjective: Malawian
+
+Malaysia
+  noun: Malaysian(s)
+  adjective: Malaysian
+
+Maldives
+  noun: Maldivian(s)
+  adjective: Maldivian
+
+Mali
+  noun: Malian(s)
+  adjective: Malian
+
+Malta
+  noun: Maltese (singular and plural)
+  adjective: Maltese
+
+Marshall Islands
+  noun: Marshallese (singular and plural)
+  adjective: Marshallese
+
+Mauritania
+  noun: Mauritanian(s)
+  adjective: Mauritanian
+
+Mauritius
+  noun: Mauritian(s)
+  adjective: Mauritian
+
+Mayotte
+  noun: Mahorais (singular and plural)
+  adjective: Mahoran
+
+Mexico
+  noun: Mexican(s)
+  adjective: Mexican
+
+Micronesia, Federated States of
+  noun: Micronesian(s)
+  adjective: Micronesian; Chuukese, Kosraen(s), Pohnpeian(s), Yapese
+
+Moldova
+  noun: Moldovan(s)
+  adjective: Moldovan
+
+Monaco
+  noun: Monegasque(s) or Monacan(s)
+  adjective: Monegasque or Monacan
+
+Mongolia
+  noun: Mongolian(s)
+  adjective: Mongolian
+
+Montenegro
+  noun: Montenegrin(s)
+  adjective: Montenegrin
+
+Montserrat
+  noun: Montserratian(s)
+  adjective: Montserratian
+
+Morocco
+  noun: Moroccan(s)
+  adjective: Moroccan
+
+Mozambique
+  noun: Mozambican(s)
+  adjective: Mozambican
+
+Namibia
+  noun: Namibian(s)
+  adjective: Namibian
+
+Nauru
+  noun: Nauruan(s)
+  adjective: Nauruan
+
+Nepal
+  noun: Nepalese (singular and plural)
+  adjective: Nepalese
+
+Netherlands
+  noun: Dutchman(men), Dutchwoman(women)
+  adjective: Dutch
+
+New Caledonia
+  noun: New Caledonian(s)
+  adjective: New Caledonian
+
+New Zealand
+  noun: New Zealander(s)
+  adjective: New Zealand
+
+Nicaragua
+  noun: Nicaraguan(s)
+  adjective: Nicaraguan
+
+Niger
+  noun: Nigerien(s)
+  adjective: Nigerien
+
+Nigeria
+  noun: Nigerian(s)
+  adjective: Nigerian
+
+Niue
+  noun: Niuean(s)
+  adjective: Niuean
+
+Norfolk Island
+  noun: Norfolk Islander(s)
+  adjective: Norfolk Islander(s)
+
+Northern Mariana Islands
+  noun: NA (US citizens)
+  adjective: NA
+
+Norway
+  noun: Norwegian(s)
+  adjective: Norwegian
+
+Oman
+  noun: Omani(s)
+  adjective: Omani
+
+Pakistan
+  noun: Pakistani(s)
+  adjective: Pakistani
+
+Palau
+  noun: Palauan(s)
+  adjective: Palauan
+
+Panama
+  noun: Panamanian(s)
+  adjective: Panamanian
+
+Papua New Guinea
+  noun: Papua New Guinean(s)
+  adjective: Papua New Guinean
+
+Paraguay
+  noun: Paraguayan(s)
+  adjective: Paraguayan
+
+Peru
+  noun: Peruvian(s)
+  adjective: Peruvian
+
+Philippines
+  noun: Filipino(s)
+  adjective: Philippine
+
+Pitcairn Islands
+  noun: Pitcairn Islander(s)
+  adjective: Pitcairn Islander
+
+Poland
+  noun: Pole(s)
+  adjective: Polish
+
+Portugal
+  noun: Portuguese (singular and plural)
+  adjective: Portuguese
+
+Puerto Rico
+  noun: Puerto Rican(s) (US citizens)
+  adjective: Puerto Rican
+
+Qatar
+  noun: Qatari(s)
+  adjective: Qatari
+
+Romania
+  noun: Romanian(s)
+  adjective: Romanian
+
+Russia
+  noun: Russian(s)
+  adjective: Russian
+
+Rwanda
+  noun: Rwandan(s)
+  adjective: Rwandan
+
+Saint Helena, Ascension, and Tristan da Cunha
+  noun: Saint Helenian(s)
+  adjective: Saint Helenian
+  note: referred to locally as "Saints"
+
+Saint Kitts and Nevis
+  noun: Kittitian(s), Nevisian(s)
+  adjective: Kittitian, Nevisian
+
+Saint Lucia
+  noun: Saint Lucian(s)
+  adjective: Saint Lucian
+
+Saint Pierre and Miquelon
+  noun: Frenchman(men), Frenchwoman(women)
+  adjective: French
+
+Saint Vincent and the Grenadines
+  noun: Saint Vincentian(s) or
+  Vincentian(s)
+  adjective: Saint Vincentian or Vincentian
+
+Samoa
+  noun: Samoan(s)
+  adjective: Samoan
+
+San Marino
+  noun: Sammarinese (singular and plural)
+  adjective: Sammarinese
+
+Sao Tome and Principe
+  noun: Sao Tomean(s)
+  adjective: Sao Tomean
+
+Saudi Arabia
+  noun: Saudi(s)
+  adjective: Saudi or Saudi Arabian
+
+Senegal
+  noun: Senegalese (singular and plural)
+  adjective: Senegalese
+
+Serbia
+  noun: Serb(s)
+  adjective: Serbian
+
+Seychelles
+  noun: Seychellois (singular and plural)
+  adjective: Seychellois
+
+Sierra Leone
+  noun: Sierra Leonean(s)
+  adjective: Sierra Leonean
+
+Singapore
+  noun: Singaporean(s)
+  adjective: Singapore
+
+Slovakia
+  noun: Slovak(s)
+  adjective: Slovak
+
+Slovenia
+  noun: Slovene(s)
+  adjective: Slovenian
+
+Solomon Islands
+  noun: Solomon Islander(s)
+  adjective: Solomon Islander
+
+Somalia
+  noun: Somali(s)
+  adjective: Somali
+
+South Africa
+  noun: South African(s)
+  adjective: South African
+
+Spain
+  noun: Spaniard(s)
+  adjective: Spanish
+
+Sri Lanka
+  noun: Sri Lankan(s)
+  adjective: Sri Lankan
+
+Sudan
+  noun: Sudanese (singular and plural)
+  adjective: Sudanese
+
+Suriname
+  noun: Surinamer(s)
+  adjective: Surinamese
+
+Swaziland
+  noun: Swazi(s)
+  adjective: Swazi
+
+Sweden
+  noun: Swede(s)
+  adjective: Swedish
+
+Switzerland
+  noun: Swiss (singular and plural)
+  adjective: Swiss
+
+Syria
+  noun: Syrian(s)
+  adjective: Syrian
+
+Taiwan
+  noun: Taiwan (singular and plural)
+  note: example - he or she is from Taiwan; they are from Taiwan
+  adjective: Taiwan
+
+Tajikistan
+  noun: Tajikistani(s)
+  adjective: Tajikistani
+
+Tanzania
+  noun: Tanzanian(s)
+  adjective: Tanzanian
+
+Thailand
+  noun: Thai (singular and plural)
+  adjective: Thai
+
+Timor-Leste
+  noun: Timorese
+  adjective: Timorese
+
+Togo
+  noun: Togolese (singular and plural)
+  adjective: Togolese
+
+Tokelau
+  noun: Tokelauan(s)
+  adjective: Tokelauan
+
+Tonga
+  noun: Tongan(s)
+  adjective: Tongan
+
+Trinidad and Tobago
+  noun: Trinidadian(s), Tobagonian(s)
+  adjective: Trinidadian, Tobagonian
+
+Tunisia
+  noun: Tunisian(s)
+  adjective: Tunisian
+
+Turkey
+  noun: Turk(s)
+  adjective: Turkish
+
+Turkmenistan
+  noun: Turkmen(s)
+  adjective: Turkmen
+
+Turks and Caicos Islands
+  noun: none
+  adjective: none
+
+Tuvalu
+  noun: Tuvaluan(s)
+  adjective: Tuvaluan
+
+Uganda
+  noun: Ugandan(s)
+  adjective: Ugandan
+
+Ukraine
+  noun: Ukrainian(s)
+  adjective: Ukrainian
+
+United Arab Emirates
+  noun: Emirati(s)
+  adjective: Emirati
+
+United Kingdom
+  noun: Briton(s), British (collective plural)
+  adjective: British
+
+United States
+  noun: American(s)
+  adjective: American
+
+Uruguay
+  noun: Uruguayan(s)
+  adjective: Uruguayan
+
+Uzbekistan
+  noun: Uzbekistani
+  adjective: Uzbekistani
+
+Vanuatu
+  noun: Ni-Vanuatu (singular and plural)
+  adjective: Ni-Vanuatu
+
+Venezuela
+  noun: Venezuelan(s)
+  adjective: Venezuelan
+
+Vietnam
+  noun: Vietnamese (singular and plural)
+  adjective: Vietnamese
+
+Virgin Islands
+  noun: Virgin Islander(s) (US citizens)
+  adjective: Virgin Islander
+
+Wallis and Futuna
+  noun: Wallisian(s), Futunan(s), or Wallis and
+  Futuna Islanders
+  adjective: Wallisian, Futunan, or Wallis and Futuna Islander
+
+West Bank
+  noun: NA
+  adjective: NA
+
+Western Sahara
+  noun: Sahrawi(s), Sahraoui(s)
+  adjective: Sahrawi, Sahrawian, Sahraouian
+
+Yemen
+  noun: Yemeni(s)
+  adjective: Yemeni
+
+Zambia
+  noun: Zambian(s)
+  adjective: Zambian
+
+Zimbabwe
+  noun: Zimbabwean(s)
+  adjective: Zimbabwean
+
+
+
+
+======================================================================
+
+
+
+
+

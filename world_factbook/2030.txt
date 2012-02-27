@@ -1,0 +1,1516 @@
+2030
+
+
+Field Listing :: Airports - with paved runways
+
+  This entry gives the total number of airports with paved runways
+  (concrete or asphalt surfaces) by length. For airports with more
+  than one runway, only the longest runway is included according to
+  the following five groups - (1) over 3,047 m (over 10,000 ft), (2)
+  2,438 to 3,047 m (8,000 to 10,000 ft), (3) 1,524 to 2,437 m (5,000
+  to 8,000 ft), (4) 914 to 1,523 m (3,000 to 5,000 ft), and (5) under
+  914 m (under 3,000 ft). Only airports with usable runways are
+  included in this listing. Not all airports have facilities for
+  refueling, maintenance, or air traffic control. The type aircraft
+  capable of operating from a runway of a given length is dependent
+  upon a number of factors including elevation of the runway, runway
+  gradient, average maximum daily temperature at the airport, engine
+  types, flap settings, and take-off weight of the aircraft.
+  Country
+
+
+  Airports - with paved runways
+
+Afghanistan
+  total: 19
+  over 3,047 m: 4
+  2,438 to 3,047 m: 3
+  1,524 to 2,437 m: 8
+  914 to 1,523 m: 2
+  under 914 m: 2 (2010)
+
+Albania
+  total: 4
+  2,438 to 3,047 m: 3
+  1,524 to 2,437 m: 1 (2010)
+
+Algeria
+  total: 57
+  over 3,047 m: 12
+  2,438 to 3,047 m: 28
+  1,524 to 2,437 m: 11
+  914 to 1,523 m: 5
+  under 914 m: 1 (2010)
+
+American Samoa
+  total: 3
+  over 3,047 m: 1
+  914 to 1,523 m: 1
+  under 914 m: 1 (2010)
+
+Angola
+  total: 31
+  over 3,047 m: 5
+  2,438 to 3,047 m: 9
+  1,524 to 2,437 m: 13
+  914 to 1,523 m: 4 (2010)
+
+Anguilla
+  total: 1
+  1,524 to 2,437 m: 1 (2010)
+
+Antigua and Barbuda
+  total: 2
+  2,438 to 3,047 m: 1
+  under 914 m: 1 (2010)
+
+Argentina
+  total: 156
+  over 3,047 m: 4
+  2,438 to 3,047 m: 27
+  1,524 to 2,437 m: 65
+  914 to 1,523 m: 51
+  under 914 m: 9 (2010)
+
+Armenia
+  total: 10
+  over 3,047 m: 2
+  2,438 to 3,047 m: 2
+  1,524 to 2,437 m: 4
+  914 to 1,523 m: 2 (2010)
+
+Aruba
+  total: 1
+  2,438 to 3,047 m: 1 (2010)
+
+Australia
+  total: 326
+  over 3,047 m: 11
+  2,438 to 3,047 m: 13
+  1,524 to 2,437 m: 148
+  914 to 1,523 m: 140
+  under 914 m: 14 (2010)
+
+Austria
+  total: 25
+  over 3,047 m: 1
+  2,438 to 3,047 m: 5
+  1,524 to 2,437 m: 1
+  914 to 1,523 m: 4
+  under 914 m: 14 (2010)
+
+Azerbaijan
+  total: 27
+  over 3,047 m: 3
+  2,438 to 3,047 m: 6
+  1,524 to 2,437 m: 13
+  914 to 1,523 m: 4
+  under 914 m: 1 (2010)
+
+Bahamas, The
+  total: 23
+  over 3,047 m: 2
+  2,438 to 3,047 m: 3
+  1,524 to 2,437 m: 13
+  914 to 1,523 m: 5 (2010)
+
+Bahrain
+  total: 4
+  over 3,047 m: 3
+  2,438 to 3,047 m: 1 (2010)
+
+Bangladesh
+  total: 15
+  over 3,047 m: 2
+  2,438 to 3,047 m: 2
+  1,524 to 2,437 m: 6
+  914 to 1,523 m: 1
+  under 914 m: 4 (2010)
+
+Barbados
+  total: 1
+  over 3,047 m: 1 (2010)
+
+Belarus
+  total: 35
+  over 3,047 m: 2
+  2,438 to 3,047 m: 22
+  1,524 to 2,437 m: 3
+  914 to 1,523 m: 1
+  under 914 m: 7 (2010)
+
+Belgium
+  total: 27
+  over 3,047 m: 6
+  2,438 to 3,047 m: 9
+  1,524 to 2,437 m: 2
+  914 to 1,523 m: 1
+  under 914 m: 9 (2010)
+
+Belize
+  total: 4
+  2,438 to 3,047 m: 1
+  914 to 1,523 m: 1
+  under 914 m: 2 (2010)
+
+Benin
+  total: 1
+  1,524 to 2,437 m: 1 (2010)
+
+Bermuda
+  total: 1
+  2,438 to 3,047 m: 1 (2010)
+
+Bhutan
+  total: 1
+  1,524 to 2,437 m: 1 (2010)
+
+Bolivia
+  total: 16
+  over 3,047 m: 3
+  2,438 to 3,047 m: 4
+  1,524 to 2,437 m: 4
+  914 to 1,523 m: 5 (2010)
+
+Bosnia and Herzegovina
+  total: 7
+  2,438 to 3,047 m: 4
+  1,524 to 2,437 m: 1
+  under 914 m: 2 (2010)
+
+Botswana
+  total: 9
+  2,438 to 3,047 m: 2
+  1,524 to 2,437 m: 6
+  914 to 1,523 m: 1 (2010)
+
+Brazil
+  total: 726
+  over 3,047 m: 7
+  2,438 to 3,047 m: 28
+  1,524 to 2,437 m: 176
+  914 to 1,523 m: 460
+  under 914 m: 55 (2010)
+
+British Indian Ocean Territory
+  total: 1
+  over 3,047 m: 1 (2010)
+
+British Virgin Islands
+  total: 2
+  914 to 1,523 m: 1
+  under 914 m: 1 (2010)
+
+Brunei
+  total: 2
+  over 3,047 m: 1
+  914 to 1,523 m: 1 (2010)
+
+Bulgaria
+  total: 130
+  over 3,047 m: 2
+  2,438 to 3,047 m: 17
+  1,524 to 2,437 m: 15
+  under 914 m: 96 (2010)
+
+Burkina Faso
+  total: 2
+  over 3,047 m: 1
+  2,438 to 3,047 m: 1 (2010)
+
+Burma
+  total: 37
+  over 3,047 m: 12
+  2,438 to 3,047 m: 8
+  1,524 to 2,437 m: 15
+  914 to 1,523 m: 1
+  under 914 m: 1 (2010)
+
+Burundi
+  total: 1
+  over 3,047 m: 1 (2010)
+
+Cambodia
+  total: 6
+  2,438 to 3,047 m: 3
+  1,524 to 2,437 m: 2
+  914 to 1,523 m: 1 (2010)
+
+Cameroon
+  total: 11
+  over 3,047 m: 2
+  2,438 to 3,047 m: 5
+  1,524 to 2,437 m: 3
+  914 to 1,523 m: 1 (2010)
+
+Canada
+  total: 514
+  over 3,047 m: 18
+  2,438 to 3,047 m: 20
+  1,524 to 2,437 m: 148
+  914 to 1,523 m: 249
+  under 914 m: 79 (2010)
+
+Cape Verde
+  total: 9
+  over 3,047 m: 1
+  1,524 to 2,437 m: 3
+  914 to 1,523 m: 3
+  under 914 m: 2 (2010)
+
+Cayman Islands
+  total: 2
+  1,524 to 2,437 m: 2 (2010)
+
+Central African Republic
+  total: 2
+  2,438 to 3,047 m: 1
+  1,524 to 2,437 m: 1 (2010)
+
+Chad
+  total: 8
+  over 3,047 m: 2
+  2,438 to 3,047 m: 3
+  1,524 to 2,437 m: 2
+  under 914 m: 1 (2010)
+
+Chile
+  total: 84
+  over 3,047 m: 5
+  2,438 to 3,047 m: 8
+  1,524 to 2,437 m: 23
+  914 to 1,523 m: 24
+  under 914 m: 24 (2010)
+
+China
+  total: 442
+  over 3,047 m: 63
+  2,438 to 3,047 m: 137
+  1,524 to 2,437 m: 132
+  914 to 1,523 m: 27
+  under 914 m: 83 (2010)
+
+Christmas Island
+  total: 1
+  1,524 to 2,437 m: 1 (2010)
+
+Cocos (Keeling) Islands
+  total: 1
+  1,524 to 2,437 m: 1 (2010)
+
+Colombia
+  total: 116
+  over 3,047 m: 2
+  2,438 to 3,047 m: 8
+  1,524 to 2,437 m: 41
+  914 to 1,523 m: 50
+  under 914 m: 15 (2010)
+
+Comoros
+  total: 4
+  2,438 to 3,047 m: 1
+  914 to 1,523 m: 3 (2010)
+
+Congo, Democratic Republic of the
+  total: 26
+  over 3,047 m: 4
+  2,438 to 3,047 m: 2
+  1,524 to 2,437 m: 17
+  914 to 1,523 m: 2
+  under 914 m: 1 (2010)
+
+Congo, Republic of the
+  total: 6
+  over 3,047 m: 2
+  2,438 to 3,047 m: 1
+  1,524 to 2,437 m: 3 (2010)
+
+Cook Islands
+  total: 1
+  1,524 to 2,437 m: 1 (2010)
+
+Costa Rica
+  total: 39
+  2,438 to 3,047 m: 2
+  1,524 to 2,437 m: 2
+  914 to 1,523 m: 23
+  under 914 m: 12 (2010)
+
+Cote d'Ivoire
+  total: 7
+  over 3,047 m: 1
+  2,438 to 3,047 m: 2
+  1,524 to 2,437 m: 4 (2010)
+
+Croatia
+  total: 23
+  over 3,047 m: 2
+  2,438 to 3,047 m: 6
+  1,524 to 2,437 m: 3
+  914 to 1,523 m: 3
+  under 914 m: 9 (2010)
+
+Cuba
+  total: 65
+  over 3,047 m: 7
+  2,438 to 3,047 m: 9
+  1,524 to 2,437 m: 17
+  914 to 1,523 m: 5
+  under 914 m: 27 (2010)
+
+Curacao
+  total: 1
+  over 3,047 m: 1 (2010)
+
+Cyprus
+  total: 13
+  2,438 to 3,047 m: 6
+  1,524 to 2,437 m: 3
+  914 to 1,523 m: 3
+  under 914 m: 1 (2010)
+
+Czech Republic
+  total: 44
+  over 3,047 m: 2
+  2,438 to 3,047 m: 9
+  1,524 to 2,437 m: 12
+  914 to 1,523 m: 3
+  under 914 m: 18 (2010)
+
+Denmark
+  total: 28
+  over 3,047 m: 2
+  2,438 to 3,047 m: 7
+  1,524 to 2,437 m: 4
+  914 to 1,523 m: 12
+  under 914 m: 3 (2010)
+
+Djibouti
+  total: 3
+  over 3,047 m: 1
+  2,438 to 3,047 m: 1
+  1,524 to 2,437 m: 1 (2010)
+
+Dominica
+  total: 2
+  1,524 to 2,437 m: 1
+  914 to 1,523 m: 1 (2010)
+
+Dominican Republic
+  total: 16
+  over 3,047 m: 3
+  2,438 to 3,047 m: 4
+  1,524 to 2,437 m: 4
+  914 to 1,523 m: 4
+  under 914 m: 1 (2010)
+
+Ecuador
+  total: 105
+  over 3,047 m: 3
+  2,438 to 3,047 m: 5
+  1,524 to 2,437 m: 17
+  914 to 1,523 m: 25
+  under 914 m: 55 (2010)
+
+Egypt
+  total: 73
+  over 3,047 m: 15
+  2,438 to 3,047 m: 36
+  1,524 to 2,437 m: 15
+  914 to 1,523 m: 2
+  under 914 m: 5 (2010)
+
+El Salvador
+  total: 4
+  over 3,047 m: 1
+  1,524 to 2,437 m: 1
+  914 to 1,523 m: 2 (2010)
+
+Equatorial Guinea
+  total: 6
+  2,438 to 3,047 m: 2
+  1,524 to 2,437 m: 1
+  914 to 1,523 m: 1
+  under 914 m: 2 (2010)
+
+Eritrea
+  total: 4
+  over 3,047 m: 2
+  2,438 to 3,047 m: 2 (2010)
+
+Estonia
+  total: 13
+  over 3,047 m: 2
+  2,438 to 3,047 m: 7
+  1,524 to 2,437 m: 2
+  914 to 1,523 m: 2 (2010)
+
+Ethiopia
+  total: 17
+  over 3,047 m: 3
+  2,438 to 3,047 m: 8
+  1,524 to 2,437 m: 4
+  914 to 1,523 m: 1
+  under 914 m: 1 (2010)
+
+European Union
+  total: 1,992
+  over 3,047 m: 116
+  2,438 to 3,047 m: 340
+  1,524 to 2,437 m: 546
+  914 to 1,523 m: 422
+  under 914 m: 568 (2010)
+
+Falkland Islands (Islas Malvinas)
+  total: 2
+  2,438 to 3,047 m: 1
+  914 to 1,523 m: 1 (2010)
+
+Faroe Islands
+  total: 1
+  914 to 1,523 m: 1 (2010)
+
+Fiji
+  total: 4
+  over 3,047 m: 1
+  1,524 to 2,437 m: 1
+  914 to 1,523 m: 2 (2010)
+
+Finland
+  total: 75
+  over 3,047 m: 3
+  2,438 to 3,047 m: 26
+  1,524 to 2,437 m: 10
+  914 to 1,523 m: 22
+  under 914 m: 14 (2010)
+
+France
+  total: 297
+  over 3,047 m: 14
+  2,438 to 3,047 m: 27
+  1,524 to 2,437 m: 97
+  914 to 1,523 m: 83
+  under 914 m: 76 (2010)
+
+French Polynesia
+  total: 46
+  over 3,047 m: 2
+  1,524 to 2,437 m: 4
+  914 to 1,523 m: 33
+  under 914 m: 7 (2010)
+
+Gabon
+  total: 13
+  over 3,047 m: 1
+  2,438 to 3,047 m: 1
+  1,524 to 2,437 m: 9
+  914 to 1,523 m: 1
+  under 914 m: 1 (2010)
+
+Gambia, The
+  total: 1
+  over 3,047 m: 1 (2010)
+
+Gaza Strip
+  total: 1
+  over 3,047 m: 1 (2010)
+
+Georgia
+  total: 18
+  over 3,047 m: 1
+  2,438 to 3,047 m: 7
+  1,524 to 2,437 m: 4
+  914 to 1,523 m: 4
+  under 914 m: 2 (2010)
+
+Germany
+  total: 330
+  over 3,047 m: 13
+  2,438 to 3,047 m: 53
+  1,524 to 2,437 m: 59
+  914 to 1,523 m: 70
+  under 914 m: 135 (2010)
+
+Ghana
+  total: 7
+  over 3,047 m: 1
+  2,438 to 3,047 m: 1
+  1,524 to 2,437 m: 3
+  914 to 1,523 m: 2 (2010)
+
+Gibraltar
+  total: 1
+  1,524 to 2,437 m: 1 (2010)
+
+Greece
+  total: 67
+  over 3,047 m: 6
+  2,438 to 3,047 m: 14
+  1,524 to 2,437 m: 20
+  914 to 1,523 m: 18
+  under 914 m: 9 (2010)
+
+Greenland
+  total: 10
+  2,438 to 3,047 m: 2
+  1,524 to 2,437 m: 1
+  914 to 1,523 m: 1
+  under 914 m: 6 (2010)
+
+Grenada
+  total: 3
+  2,438 to 3,047 m: 1
+  1,524 to 2,437 m: 1
+  under 914 m: 1 (2010)
+
+Guam
+  total: 4
+  over 3,047 m: 2
+  2,438 to 3,047 m: 1
+  914 to 1,523 m: 1 (2010)
+
+Guatemala
+  total: 13
+  2,438 to 3,047 m: 3
+  1,524 to 2,437 m: 3
+  914 to 1,523 m: 4
+  under 914 m: 3 (2010)
+
+Guernsey
+  total: 2
+  914 to 1,523 m: 1
+  under 914 m: 1 (2010)
+
+Guinea
+  total: 4
+  over 3,047 m: 1
+  1,524 to 2,437 m: 3 (2010)
+
+Guinea-Bissau
+  total: 2
+  over 3,047 m: 1
+  1,524 to 2,437 m: 1 (2010)
+
+Guyana
+  total: 10
+  1,524 to 2,437 m: 2
+  914 to 1,523 m: 1
+  under 914 m: 7 (2010)
+
+Haiti
+  total: 4
+  2,438 to 3,047 m: 1
+  914 to 1,523 m: 3 (2010)
+
+Honduras
+  total: 12
+  2,438 to 3,047 m: 3
+  1,524 to 2,437 m: 2
+  914 to 1,523 m: 4
+  under 914 m: 3 (2010)
+
+Hong Kong
+  total: 2
+  over 3,047 m: 1
+  1,524 to 2,437 m: 1 (2010)
+
+Hungary
+  total: 22
+  over 3,047 m: 2
+  2,438 to 3,047 m: 7
+  1,524 to 2,437 m: 5
+  914 to 1,523 m: 6
+  under 914 m: 2 (2010)
+
+Iceland
+  total: 6
+  over 3,047 m: 1
+  1,524 to 2,437 m: 3
+  914 to 1,523 m: 2 (2010)
+
+India
+  total: 249
+  over 3,047 m: 21
+  2,438 to 3,047 m: 57
+  1,524 to 2,437 m: 75
+  914 to 1,523 m: 81
+  under 914 m: 15 (2010)
+
+Indonesia
+  total: 171
+  over 3,047 m: 4
+  2,438 to 3,047 m: 19
+  1,524 to 2,437 m: 50
+  914 to 1,523 m: 64
+  under 914 m: 34 (2010)
+
+Iran
+  total: 133
+  over 3,047 m: 42
+  2,438 to 3,047 m: 27
+  1,524 to 2,437 m: 24
+  914 to 1,523 m: 34
+  under 914 m: 6 (2010)
+
+Iraq
+  total: 75
+  over 3,047 m: 20
+  2,438 to 3,047 m: 36
+  1,524 to 2,437 m: 5
+  914 to 1,523 m: 6
+  under 914 m: 8 (2010)
+
+Ireland
+  total: 16
+  over 3,047 m: 1
+  2,438 to 3,047 m: 1
+  1,524 to 2,437 m: 4
+  914 to 1,523 m: 5
+  under 914 m: 5 (2010)
+
+Isle of Man
+  total: 1
+  1,524 to 2,437 m: 1 (2010)
+
+Israel
+  total: 30
+  over 3,047 m: 2
+  2,438 to 3,047 m: 5
+  1,524 to 2,437 m: 6
+  914 to 1,523 m: 11
+  under 914 m: 6 (2010)
+
+Italy
+  total: 101
+  over 3,047 m: 9
+  2,438 to 3,047 m: 30
+  1,524 to 2,437 m: 18
+  914 to 1,523 m: 31
+  under 914 m: 13 (2010)
+
+Jamaica
+  total: 12
+  2,438 to 3,047 m: 2
+  914 to 1,523 m: 3
+  under 914 m: 7 (2010)
+
+Japan
+  total: 144
+  over 3,047 m: 7
+  2,438 to 3,047 m: 44
+  1,524 to 2,437 m: 38
+  914 to 1,523 m: 28
+  under 914 m: 27 (2010)
+
+Jersey
+  total: 1
+  1,524 to 2,437 m: 1 (2010)
+
+Jordan
+  total: 16
+  over 3,047 m: 8
+  2,438 to 3,047 m: 5
+  1,524 to 2,437 m: 1
+  914 to 1,523 m: 1
+  under 914 m: 1 (2010)
+
+Kazakhstan
+  total: 65
+  over 3,047 m: 10
+  2,438 to 3,047 m: 26
+  1,524 to 2,437 m: 16
+  914 to 1,523 m: 5
+  under 914 m: 8 (2010)
+
+Kenya
+  total: 17
+  over 3,047 m: 4
+  2,438 to 3,047 m: 2
+  1,524 to 2,437 m: 4
+  914 to 1,523 m: 6
+  under 914 m: 1 (2010)
+
+Kiribati
+  total: 4
+  1,524 to 2,437 m: 4 (2010)
+
+Korea, North
+  total: 37
+  over 3,047 m: 2
+  2,438 to 3,047 m: 23
+  1,524 to 2,437 m: 7
+  914 to 1,523 m: 1
+  under 914 m: 4 (2010)
+
+Korea, South
+  total: 72
+  over 3,047 m: 4
+  2,438 to 3,047 m: 21
+  1,524 to 2,437 m: 13
+  914 to 1,523 m: 12
+  under 914 m: 22 (2010)
+
+Kosovo
+  total: 4
+  2,438 to 3,047 m: 1
+  1,524 to 2,437 m: 1
+  under 914 m: 2 (2010)
+
+Kuwait
+  total: 4
+  over 3,047 m: 1
+  2,438 to 3,047 m: 2
+  1,524 to 2,437 m: 1 (2010)
+
+Kyrgyzstan
+  total: 18
+  over 3,047 m: 1
+  2,438 to 3,047 m: 3
+  1,524 to 2,437 m: 11
+  under 914 m: 3 (2010)
+
+Laos
+  total: 9
+  2,438 to 3,047 m: 2
+  1,524 to 2,437 m: 4
+  914 to 1,523 m: 3 (2010)
+
+Latvia
+  total: 19
+  over 3,047 m: 1
+  2,438 to 3,047 m: 3
+  1,524 to 2,437 m: 5
+  914 to 1,523 m: 3
+  under 914 m: 7 (2010)
+
+Lebanon
+  total: 5
+  over 3,047 m: 1
+  2,438 to 3,047 m: 2
+  914 to 1,523 m: 1
+  under 914 m: 1 (2010)
+
+Lesotho
+  total: 3
+  over 3,047 m: 1
+  914 to 1,523 m: 1
+  under 914 m: 1 (2010)
+
+Liberia
+  total: 2
+  over 3,047 m: 1
+  1,524 to 2,437 m: 1 (2010)
+
+Libya
+  total: 59
+  over 3,047 m: 24
+  2,438 to 3,047 m: 5
+  1,524 to 2,437 m: 23
+  914 to 1,523 m: 6
+  under 914 m: 1 (2010)
+
+Lithuania
+  total: 26
+  over 3,047 m: 3
+  2,438 to 3,047 m: 1
+  1,524 to 2,437 m: 7
+  914 to 1,523 m: 2
+  under 914 m: 13 (2010)
+
+Luxembourg
+  total: 1
+  over 3,047 m: 1 (2010)
+
+Macau
+  total: 1
+  over 3,047 m: 1 (2010)
+
+Macedonia
+  total: 10
+  2,438 to 3,047 m: 2
+  under 914 m: 8 (2010)
+
+Madagascar
+  total: 27
+  over 3,047 m: 1
+  2,438 to 3,047 m: 2
+  1,524 to 2,437 m: 6
+  914 to 1,523 m: 17
+  under 914 m: 1 (2010)
+
+Malawi
+  total: 6
+  over 3,047 m: 1
+  1,524 to 2,437 m: 1
+  914 to 1,523 m: 4 (2010)
+
+Malaysia
+  total: 38
+  over 3,047 m: 7
+  2,438 to 3,047 m: 10
+  1,524 to 2,437 m: 6
+  914 to 1,523 m: 8
+  under 914 m: 7 (2010)
+
+Maldives
+  total: 3
+  over 3,047 m: 1
+  2,438 to 3,047 m: 1
+  914 to 1,523 m: 1 (2010)
+
+Mali
+  total: 8
+  2,438 to 3,047 m: 4
+  1,524 to 2,437 m: 3
+  914 to 1,523 m: 1 (2010)
+
+Malta
+  total: 1
+  over 3,047 m: 1 (2010)
+
+Marshall Islands
+  total: 4
+  1,524 to 2,437 m: 3
+  914 to 1,523 m: 1 (2010)
+
+Mauritania
+  total: 9
+  2,438 to 3,047 m: 5
+  1,524 to 2,437 m: 4 (2010)
+
+Mauritius
+  total: 2
+  over 3,047 m: 1
+  914 to 1,523 m: 1 (2010)
+
+Mayotte
+  total: 1
+  1,524 to 2,437 m: 1 (2010)
+
+Mexico
+  total: 250
+  over 3,047 m: 12
+  2,438 to 3,047 m: 30
+  1,524 to 2,437 m: 85
+  914 to 1,523 m: 83
+  under 914 m: 40 (2010)
+
+Micronesia, Federated States of
+  total: 6
+  1,524 to 2,437 m: 4
+  914 to 1,523 m: 2 (2010)
+
+Moldova
+  total: 5
+  over 3,047 m: 1
+  2,438 to 3,047 m: 2
+  1,524 to 2,437 m: 2 (2010)
+
+Mongolia
+  total: 14
+  over 3,047 m: 1
+  2,438 to 3,047 m: 10
+  1,524 to 2,437 m: 3 (2010)
+
+Montenegro
+  total: 4
+  2,438 to 3,047 m: 2
+  1,524 to 2,437 m: 1
+  under 914 m: 1 (2010)
+
+Montserrat
+  total: 2
+  under 914 m: 2 (2010)
+
+Morocco
+  total: 32
+  over 3,047 m: 11
+  2,438 to 3,047 m: 7
+  1,524 to 2,437 m: 10
+  914 to 1,523 m: 4 (2010)
+
+Mozambique
+  total: 23
+  over 3,047 m: 1
+  2,438 to 3,047 m: 3
+  1,524 to 2,437 m: 10
+  914 to 1,523 m: 4
+  under 914 m: 5 (2010)
+
+Namibia
+  total: 21
+  over 3,047 m: 3
+  2,438 to 3,047 m: 2
+  1,524 to 2,437 m: 13
+  914 to 1,523 m: 3 (2010)
+
+Nauru
+  total: 1
+  1,524 to 2,437 m: 1 (2010)
+
+Nepal
+  total: 11
+  over 3,047 m: 1
+  914 to 1,523 m: 9
+  under 914 m: 1 (2010)
+
+Netherlands
+  total: 20
+  over 3,047 m: 2
+  2,438 to 3,047 m: 9
+  1,524 to 2,437 m: 3
+  914 to 1,523 m: 5
+  under 914 m: 1 (2010)
+
+New Caledonia
+  total: 12
+  over 3,047 m: 1
+  914 to 1,523 m: 10
+  under 914 m: 1 (2010)
+
+New Zealand
+  total: 40
+  over 3,047 m: 2
+  2,438 to 3,047 m: 1
+  1,524 to 2,437 m: 12
+  914 to 1,523 m: 24
+  under 914 m: 1 (2010)
+
+Nicaragua
+  total: 11
+  2,438 to 3,047 m: 3
+  1,524 to 2,437 m: 2
+  914 to 1,523 m: 3
+  under 914 m: 3 (2010)
+
+Niger
+  total: 10
+  2,438 to 3,047 m: 3
+  1,524 to 2,437 m: 6
+  914 to 1,523 m: 1 (2010)
+
+Nigeria
+  total: 38
+  over 3,047 m: 9
+  2,438 to 3,047 m: 11
+  1,524 to 2,437 m: 10
+  914 to 1,523 m: 5
+  under 914 m: 3 (2010)
+
+Niue
+  total: 1
+  1,524 to 2,437 m: 1 (2010)
+
+Norfolk Island
+  total: 1
+  1,524 to 2,437 m: 1 (2010)
+
+Northern Mariana Islands
+  total: 3
+  2,438 to 3,047 m: 2
+  1,524 to 2,437 m: 1 (2010)
+
+Norway
+  total: 67
+  over 3,047 m: 1
+  2,438 to 3,047 m: 12
+  1,524 to 2,437 m: 11
+  914 to 1,523 m: 18
+  under 914 m: 25 (2010)
+
+Oman
+  total: 11
+  over 3,047 m: 6
+  2,438 to 3,047 m: 4
+  914 to 1,523 m: 1 (2010)
+
+Pakistan
+  total: 101
+  over 3,047 m: 15
+  2,438 to 3,047 m: 20
+  1,524 to 2,437 m: 39
+  914 to 1,523 m: 18
+  under 914 m: 9 (2010)
+
+Palau
+  total: 1
+  1,524 to 2,437 m: 1 (2010)
+
+Panama
+  total: 54
+  over 3,047 m: 1
+  2,438 to 3,047 m: 1
+  1,524 to 2,437 m: 5
+  914 to 1,523 m: 17
+  under 914 m: 30 (2010)
+
+Papua New Guinea
+  total: 21
+  2,438 to 3,047 m: 2
+  1,524 to 2,437 m: 14
+  914 to 1,523 m: 4
+  under 914 m: 1 (2010)
+
+Paracel Islands
+  total: 1
+  1,524 to 2,437 m: 1 (2010)
+
+Paraguay
+  total: 15
+  over 3,047 m: 3
+  1,524 to 2,437 m: 7
+  914 to 1,523 m: 5 (2010)
+
+Peru
+  total: 58
+  over 3,047 m: 6
+  2,438 to 3,047 m: 20
+  1,524 to 2,437 m: 15
+  914 to 1,523 m: 13
+  under 914 m: 4 (2010)
+
+Philippines
+  total: 85
+  over 3,047 m: 4
+  2,438 to 3,047 m: 8
+  1,524 to 2,437 m: 29
+  914 to 1,523 m: 34
+  under 914 m: 10 (2010)
+
+Poland
+  total: 86
+  over 3,047 m: 4
+  2,438 to 3,047 m: 30
+  1,524 to 2,437 m: 39
+  914 to 1,523 m: 7
+  under 914 m: 6 (2010)
+
+Portugal
+  total: 43
+  over 3,047 m: 5
+  2,438 to 3,047 m: 8
+  1,524 to 2,437 m: 7
+  914 to 1,523 m: 13
+  under 914 m: 10 (2010)
+
+Puerto Rico
+  total: 17
+  over 3,047 m: 3
+  1,524 to 2,437 m: 2
+  914 to 1,523 m: 7
+  under 914 m: 5 (2010)
+
+Qatar
+  total: 4
+  over 3,047 m: 3
+  1,524 to 2,437 m: 1 (2010)
+
+Romania
+  total: 26
+  over 3,047 m: 4
+  2,438 to 3,047 m: 10
+  1,524 to 2,437 m: 11
+  under 914 m: 1 (2010)
+
+Russia
+  total: 593
+  over 3,047 m: 51
+  2,438 to 3,047 m: 201
+  1,524 to 2,437 m: 126
+  914 to 1,523 m: 98
+  under 914 m: 117 (2010)
+
+Rwanda
+  total: 4
+  over 3,047 m: 1
+  914 to 1,523 m: 2
+  under 914 m: 1 (2010)
+
+Saint Barthelemy
+  total: 1
+  under 914 m: 1 (2010)
+
+Saint Helena, Ascension, and Tristan da Cunha
+  total: 1
+  over 3,047 m: 1 (2010)
+
+Saint Kitts and Nevis
+  total: 2
+  1,524 to 2,437 m: 1
+  914 to 1,523 m: 1 (2010)
+
+Saint Lucia
+  total: 2
+  2,438 to 3,047 m: 1
+  1,524 to 2,437 m: 1 (2010)
+
+Saint Martin
+  total: 1
+  914 to 1,523 m: 1 (2010)
+
+Saint Pierre and Miquelon
+  total: 2
+  1,524 to 2,437 m: 1
+  914 to 1,523 m: 1 (2010)
+
+Saint Vincent and the Grenadines
+  total: 5
+  1,524 to 2,437 m: 1
+  914 to 1,523 m: 3
+  under 914 m: 1 (2010)
+
+Samoa
+  total: 1
+  2,438 to 3,047 m: 1 (2010)
+
+Sao Tome and Principe
+  total: 2
+  1,524 to 2,437 m: 1
+  914 to 1,523 m: 1 (2010)
+
+Saudi Arabia
+  total: 81
+  over 3,047 m: 33
+  2,438 to 3,047 m: 15
+  1,524 to 2,437 m: 27
+  914 to 1,523 m: 2
+  under 914 m: 4 (2010)
+
+Senegal
+  total: 10
+  over 3,047 m: 2
+  1,524 to 2,437 m: 7
+  914 to 1,523 m: 1 (2010)
+
+Serbia
+  total: 11
+  over 3,047 m: 2
+  2,438 to 3,047 m: 3
+  1,524 to 2,437 m: 3
+  914 to 1,523 m: 3 (2010)
+
+Seychelles
+  total: 8
+  2,438 to 3,047 m: 1
+  914 to 1,523 m: 6
+  under 914 m: 1 (2010)
+
+Sierra Leone
+  total: 1
+  over 3,047 m: 1 (2010)
+
+Singapore
+  total: 8
+  over 3,047 m: 2
+  2,438 to 3,047 m: 1
+  1,524 to 2,437 m: 4
+  914 to 1,523 m: 1 (2010)
+
+Sint Maarten
+  total: 1
+  1,524 to 2,437 m: 1 (2010)
+
+Slovakia
+  total: 20
+  over 3,047 m: 1
+  2,438 to 3,047 m: 3
+  1,524 to 2,437 m: 3
+  914 to 1,523 m: 3
+  under 914 m: 10 (2010)
+
+Slovenia
+  total: 7
+  over 3,047 m: 1
+  2,438 to 3,047 m: 1
+  1,524 to 2,437 m: 1
+  914 to 1,523 m: 3
+  under 914 m: 1 (2010)
+
+Solomon Islands
+  total: 2
+  1,524 to 2,437 m: 1
+  914 to 1,523 m: 1 (2010)
+
+Somalia
+  total: 7
+  over 3,047 m: 4
+  2,438 to 3,047 m: 2
+  1,524 to 2,437 m: 1 (2010)
+
+South Africa
+  total: 147
+  over 3,047 m: 11
+  2,438 to 3,047 m: 6
+  1,524 to 2,437 m: 53
+  914 to 1,523 m: 67
+  under 914 m: 10 (2010)
+
+Spain
+  total: 97
+  over 3,047 m: 18
+  2,438 to 3,047 m: 13
+  1,524 to 2,437 m: 18
+  914 to 1,523 m: 24
+  under 914 m: 24 (2010)
+
+Spratly Islands
+  total: 3
+  914 to 1,523 m: 2
+  under 914 m: 1 (2010)
+
+Sri Lanka
+  total: 14
+  over 3,047 m: 1
+  1,524 to 2,437 m: 6
+  914 to 1,523 m: 7 (2010)
+
+Sudan
+  total: 19
+  over 3,047 m: 3
+  2,438 to 3,047 m: 10
+  1,524 to 2,437 m: 5
+  under 914 m: 1 (2010)
+
+Suriname
+  total: 5
+  over 3,047 m: 1
+  under 914 m: 4 (2010)
+
+Svalbard
+  total: 1
+  2,438 to 3,047 m: 1 (2010)
+
+Swaziland
+  total: 2
+  over 3,047 m: 1
+  2,438 to 3,047 m: 1 (2010)
+
+Sweden
+  total: 152
+  over 3,047 m: 3
+  2,438 to 3,047 m: 12
+  1,524 to 2,437 m: 76
+  914 to 1,523 m: 25
+  under 914 m: 36 (2010)
+
+Switzerland
+  total: 42
+  over 3,047 m: 3
+  2,438 to 3,047 m: 3
+  1,524 to 2,437 m: 14
+  914 to 1,523 m: 5
+  under 914 m: 17 (2010)
+
+Syria
+  total: 29
+  over 3,047 m: 5
+  2,438 to 3,047 m: 15
+  1,524 to 2,437 m: 1
+  914 to 1,523 m: 3
+  under 914 m: 5 (2010)
+
+Taiwan
+  total: 38
+  over 3,047 m: 8
+  2,438 to 3,047 m: 8
+  1,524 to 2,437 m: 11
+  914 to 1,523 m: 7
+  under 914 m: 4 (2010)
+
+Tajikistan
+  total: 17
+  over 3,047 m: 2
+  2,438 to 3,047 m: 4
+  1,524 to 2,437 m: 5
+  914 to 1,523 m: 3
+  under 914 m: 3 (2010)
+
+Tanzania
+  total: 9
+  over 3,047 m: 2
+  2,438 to 3,047 m: 2
+  1,524 to 2,437 m: 4
+  914 to 1,523 m: 1 (2010)
+
+Thailand
+  total: 64
+  over 3,047 m: 8
+  2,438 to 3,047 m: 11
+  1,524 to 2,437 m: 24
+  914 to 1,523 m: 15
+  under 914 m: 6 (2010)
+
+Timor-Leste
+  total: 2
+  2,438 to 3,047 m: 1
+  1,524 to 2,437 m: 1 (2010)
+
+Togo
+  total: 2
+  2,438 to 3,047 m: 2 (2010)
+
+Tonga
+  total: 1
+  2,438 to 3,047 m: 1 (2010)
+
+Trinidad and Tobago
+  total: 3
+  over 3,047 m: 1
+  2,438 to 3,047 m: 1
+  1,524 to 2,437 m: 1 (2010)
+
+Tunisia
+  total: 16
+  over 3,047 m: 4
+  2,438 to 3,047 m: 6
+  1,524 to 2,437 m: 2
+  914 to 1,523 m: 4 (2010)
+
+Turkey
+  total: 88
+  over 3,047 m: 16
+  2,438 to 3,047 m: 33
+  1,524 to 2,437 m: 19
+  914 to 1,523 m: 16
+  under 914 m: 4 (2010)
+
+Turkmenistan
+  total: 22
+  over 3,047 m: 1
+  2,438 to 3,047 m: 10
+  1,524 to 2,437 m: 9
+  914 to 1,523 m: 2 (2010)
+
+Turks and Caicos Islands
+  total: 7
+  1,524 to 2,437 m: 4
+  914 to 1,523 m: 1
+  under 914 m: 2 (2010)
+
+Uganda
+  total: 5
+  over 3,047 m: 3
+  1,524 to 2,437 m: 1
+  914 to 1,523 m: 1 (2010)
+
+Ukraine
+  total: 189
+  over 3,047 m: 12
+  2,438 to 3,047 m: 51
+  1,524 to 2,437 m: 24
+  914 to 1,523 m: 5
+  under 914 m: 97 (2010)
+
+United Arab Emirates
+  total: 25
+  over 3,047 m: 12
+  2,438 to 3,047 m: 3
+  1,524 to 2,437 m: 4
+  914 to 1,523 m: 4
+  under 914 m: 2 (2010)
+
+United Kingdom
+  total: 306
+  over 3,047 m: 9
+  2,438 to 3,047 m: 32
+  1,524 to 2,437 m: 124
+  914 to 1,523 m: 77
+  under 914 m: 64 (2010)
+
+United States
+  total: 5,194
+  over 3,047 m: 189
+  2,438 to 3,047 m: 235
+  1,524 to 2,437 m: 1,479
+  914 to 1,523 m: 2,316
+  under 914 m: 975 (2010)
+
+Uruguay
+  total: 9
+  over 3,047 m: 1
+  1,524 to 2,437 m: 4
+  914 to 1,523 m: 2
+  under 914 m: 2 (2010)
+
+Uzbekistan
+  total: 33
+  over 3,047 m: 6
+  2,438 to 3,047 m: 13
+  1,524 to 2,437 m: 6
+  914 to 1,523 m: 4
+  under 914 m: 4 (2010)
+
+Vanuatu
+  total: 3
+  2,438 to 3,047 m: 1
+  1,524 to 2,437 m: 1
+  914 to 1,523 m: 1 (2010)
+
+Venezuela
+  total: 129
+  over 3,047 m: 5
+  2,438 to 3,047 m: 10
+  1,524 to 2,437 m: 34
+  914 to 1,523 m: 63
+  under 914 m: 17 (2010)
+
+Vietnam
+  total: 37
+  over 3,047 m: 9
+  2,438 to 3,047 m: 5
+  1,524 to 2,437 m: 14
+  914 to 1,523 m: 9 (2010)
+
+Virgin Islands
+  total: 2
+  over 3,047 m: 1
+  1,524 to 2,437 m: 1 (2010)
+
+Wake Island
+  total: 1
+  2,438 to 3,047 m: 1 (2010)
+
+Wallis and Futuna
+  total: 2
+  1,524 to 2,437 m: 1
+  914 to 1,523 m: 1 (2010)
+
+West Bank
+  total: 2
+  1,524 to 2,437 m: 1
+  under 914 m: 1 (2010)
+
+Western Sahara
+  total: 3
+  2,438 to 3,047 m: 3 (2010)
+
+Yemen
+  total: 17
+  over 3,047 m: 4
+  2,438 to 3,047 m: 9
+  1,524 to 2,437 m: 3
+  914 to 1,523 m: 1 (2010)
+
+Zambia
+  total: 8
+  over 3,047 m: 1
+  2,438 to 3,047 m: 3
+  1,524 to 2,437 m: 3
+  914 to 1,523 m: 1 (2010)
+
+Zimbabwe
+  total: 19
+  over 3,047 m: 3
+  2,438 to 3,047 m: 2
+  1,524 to 2,437 m: 5
+  914 to 1,523 m: 9 (2010)
+
+
+
+
+======================================================================
+
+
+
+
+

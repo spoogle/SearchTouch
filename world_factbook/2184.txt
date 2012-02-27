@@ -1,0 +1,734 @@
+2184
+
+
+Field Listing :: Internet hosts
+
+  This entry lists the number of Internet hosts available within a
+  country. An Internet host is a computer connected directly to the
+  Internet; normally an Internet Service Provider's (ISP) computer is
+  a host. Internet users may use either a hard-wired terminal, at an
+  institution with a mainframe computer connected directly to the
+  Internet, or may connect remotely by way of a modem via telephone
+  line, cable, or satellite to the Internet Service Provider's host
+  computer. The number of hosts is one indicator of the extent of
+  Internet connectivity.
+  Country Comparison to the World
+  Country
+
+
+  Internet hosts
+
+Afghanistan
+  46 (2010)
+
+Albania
+  15,098 (2010)
+
+Algeria
+  572 (2010)
+
+American Samoa
+  1,676 (2010)
+
+Andorra
+  26,773 (2010)
+
+Angola
+  3,717 (2010)
+
+Anguilla
+  271 (2010)
+
+Antarctica
+  7,765 (2010)
+
+Antigua and Barbuda
+  9,795 (2010)
+
+Argentina
+  6.025 million (2010)
+
+Armenia
+  65,279 (2010)
+
+Aruba
+  25,080 (2010)
+
+Australia
+  13.361 million (2010)
+
+Austria
+  3.266 million (2010)
+
+Azerbaijan
+  22,737 (2010)
+
+Bahamas, The
+  21,939 (2010)
+
+Bahrain
+  53,944 (2010)
+
+Bangladesh
+  68,224 (2010)
+
+Barbados
+  1,508 (2010)
+
+Belarus
+  147,311 (2010)
+
+Belgium
+  4.465 million (2010)
+
+Belize
+  2,880 (2010)
+
+Benin
+  1,286 (2010)
+
+Bermuda
+  19,855 (2010)
+
+Bhutan
+  9,147 (2010)
+
+Bolivia
+  125,462 (2010)
+
+Bosnia and Herzegovina
+  95,234 (2010)
+
+Botswana
+  2,739 (2010)
+
+Bouvet Island
+  6 (2010)
+
+Brazil
+  19.316 million (2010)
+
+British Indian Ocean Territory
+  827 (2010)
+
+British Virgin Islands
+  497 (2010)
+
+Brunei
+  50,997 (2010)
+
+Bulgaria
+  785,546 (2010)
+
+Burkina Faso
+  1,877 (2010)
+
+Burma
+  172 (2010)
+
+Burundi
+  201 (2010)
+
+Cambodia
+  5,452 (2010)
+
+Cameroon
+  90 (2010)
+
+Canada
+  7.77 million (2010)
+
+Cape Verde
+  26 (2010)
+
+Cayman Islands
+  21,910 (2010)
+
+Central African Republic
+  20 (2010)
+
+Chad
+  5 (2010)
+
+Chile
+  1.056 million (2010)
+
+China
+  15.251 million (2010)
+
+Christmas Island
+  2,542 (2010)
+
+Cocos (Keeling) Islands
+  35,312 (2010)
+
+Colombia
+  2.527 million (2010)
+
+Comoros
+  14 (2010)
+
+Congo, Democratic Republic of the
+  3,006 (2010)
+
+Congo, Republic of the
+  42 (2010)
+
+Cook Islands
+  2,521 (2010)
+
+Costa Rica
+  34,024 (2010)
+
+Cote d'Ivoire
+  9,865 (2010)
+
+Croatia
+  1.287 million (2010)
+
+Cuba
+  3,025 (2010)
+
+Cyprus
+  187,881 (2010)
+
+Czech Republic
+  3.494 million (2010)
+
+Denmark
+  4.145 million (2010)
+
+Djibouti
+  195 (2010)
+
+Dominica
+  718 (2010)
+
+Dominican Republic
+  283,298 (2010)
+
+Ecuador
+  67,975 (2010)
+
+Egypt
+  187,197 (2010)
+
+El Salvador
+  13,849 (2010)
+
+Equatorial Guinea
+  9 (2010)
+
+Eritrea
+  1,241 (2010)
+
+Estonia
+  729,534 (2010)
+
+Ethiopia
+  151 (2010)
+
+European Union
+  140,277; note - this sum reflects the number of
+  internet hosts assigned the .eu internet country code (2010)
+
+Falkland Islands (Islas Malvinas)
+  91 (2010)
+
+Faroe Islands
+  8,936 (2010)
+
+Fiji
+  17,088 (2010)
+
+Finland
+  4.394 million (2010)
+
+France
+  15.182 million; 15.161 million (metropolitan France) (2010)
+
+French Polynesia
+  36,056 (2010)
+
+French Southern and Antarctic Lands
+  44 (2010)
+
+Gabon
+  90 (2010)
+
+Gambia, The
+  1,453 (2010)
+
+Georgia
+  110,680 (2010)
+
+Germany
+  21.729 million (2010)
+
+Ghana
+  41,082 (2010)
+
+Gibraltar
+  2,053 (2010)
+
+Greece
+  2.574 million (2010)
+
+Greenland
+  15,668 (2010)
+
+Grenada
+  52 (2010)
+
+Guam
+  24 (2010)
+
+Guatemala
+  196,870 (2010)
+
+Guernsey
+  197 (2010)
+
+Guinea
+  14 (2010)
+
+Guinea-Bissau
+  82 (2010)
+
+Guyana
+  8,840 (2010)
+
+Haiti
+  273 (2010)
+
+Holy See (Vatican City)
+  68 (2010)
+
+Honduras
+  16,075 (2010)
+
+Hong Kong
+  817,701 (2010)
+
+Hungary
+  2.655 million (2010)
+
+Iceland
+  344,748 (2010)
+
+India
+  4.536 million (2010)
+
+Indonesia
+  1.269 million (2010)
+
+Iran
+  119,947 (2010)
+
+Iraq
+  9 (2010)
+
+Ireland
+  1.339 million (2010)
+
+Isle of Man
+  765 (2010)
+
+Israel
+  1.689 million (2010)
+
+Italy
+  23.16 million (2010)
+
+Jamaica
+  3,099 (2010)
+
+Japan
+  54.846 million (2010)
+
+Jersey
+  237 (2010)
+
+Jordan
+  42,412 (2010)
+
+Kazakhstan
+  53,984 (2010)
+
+Kenya
+  47,676 (2010)
+
+Kiribati
+  31 (2010)
+
+Korea, North
+  3 (2010)
+
+Korea, South
+  291,329 (2010)
+
+Kuwait
+  2,485 (2010)
+
+Kyrgyzstan
+  97,976 (2010)
+
+Laos
+  1,468 (2010)
+
+Latvia
+  289,478 (2010)
+
+Lebanon
+  51,451 (2010)
+
+Lesotho
+  632 (2010)
+
+Liberia
+  8 (2010)
+
+Libya
+  12,432 (2010)
+
+Liechtenstein
+  9,418 (2010)
+
+Lithuania
+  1.17 million (2010)
+
+Luxembourg
+  244,225 (2010)
+
+Macau
+  252 (2010)
+
+Macedonia
+  60,533 (2010)
+
+Madagascar
+  27,606 (2010)
+
+Malawi
+  870 (2010)
+
+Malaysia
+  344,452 (2010)
+
+Maldives
+  2,164 (2010)
+
+Mali
+  524 (2010)
+
+Malta
+  24,941 (2010)
+
+Marshall Islands
+  3 (2010)
+
+Mauritania
+  23 (2010)
+
+Mauritius
+  36,653 (2010)
+
+Mayotte
+  1 (2010)
+
+Mexico
+  12.854 million (2010)
+
+Micronesia, Federated States of
+  3,097 (2010)
+
+Moldova
+  492,181 (2010)
+
+Monaco
+  23,621 (2010)
+
+Mongolia
+  7,942 (2010)
+
+Montenegro
+  6,247 (2010)
+
+Montserrat
+  552 (2010)
+
+Morocco
+  277,793 (2010)
+
+Mozambique
+  21,172 (2010)
+
+Namibia
+  76,020 (2010)
+
+Nauru
+  4,158 (2010)
+
+Nepal
+  43,928 (2010)
+
+Netherlands
+  12.607 million (2010)
+
+New Caledonia
+  22,456 (2010)
+
+New Zealand
+  2.47 million (2010)
+
+Nicaragua
+  157,162 (2010)
+
+Niger
+  172 (2010)
+
+Nigeria
+  1,378 (2010)
+
+Niue
+  397,270 (2010)
+
+Norfolk Island
+  93 (2010)
+
+Northern Mariana Islands
+  9 (2010)
+
+Norway
+  3.352 million (2010)
+
+Oman
+  9,114 (2010)
+
+Pakistan
+  330,466 (2010)
+
+Palau
+  3 (2010)
+
+Panama
+  9,585 (2010)
+
+Papua New Guinea
+  4,285 (2010)
+
+Paraguay
+  167,281 (2010)
+
+Peru
+  268,225 (2010)
+
+Philippines
+  394,990 (2010)
+
+Pitcairn Islands
+  20 (2010)
+
+Poland
+  10.51 million (2010)
+
+Portugal
+  3.267 million (2010)
+
+Puerto Rico
+  482 (2010)
+
+Qatar
+  822 (2010)
+
+Romania
+  2.464 million (2010)
+
+Russia
+  10.382 million (2010)
+
+Rwanda
+  815 (2010)
+
+Saint Helena, Ascension, and Tristan da Cunha
+  6,873 (2010)
+
+Saint Kitts and Nevis
+  51 (2010)
+
+Saint Lucia
+  106 (2010)
+
+Saint Pierre and Miquelon
+  0 (2010)
+
+Saint Vincent and the Grenadines
+  211 (2010)
+
+Samoa
+  17,044 (2010)
+
+San Marino
+  8,895 (2010)
+
+Sao Tome and Principe
+  1,514 (2010)
+
+Saudi Arabia
+  488,598 (2010)
+
+Senegal
+  241 (2010)
+
+Serbia
+  528,253 (2010)
+
+Seychelles
+  256 (2010)
+
+Sierra Leone
+  281 (2010)
+
+Singapore
+  992,786 (2010)
+
+Slovakia
+  1.133 million (2010)
+
+Slovenia
+  137,494 (2010)
+
+Solomon Islands
+  4,065 (2010)
+
+Somalia
+  3 (2010)
+
+South Africa
+  3.751 million (2010)
+
+South Georgia and South Sandwich Islands
+  320 (2010)
+
+Spain
+  3.822 million (2010)
+
+Sri Lanka
+  8,865 (2010)
+
+Sudan
+  70 (2010)
+
+Suriname
+  171 (2010)
+
+Swaziland
+  2,335 (2010)
+
+Sweden
+  4.396 million (2010)
+
+Switzerland
+  4.816 million (2010)
+
+Syria
+  8,114 (2010)
+
+Taiwan
+  6.336 million (2010)
+
+Tajikistan
+  1,504 (2010)
+
+Tanzania
+  24,182 (2010)
+
+Thailand
+  1.335 million (2010)
+
+Timor-Leste
+  206 (2010)
+
+Togo
+  860 (2010)
+
+Tokelau
+  526 (2010)
+
+Tonga
+  20,847 (2010)
+
+Trinidad and Tobago
+  168,876 (2010)
+
+Tunisia
+  490 (2010)
+
+Turkey
+  3.433 million (2010)
+
+Turkmenistan
+  794 (2010)
+
+Turks and Caicos Islands
+  8,969 (2010)
+
+Tuvalu
+  109,478 (2010)
+
+Uganda
+  19,927 (2010)
+
+Ukraine
+  1.098 million (2010)
+
+United Arab Emirates
+  379,309 (2010)
+
+United Kingdom
+  7.03 million (2010)
+
+United States
+  439 million (2010); note - the US Internet total host
+  count includes the following top level domain host addresses: .us,
+  .com, .edu, .gov, .mil, .net, and .org
+
+Uruguay
+  765,525 (2010)
+
+Uzbekistan
+  47,718 (2010)
+
+Vanuatu
+  1,347 (2010)
+
+Venezuela
+  238,665 (2010)
+
+Vietnam
+  129,318 (2010)
+
+Virgin Islands
+  8,933 (2010)
+
+Wallis and Futuna
+  1,734 (2010)
+
+Yemen
+  255 (2010)
+
+Zambia
+  14,771 (2010)
+
+Zimbabwe
+  29,866 (2010)
+
+
+
+
+======================================================================
+
+
+
+
+

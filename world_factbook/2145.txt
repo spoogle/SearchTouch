@@ -1,0 +1,811 @@
+2145
+
+
+Field Listing :: Map references
+
+  This entry includes the name of the Factbook reference map on which
+  a country may be found. Note that boundary representations on these
+  maps are not necessarily authoritative. The entry on Geographic
+  coordinates may be helpful in finding some smaller countries.
+  Country
+
+
+  Map references
+
+Afghanistan
+  Asia
+
+Akrotiri
+  Middle East
+
+Albania
+  Europe
+
+Algeria
+  Africa
+
+American Samoa
+  Oceania
+
+Andorra
+  Europe
+
+Angola
+  Africa
+
+Anguilla
+  Central America and the Caribbean
+
+Antarctica
+  Antarctic Region
+
+Antigua and Barbuda
+  Central America and the Caribbean
+
+Arctic Ocean
+  Arctic Region
+
+Argentina
+  South America
+
+Armenia
+  Asia
+
+Aruba
+  Central America and the Caribbean
+
+Ashmore and Cartier Islands
+  Southeast Asia
+
+Atlantic Ocean
+  Political Map of the World
+
+Australia
+  Oceania
+
+Austria
+  Europe
+
+Azerbaijan
+  Asia
+
+Bahamas, The
+  Central America and the Caribbean
+
+Bahrain
+  Middle East
+
+Bangladesh
+  Asia
+
+Barbados
+  Central America and the Caribbean
+
+Belarus
+  Europe
+
+Belgium
+  Europe
+
+Belize
+  Central America and the Caribbean
+
+Benin
+  Africa
+
+Bermuda
+  North America
+
+Bhutan
+  Asia
+
+Bolivia
+  South America
+
+Bosnia and Herzegovina
+  Europe
+
+Botswana
+  Africa
+
+Bouvet Island
+  Antarctic Region
+
+Brazil
+  South America
+
+British Indian Ocean Territory
+  Political Map of the World
+
+British Virgin Islands
+  Central America and the Caribbean
+
+Brunei
+  Southeast Asia
+
+Bulgaria
+  Europe
+
+Burkina Faso
+  Africa
+
+Burma
+  Southeast Asia
+
+Burundi
+  Africa
+
+Cambodia
+  Southeast Asia
+
+Cameroon
+  Africa
+
+Canada
+  North America
+
+Cape Verde
+  Political Map of the World
+
+Cayman Islands
+  Central America and the Caribbean
+
+Central African Republic
+  Africa
+
+Chad
+  Africa
+
+Chile
+  South America
+
+China
+  Asia
+
+Christmas Island
+  Southeast Asia
+
+Clipperton Island
+  Political Map of the World
+
+Cocos (Keeling) Islands
+  Southeast Asia
+
+Colombia
+  South America
+
+Comoros
+  Africa
+
+Congo, Democratic Republic of the
+  Africa
+
+Congo, Republic of the
+  Africa
+
+Cook Islands
+  Oceania
+
+Coral Sea Islands
+  Oceania
+
+Costa Rica
+  Central America and the Caribbean
+
+Cote d'Ivoire
+  Africa
+
+Croatia
+  Europe
+
+Cuba
+  Central America and the Caribbean
+
+Curacao
+  Central America and the Caribbean
+
+Cyprus
+  Middle East
+
+Czech Republic
+  Europe
+
+Denmark
+  Europe
+
+Dhekelia
+  Middle East
+
+Djibouti
+  Africa
+
+Dominica
+  Central America and the Caribbean
+
+Dominican Republic
+  Central America and the Caribbean
+
+Ecuador
+  South America
+
+Egypt
+  Africa
+
+El Salvador
+  Central America and the Caribbean
+
+Equatorial Guinea
+  Africa
+
+Eritrea
+  Africa
+
+Estonia
+  Europe
+
+Ethiopia
+  Africa
+
+European Union
+  Europe
+
+Falkland Islands (Islas Malvinas)
+  South America
+
+Faroe Islands
+  Europe
+
+Fiji
+  Oceania
+
+Finland
+  Europe
+
+France
+  metropolitan France: Europe
+  French Guiana: South America
+  Guadeloupe: Central America and the Caribbean
+  Martinique: Central America and the Caribbean
+  Reunion: World
+
+French Polynesia
+  Oceania
+
+French Southern and Antarctic Lands
+  Antarctic Region, Africa
+
+Gabon
+  Africa
+
+Gambia, The
+  Africa
+
+Gaza Strip
+  Middle East
+
+Georgia
+  Asia
+
+Germany
+  Europe
+
+Ghana
+  Africa
+
+Gibraltar
+  Europe
+
+Greece
+  Europe
+
+Greenland
+  Arctic Region
+
+Grenada
+  Central America and the Caribbean
+
+Guam
+  Oceania
+
+Guatemala
+  Central America and the Caribbean
+
+Guernsey
+  Europe
+
+Guinea
+  Africa
+
+Guinea-Bissau
+  Africa
+
+Guyana
+  South America
+
+Haiti
+  Central America and the Caribbean
+
+Heard Island and McDonald Islands
+  Antarctic Region
+
+Holy See (Vatican City)
+  Europe
+
+Honduras
+  Central America and the Caribbean
+
+Hong Kong
+  Southeast Asia
+
+Hungary
+  Europe
+
+Iceland
+  Arctic Region
+
+India
+  Asia
+
+Indian Ocean
+  Political Map of the World
+
+Indonesia
+  Southeast Asia
+
+Iran
+  Middle East
+
+Iraq
+  Middle East
+
+Ireland
+  Europe
+
+Isle of Man
+  Europe
+
+Israel
+  Middle East
+
+Italy
+  Europe
+
+Jamaica
+  Central America and the Caribbean
+
+Jan Mayen
+  Arctic Region
+
+Japan
+  Asia
+
+Jersey
+  Europe
+
+Jordan
+  Middle East
+
+Kazakhstan
+  Asia
+
+Kenya
+  Africa
+
+Kiribati
+  Oceania
+
+Korea, North
+  Asia
+
+Korea, South
+  Asia
+
+Kosovo
+  Europe
+
+Kuwait
+  Middle East
+
+Kyrgyzstan
+  Asia
+
+Laos
+  Southeast Asia
+
+Latvia
+  Europe
+
+Lebanon
+  Middle East
+
+Lesotho
+  Africa
+
+Liberia
+  Africa
+
+Libya
+  Africa
+
+Liechtenstein
+  Europe
+
+Lithuania
+  Europe
+
+Luxembourg
+  Europe
+
+Macau
+  Southeast Asia
+
+Macedonia
+  Europe
+
+Madagascar
+  Africa
+
+Malawi
+  Africa
+
+Malaysia
+  Southeast Asia
+
+Maldives
+  Asia
+
+Mali
+  Africa
+
+Malta
+  Europe
+
+Marshall Islands
+  Oceania
+
+Mauritania
+  Africa
+
+Mauritius
+  Political Map of the World
+
+Mayotte
+  Africa
+
+Mexico
+  North America
+
+Micronesia, Federated States of
+  Oceania
+
+Moldova
+  Europe
+
+Monaco
+  Europe
+
+Mongolia
+  Asia
+
+Montenegro
+  Europe
+
+Montserrat
+  Central America and the Caribbean
+
+Morocco
+  Africa
+
+Mozambique
+  Africa
+
+Namibia
+  Africa
+
+Nauru
+  Oceania
+
+Navassa Island
+  Central America and the Caribbean
+
+Nepal
+  Asia
+
+Netherlands
+  Europe
+
+New Caledonia
+  Oceania
+
+New Zealand
+  Oceania
+
+Nicaragua
+  Central America and the Caribbean
+
+Niger
+  Africa
+
+Nigeria
+  Africa
+
+Niue
+  Oceania
+
+Norfolk Island
+  Oceania
+
+Northern Mariana Islands
+  Oceania
+
+Norway
+  Europe
+
+Oman
+  Middle East
+
+Pacific Ocean
+  Political Map of the World
+
+Pakistan
+  Asia
+
+Palau
+  Oceania
+
+Panama
+  Central America and the Caribbean
+
+Papua New Guinea
+  Oceania
+
+Paracel Islands
+  Southeast Asia
+
+Paraguay
+  South America
+
+Peru
+  South America
+
+Philippines
+  Southeast Asia
+
+Pitcairn Islands
+  Oceania
+
+Poland
+  Europe
+
+Portugal
+  Europe
+
+Puerto Rico
+  Central America and the Caribbean
+
+Qatar
+  Middle East
+
+Romania
+  Europe
+
+Russia
+  Asia
+
+Rwanda
+  Africa
+
+Saint Barthelemy
+  Central America and the Caribbean
+
+Saint Helena, Ascension, and Tristan da Cunha
+  Africa
+
+Saint Kitts and Nevis
+  Central America and the Caribbean
+
+Saint Lucia
+  Central America and the Caribbean
+
+Saint Martin
+  Central America and the Caribbean
+
+Saint Pierre and Miquelon
+  North America
+
+Saint Vincent and the Grenadines
+  Central America and the Caribbean
+
+Samoa
+  Oceania
+
+San Marino
+  Europe
+
+Sao Tome and Principe
+  Africa
+
+Saudi Arabia
+  Middle East
+
+Senegal
+  Africa
+
+Serbia
+  Europe
+
+Seychelles
+  Africa
+
+Sierra Leone
+  Africa
+
+Singapore
+  Southeast Asia
+
+Sint Maarten
+  Central America and the Caribbean
+
+Slovakia
+  Europe
+
+Slovenia
+  Europe
+
+Solomon Islands
+  Oceania
+
+Somalia
+  Africa
+
+South Africa
+  Africa
+
+South Georgia and South Sandwich Islands
+  Antarctic Region
+
+Southern Ocean
+  Antarctic Region
+
+Spain
+  Europe
+
+Spratly Islands
+  Southeast Asia
+
+Sri Lanka
+  Asia
+
+Sudan
+  Africa
+
+Suriname
+  South America
+
+Svalbard
+  Arctic Region
+
+Swaziland
+  Africa
+
+Sweden
+  Europe
+
+Switzerland
+  Europe
+
+Syria
+  Middle East
+
+Taiwan
+  Southeast Asia
+
+Tajikistan
+  Asia
+
+Tanzania
+  Africa
+
+Thailand
+  Southeast Asia
+
+Timor-Leste
+  Southeast Asia
+
+Togo
+  Africa
+
+Tokelau
+  Oceania
+
+Tonga
+  Oceania
+
+Trinidad and Tobago
+  Central America and the Caribbean
+
+Tunisia
+  Africa
+
+Turkey
+  Middle East
+
+Turkmenistan
+  Asia
+
+Turks and Caicos Islands
+  Central America and the Caribbean
+
+Tuvalu
+  Oceania
+
+Uganda
+  Africa
+
+Ukraine
+  Asia, Europe
+
+United Arab Emirates
+  Middle East
+
+United Kingdom
+  Europe
+
+United States
+  North America
+
+United States Pacific Island Wildlife Refuges
+  Oceania
+
+Uruguay
+  South America
+
+Uzbekistan
+  Asia
+
+Vanuatu
+  Oceania
+
+Venezuela
+  South America
+
+Vietnam
+  Southeast Asia
+
+Virgin Islands
+  Central America and the Caribbean
+
+Wake Island
+  Oceania
+
+Wallis and Futuna
+  Oceania
+
+West Bank
+  Middle East
+
+Western Sahara
+  Africa
+
+World
+  Physical Map of the World, Political Map of the World,
+  Standard Time Zones of the World
+
+Yemen
+  Middle East
+
+Zambia
+  Africa
+
+Zimbabwe
+  Africa
+
+
+
+
+======================================================================
+
+
+
+
+

@@ -1,0 +1,1166 @@
+2177
+
+
+Field Listing :: Median age
+
+  This entry is the age that divides a population into two numerically
+  equal groups; that is, half the people are younger than this age and
+  half are older. It is a single index that summarizes the age
+  distribution of a population. Currently, the median age ranges from
+  a low of about 15 in Uganda and Gaza Strip to 40 or more in several
+  European countries and Japan. See the entry for "Age structure" for
+  the importance of a young versus an older age structure and, by
+  implication, a low versus a higher median age.
+  Country
+
+
+  Median age(years)
+
+Afghanistan
+  total: 18 years
+  male: 17.9 years
+  female: 18 years (2010 est.)
+
+Albania
+  total: 30 years
+  male: 28.9 years
+  female: 31.1 years (2010 est.)
+
+Algeria
+  total: 27.1 years
+  male: 26.8 years
+  female: 27.3 years (2010 est.)
+
+American Samoa
+  total: 23.4 years
+  male: 23.3 years
+  female: 23.6 years (2010 est.)
+
+Andorra
+  total: 39.9 years
+  male: 40.2 years
+  female: 39.6 years (2010 est.)
+
+Angola
+  total: 18 years
+  male: 18 years
+  female: 18 years (2010 est.)
+
+Anguilla
+  total: 33 years
+  male: 31.6 years
+  female: 34.3 years (2010 est.)
+
+Antigua and Barbuda
+  total: 30 years
+  male: 28.5 years
+  female: 31.4 years (2010 est.)
+
+Argentina
+  total: 30.3 years
+  male: 29.2 years
+  female: 31.3 years (2010 est.)
+
+Armenia
+  total: 31.9 years
+  male: 29.1 years
+  female: 34.7 years (2010 est.)
+
+Aruba
+  total: 38 years
+  male: 36.2 years
+  female: 39.7 years (2010 est.)
+
+Australia
+  total: 37.5 years
+  male: 36.8 years
+  female: 38.3 years (2010 est.)
+
+Austria
+  total: 42.6 years
+  male: 41.5 years
+  female: 43.6 years (2010 est.)
+
+Azerbaijan
+  total: 28.5 years
+  male: 26.9 years
+  female: 30.3 years (2010 est.)
+
+Bahamas, The
+  total: 29.9 years
+  male: 28.8 years
+  female: 31 years (2010 est.)
+
+Bahrain
+  total: 30.4 years
+  male: 33.5 years
+  female: 27.1 years (2010 est.)
+
+Bangladesh
+  total: 22.9 years
+  male: 22.4 years
+  female: 23.4 years (2010 est.)
+
+Barbados
+  total: 36.2 years
+  male: 35.1 years
+  female: 37.2 years (2010 est.)
+
+Belarus
+  total: 38.8 years
+  male: 35.8 years
+  female: 41.8 years (2010 est.)
+
+Belgium
+  total: 42 years
+  male: 40.7 years
+  female: 43.3 years (2010 est.)
+
+Belize
+  total: 20.7 years
+  male: 20.5 years
+  female: 20.9 years (2010 est.)
+
+Benin
+  total: 17.3 years
+  male: 16.9 years
+  female: 17.8 years (2010 est.)
+
+Bermuda
+  total: 41.6 years
+  male: 40.2 years
+  female: 43.1 years (2010 est.)
+
+Bhutan
+  total: 24.3 years
+  male: 25 years
+  female: 23.7 years (2010 est.)
+
+Bolivia
+  total: 22.2 years
+  male: 21.5 years
+  female: 22.9 years (2010 est.)
+
+Bosnia and Herzegovina
+  total: 40.3 years
+  male: 39.1 years
+  female: 41.5 years (2010 est.)
+
+Botswana
+  total: 22 years
+  male: 21.8 years
+  female: 22.1 years (2010 est.)
+
+Brazil
+  total: 28.9 years
+  male: 28.1 years
+  female: 29.7 years (2010 est.)
+
+British Virgin Islands
+  total: 32.6 years
+  male: 32.7 years
+  female: 32.5 years (2010 est.)
+
+Brunei
+  total: 28.1 years
+  male: 28 years
+  female: 28.2 years (2010 est.)
+
+Bulgaria
+  total: 41.6 years
+  male: 39.4 years
+  female: 43.9 years (2010 est.)
+
+Burkina Faso
+  total: 16.8 years
+  male: 16.6 years
+  female: 17 years (2010 est.)
+
+Burma
+  total: 26.5 years
+  male: 26 years
+  female: 27.1 years (2010 est.)
+
+Burundi
+  total: 16.8 years
+  male: 16.5 years
+  female: 17.2 years (2010 est.)
+
+Cambodia
+  total: 22.6 years
+  male: 21.8 years
+  female: 23.3 years (2010 est.)
+
+Cameroon
+  total: 19.3 years
+  male: 19.2 years
+  female: 19.4 years (2010 est.)
+
+Canada
+  total: 40.7 years
+  male: 39.6 years
+  female: 41.8 years (2010 est.)
+
+Cape Verde
+  total: 22.3 years
+  male: 21.4 years
+  female: 23.1 years (2010 est.)
+
+Cayman Islands
+  total: 38.4 years
+  male: 38 years
+  female: 38.9 years (2010 est.)
+
+Central African Republic
+  total: 19.1 years
+  male: 18.7 years
+  female: 19.5 years (2010 est.)
+
+Chad
+  total: 16.6 years
+  male: 15.5 years
+  female: 17.8 years (2010 est.)
+
+Chile
+  total: 31.7 years
+  male: 30.7 years
+  female: 32.8 years (2010 est.)
+
+China
+  total: 35.2 years
+  male: 34.5 years
+  female: 35.8 years (2010 est.)
+
+Colombia
+  total: 27.6 years
+  male: 26.7 years
+  female: 28.6 years (2010 est.)
+
+Comoros
+  total: 18.9 years
+  male: 18.6 years
+  female: 19.2 years (2010 est.)
+
+Congo, Democratic Republic of the
+  total: 16.5 years
+  male: 16.3 years
+  female: 16.7 years (2010 est.)
+
+Congo, Republic of the
+  total: 16.9 years
+  male: 16.7 years
+  female: 17.2 years (2010 est.)
+
+Cook Islands
+  total: 31.2 years
+  male: 30.5 years
+  female: 31.9 years (2010 est.)
+
+Costa Rica
+  total: 28.4 years
+  male: 27.9 years
+  female: 28.9 years (2010 est.)
+
+Cote d'Ivoire
+  total: 19.4 years
+  male: 19.6 years
+  female: 19.3 years (2010 est.)
+
+Croatia
+  total: 41.2 years
+  male: 39.3 years
+  female: 43 years (2010 est.)
+
+Cuba
+  total: 37.8 years
+  male: 37.1 years
+  female: 38.6 years (2010 est.)
+
+Cyprus
+  total: 34.5 years
+  male: 33.2 years
+  female: 36.3 years (2010 est.)
+
+Czech Republic
+  total: 40.4 years
+  male: 38.9 years
+  female: 42.2 years (2010 est.)
+
+Denmark
+  total: 40.7 years
+  male: 39.8 years
+  female: 41.6 years (2010 est.)
+
+Djibouti
+  total: 21.4 years
+  male: 19.8 years
+  female: 22.8 years (2010 est.)
+
+Dominica
+  total: 30.3 years
+  male: 29.8 years
+  female: 30.8 years (2010 est.)
+
+Dominican Republic
+  total: 25.8 years
+  male: 25.6 years
+  female: 26 years (2010 est.)
+
+Ecuador
+  total: 25.3 years
+  male: 24.7 years
+  female: 25.9 years (2010 est.)
+
+Egypt
+  total: 24 years
+  male: 23.8 years
+  female: 24.3 years (2010 est.)
+
+El Salvador
+  total: 23.9 years
+  male: 22.5 years
+  female: 25.3 years (2010 est.)
+
+Equatorial Guinea
+  total: 19 years
+  male: 18.4 years
+  female: 19.6 years (2010 est.)
+
+Eritrea
+  total: 18.5 years
+  male: 18.2 years
+  female: 18.9 years (2010 est.)
+
+Estonia
+  total: 40.2 years
+  male: 36.7 years
+  female: 43.7 years (2010 est.)
+
+Ethiopia
+  total: 16.8 years
+  male: 16.5 years
+  female: 17.2 years (2010 est.)
+
+European Union
+  note - see individual country entries of member
+  states (2009 est.)
+
+Faroe Islands
+  total: 37.1 years
+  male: 36.5 years
+  female: 37.9 years (2010 est.)
+
+Fiji
+  total: 26.6 years
+  male: 26.4 years
+  female: 26.8 years (2010 est.)
+
+Finland
+  total: 42.3 years
+  male: 40.7 years
+  female: 44 years (2010 est.)
+
+France
+  total: 39.7 years
+  male: 38.2 years
+  female: 41.2 years (2010 est.)
+
+French Polynesia
+  total: 29.5 years
+  male: 29.8 years
+  female: 29.2 years (2010 est.)
+
+Gabon
+  total: 18.6 years
+  male: 18.4 years
+  female: 18.9 years (2010 est.)
+
+Gambia, The
+  total: 18 years
+  male: 17.9 years
+  female: 18.2 years (2010 est.)
+
+Gaza Strip
+  total: 17.5 years
+  male: 17.4 years
+  female: 17.7 years (2010 est.)
+
+Georgia
+  total: 38.8 years
+  male: 36.3 years
+  female: 41.3 years (2010 est.)
+
+Germany
+  total: 44.3 years
+  male: 43 years
+  female: 45.6 years (2010 est.)
+
+Ghana
+  total: 21.1 years
+  male: 20.8 years
+  female: 21.3 years (2010 est.)
+
+Gibraltar
+  total: 33.1 years
+  male: 32.2 years
+  female: 34.1 years (2010 est.)
+
+Greece
+  total: 42.2 years
+  male: 41.1 years
+  female: 43.2 years (2010 est.)
+
+Greenland
+  total: 33.5 years
+  male: 34.9 years
+  female: 31.9 years (2010 est.)
+
+Grenada
+  total: 28.2 years
+  male: 28.2 years
+  female: 28.2 years (2010 est.)
+
+Guam
+  total: 29.3 years
+  male: 28.9 years
+  female: 29.7 years (2010 est.)
+
+Guatemala
+  total: 19.7 years
+  male: 19.1 years
+  female: 20.4 years (2010 est.)
+
+Guernsey
+  total: 41.9 years
+  male: 40.9 years
+  female: 42.9 years (2010 est.)
+
+Guinea
+  total: 18.5 years
+  male: 18.3 years
+  female: 18.8 years (2010 est.)
+
+Guinea-Bissau
+  total: 19.4 years
+  male: 18.8 years
+  female: 19.9 years (2010 est.)
+
+Guyana
+  total: 23.6 years
+  male: 22.9 years
+  female: 24.3 years (2010 est.)
+
+Haiti
+  total: 21.1 years
+  male: 20.9 years
+  female: 21.4 years (2010 est.)
+
+Honduras
+  total: 20.7 years
+  male: 20.3 years
+  female: 21.1 years (2010 est.)
+
+Hong Kong
+  total: 42.8 years
+  male: 42.4 years
+  female: 43.2 years (2010 est.)
+
+Hungary
+  total: 40 years
+  male: 37.8 years
+  female: 42.6 years (2010 est.)
+
+Iceland
+  total: 35.4 years
+  male: 34.9 years
+  female: 35.8 years (2010 est.)
+
+India
+  total: 25.9 years
+  male: 25.4 years
+  female: 26.6 years (2010 est.)
+
+Indonesia
+  total: 27.9 years
+  male: 27.4 years
+  female: 28.4 years (2010 est.)
+
+Iran
+  total: 26.3 years
+  male: 26 years
+  female: 26.5 years (2010 est.)
+
+Iraq
+  total: 20.6 years
+  male: 20.5 years
+  female: 20.8 years (2010 est.)
+
+Ireland
+  total: 34.5 years
+  male: 34.1 years
+  female: 34.8 years (2010 est.)
+
+Isle of Man
+  total: 42.3 years
+  male: 41.6 years
+  female: 43 years (2010 est.)
+
+Israel
+  total: 29.3 years
+  male: 28.6 years
+  female: 30 years (2010 est.)
+
+Italy
+  total: 43.7 years
+  male: 42.3 years
+  female: 45.3 years (2010 est.)
+
+Jamaica
+  total: 23.9 years
+  male: 23.4 years
+  female: 24.5 years (2010 est.)
+
+Japan
+  total: 44.6 years
+  male: 42.9 years
+  female: 46.5 years (2010 est.)
+
+Jersey
+  total: 40.1 years
+  male: 38.5 years
+  female: 41.2 years (2010 est.)
+
+Jordan
+  total: 21.8 years
+  male: 21.6 years
+  female: 22.1 years (2010 est.)
+
+Kazakhstan
+  total: 29.9 years
+  male: 28.4 years
+  female: 31.6 years (2010 est.)
+
+Kenya
+  total: 18.8 years
+  male: 18.7 years
+  female: 18.9 years (2010 est.)
+
+Kiribati
+  total: 22.2 years
+  male: 21.4 years
+  female: 23 years (2010 est.)
+
+Korea, North
+  total: 33.9 years
+  male: 32.5 years
+  female: 35.2 years (2010 est.)
+
+Korea, South
+  total: 37.9 years
+  male: 36.5 years
+  female: 39.1 years (2010 est.)
+
+Kosovo
+  total: 26.3 years
+  male: 25.8 years
+  female: 26.8 years (2010 est.)
+
+Kuwait
+  total: 26.4 years
+  male: 28.2 years
+  female: 22.9 years (2010 est.)
+
+Kyrgyzstan
+  total: 24.7 years
+  male: 23.8 years
+  female: 25.6 years (2010 est.)
+
+Laos
+  total: 20.7 years
+  male: 20.4 years
+  female: 21 years (2010 est.)
+
+Latvia
+  total: 40.4 years
+  male: 37.4 years
+  female: 43.5 years (2010 est.)
+
+Lebanon
+  total: 29.4 years
+  male: 28.3 years
+  female: 30.5 years (2010 est.)
+
+Lesotho
+  total: 22.6 years
+  male: 22.6 years
+  female: 22.7 years (2010 est.)
+
+Liberia
+  total: 18.4 years
+  male: 18.3 years
+  female: 18.4 years (2010 est.)
+
+Libya
+  total: 24.2 years
+  male: 24.3 years
+  female: 24.2 years (2010 est.)
+
+Liechtenstein
+  total: 41.4 years
+  male: 40.8 years
+  female: 41.9 years (2010 est.)
+
+Lithuania
+  total: 39.7 years
+  male: 37.1 years
+  female: 42.3 years (2010 est.)
+
+Luxembourg
+  total: 39.3 years
+  male: 38.3 years
+  female: 40.3 years (2010 est.)
+
+Macau
+  total: 35.6 years
+  male: 36.3 years
+  female: 35 years (2010 est.)
+
+Macedonia
+  total: 35.4 years
+  male: 34.4 years
+  female: 36.5 years (2010 est.)
+
+Madagascar
+  total: 18.1 years
+  male: 17.8 years
+  female: 18.3 years (2010 est.)
+
+Malawi
+  total: 17.1 years
+  male: 17 years
+  female: 17.3 years (2010 est.)
+
+Malaysia
+  total: 26.5 years
+  male: 26.4 years
+  female: 26.7 years (2010 est.)
+
+Maldives
+  total: 25.9 years
+  male: 26.6 years
+  female: 24.7 years (2010 est.)
+
+Mali
+  total: 16.2 years
+  male: 15.8 years
+  female: 16.6 years (2010 est.)
+
+Malta
+  total: 39.7 years
+  male: 38.5 years
+  female: 41.1 years (2010 est.)
+
+Marshall Islands
+  total: 21.5 years
+  male: 21.5 years
+  female: 21.5 years (2010 est.)
+
+Mauritania
+  total: 19.3 years
+  male: 18.5 years
+  female: 20.2 years (2010 est.)
+
+Mauritius
+  total: 32.3 years
+  male: 31.4 years
+  female: 33.2 years (2010 est.)
+
+Mayotte
+  total: 17.3 years
+  male: 18.1 years
+  female: 16.5 years (2010 est.)
+
+Mexico
+  total: 26.7 years
+  male: 25.6 years
+  female: 27.7 years (2010 est.)
+
+Micronesia, Federated States of
+  total: 22.4 years
+  male: 21.8 years
+  female: 22.9 years (2010 est.)
+
+Moldova
+  total: 35 years
+  male: 33.1 years
+  female: 37.1 years (2010 est.)
+
+Monaco
+  total: 48.9 years
+  male: 48 years
+  female: 49.9 years (2010 est.)
+
+Mongolia
+  total: 25.8 years
+  male: 25.3 years
+  female: 26.2 years (2010 est.)
+
+Montenegro
+  total: 37.2 years
+  male: 35.9 years
+  female: 38.8 years (2010 est.)
+
+Montserrat
+  total: 29.1 years
+  male: 28.8 years
+  female: 29.4 years (2010 est.)
+
+Morocco
+  total: 26.5 years
+  male: 25.9 years
+  female: 27 years (2010 est.)
+
+Mozambique
+  total: 17.5 years
+  male: 17.1 years
+  female: 17.9 years (2010 est.)
+
+Namibia
+  total: 21.4 years
+  male: 21.3 years
+  female: 21.4 years (2010 est.)
+
+Nauru
+  total: 23.8 years
+  male: 24 years
+  female: 23.6 years (2010 est.)
+
+Nepal
+  total: 21.2 years
+  male: 20.2 years
+  female: 22.1 years (2010 est.)
+
+Netherlands
+  total: 40.8 years
+  male: 40 years
+  female: 41.6 years (2010 est.)
+
+New Caledonia
+  total: 29.8 years
+  male: 29.3 years
+  female: 30.3 years (2010 est.)
+
+New Zealand
+  total: 36.8 years
+  male: 36 years
+  female: 37.6 years (2010 est.)
+
+Nicaragua
+  total: 22.5 years
+  male: 22.1 years
+  female: 22.9 years (2010 est.)
+
+Niger
+  total: 15.2 years
+  male: 15 years
+  female: 15.4 years (2010 est.)
+
+Nigeria
+  total: 19.1 years
+  male: 19 years
+  female: 19.2 years (2010 est.)
+
+Northern Mariana Islands
+  total: 29.3 years
+  male: 29.9 years
+  female: 29.1 years (2010 est.)
+
+Norway
+  total: 39.7 years
+  male: 38.8 years
+  female: 40.5 years (2010 est.)
+
+Oman
+  total: 23.9 years
+  male: 25.4 years
+  female: 22.1 years (2010 est.)
+
+Pakistan
+  total: 21.2 years
+  male: 21.2 years
+  female: 21.2 years (2010 est.)
+
+Palau
+  total: 32.4 years
+  male: 32.2 years
+  female: 33 years (2010 est.)
+
+Panama
+  total: 27.2 years
+  male: 26.9 years
+  female: 27.6 years (2010 est.)
+
+Papua New Guinea
+  total: 21.6 years
+  male: 21.9 years
+  female: 21.3 years (2010 est.)
+
+Paraguay
+  total: 24.9 years
+  male: 24.7 years
+  female: 25.1 years (2010 est.)
+
+Peru
+  total: 26.4 years
+  male: 26.1 years
+  female: 26.7 years (2010 est.)
+
+Philippines
+  total: 22.7 years
+  male: 22.2 years
+  female: 23.2 years (2010 est.)
+
+Poland
+  total: 38.2 years
+  male: 36.5 years
+  female: 40 years (2010 est.)
+
+Portugal
+  total: 39.7 years
+  male: 37.6 years
+  female: 41.9 years (2010 est.)
+
+Puerto Rico
+  total: 36.8 years
+  male: 35 years
+  female: 38.5 years (2010 est.)
+
+Qatar
+  total: 30.8 years
+  male: 32.9 years
+  female: 25.4 years (2010 est.)
+
+Romania
+  total: 38.4 years
+  male: 36.9 years
+  female: 39.9 years (2010 est.)
+
+Russia
+  total: 38.5 years
+  male: 35.3 years
+  female: 41.7 years (2010 est.)
+
+Rwanda
+  total: 18.6 years
+  male: 18.4 years
+  female: 18.9 years (2010 est.)
+
+Saint Barthelemy
+  total: 39.8 years
+  male: 39.9 years
+  female: 39.6 years (2010 est.)
+
+Saint Helena, Ascension, and Tristan da Cunha
+  total: 38.2 years
+  male: 38.2 years
+  female: 38.1 years (2010 est.)
+
+Saint Kitts and Nevis
+  total: 31.5 years
+  male: 31.5 years
+  female: 31.5 years (2010 est.)
+
+Saint Lucia
+  total: 30.3 years
+  male: 29.3 years
+  female: 31.4 years (2010 est.)
+
+Saint Martin
+  total: 30.8 years
+  male: 29.7 years
+  female: 31.6 years (2010 est.)
+
+Saint Pierre and Miquelon
+  total: 42 years
+  male: 41.6 years
+  female: 42.4 years (2010 est.)
+
+Saint Vincent and the Grenadines
+  total: 29.5 years
+  male: 29.6 years
+  female: 29.4 years (2010 est.)
+
+Samoa
+  total: 21.8 years
+  male: 21.7 years
+  female: 21.9 years (2010 est.)
+
+San Marino
+  total: 42.1 years
+  male: 41.3 years
+  female: 42.8 years (2010 est.)
+
+Sao Tome and Principe
+  total: 17.5 years
+  male: 17 years
+  female: 17.9 years (2010 est.)
+
+Saudi Arabia
+  total: 24.9 years
+  male: 26 years
+  female: 23.4 years (2010 est.)
+
+Senegal
+  total: 17.9 years
+  male: 17.1 years
+  female: 18.7 years (2010 est.)
+
+Serbia
+  total: 41.1 years
+  male: 39.4 years
+  female: 42.9 years (2010 est.)
+
+Seychelles
+  total: 32 years
+  male: 31.5 years
+  female: 32.5 years (2010 est.)
+
+Sierra Leone
+  total: 19 years
+  male: 18.6 years
+  female: 19.5 years (2010 est.)
+
+Singapore
+  total: 39.6 years
+  male: 39.1 years
+  female: 40 years (2010 est.)
+
+Slovakia
+  total: 37.3 years
+  male: 35.7 years
+  female: 38.9 years (2010 est.)
+
+Slovenia
+  total: 42.1 years
+  male: 40.4 years
+  female: 43.7 years (2010 est.)
+
+Solomon Islands
+  total: 20.6 years
+  male: 20.4 years
+  female: 20.8 years (2010 est.)
+
+Somalia
+  total: 17.6 years
+  male: 17.4 years
+  female: 17.7 years (2010 est.)
+
+South Africa
+  total: 24.7 years
+  male: 24.4 years
+  female: 25 years (2010 est.)
+
+Spain
+  total: 40.1 years
+  male: 38.9 years
+  female: 41.5 years (2010 est.)
+
+Sri Lanka
+  total: 31.3 years
+  male: 30.3 years
+  female: 32.2 years (2010 est.)
+
+Sudan
+  total: 18.4 years
+  male: 18 years
+  female: 18.8 years (2010 est.)
+
+Suriname
+  total: 28.3 years
+  male: 27.9 years
+  female: 28.7 years (2010 est.)
+
+Swaziland
+  total: 20.1 years
+  male: 19.7 years
+  female: 20.5 years (2010 est.)
+
+Sweden
+  total: 41.7 years
+  male: 40.6 years
+  female: 42.9 years (2010 est.)
+
+Switzerland
+  total: 41.3 years
+  male: 40.3 years
+  female: 42.4 years (2010 est.)
+
+Syria
+  total: 21.5 years
+  male: 21.3 years
+  female: 21.7 years (2010 est.)
+
+Taiwan
+  total: 37 years
+  male: 36.4 years
+  female: 37.7 years (2010 est.)
+
+Tajikistan
+  total: 22.2 years
+  male: 21.7 years
+  female: 22.7 years (2010 est.)
+
+Tanzania
+  total: 18.3 years
+  male: 18 years
+  female: 18.5 years (2010 est.)
+
+Thailand
+  total: 34 years
+  male: 33.2 years
+  female: 34.8 years (2010 est.)
+
+Timor-Leste
+  total: 22.2 years
+  male: 22.2 years
+  female: 22.2 years (2010 est.)
+
+Togo
+  total: 19.2 years
+  male: 18.9 years
+  female: 19.4 years (2010 est.)
+
+Tonga
+  total: 22.7 years
+  male: 22.3 years
+  female: 23.2 years (2010 est.)
+
+Trinidad and Tobago
+  total: 32.6 years
+  male: 32.1 years
+  female: 33.1 years (2010 est.)
+
+Tunisia
+  total: 29.7 years
+  male: 29.1 years
+  female: 30.3 years (2010 est.)
+
+Turkey
+  total: 28.1 years
+  male: 27.7 years
+  female: 28.4 years (2010 est.)
+
+Turkmenistan
+  total: 24.8 years
+  male: 24.4 years
+  female: 25.3 years (2010 est.)
+
+Turks and Caicos Islands
+  total: 28 years
+  male: 28.8 years
+  female: 27.3 years (2010 est.)
+
+Tuvalu
+  total: 23.9 years
+  male: 22.4 years
+  female: 26 years (2010 est.)
+
+Uganda
+  total: 15 years
+  male: 14.9 years
+  female: 15.1 years (2010 est.)
+
+Ukraine
+  total: 39.7 years
+  male: 36.5 years
+  female: 42.9 years (2010 est.)
+
+United Arab Emirates
+  total: 30.2 years
+  male: 32.1 years
+  female: 24.8 years (2010 est.)
+
+United Kingdom
+  total: 39.8 years
+  male: 38.6 years
+  female: 40.9 years (2010 est.)
+
+United States
+  total: 36.8 years
+  male: 35.5 years
+  female: 38.1 years (2010 est.)
+
+Uruguay
+  total: 33.7 years
+  male: 32.3 years
+  female: 35.1 years (2010 est.)
+
+Uzbekistan
+  total: 25.2 years
+  male: 24.7 years
+  female: 25.8 years (2010 est.)
+
+Vanuatu
+  total: 24.6 years
+  male: 24.5 years
+  female: 24.6 years (2010 est.)
+
+Venezuela
+  total: 25.8 years
+  male: 25.1 years
+  female: 26.5 years (2010 est.)
+
+Vietnam
+  total: 27.4 years
+  male: 26.4 years
+  female: 28.5 years (2010 est.)
+
+Virgin Islands
+  total: 39.8 years
+  male: 39.2 years
+  female: 40.2 years (2010 est.)
+
+Wallis and Futuna
+  total: 27.9 years
+  male: 26.8 years
+  female: 29.2 years (2010 est.)
+
+West Bank
+  total: 20.9 years
+  male: 20.7 years
+  female: 21.1 years (2010 est.)
+
+Western Sahara
+  total: 20.1 years
+  male: 19.7 years
+  female: 20.6 years (2010 est.)
+
+World
+  total: 28.4 years
+  male: 27.7 years
+  female: 29 years (2009 est.)
+
+Yemen
+  total: 17.9 years
+  male: 17.8 years
+  female: 18 years (2010 est.)
+
+Zambia
+  total: 16.5 years
+  male: 16.5 years
+  female: 16.6 years (2010 est.)
+
+Zimbabwe
+  total: 17.8 years
+  male: 16.7 years
+  female: 18.9 years (2010 est.)
+
+
+
+
+======================================================================
+
+
+
+
+

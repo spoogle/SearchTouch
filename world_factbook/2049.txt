@@ -1,0 +1,907 @@
+2049
+
+
+Field Listing :: Exports - commodities
+
+  This entry provides a listing of the highest-valued exported
+  products; it sometimes includes the percent of total dollar value.
+  Country
+
+
+  Exports - commodities(%)
+
+Afghanistan
+  opium, fruits and nuts, handwoven carpets, wool, cotton,
+  hides and pelts, precious and semi-precious gems
+
+Albania
+  textiles and footwear; asphalt, metals and metallic ores,
+  crude oil; vegetables, fruits, tobacco
+
+Algeria
+  petroleum, natural gas, and petroleum products 97%
+
+American Samoa
+  canned tuna 93%
+
+Andorra
+  tobacco products, furniture
+
+Angola
+  crude oil, diamonds, refined petroleum products, coffee,
+  sisal, fish and fish products, timber, cotton
+
+Anguilla
+  lobster, fish, livestock, salt, concrete blocks, rum
+
+Antigua and Barbuda
+  petroleum products, bedding, handicrafts,
+  electronic components, transport equipment, food and live animals
+
+Argentina
+  soybeans and derivatives, petroleum and gas, vehicles,
+  corn, wheat
+
+Armenia
+  pig iron, unwrought copper, nonferrous metals, diamonds,
+  mineral products, foodstuffs, energy
+
+Aruba
+  live animals and animal products, art and collectibles,
+  machinery and electrical equipment, transport equipment
+
+Australia
+  coal, iron ore, gold, meat, wool, alumina, wheat,
+  machinery and transport equipment
+
+Austria
+  machinery and equipment, motor vehicles and parts, paper and
+  paperboard, metal goods, chemicals, iron and steel, textiles,
+  foodstuffs
+
+Azerbaijan
+  oil and gas 90%, machinery, cotton, foodstuffs
+
+Bahamas, The
+  mineral products and salt, animal products, rum,
+  chemicals, fruit and vegetables
+
+Bahrain
+  petroleum and petroleum products, aluminum, textiles
+
+Bangladesh
+  garments, frozen fish and seafood, jute and jute goods,
+  leather
+
+Barbados
+  manufactures, sugar and molasses, rum, other foods and
+  beverages, chemicals, electrical components
+
+Belarus
+  machinery and equipment, mineral products, chemicals,
+  metals, textiles, foodstuffs
+
+Belgium
+  machinery and equipment, chemicals, finished diamonds,
+  metals and metal products, foodstuffs
+
+Belize
+  sugar, bananas, citrus, clothing, fish products, molasses,
+  wood, crude oil
+
+Benin
+  cotton, cashews, shea butter, textiles, palm products, seafood
+
+Bermuda
+  reexports of pharmaceuticals
+
+Bhutan
+  electricity (to India), ferrosilicon, cement, calcium
+  carbide, copper wire, manganese, vegetable oil
+
+Bolivia
+  natural gas, soybeans and soy products, crude petroleum,
+  zinc ore, tin
+
+Bosnia and Herzegovina
+  metals, clothing, wood products
+
+Botswana
+  diamonds, copper, nickel, soda ash, meat, textiles
+
+Brazil
+  transport equipment, iron ore, soybeans, footwear, coffee,
+  autos
+
+British Virgin Islands
+  rum, fresh fish, fruits, animals; gravel, sand
+
+Brunei
+  crude oil, natural gas, garments
+
+Bulgaria
+  clothing, footwear, iron and steel, machinery and
+  equipment, fuels
+
+Burkina Faso
+  cotton, livestock, gold
+
+Burma
+  natural gas, wood products, pulses, beans, fish, rice,
+  clothing, jade and gems
+
+Burundi
+  coffee, tea, sugar, cotton, hides
+
+Cambodia
+  clothing, timber, rubber, rice, fish, tobacco, footwear
+
+Cameroon
+  crude oil and petroleum products, lumber, cocoa beans,
+  aluminum, coffee, cotton
+
+Canada
+  motor vehicles and parts, industrial machinery, aircraft,
+  telecommunications equipment; chemicals, plastics, fertilizers; wood
+  pulp, timber, crude petroleum, natural gas, electricity, aluminum
+
+Cape Verde
+  fuel, shoes, garments, fish, hides
+
+Cayman Islands
+  turtle products, manufactured consumer goods
+
+Central African Republic
+  diamonds, timber, cotton, coffee, tobacco
+
+Chad
+  oil, cattle, cotton, gum arabic
+
+Chile
+  copper, fruit, fish products, paper and pulp, chemicals, wine
+
+China
+  electrical and other machinery, including data processing
+  equipment, apparel, textiles, iron and steel, optical and medical
+  equipment
+
+Christmas Island
+  phosphate
+
+Cocos (Keeling) Islands
+  copra
+
+Colombia
+  petroleum, coffee, coal, nickel, emeralds, apparel,
+  bananas, cut flowers
+
+Comoros
+  vanilla, ylang-ylang (perfume essence), cloves, copra
+
+Congo, Democratic Republic of the
+  diamonds, gold, copper, cobalt,
+  wood products, crude oil, coffee
+
+Congo, Republic of the
+  petroleum, lumber, plywood, sugar, cocoa,
+  coffee, diamonds
+
+Cook Islands
+  copra, papayas, fresh and canned citrus fruit, coffee;
+  fish; pearls and pearl shells; clothing
+
+Costa Rica
+  bananas, pineapples, coffee, melons, ornamental plants,
+  sugar; beef; seafood; electronic components, medical equipment
+
+Cote d'Ivoire
+  cocoa, coffee, timber, petroleum, cotton, bananas,
+  pineapples, palm oil, fish
+
+Croatia
+  transport equipment, machinery, textiles, chemicals,
+  foodstuffs, fuels
+
+Cuba
+  sugar, nickel, tobacco, fish, medical products, citrus, coffee
+
+Curacao
+  petroleum products
+
+Cyprus
+  citrus, potatoes, pharmaceuticals, cement, clothing
+
+Czech Republic
+  machinery and transport equipment, raw materials and
+  fuel, chemicals
+
+Denmark
+  machinery and instruments, meat and meat products, dairy
+  products, fish, pharmaceuticals, furniture, windmills
+
+Djibouti
+  reexports, hides and skins, coffee (in transit)
+
+Dominica
+  bananas, soap, bay oil, vegetables, grapefruit, oranges
+
+Dominican Republic
+  ferronickel, sugar, gold, silver, coffee, cocoa,
+  tobacco, meats, consumer goods
+
+Ecuador
+  petroleum, bananas, cut flowers, shrimp, cacao, coffee,
+  hemp, wood, fish
+
+Egypt
+  crude oil and petroleum products, cotton, textiles, metal
+  products, chemicals, processed food
+
+El Salvador
+  offshore assembly exports, coffee, sugar, textiles and
+  apparel, gold, ethanol, chemicals, electricity, iron and steel
+  manufactures
+
+Equatorial Guinea
+  petroleum, methanol, timber, cocoa
+
+Eritrea
+  livestock, sorghum, textiles, food, small manufactures
+
+Estonia
+  machinery and equipment 29%, wood and paper 13%, metals 10%,
+  food products 8%, textiles 5%, chemical products
+
+Ethiopia
+  coffee, qat, gold, leather products, live animals, oilseeds
+
+European Union
+  machinery, motor vehicles, aircraft, plastics,
+  pharmaceuticals and other chemicals, fuels, iron and steel,
+  nonferrous metals, wood pulp and paper products, textiles, meat,
+  dairy products, fish, alcoholic beverages.
+
+Falkland Islands (Islas Malvinas)
+  wool, hides, meat, fish, squid
+
+Faroe Islands
+  fish and fish products 94%, stamps, ships
+
+Fiji
+  sugar, garments, gold, timber, fish, molasses, coconut oil
+
+Finland
+  electrical and optical equipment, machinery, transport
+  equipment, paper and pulp, chemicals, basic metals; timber
+
+France
+  machinery and transportation equipment, aircraft, plastics,
+  chemicals, pharmaceutical products, iron and steel, beverages
+
+French Polynesia
+  cultured pearls, coconut products, mother-of-pearl,
+  vanilla, shark meat
+
+Gabon
+  crude oil 70%, timber, manganese, uranium
+
+Gambia, The
+  peanut products, fish, cotton lint, palm kernels,
+  re-exports
+
+Gaza Strip
+  strawberries, carnations
+
+Georgia
+  scrap metal, wine, mineral water, ores, vehicles, fruits and
+  nuts
+
+Germany
+  machinery, vehicles, chemicals, metals and manufactures,
+  foodstuffs, textiles
+
+Ghana
+  gold, cocoa, timber, tuna, bauxite, aluminum, manganese ore,
+  diamonds, horticulture
+
+Gibraltar
+  (principally reexports) petroleum 51%, manufactured goods
+
+Greece
+  food and beverages, manufactured goods, petroleum products,
+  chemicals, textiles
+
+Greenland
+  fish and fish products 72%, metals 10% (2008)
+
+Grenada
+  bananas, cocoa, nutmeg, fruit and vegetables, clothing, mace
+
+Guam
+  transshipments of refined petroleum products, construction
+  materials, fish, food and beverage products
+
+Guatemala
+  coffee, sugar, petroleum, apparel, bananas, fruits and
+  vegetables, cardamom
+
+Guernsey
+  tomatoes, flowers and ferns, sweet peppers, eggplant, other
+  vegetables
+
+Guinea
+  bauxite, alumina, gold, diamonds, coffee, fish, agricultural
+  products
+
+Guinea-Bissau
+  fish, shrimp; cashew nuts, peanuts, palm kernels, sawn
+  lumber
+
+Guyana
+  sugar, gold, bauxite, alumina, rice, shrimp, molasses, rum,
+  timber
+
+Haiti
+  apparel, manufactures, oils, cocoa, mangoes, coffee
+
+Honduras
+  apparel, coffee, shrimp, wire harnessing, cigars, bananas,
+  gold, palm oil, fruit, lobster, lumber
+
+Hong Kong
+  electrical machinery and appliances, textiles, apparel,
+  footwear, watches and clocks, toys, plastics, precious stones,
+  printed material
+
+Hungary
+  machinery and equipment 61.1%, other manufactures 28.7%,
+  food products 6.5%, raw materials 2%, fuels and electricity 1.6%
+  (2009 est.)
+
+Iceland
+  fish and fish products 40%, aluminum, animal products,
+  ferrosilicon, diatomite
+
+India
+  petroleum products, precious stones, machinery, iron and
+  steel, chemicals, vehicles, apparel
+
+Indonesia
+  oil and gas, electrical appliances, plywood, textiles,
+  rubber
+
+Iran
+  petroleum 80%, chemical and petrochemical products, fruits and
+  nuts, carpets
+
+Iraq
+  crude oil 84%, crude materials excluding fuels, food and live
+  animals
+
+Ireland
+  machinery and equipment, computers, chemicals,
+  pharmaceuticals; live animals, animal products
+
+Isle of Man
+  tweeds, herring, processed shellfish, beef, lamb
+
+Israel
+  machinery and equipment, software, cut diamonds, agricultural
+  products, chemicals, textiles and apparel
+
+Italy
+  engineering products, textiles and clothing, production
+  machinery, motor vehicles, transport equipment, chemicals; food,
+  beverages and tobacco; minerals, and nonferrous metals
+
+Jamaica
+  alumina, bauxite, sugar, rum, coffee, yams, beverages,
+  chemicals, wearing apparel, mineral fuels
+
+Japan
+  transport equipment, motor vehicles, semiconductors,
+  electrical machinery, chemicals
+
+Jersey
+  light industrial and electrical goods, dairy cattle,
+  foodstuffs, textiles, flowers
+
+Jordan
+  clothing, fertilizers, potash, phosphates, vegetables,
+  pharmaceuticals
+
+Kazakhstan
+  oil and oil products 59%, ferrous metals 19%, chemicals
+  5%, machinery 3%, grain, wool, meat, coal
+
+Kenya
+  tea, horticultural products, coffee, petroleum products, fish,
+  cement
+
+Kiribati
+  copra 62%, coconuts, seaweed, fish
+
+Korea, North
+  minerals, metallurgical products, manufactures
+  (including armaments), textiles, agricultural and fishery products
+
+Korea, South
+  semiconductors, wireless telecommunications equipment,
+  motor vehicles, computers, steel, ships, petrochemicals
+
+Kosovo
+  mining and processed metal products, scrap metals, leather
+  products, machinery, appliances
+
+Kuwait
+  oil and refined products, fertilizers
+
+Kyrgyzstan
+  cotton, wool, meat, tobacco; gold, mercury, uranium,
+  natural gas, hydropower; machinery; shoes
+
+Laos
+  wood products, coffee, electricity, tin, copper, gold
+
+Latvia
+  wood and wood products, machinery and equipment, metals,
+  textiles, foodstuffs
+
+Lebanon
+  jewelry, base metals, chemicals, miscellaneous consumer
+  goods, fruit and vegetables, tobacco, construction minerals,
+  electric power machinery and switchgear, textile fibers, paper
+
+Lesotho
+  manufactures 75% (clothing, footwear, road vehicles), wool
+  and mohair, food and live animals
+
+Liberia
+  rubber, timber, iron, diamonds, cocoa, coffee
+
+Libya
+  crude oil, refined petroleum products, natural gas, chemicals
+
+Liechtenstein
+  small specialty machinery, connectors for audio and
+  video, parts for motor vehicles, dental products, hardware, prepared
+  foodstuffs, electronic equipment, optical products
+
+Lithuania
+  mineral products 22%, machinery and equipment 10%,
+  chemicals 9%, textiles 7%, foodstuffs 7%, plastics 7%
+
+Luxembourg
+  machinery and equipment, steel products, chemicals,
+  rubber products, glass
+
+Macau
+  clothing, textiles, footwear, toys, electronics, machinery and
+  parts
+
+Macedonia
+  food, beverages, tobacco; textiles, miscellaneous
+  manufactures, iron and steel
+
+Madagascar
+  coffee, vanilla, shellfish, sugar, cotton cloth,
+  chromite, petroleum products
+
+Malawi
+  tobacco 53%, tea, sugar, cotton, coffee, peanuts, wood
+  products, apparel
+
+Malaysia
+  electronic equipment, petroleum and liquefied natural gas,
+  wood and wood products, palm oil, rubber, textiles, chemicals
+
+Maldives
+  fish
+
+Mali
+  cotton, gold, livestock
+
+Malta
+  electrical machinery, mechanical appliances, fish and
+  crustaceans, pharmaceutical products, printed material
+
+Marshall Islands
+  copra cake, coconut oil, handicrafts, fish
+
+Mauritania
+  iron ore, fish and fish products, gold, copper, petroleum
+
+Mauritius
+  clothing and textiles, sugar, cut flowers, molasses, fish
+
+Mayotte
+  ylang-ylang (perfume essence), vanilla, copra, coconuts,
+  coffee, cinnamon
+
+Mexico
+  manufactured goods, oil and oil products, silver, fruits,
+  vegetables, coffee, cotton
+
+Micronesia, Federated States of
+  fish, garments, bananas, black
+  pepper, sakau (kava), betel nut
+
+Moldova
+  foodstuffs, textiles, machinery
+
+Mongolia
+  copper, apparel, livestock, animal products, cashmere,
+  wool, hides, fluorspar, other nonferrous metals, coal
+
+Montserrat
+  electronic components, plastic bags, apparel; hot
+  peppers, limes, live plants; cattle
+
+Morocco
+  clothing and textiles, electric components, inorganic
+  chemicals, transistors, crude minerals, fertilizers (including
+  phosphates), petroleum products, citrus fruits, vegetables, fish
+
+Mozambique
+  aluminum, prawns, cashews, cotton, sugar, citrus, timber;
+  bulk electricity
+
+Namibia
+  diamonds, copper, gold, zinc, lead, uranium; cattle,
+  processed fish, karakul skins
+
+Nauru
+  phosphates
+
+Nepal
+  clothing, pulses, carpets, textiles, juice, pashima, jute goods
+
+Netherlands
+  machinery and equipment, chemicals, fuels; foodstuffs
+
+New Caledonia
+  ferronickels, nickel ore, fish
+
+New Zealand
+  dairy products, meat, wood and wood products, fish,
+  machinery
+
+Nicaragua
+  coffee, beef, shrimp and lobster, tobacco, sugar, gold,
+  peanuts; textiles and apparel
+
+Niger
+  uranium ore, livestock, cowpeas, onions
+
+Nigeria
+  petroleum and petroleum products 95%, cocoa, rubber
+
+Niue
+  canned coconut cream, copra, honey, vanilla, passion fruit
+  products, pawpaws, root crops, limes, footballs, stamps, handicrafts
+
+Norfolk Island
+  postage stamps, seeds of the Norfolk Island pine and
+  Kentia palm, small quantities of avocados
+
+Northern Mariana Islands
+  garments
+
+Norway
+  petroleum and petroleum products, machinery and equipment,
+  metals, chemicals, ships, fish
+
+Oman
+  petroleum, reexports, fish, metals, textiles
+
+Pakistan
+  textiles (garments, bed linen, cotton cloth, yarn), rice,
+  leather goods, sports goods, chemicals, manufactures, carpets and
+  rugs
+
+Palau
+  shellfish, tuna, copra, garments
+
+Panama
+  bananas, shrimp, sugar, coffee, clothing
+
+Papua New Guinea
+  oil, gold, copper ore, logs, palm oil, coffee,
+  cocoa, crayfish, prawns
+
+Paraguay
+  soybeans, feed, cotton, meat, edible oils, electricity,
+  wood, leather
+
+Peru
+  copper, gold, zinc, crude petroleum and petroleum products,
+  coffee, potatoes, asparagus, textiles, fishmeal
+
+Philippines
+  semiconductors and electronic products, transport
+  equipment, garments, copper products, petroleum products, coconut
+  oil, fruits
+
+Pitcairn Islands
+  fruits, vegetables, curios, stamps
+
+Poland
+  machinery and transport equipment 37.8%, intermediate
+  manufactured goods 23.7%, miscellaneous manufactured goods 17.1%,
+  food and live animals 7.6%
+
+Portugal
+  agricultural products, food products, oil products,
+  chemical products, plastics and rubber, skins and leather, wood and
+  cork, wood pulp and paper, textile materials, clothing, footwear,
+  minerals and mineral products, base metals, machinery and tools,
+  vehicles and other transport material, and optical and precision
+  instruments
+
+Puerto Rico
+  chemicals, electronics, apparel, canned tuna, rum,
+  beverage concentrates, medical equipment
+
+Qatar
+  liquefied natural gas (LNG), petroleum products, fertilizers,
+  steel
+
+Romania
+  machinery and equipment, textiles and footwear, metals and
+  metal products, machinery and equipment, minerals and fuels,
+  chemicals, agricultural products
+
+Russia
+  petroleum and petroleum products, natural gas, metals, wood
+  and wood products, chemicals, and a wide variety of civilian and
+  military manufactures
+
+Rwanda
+  coffee, tea, hides, tin ore
+
+Saint Helena, Ascension, and Tristan da Cunha
+  fish (frozen, canned,
+  and salt-dried skipjack, tuna), coffee, handicrafts
+
+Saint Kitts and Nevis
+  machinery, food, electronics, beverages,
+  tobacco
+
+Saint Lucia
+  bananas 41%, clothing, cocoa, vegetables, fruits,
+  coconut oil
+
+Saint Pierre and Miquelon
+  fish and fish products, soybeans, animal
+  feed, mollusks and crustaceans, fox and mink pelts
+
+Saint Vincent and the Grenadines
+  bananas, eddoes and dasheen (taro),
+  arrowroot starch; tennis racquets
+
+Samoa
+  fish, coconut oil and cream, copra, taro, automotive parts,
+  garments, beer
+
+San Marino
+  building stone, lime, wood, chestnuts, wheat, wine, baked
+  goods, hides, ceramics
+
+Sao Tome and Principe
+  cocoa 80%, copra, coffee, palm oil
+
+Saudi Arabia
+  petroleum and petroleum products 90%
+
+Senegal
+  fish, groundnuts (peanuts), petroleum products, phosphates,
+  cotton
+
+Serbia
+  iron and steel, clothes, wheat, fruit and vegetables,
+  non-ferrous metals
+
+Seychelles
+  canned tuna, frozen fish, cinnamon bark, copra, petroleum
+  products (reexports)
+
+Sierra Leone
+  diamonds, rutile, cocoa, coffee, fish
+
+Singapore
+  machinery and equipment (including electronics), consumer
+  goods, pharmaceuticals and other chemicals, mineral fuels
+
+Sint Maarten
+  sugar
+
+Slovakia
+  machinery and electrical equipment 35.9%, vehicles 21%,
+  base metals 11.3%, chemicals and minerals 8.1%, plastics 4.9% (2009
+  est.)
+
+Slovenia
+  manufactured goods, machinery and transport equipment,
+  chemicals, food
+
+Solomon Islands
+  timber, fish, copra, palm oil, cocoa
+
+Somalia
+  livestock, bananas, hides, fish, charcoal, scrap metal
+
+South Africa
+  gold, diamonds, platinum, other metals and minerals,
+  machinery and equipment
+
+Spain
+  machinery, motor vehicles; foodstuffs, pharmaceuticals,
+  medicines, other consumer goods
+
+Sri Lanka
+  textiles and apparel, tea and spices; rubber manufactures;
+  precious stones; coconut products, fish
+
+Sudan
+  oil and petroleum products; cotton, sesame, livestock,
+  groundnuts, gum arabic, sugar
+
+Suriname
+  alumina, gold, crude oil, lumber, shrimp and fish, rice,
+  bananas
+
+Swaziland
+  soft drink concentrates, sugar, wood pulp, cotton yarn,
+  refrigerators, citrus and canned fruit
+
+Sweden
+  machinery 35%, motor vehicles, paper products, pulp and wood,
+  iron and steel products, chemicals
+
+Switzerland
+  machinery, chemicals, metals, watches, agricultural
+  products
+
+Syria
+  crude oil, minerals, petroleum products, fruits and
+  vegetables, cotton fiber, textiles, clothing, meat and live animals,
+  wheat
+
+Taiwan
+  electronics, flat panels, machinery; metals; textiles,
+  plastics, chemicals; optical, photographic, measuring, and medical
+  instruments
+
+Tajikistan
+  aluminum, electricity, cotton, fruits, vegetable oil,
+  textiles
+
+Tanzania
+  gold, coffee, cashew nuts, manufactures, cotton
+
+Thailand
+  textiles and footwear, fishery products, rice, rubber,
+  jewelry, automobiles, computers and electrical appliances
+
+Timor-Leste
+  coffee, sandalwood, marble; note - potential for oil and
+  vanilla exports
+
+Togo
+  reexports, cotton, phosphates, coffee, cocoa
+
+Tokelau
+  stamps, copra, handicrafts
+
+Tonga
+  squash, fish, vanilla beans, root crops
+
+Trinidad and Tobago
+  petroleum and petroleum products, liquefied
+  natural gas (LNG), methanol, ammonia, urea, steel products,
+  beverages, cereal and cereal products, sugar, cocoa, coffee, citrus
+  fruit, vegetables, flowers
+
+Tunisia
+  clothing, semi-finished goods and textiles, agricultural
+  products, mechanical goods, phosphates and chemicals, hydrocarbons,
+  electrical equipment
+
+Turkey
+  apparel, foodstuffs, textiles, metal manufactures, transport
+  equipment
+
+Turkmenistan
+  gas, crude oil, petrochemicals, textiles, cotton fiber
+
+Turks and Caicos Islands
+  lobster, dried and fresh conch, conch shells
+
+Tuvalu
+  copra, fish
+
+Uganda
+  coffee, fish and fish products, tea, cotton, flowers,
+  horticultural products; gold
+
+Ukraine
+  ferrous and nonferrous metals, fuel and petroleum products,
+  chemicals, machinery and transport equipment, food products
+
+United Arab Emirates
+  crude oil 45%, natural gas, reexports, dried
+  fish, dates
+
+United Kingdom
+  manufactured goods, fuels, chemicals; food,
+  beverages, tobacco
+
+United States
+  agricultural products (soybeans, fruit, corn) 9.2%,
+  industrial supplies (organic chemicals) 26.8%, capital goods
+  (transistors, aircraft, motor vehicle parts, computers,
+  telecommunications equipment) 49.0%, consumer goods (automobiles,
+  medicines) 15.0%
+
+Uruguay
+  meat, rice, leather products, wool, fish, dairy products
+
+Uzbekistan
+  energy products, cotton, gold, mineral fertilizers,
+  ferrous and non-ferrous metals, textiles, food products, machinery,
+  automobiles
+
+Vanuatu
+  copra, beef, cocoa, timber, kava, coffee
+
+Venezuela
+  petroleum, bauxite and aluminum, minerals, chemicals,
+  agricultural products, basic manufactures
+
+Vietnam
+  crude oil, marine products, rice, coffee, rubber, tea,
+  garments, shoes
+
+Virgin Islands
+  refined petroleum products
+
+Wallis and Futuna
+  copra, chemicals, construction materials
+
+West Bank
+  stone, olives, fruit, vegetables, limestone
+
+Western Sahara
+  phosphates 62%
+
+World
+  the whole range of industrial and agricultural goods and
+  services
+  top ten - share of world trade: electrical machinery, including
+  computers 14.8%; mineral fuels, including oil, coal, gas, and
+  refined products 14.4%; nuclear reactors, boilers, and parts 14.2%;
+  cars, trucks, and buses 8.9%; scientific and precision instruments
+  3.5%; plastics 3.4%; iron and steel 2.7%; organic chemicals 2.6%;
+  pharmaceutical products 2.6%; diamonds, pearls, and precious stones
+  1.9%
+
+Yemen
+  crude oil, coffee, dried and salted fish, liquefied natural gas
+
+Zambia
+  copper/cobalt 64%, cobalt, electricity; tobacco, flowers,
+  cotton
+
+Zimbabwe
+  platinum, cotton, tobacco, gold, ferroalloys,
+  textiles/clothing
+
+
+
+
+======================================================================
+
+
+
+
+

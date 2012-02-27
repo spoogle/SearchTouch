@@ -1,0 +1,1105 @@
+2096
+
+
+Field Listing :: Land boundaries
+
+  This entry contains the total length of all land boundaries and the
+  individual lengths for each of the contiguous border countries. When
+  available, official lengths published by national statistical
+  agencies are used. Because surveying methods may differ, country
+  border lengths reported by contiguous countries may differ.
+  Country
+
+
+  Land boundaries(km)
+
+Afghanistan
+  total: 5,529 km
+  border countries: China 76 km, Iran 936 km, Pakistan 2,430 km,
+  Tajikistan 1,206 km, Turkmenistan 744 km, Uzbekistan 137 km
+
+Akrotiri
+  total: 47.4 km
+  border countries: Cyprus 47.4 km
+
+Albania
+  total: 717 km
+  border countries: Greece 282 km, Macedonia 151 km, Montenegro 172
+  km, Kosovo 112 km
+
+Algeria
+  total: 6,343 km
+  border countries: Libya 982 km, Mali 1,376 km, Mauritania 463 km,
+  Morocco 1,559 km, Niger 956 km, Tunisia 965 km, Western Sahara 42 km
+
+American Samoa
+  0 km
+
+Andorra
+  total: 120.3 km
+  border countries: France 56.6 km, Spain 63.7 km
+
+Angola
+  total: 5,198 km
+  border countries: Democratic Republic of the Congo 2,511 km (of
+  which 225 km is the boundary of discontiguous Cabinda Province),
+  Republic of the Congo 201 km, Namibia 1,376 km, Zambia 1,110 km
+
+Anguilla
+  0 km
+
+Antarctica
+  0 km
+  note: see entry on Disputes - international
+
+Antigua and Barbuda
+  0 km
+
+Argentina
+  total: 9,861 km
+  border countries: Bolivia 832 km, Brazil 1,261 km, Chile 5,308 km,
+  Paraguay 1,880 km, Uruguay 580 km
+
+Armenia
+  total: 1,254 km
+  border countries: Azerbaijan-proper 566 km, Azerbaijan-Naxcivan
+  exclave 221 km, Georgia 164 km, Iran 35 km, Turkey 268 km
+
+Aruba
+  0 km
+
+Ashmore and Cartier Islands
+  0 km
+
+Australia
+  0 km
+
+Austria
+  total: 2,562 km
+  border countries: Czech Republic 362 km, Germany 784 km, Hungary 366
+  km, Italy 430 km, Liechtenstein 35 km, Slovakia 91 km, Slovenia 330
+  km, Switzerland 164 km
+
+Azerbaijan
+  total: 2,013 km
+  border countries: Armenia (with Azerbaijan-proper) 566 km, Armenia
+  (with Azerbaijan-Naxcivan exclave) 221 km, Georgia 322 km, Iran
+  (with Azerbaijan-proper) 432 km, Iran (with Azerbaijan-Naxcivan
+  exclave) 179 km, Russia 284 km, Turkey 9 km
+
+Bahamas, The
+  0 km
+
+Bahrain
+  0 km
+
+Bangladesh
+  total: 4,246 km
+  border countries: Burma 193 km, India 4,053 km
+
+Barbados
+  0 km
+
+Belarus
+  total: 3,306 km
+  border countries: Latvia 171 km, Lithuania 680 km, Poland 605 km,
+  Russia 959 km, Ukraine 891 km
+
+Belgium
+  total: 1,385 km
+  border countries: France 620 km, Germany 167 km, Luxembourg 148 km,
+  Netherlands 450 km
+
+Belize
+  total: 516 km
+  border countries: Guatemala 266 km, Mexico 250 km
+
+Benin
+  total: 1,989 km
+  border countries: Burkina Faso 306 km, Niger 266 km, Nigeria 773 km,
+  Togo 644 km
+
+Bermuda
+  0 km
+
+Bhutan
+  total: 1,075 km
+  border countries: China 470 km, India 605 km
+
+Bolivia
+  total: 6,940 km
+  border countries: Argentina 832 km, Brazil 3,423 km, Chile 860 km,
+  Paraguay 750 km, Peru 1,075 km
+
+Bosnia and Herzegovina
+  total: 1,538 km
+  border countries: Croatia 932 km, Montenegro 249 km, Serbia 357 km
+
+Botswana
+  total: 4,013 km
+  border countries: Namibia 1,360 km, South Africa 1,840 km, Zimbabwe
+  813 km
+
+Bouvet Island
+  0 km
+
+Brazil
+  total: 16,885 km
+  border countries: Argentina 1,261 km, Bolivia 3,423 km, Colombia
+  1,644 km, French Guiana 730 km, Guyana 1,606 km, Paraguay 1,365 km,
+  Peru 2,995 km, Suriname 593 km, Uruguay 1,068 km, Venezuela 2,200 km
+
+British Indian Ocean Territory
+  0 km
+
+British Virgin Islands
+  0 km
+
+Brunei
+  total: 381 km
+  border countries: Malaysia 381 km
+
+Bulgaria
+  total: 1,808 km
+  border countries: Greece 494 km, Macedonia 148 km, Romania 608 km,
+  Serbia 318 km, Turkey 240 km
+
+Burkina Faso
+  total: 3,193 km
+  border countries: Benin 306 km, Cote d'Ivoire 584 km, Ghana 549 km,
+  Mali 1,000 km, Niger 628 km, Togo 126 km
+
+Burma
+  total: 5,876 km
+  border countries: Bangladesh 193 km, China 2,185 km, India 1,463 km,
+  Laos 235 km, Thailand 1,800 km
+
+Burundi
+  total: 974 km
+  border countries: Democratic Republic of the Congo 233 km, Rwanda
+  290 km, Tanzania 451 km
+
+Cambodia
+  total: 2,572 km
+  border countries: Laos 541 km, Thailand 803 km, Vietnam 1,228 km
+
+Cameroon
+  total: 4,591 km
+  border countries: Central African Republic 797 km, Chad 1,094 km,
+  Republic of the Congo 523 km, Equatorial Guinea 189 km, Gabon 298
+  km, Nigeria 1,690 km
+
+Canada
+  total: 8,893 km
+  border countries: US 8,893 km (includes 2,477 km with Alaska)
+
+Cape Verde
+  0 km
+
+Cayman Islands
+  0 km
+
+Central African Republic
+  total: 5,203 km
+  border countries: Cameroon 797 km, Chad 1,197 km, Democratic
+  Republic of the Congo 1,577 km, Republic of the Congo 467 km, Sudan
+  1,165 km
+
+Chad
+  total: 5,968 km
+  border countries: Cameroon 1,094 km, Central African Republic 1,197
+  km, Libya 1,055 km, Niger 1,175 km, Nigeria 87 km, Sudan 1,360 km
+
+Chile
+  total: 6,339 km
+  border countries: Argentina 5,308 km, Bolivia 860 km, Peru 171 km
+
+China
+  total: 22,117 km
+  border countries: Afghanistan 76 km, Bhutan 470 km, Burma 2,185 km,
+  India 3,380 km, Kazakhstan 1,533 km, North Korea 1,416 km,
+  Kyrgyzstan 858 km, Laos 423 km, Mongolia 4,677 km, Nepal 1,236 km,
+  Pakistan 523 km, Russia (northeast) 3,605 km, Russia (northwest) 40
+  km, Tajikistan 414 km, Vietnam 1,281 km
+  regional borders: Hong Kong 30 km, Macau 0.34 km
+
+Christmas Island
+  0 km
+
+Clipperton Island
+  0 km
+
+Cocos (Keeling) Islands
+  0 km
+
+Colombia
+  total: 6,309 km
+  border countries: Brazil 1,644 km, Ecuador 590 km, Panama 225 km,
+  Peru 1,800 km, Venezuela 2,050 km
+
+Comoros
+  0 km
+
+Congo, Democratic Republic of the
+  total: 10,730 km
+  border countries: Angola 2,511 km (of which 225 km is the boundary
+  of Angola's discontiguous Cabinda Province), Burundi 233 km, Central
+  African Republic 1,577 km, Republic of the Congo 2,410 km, Rwanda
+  217 km, Sudan 628 km, Tanzania 459 km, Uganda 765 km, Zambia 1,930 km
+
+Congo, Republic of the
+  total: 5,504 km
+  border countries: Angola 201 km, Cameroon 523 km, Central African
+  Republic 467 km, Democratic Republic of the Congo 2,410 km, Gabon
+  1,903 km
+
+Cook Islands
+  0 km
+
+Coral Sea Islands
+  0 km
+
+Costa Rica
+  total: 639 km
+  border countries: Nicaragua 309 km, Panama 330 km
+
+Cote d'Ivoire
+  total: 3,110 km
+  border countries: Burkina Faso 584 km, Ghana 668 km, Guinea 610 km,
+  Liberia 716 km, Mali 532 km
+
+Croatia
+  total: 1,982 km
+  border countries: Bosnia and Herzegovina 932 km, Hungary 329 km,
+  Serbia 241 km, Montenegro 25 km, Slovenia 455 km
+
+Cuba
+  total: 29 km
+  border countries: US Naval Base at Guantanamo Bay 29 km
+  note: Guantanamo Naval Base is leased by the US and remains part of
+  Cuba
+
+Curacao
+  none
+
+Cyprus
+  total: 150.4 km (approximately)
+  border sovereign base areas: Akrotiri 47.4 km, Dhekelia 103 km
+  (approximately)
+
+Czech Republic
+  total: 1,989 km
+  border countries: Austria 362 km, Germany 815 km, Poland 615 km,
+  Slovakia 197 km
+
+Denmark
+  total: 68 km
+  border countries: Germany 68 km
+
+Dhekelia
+  total: 103 km (approximately)
+  border countries: Cyprus 103 km (approximately)
+
+Djibouti
+  total: 516 km
+  border countries: Eritrea 109 km, Ethiopia 349 km, Somalia 58 km
+
+Dominica
+  0 km
+
+Dominican Republic
+  total: 360 km
+  border countries: Haiti 360 km
+
+Ecuador
+  total: 2,010 km
+  border countries: Colombia 590 km, Peru 1,420 km
+
+Egypt
+  total: 2,665 km
+  border countries: Gaza Strip 11 km, Israel 266 km, Libya 1,115 km,
+  Sudan 1,273 km
+
+El Salvador
+  total: 545 km
+  border countries: Guatemala 203 km, Honduras 342 km
+
+Equatorial Guinea
+  total: 539 km
+  border countries: Cameroon 189 km, Gabon 350 km
+
+Eritrea
+  total: 1,626 km
+  border countries: Djibouti 109 km, Ethiopia 912 km, Sudan 605 km
+
+Estonia
+  total: 633 km
+  border countries: Latvia 343 km, Russia 290 km
+
+Ethiopia
+  total: 5,328 km
+  border countries: Djibouti 349 km, Eritrea 912 km, Kenya 861 km,
+  Somalia 1,600 km, Sudan 1,606 km
+
+European Union
+  total: 12,440.8 km
+  border countries: Albania 282 km, Andorra 120.3 km, Belarus 1,050
+  km, Croatia 999 km, Holy See 3.2 km, Liechtenstein 34.9 km,
+  Macedonia 394 km, Moldova 450 km, Monaco 4.4 km, Norway 2,348 km,
+  Russia 2,257 km, San Marino 39 km, Serbia 945 km, Switzerland 1,811
+  km, Turkey 446 km, Ukraine 1,257 km
+  note: data for European Continent only
+
+Falkland Islands (Islas Malvinas)
+  0 km
+
+Faroe Islands
+  0 km
+
+Fiji
+  0 km
+
+Finland
+  total: 2,654 km
+  border countries: Norway 727 km, Sweden 614 km, Russia 1,313 km
+
+France
+  metropolitan France - total: 2,889 km
+  border countries: Andorra 56.6 km, Belgium 620 km, Germany 451 km,
+  Italy 488 km, Luxembourg 73 km, Monaco 4.4 km, Spain 623 km,
+  Switzerland 573 km
+  French Guiana - total: 1,183 km
+  border countries: Brazil 673 km, Suriname 510 km
+
+French Polynesia
+  0 km
+
+French Southern and Antarctic Lands
+  0 km
+
+Gabon
+  total: 2,551 km
+  border countries: Cameroon 298 km, Republic of the Congo 1,903 km,
+  Equatorial Guinea 350 km
+
+Gambia, The
+  total: 740 km
+  border countries: Senegal 740 km
+
+Gaza Strip
+  total: 62 km
+  border countries: Egypt 11 km, Israel 51 km
+
+Georgia
+  total: 1,461 km
+  border countries: Armenia 164 km, Azerbaijan 322 km, Russia 723 km,
+  Turkey 252 km
+
+Germany
+  total: 3,621 km
+  border countries: Austria 784 km, Belgium 167 km, Czech Republic 646
+  km, Denmark 68 km, France 451 km, Luxembourg 138 km, Netherlands 577
+  km, Poland 456 km, Switzerland 334 km
+
+Ghana
+  total: 2,094 km
+  border countries: Burkina Faso 549 km, Cote d'Ivoire 668 km, Togo
+  877 km
+
+Gibraltar
+  total: 1.2 km
+  border countries: Spain 1.2 km
+
+Greece
+  total: 1,228 km
+  border countries: Albania 282 km, Bulgaria 494 km, Turkey 206 km,
+  Macedonia 246 km
+
+Greenland
+  0 km
+
+Grenada
+  0 km
+
+Guam
+  0 km
+
+Guatemala
+  total: 1,687 km
+  border countries: Belize 266 km, El Salvador 203 km, Honduras 256
+  km, Mexico 962 km
+
+Guernsey
+  0 km
+
+Guinea
+  total: 3,399 km
+  border countries: Cote d'Ivoire 610 km, Guinea-Bissau 386 km,
+  Liberia 563 km, Mali 858 km, Senegal 330 km, Sierra Leone 652 km
+
+Guinea-Bissau
+  total: 724 km
+  border countries: Guinea 386 km, Senegal 338 km
+
+Guyana
+  total: 2,949 km
+  border countries: Brazil 1,606 km, Suriname 600 km, Venezuela 743 km
+
+Haiti
+  total: 360 km
+  border countries: Dominican Republic 360 km
+
+Heard Island and McDonald Islands
+  0 km
+
+Holy See (Vatican City)
+  total: 3.2 km
+  border countries: Italy 3.2 km
+
+Honduras
+  total: 1,520 km
+  border countries: Guatemala 256 km, El Salvador 342 km, Nicaragua
+  922 km
+
+Hong Kong
+  total: 30 km
+  regional border: China 30 km
+
+Hungary
+  total: 2,185 km
+  border countries: Austria 366 km, Croatia 329 km, Romania 443 km,
+  Serbia 166 km, Slovakia 676 km, Slovenia 102 km, Ukraine 103 km
+
+Iceland
+  0 km
+
+India
+  total: 14,103 km
+  border countries: Bangladesh 4,053 km, Bhutan 605 km, Burma 1,463
+  km, China 3,380 km, Nepal 1,690 km, Pakistan 2,912 km
+
+Indonesia
+  total: 2,830 km
+  border countries: Timor-Leste 228 km, Malaysia 1,782 km, Papua New
+  Guinea 820 km
+
+Iran
+  total: 5,440 km
+  border countries: Afghanistan 936 km, Armenia 35 km,
+  Azerbaijan-proper 432 km, Azerbaijan-Naxcivan exclave 179 km, Iraq
+  1,458 km, Pakistan 909 km, Turkey 499 km, Turkmenistan 992 km
+
+Iraq
+  total: 3,650 km
+  border countries: Iran 1,458 km, Jordan 181 km, Kuwait 240 km, Saudi
+  Arabia 814 km, Syria 605 km, Turkey 352 km
+
+Ireland
+  total: 360 km
+  border countries: UK 360 km
+
+Isle of Man
+  0 km
+
+Israel
+  total: 1,017 km
+  border countries: Egypt 266 km, Gaza Strip 51 km, Jordan 238 km,
+  Lebanon 79 km, Syria 76 km, West Bank 307 km
+
+Italy
+  total: 1,899.2 km
+  border countries: Austria 430 km, France 488 km, Holy See (Vatican
+  City) 3.2 km, San Marino 39 km, Slovenia 199 km, Switzerland 740 km
+
+Jamaica
+  0 km
+
+Jan Mayen
+  0 km
+
+Japan
+  0 km
+
+Jersey
+  0 km
+
+Jordan
+  total: 1,635 km
+  border countries: Iraq 181 km, Israel 238 km, Saudi Arabia 744 km,
+  Syria 375 km, West Bank 97 km
+
+Kazakhstan
+  total: 12,185 km
+  border countries: China 1,533 km, Kyrgyzstan 1,224 km, Russia 6,846
+  km, Turkmenistan 379 km, Uzbekistan 2,203 km
+
+Kenya
+  total: 3,477 km
+  border countries: Ethiopia 861 km, Somalia 682 km, Sudan 232 km,
+  Tanzania 769 km, Uganda 933 km
+
+Kiribati
+  0 km
+
+Korea, North
+  total: 1,673 km
+  border countries: China 1,416 km, South Korea 238 km, Russia 19 km
+
+Korea, South
+  total: 238 km
+  border countries: North Korea 238 km
+
+Kosovo
+  total: 702 km
+  border countries: Albania 112 km, Macedonia 159 km, Montenegro 79
+  km, Serbia 352 km
+
+Kuwait
+  total: 462 km
+  border countries: Iraq 240 km, Saudi Arabia 222 km
+
+Kyrgyzstan
+  total: 3,051 km
+  border countries: China 858 km, Kazakhstan 1,224 km, Tajikistan 870
+  km, Uzbekistan 1,099 km
+
+Laos
+  total: 5,083 km
+  border countries: Burma 235 km, Cambodia 541 km, China 423 km,
+  Thailand 1,754 km, Vietnam 2,130 km
+
+Latvia
+  total: 1,382 km
+  border countries: Belarus 171 km, Estonia 343 km, Lithuania 576 km,
+  Russia 292 km
+
+Lebanon
+  total: 454 km
+  border countries: Israel 79 km, Syria 375 km
+
+Lesotho
+  total: 909 km
+  border countries: South Africa 909 km
+
+Liberia
+  total: 1,585 km
+  border countries: Guinea 563 km, Cote d'Ivoire 716 km, Sierra Leone
+  306 km
+
+Libya
+  total: 4,348 km
+  border countries: Algeria 982 km, Chad 1,055 km, Egypt 1,115 km,
+  Niger 354 km, Sudan 383 km, Tunisia 459 km
+
+Liechtenstein
+  total: 76 km
+  border countries: Austria 34.9 km, Switzerland 41.1 km
+
+Lithuania
+  total: 1,574 km
+  border countries: Belarus 680 km, Latvia 576 km, Poland 91 km,
+  Russia (Kaliningrad) 227 km
+
+Luxembourg
+  total: 359 km
+  border countries: Belgium 148 km, France 73 km, Germany 138 km
+
+Macau
+  total: 0.34 km
+  regional border: China 0.34 km
+
+Macedonia
+  total: 766 km
+  border countries: Albania 151 km, Bulgaria 148 km, Greece 246 km,
+  Kosovo 159 km, Serbia 62 km
+
+Madagascar
+  0 km
+
+Malawi
+  total: 2,881 km
+  border countries: Mozambique 1,569 km, Tanzania 475 km, Zambia 837 km
+
+Malaysia
+  total: 2,669 km
+  border countries: Brunei 381 km, Indonesia 1,782 km, Thailand 506 km
+
+Maldives
+  0 km
+
+Mali
+  total: 7,243 km
+  border countries: Algeria 1,376 km, Burkina Faso 1,000 km, Guinea
+  858 km, Cote d'Ivoire 532 km, Mauritania 2,237 km, Niger 821 km,
+  Senegal 419 km
+
+Malta
+  0 km
+
+Marshall Islands
+  0 km
+
+Mauritania
+  total: 5,074 km
+  border countries: Algeria 463 km, Mali 2,237 km, Senegal 813 km,
+  Western Sahara 1,561 km
+
+Mauritius
+  0 km
+
+Mayotte
+  0 km
+
+Mexico
+  total: 4,353 km
+  border countries: Belize 250 km, Guatemala 962 km, US 3,141 km
+
+Micronesia, Federated States of
+  0 km
+
+Moldova
+  total: 1,390 km
+  border countries: Romania 450 km, Ukraine 940 km
+
+Monaco
+  total: 4.4 km
+  border countries: France 4.4 km
+
+Mongolia
+  total: 8,220 km
+  border countries: China 4,677 km, Russia 3,543 km
+
+Montenegro
+  total: 625 km
+  border countries: Albania 172 km, Bosnia and Herzegovina 225 km,
+  Croatia 25 km, Kosovo 79 km, Serbia 124 km
+
+Montserrat
+  0 km
+
+Morocco
+  total: 2,017.9 km
+  border countries: Algeria 1,559 km, Western Sahara 443 km, Spain
+  (Ceuta) 6.3 km, Spain (Melilla) 9.6 km
+
+Mozambique
+  total: 4,571 km
+  border countries: Malawi 1,569 km, South Africa 491 km, Swaziland
+  105 km, Tanzania 756 km, Zambia 419 km, Zimbabwe 1,231 km
+
+Namibia
+  total: 3,936 km
+  border countries: Angola 1,376 km, Botswana 1,360 km, South Africa
+  967 km, Zambia 233 km
+
+Nauru
+  0 km
+
+Navassa Island
+  0 km
+
+Nepal
+  total: 2,926 km
+  border countries: China 1,236 km, India 1,690 km
+
+Netherlands
+  total: 1,027 km
+  border countries: Belgium 450 km, Germany 577 km
+
+New Caledonia
+  0 km
+
+New Zealand
+  0 km
+
+Nicaragua
+  total: 1,231 km
+  border countries: Costa Rica 309 km, Honduras 922 km
+
+Niger
+  total: 5,697 km
+  border countries: Algeria 956 km, Benin 266 km, Burkina Faso 628 km,
+  Chad 1,175 km, Libya 354 km, Mali 821 km, Nigeria 1,497 km
+
+Nigeria
+  total: 4,047 km
+  border countries: Benin 773 km, Cameroon 1,690 km, Chad 87 km, Niger
+  1,497 km
+
+Niue
+  0 km
+
+Norfolk Island
+  0 km
+
+Northern Mariana Islands
+  0 km
+
+Norway
+  total: 2,542 km
+  border countries: Finland 727 km, Sweden 1,619 km, Russia 196 km
+
+Oman
+  total: 1,374 km
+  border countries: Saudi Arabia 676 km, UAE 410 km, Yemen 288 km
+
+Pakistan
+  total: 6,774 km
+  border countries: Afghanistan 2,430 km, China 523 km, India 2,912
+  km, Iran 909 km
+
+Palau
+  0 km
+
+Panama
+  total: 555 km
+  border countries: Colombia 225 km, Costa Rica 330 km
+
+Papua New Guinea
+  total: 820 km
+  border countries: Indonesia 820 km
+
+Paracel Islands
+  0 km
+
+Paraguay
+  total: 3,995 km
+  border countries: Argentina 1,880 km, Bolivia 750 km, Brazil 1,365 km
+
+Peru
+  total: 7,461 km
+  border countries: Bolivia 1,075 km, Brazil 2,995 km, Chile 171 km,
+  Colombia 1,800 km, Ecuador 1,420 km
+
+Philippines
+  0 km
+
+Pitcairn Islands
+  0 km
+
+Poland
+  total: 3,047 km
+  border countries: Belarus 605 km, Czech Republic 615 km, Germany 456
+  km, Lithuania 91 km, Russia (Kaliningrad Oblast) 432 km, Slovakia
+  420 km, Ukraine 428 km
+
+Portugal
+  total: 1,214 km
+  border countries: Spain 1,214 km
+
+Puerto Rico
+  0 km
+
+Qatar
+  total: 60 km
+  border countries: Saudi Arabia 60 km
+
+Romania
+  total: 2,508 km
+  border countries: Bulgaria 608 km, Hungary 443 km, Moldova 450 km,
+  Serbia 476 km, Ukraine (north) 362 km, Ukraine (east) 169 km
+
+Russia
+  total: 20,241.5 km
+  border countries: Azerbaijan 284 km, Belarus 959 km, China
+  (southeast) 3,605 km, China (south) 40 km, Estonia 290 km, Finland
+  1,313 km, Georgia 723 km, Kazakhstan 6,846 km, North Korea 17.5 km,
+  Latvia 292 km, Lithuania (Kaliningrad Oblast) 227 km, Mongolia 3,441
+  km, Norway 196 km, Poland (Kaliningrad Oblast) 432 km, Ukraine 1,576
+  km
+
+Rwanda
+  total: 893 km
+  border countries: Burundi 290 km, Democratic Republic of the Congo
+  217 km, Tanzania 217 km, Uganda 169 km
+
+Saint Barthelemy
+  0 km
+
+Saint Helena, Ascension, and Tristan da Cunha
+  0 km
+
+Saint Kitts and Nevis
+  0 km
+
+Saint Lucia
+  0 km
+
+Saint Martin
+  total: 15 km
+  border countries: Sint Maarten 15 km
+
+Saint Pierre and Miquelon
+  0 km
+
+Saint Vincent and the Grenadines
+  0 km
+
+Samoa
+  0 km
+
+San Marino
+  total: 39 km
+  border countries: Italy 39 km
+
+Sao Tome and Principe
+  0 km
+
+Saudi Arabia
+  total: 4,431 km
+  border countries: Iraq 814 km, Jordan 744 km, Kuwait 222 km, Oman
+  676 km, Qatar 60 km, UAE 457 km, Yemen 1,458 km
+
+Senegal
+  total: 2,640 km
+  border countries: The Gambia 740 km, Guinea 330 km, Guinea-Bissau
+  338 km, Mali 419 km, Mauritania 813 km
+
+Serbia
+  total: 2,026 km
+  border countries: Bosnia and Herzegovina 302 km, Bulgaria 318 km,
+  Croatia 241 km, Hungary 151 km, Kosovo 352 km, Macedonia 62 km,
+  Montenegro 124 km, Romania 476 km
+
+Seychelles
+  0 km
+
+Sierra Leone
+  total: 958 km
+  border countries: Guinea 652 km, Liberia 306 km
+
+Singapore
+  0 km
+
+Sint Maarten
+  total: 15 km
+  border countries: Saint Martin (France) 15 km
+
+Slovakia
+  total: 1,474 km
+  border countries: Austria 91 km, Czech Republic 197 km, Hungary 676
+  km, Poland 420 km, Ukraine 90 km
+
+Slovenia
+  total: 1,086 km
+  border countries: Austria 330 km, Croatia 455 km, Hungary 102 km,
+  Italy 199 km
+
+Solomon Islands
+  0 km
+
+Somalia
+  total: 2,340 km
+  border countries: Djibouti 58 km, Ethiopia 1,600 km, Kenya 682 km
+
+South Africa
+  total: 4,862 km
+  border countries: Botswana 1,840 km, Lesotho 909 km, Mozambique 491
+  km, Namibia 967 km, Swaziland 430 km, Zimbabwe 225 km
+
+South Georgia and South Sandwich Islands
+  0 km
+
+Spain
+  total: 1,917.8 km
+  border countries: Andorra 63.7 km, France 623 km, Gibraltar 1.2 km,
+  Portugal 1,214 km, Morocco (Ceuta) 6.3 km, Morocco (Melilla) 9.6 km
+
+Spratly Islands
+  0 km
+
+Sri Lanka
+  0 km
+
+Sudan
+  total: 7,687 km
+  border countries: Central African Republic 1,165 km, Chad 1,360 km,
+  Democratic Republic of the Congo 628 km, Egypt 1,273 km, Eritrea 605
+  km, Ethiopia 1,606 km, Kenya 232 km, Libya 383 km, Uganda 435 km
+
+Suriname
+  total: 1,703 km
+  border countries: Brazil 593 km, French Guiana 510 km, Guyana 600 km
+
+Svalbard
+  0 km
+
+Swaziland
+  total: 535 km
+  border countries: Mozambique 105 km, South Africa 430 km
+
+Sweden
+  total: 2,233 km
+  border countries: Finland 614 km, Norway 1,619 km
+
+Switzerland
+  total: 1,852 km
+  border countries: Austria 164 km, France 573 km, Italy 740 km,
+  Liechtenstein 41 km, Germany 334 km
+
+Syria
+  total: 2,253 km
+  border countries: Iraq 605 km, Israel 76 km, Jordan 375 km, Lebanon
+  375 km, Turkey 822 km
+
+Taiwan
+  0 km
+
+Tajikistan
+  total: 3,651 km
+  border countries: Afghanistan 1,206 km, China 414 km, Kyrgyzstan 870
+  km, Uzbekistan 1,161 km
+
+Tanzania
+  total: 3,861 km
+  border countries: Burundi 451 km, Democratic Republic of the Congo
+  459 km, Kenya 769 km, Malawi 475 km, Mozambique 756 km, Rwanda 217
+  km, Uganda 396 km, Zambia 338 km
+
+Thailand
+  total: 4,863 km
+  border countries: Burma 1,800 km, Cambodia 803 km, Laos 1,754 km,
+  Malaysia 506 km
+
+Timor-Leste
+  total: 228 km
+  border countries: Indonesia 228 km
+
+Togo
+  total: 1,647 km
+  border countries: Benin 644 km, Burkina Faso 126 km, Ghana 877 km
+
+Tokelau
+  0 km
+
+Tonga
+  0 km
+
+Trinidad and Tobago
+  0 km
+
+Tunisia
+  total: 1,424 km
+  border countries: Algeria 965 km, Libya 459 km
+
+Turkey
+  total: 2,648 km
+  border countries: Armenia 268 km, Azerbaijan 9 km, Bulgaria 240 km,
+  Georgia 252 km, Greece 206 km, Iran 499 km, Iraq 352 km, Syria 822 km
+
+Turkmenistan
+  total: 3,736 km
+  border countries: Afghanistan 744 km, Iran 992 km, Kazakhstan 379
+  km, Uzbekistan 1,621 km
+
+Turks and Caicos Islands
+  0 km
+
+Tuvalu
+  0 km
+
+Uganda
+  total: 2,698 km
+  border countries: Democratic Republic of the Congo 765 km, Kenya 933
+  km, Rwanda 169 km, Sudan 435 km, Tanzania 396 km
+
+Ukraine
+  total: 4,566 km
+  border countries: Belarus 891 km, Hungary 103 km, Moldova 940 km,
+  Poland 428 km, Romania (south) 176 km, Romania (southwest) 362 km,
+  Russia 1,576 km, Slovakia 90 km
+
+United Arab Emirates
+  total: 867 km
+  border countries: Oman 410 km, Saudi Arabia 457 km
+
+United Kingdom
+  total: 360 km
+  border countries: Ireland 360 km
+
+United States
+  total: 12,034 km
+  border countries: Canada 8,893 km (including 2,477 km with Alaska),
+  Mexico 3,141 km
+  note: US Naval Base at Guantanamo Bay, Cuba is leased by the US and
+  is part of Cuba; the base boundary is 28 km
+
+United States Pacific Island Wildlife Refuges
+  none
+
+Uruguay
+  total: 1,648 km
+  border countries: Argentina 580 km, Brazil 1,068 km
+
+Uzbekistan
+  total: 6,221 km
+  border countries: Afghanistan 137 km, Kazakhstan 2,203 km,
+  Kyrgyzstan 1,099 km, Tajikistan 1,161 km, Turkmenistan 1,621 km
+
+Vanuatu
+  0 km
+
+Venezuela
+  total: 4,993 km
+  border countries: Brazil 2,200 km, Colombia 2,050 km, Guyana 743 km
+
+Vietnam
+  total: 4,639 km
+  border countries: Cambodia 1,228 km, China 1,281 km, Laos 2,130 km
+
+Virgin Islands
+  0 km
+
+Wake Island
+  0 km
+
+Wallis and Futuna
+  0 km
+
+West Bank
+  total: 404 km
+  border countries: Israel 307 km, Jordan 97 km
+
+Western Sahara
+  total: 2,046 km
+  border countries: Algeria 42 km, Mauritania 1,561 km, Morocco 443 km
+
+World
+  the land boundaries in the world total 251,060 km (not
+  counting shared boundaries twice); two nations, China and Russia,
+  each border 14 other countries
+  note: 45 nations and other areas are landlocked, these include:
+  Afghanistan, Andorra, Armenia, Austria, Azerbaijan, Belarus, Bhutan,
+  Bolivia, Botswana, Burkina Faso, Burundi, Central African Republic,
+  Chad, Czech Republic, Ethiopia, Holy See (Vatican City), Hungary,
+  Kazakhstan, Kosovo, Kyrgyzstan, Laos, Lesotho, Liechtenstein,
+  Luxembourg, Macedonia, Malawi, Mali, Moldova, Mongolia, Nepal,
+  Niger, Paraguay, Rwanda, San Marino, Serbia, Slovakia, Swaziland,
+  Switzerland, Tajikistan, Turkmenistan, Uganda, Uzbekistan, West
+  Bank, Zambia, Zimbabwe; two of these, Liechtenstein and Uzbekistan,
+  are doubly landlocked
+
+Yemen
+  total: 1,746 km
+  border countries: Oman 288 km, Saudi Arabia 1,458 km
+
+Zambia
+  total: 5,664 km
+  border countries: Angola 1,110 km, Democratic Republic of the Congo
+  1,930 km, Malawi 837 km, Mozambique 419 km, Namibia 233 km, Tanzania
+  338 km, Zimbabwe 797 km
+
+Zimbabwe
+  total: 3,066 km
+  border countries: Botswana 813 km, Mozambique 1,231 km, South Africa
+  225 km, Zambia 797 km
+
+
+
+
+======================================================================
+
+
+
+
+

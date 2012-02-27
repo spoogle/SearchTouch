@@ -1,0 +1,412 @@
+2117
+
+
+Field Listing :: Pipelines
+
+  This entry gives the lengths and types of pipelines for transporting
+  products like natural gas, crude oil, or petroleum products.
+  Country
+
+
+  Pipelines(km)
+
+Afghanistan
+  gas 466 km (2009)
+
+Albania
+  gas 339 km; oil 207 km (2009)
+
+Algeria
+  condensate 1,937 km; gas 14,648 km; liquid petroleum gas
+  2,933 km; oil 7,579 km (2009)
+
+Angola
+  gas 2 km; oil 87 km (2009)
+
+Argentina
+  gas 28,248 km; liquid petroleum gas 41 km; oil 5,977 km;
+  refined products 3,636 km (2009)
+
+Armenia
+  gas 2,233 km (2009)
+
+Australia
+  gas 27,105 km; liquid petroleum gas 240 km; oil 3,258 km;
+  oil/gas/water 1 km (2009)
+
+Austria
+  gas 2,721 km; oil 663 km; refined products 157 km (2009)
+
+Azerbaijan
+  condensate 1 km; gas 3,361 km; oil 1,424 km (2009)
+
+Bahrain
+  gas 20 km; oil 32 km (2009)
+
+Bangladesh
+  gas 2,597 km (2009)
+
+Belarus
+  gas 5,250 km; oil 1,528 km; refined products 1,730 km (2009)
+
+Belgium
+  gas 1,330 km; oil 158 km; refined products 535 km (2009)
+
+Bolivia
+  gas 5,192 km; liquid petroleum gas 51 km; oil 2,488 km;
+  refined products 1,590 km (2009)
+
+Brazil
+  condensate/gas 62 km; gas 9,989 km; liquid petroleum gas 353
+  km; oil 4,517 km; refined products 4,465 km (2009)
+
+Brunei
+  gas 37 km; oil 18 km (2009)
+
+Bulgaria
+  gas 2,926 km; oil 339 km; refined products 156 km (2009)
+
+Burma
+  gas 2,228 km; oil 558 km (2009)
+
+Cameroon
+  oil 889 km (2009)
+
+Canada
+  crude and refined oil 23,564 km; liquid petroleum gas 74,980
+  km (2009)
+
+Chad
+  oil 250 km (2009)
+
+Chile
+  gas 2,673 km; liquid petroleum gas 519 km; oil 892 km; refined
+  products 769 km (2009)
+
+China
+  gas 32,545 km; oil 20,097 km; refined products 10,915 km (2009)
+
+Colombia
+  gas 4,567 km; oil 6,097 km; refined products 3,382 km (2009)
+
+Congo, Democratic Republic of the
+  gas 37 km; oil 39 km; refined
+  products 756 km (2009)
+
+Congo, Republic of the
+  gas 7 km; oil 211 km (2009)
+
+Costa Rica
+  refined products 796 km (2009)
+
+Cote d'Ivoire
+  condensate 86 km; gas 180 km; oil 92 km (2009)
+
+Croatia
+  gas 1,327 km; oil 583 km (2009)
+
+Cuba
+  gas 41 km; oil 230 km (2009)
+
+Czech Republic
+  gas 7,010 km; oil 547 km; refined products 94 km
+  (2009)
+
+Denmark
+  gas 2,858 km; oil 107 km (2009)
+
+Ecuador
+  extra heavy crude 435 km; gas 5 km; oil 1,374 km; refined
+  products 1,301 km (2009)
+
+Egypt
+  condensate 320 km; condensate/gas 13 km; gas 6,262 km; liquid
+  petroleum gas 956 km; oil 4,319 km; oil/gas/water 3 km; refined
+  products 895 km; unknown 59 km (2009)
+
+Equatorial Guinea
+  gas 38 km (2009)
+
+Estonia
+  gas 859 km (2009)
+
+Finland
+  gas 694 km (2009)
+
+France
+  gas 14,688 km; oil 2,943 km; refined products 5,080 km (2009)
+
+Gabon
+  gas 240 km; oil 858 km (2009)
+
+Georgia
+  gas 1,596 km; oil 1,258 km (2009)
+
+Germany
+  gas 24,364 km; oil 3,379 km; refined products 3,843 km (2009)
+
+Ghana
+  oil 5 km; refined products 309 km (2009)
+
+Greece
+  gas 1,197 km; oil 75 km (2009)
+
+Guatemala
+  oil 480 km (2009)
+
+Hungary
+  gas 4,407 km; oil 987 km; refined products 335 km (2009)
+
+India
+  condensate/gas 2 km; gas 7,542 km; liquid petroleum gas 2,163
+  km; oil 7,659 km; refined products 7,201 km (2009)
+
+Indonesia
+  condensate 735 km; condensate/gas 73 km; gas 5,800 km; oil
+  5,721 km; oil/gas/water 12 km; refined products 1,370 km (2009)
+
+Iran
+  condensate 7 km; condensate/gas 12 km; gas 19,246 km; liquid
+  petroleum gas 570 km; oil 7,018 km; refined products 7,936 km (2009)
+
+Iraq
+  gas 2,501 km; liquid petroleum gas 918 km; oil 5,032 km;
+  refined products 1,637 km (2009)
+
+Ireland
+  gas 1,550 km (2009)
+
+Israel
+  gas 176 km; oil 442 km; refined products 261 km (2009)
+
+Italy
+  gas 17,558 km; oil 1,241 km (2009)
+
+Japan
+  gas 3,879 km; oil 167 km; oil/gas/water 53 km (2009)
+
+Jordan
+  gas 439 km; oil 49 km (2009)
+
+Kazakhstan
+  condensate 658 km; gas 11,146 km; oil 10,376 km; refined
+  products 1,095 km (2009)
+
+Kenya
+  oil 4 km; refined products 928 km (2009)
+
+Korea, North
+  oil 154 km (2009)
+
+Korea, South
+  gas 1,423 km; refined products 827 km (2009)
+
+Kuwait
+  gas 269 km; oil 540 km; refined products 57 km (2009)
+
+Kyrgyzstan
+  gas 254 km; oil 16 km (2009)
+
+Laos
+  refined products 540 km (2009)
+
+Latvia
+  gas 948 km; refined products 415 km (2009)
+
+Lebanon
+  gas 43 km (2009)
+
+Libya
+  condensate 776 km; gas 2,860 km; oil 6,987 km (2009)
+
+Liechtenstein
+  gas 20 km (2009)
+
+Lithuania
+  gas 1,695 km; refined products 114 km (2009)
+
+Luxembourg
+  gas 155 km (2009)
+
+Macedonia
+  gas 268 km; oil 120 km (2009)
+
+Malaysia
+  condensate 3 km; gas 1,965 km; oil 31 km; refined products
+  114 km (2009)
+
+Mexico
+  gas 22,705 km; liquid petroleum gas 1,875 km; oil 8,688 km;
+  oil/gas/water 228 km; refined products 6,520 km (2009)
+
+Moldova
+  gas 1,906 km (2009)
+
+Morocco
+  gas 830 km; oil 439 km (2009)
+
+Mozambique
+  gas 918 km; refined products 278 km (2009)
+
+Netherlands
+  gas 3,816 km; oil 365 km; refined products 716 km (2009)
+
+New Zealand
+  condensate 331 km; gas 1,838 km; liquid petroleum gas
+  172 km; oil 288 km; refined products 198 km (2009)
+
+Nicaragua
+  oil 54 km (2009)
+
+Nigeria
+  condensate 26 km; gas 2,565 km; liquid petroleum gas 97 km;
+  oil 3,424 km; refined products 4,090 km (2009)
+
+Norway
+  condensate 31 km; gas 64 km (2009)
+
+Oman
+  gas 4,209 km; oil 3,558 km; refined products 263 km (2009)
+
+Pakistan
+  gas 10,402 km; oil 2,011 km; refined products 787 km (2009)
+
+Papua New Guinea
+  oil 195 km (2009)
+
+Peru
+  extra heavy crude 533 km; gas 1,083 km; liquid petroleum gas
+  677 km; oil 1,018 km; refined products 15 km (2009)
+
+Philippines
+  oil 107 km; refined products 112 km (2009)
+
+Poland
+  gas 13,631 km; oil 1,384 km; refined products 777 km (2009)
+
+Portugal
+  gas 1,098 km; oil 11 km; refined products 188 km (2009)
+
+Qatar
+  condensate 145 km; condensate/gas 132 km; gas 980 km; liquid
+  petroleum gas 90 km; oil 382 km (2009)
+
+Romania
+  gas 3,588 km; oil 2,424 km (2009)
+
+Russia
+  condensate 122 km; gas 159,552 km; liquid petroleum gas 127
+  km; oil 74,285 km; refined products 13,658 km (2009)
+
+Saudi Arabia
+  condensate 212 km; gas 1,880 km; liquid petroleum gas
+  1,183 km; oil 4,241 km; refined products 1,148 km (2009)
+
+Senegal
+  gas 43 km; refined products 8 km (2009)
+
+Serbia
+  gas 1,921 km; oil 323 km (2009)
+
+Singapore
+  gas 106 km (2009)
+
+Slovakia
+  gas 6,769 km; oil 416 km (2009)
+
+Slovenia
+  gas 840 km; oil 11 km (2009)
+
+South Africa
+  condensate 11 km; gas 908 km; oil 980 km; refined
+  products 1,379 km (2009)
+
+Spain
+  gas 7,738 km; oil 560 km; refined products 3,445 km (2009)
+
+Sudan
+  gas 156 km; oil 4,070 km; refined products 1,613 km (2009)
+
+Suriname
+  oil 50 km (2009)
+
+Sweden
+  gas 786 km (2009)
+
+Switzerland
+  gas 1,662 km; oil 94 km; refined products 7 km (2009)
+
+Syria
+  gas 3,101 km; oil 1,997 km (2009)
+
+Taiwan
+  gas 405 km (2009)
+
+Tajikistan
+  gas 549 km; oil 38 km (2009)
+
+Tanzania
+  gas 254 km; oil 888 km; refined products 8 km (2009)
+
+Thailand
+  gas 1,348 km; refined products 323 km (2009)
+
+Trinidad and Tobago
+  gas 659 km; oil 336 km (2009)
+
+Tunisia
+  gas 2,179 km; oil 1,285 km; refined products 372 km (2009)
+
+Turkey
+  gas 10,630 km; oil 3,636 km (2009)
+
+Turkmenistan
+  gas 6,417 km; oil 1,457 km (2009)
+
+Ukraine
+  gas 33,327 km; oil 4,514 km; refined products 4,211 km (2009)
+
+United Arab Emirates
+  condensate 458 km; gas 2,152 km; liquid
+  petroleum gas 220 km; oil 1,310 km; refined products 212 km (2009)
+
+United Kingdom
+  condensate 43 km; gas 7,992 km; liquid petroleum gas
+  59 km; oil 699 km; refined products 4,417 km (2009)
+
+United States
+  petroleum products 244,620 km; natural gas 548,665 km
+  (2009)
+
+Uruguay
+  gas 226 km; oil 155 km (2009)
+
+Uzbekistan
+  gas 9,706 km; oil 868 km (2009)
+
+Venezuela
+  extra heavy crude 980 km; gas 5,258 km; oil 6,695 km;
+  refined products 1,484 km; unknown 141 km (2009)
+
+Vietnam
+  condensate/gas 42 km; gas 66 km; refined products 206 km
+  (2009)
+
+Yemen
+  gas 423 km; liquid petroleum gas 22 km; oil 1,367 km (2009)
+
+Zambia
+  oil 771 km (2009)
+
+Zimbabwe
+  refined products 270 km (2009)
+
+
+
+
+======================================================================
+
+
+
+
+

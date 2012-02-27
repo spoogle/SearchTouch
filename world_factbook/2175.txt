@@ -1,0 +1,655 @@
+2175
+
+
+Field Listing :: Oil - imports
+
+  This entry is the total oil imported in barrels per day (bbl/day),
+  including both crude oil and oil products.
+  Country Comparison to the World
+  Country
+
+
+  Oil - imports(bbl/day)
+
+Afghanistan
+  4,404 bbl/day (2007 est.)
+
+Albania
+  24,080 bbl/day (2007 est.)
+
+Algeria
+  14,320 bbl/day (2007 est.)
+
+American Samoa
+  4,140 bbl/day (2007 est.)
+
+Angola
+  28,090 bbl/day (2007 est.)
+
+Antigua and Barbuda
+  4,690 bbl/day (2007 est.)
+
+Argentina
+  52,290 bbl/day (2007 est.)
+
+Armenia
+  45,200 bbl/day (2007 est.)
+
+Aruba
+  236,400 bbl/day (2007 est.)
+
+Australia
+  716,700 bbl/day (2008 est.)
+
+Austria
+  298,400 bbl/day (2008 est.)
+
+Azerbaijan
+  2,848 bbl/day (2007 est.)
+
+Bahamas, The
+  20,560 bbl/day (2009 est.)
+
+Bahrain
+  228,400 bbl/day (2007 est.)
+
+Bangladesh
+  87,660 bbl/day (2007 est.)
+
+Barbados
+  10,390 bbl/day (2007 est.)
+
+Belarus
+  444,800 bbl/day (2007 est.)
+
+Belgium
+  1.12 million bbl/day (2008 est.)
+
+Belize
+  7,204 bbl/day (2007 est.)
+
+Benin
+  28,900 bbl/day (2007 est.)
+
+Bermuda
+  4,500 bbl/day (2007 est.)
+
+Bhutan
+  1,250 bbl/day (2008 est.)
+
+Bolivia
+  6,172 bbl/day (2007 est.)
+
+Bosnia and Herzegovina
+  25,990 bbl/day (2007 est.)
+
+Botswana
+  15,180 bbl/day (2007 est.)
+
+Brazil
+  632,900 bbl/day (2007 est.)
+
+British Virgin Islands
+  691 bbl/day (2007 est.)
+
+Brunei
+  238 bbl/day (2007 est.)
+
+Bulgaria
+  189,000 bbl/day (2007 est.)
+
+Burkina Faso
+  8,283 bbl/day (2007 est.)
+
+Burma
+  18,250 bbl/day (2007 est.)
+
+Burundi
+  2,495 bbl/day (2007 est.)
+
+Cambodia
+  30,970 bbl/day (2007 est.)
+
+Cameroon
+  45,520 bbl/day (2007 est.)
+
+Canada
+  1.192 million bbl/day (2008 est.)
+
+Cape Verde
+  1,619 bbl/day (2007 est.)
+
+Cayman Islands
+  3,294 bbl/day (2007 est.)
+
+Central African Republic
+  2,203 bbl/day (2007 est.)
+
+Chad
+  1,571 bbl/day (2007 est.)
+
+Chile
+  311,200 bbl/day (2007 est.)
+
+China
+  4.393 million bbl/day (2008)
+
+Colombia
+  16,540 bbl/day (2007 est.)
+
+Comoros
+  766 bbl/day (2007 est.)
+
+Congo, Democratic Republic of the
+  11,350 bbl/day (2007 est.)
+
+Congo, Republic of the
+  2,136 bbl/day (2007 est.)
+
+Cook Islands
+  495 bbl/day (2007 est.)
+
+Costa Rica
+  47,860 bbl/day (2007 est.)
+
+Cote d'Ivoire
+  80,960 bbl/day (2007 est.)
+
+Croatia
+  122,100 bbl/day (2007 est.)
+
+Cuba
+  104,800 bbl/day (2007 est.)
+
+Cyprus
+  58,930 bbl/day (2007 est.)
+
+Czech Republic
+  219,900 bbl/day (2008 est.)
+
+Denmark
+  173,100 bbl/day (2008 est.)
+
+Djibouti
+  8,476 bbl/day (2007 est.)
+
+Dominica
+  838 bbl/day (2007 est.)
+
+Dominican Republic
+  116,200 bbl/day (2007 est.)
+
+Ecuador
+  54,190 bbl/day (2007 est.)
+
+Egypt
+  48,450 bbl/day (2009 est.)
+
+El Salvador
+  46,310 bbl/day (2007 est.)
+
+Equatorial Guinea
+  1,114 bbl/day (2007 est.)
+
+Eritrea
+  4,790 bbl/day (2007 est.)
+
+Estonia
+  30,590 bbl/day (2007 est.)
+
+Ethiopia
+  33,590 bbl/day (2007 est.)
+
+European Union
+  8.613 million bbl/day (2008 est.)
+
+Falkland Islands (Islas Malvinas)
+  271 bbl/day (2007 est.)
+
+Faroe Islands
+  4,922 bbl/day (2008)
+
+Fiji
+  20,340 bbl/day (2007 est.)
+
+Finland
+  337,900 bbl/day (2009 est.)
+
+France
+  2.386 million bbl/day (2008 est.)
+
+French Polynesia
+  6,701 bbl/day (2007 est.)
+
+Gabon
+  4,185 bbl/day (2007 est.)
+
+Gambia, The
+  2,266 bbl/day (2007 est.)
+
+Gaza Strip
+  See entry for West Bank
+
+Georgia
+  16,590 bbl/day (2008 est.)
+
+Germany
+  2.862 million bbl/day (2008 est.)
+
+Ghana
+  45,380 bbl/day (2007 est.)
+
+Gibraltar
+  25,610 bbl/day (2007 est.)
+
+Greece
+  520,900 bbl/day (2008 est.)
+
+Greenland
+  5,172 bbl/day (2008 est.)
+
+Grenada
+  1,923 bbl/day (2007 est.)
+
+Guam
+  14,230 bbl/day (2007 est.)
+
+Guatemala
+  72,440 bbl/day (2007 est.)
+
+Guinea
+  8,674 bbl/day (2007 est.)
+
+Guinea-Bissau
+  2,545 bbl/day (2007 est.)
+
+Guyana
+  10,550 bbl/day (2007 est.)
+
+Haiti
+  12,280 bbl/day (2007 est.)
+
+Honduras
+  46,130 bbl/day (2007 est.)
+
+Hong Kong
+  440,000 bbl/day (2009)
+
+Hungary
+  181,800 bbl/day (2008 est.)
+
+Iceland
+  16,390 bbl/day (2008 est.)
+
+India
+  2.9 million bbl/day (2007 est.)
+
+Indonesia
+  671,000 bbl/day (2007 est.)
+
+Iran
+  162,500 bbl/day (2009 est.)
+
+Iraq
+  116,900 bbl/day (2009 est.)
+
+Ireland
+  192,900 bbl/day (2008 est.)
+
+Israel
+  318,900 bbl/day (2007 est.)
+
+Italy
+  1.911 million bbl/day (2008 est.)
+
+Jamaica
+  77,720 bbl/day (2007 est.)
+
+Japan
+  5.033 million bbl/day (2008 est.)
+
+Jordan
+  108,200 bbl/day (2007 est.)
+
+Kazakhstan
+  164,000 bbl/day (2007 est.)
+
+Kenya
+  80,530 bbl/day (2007 est.)
+
+Kiribati
+  261 bbl/day (2007 est.)
+
+Korea, North
+  13,890 bbl/day (2007 est.)
+
+Korea, South
+  3.074 million bbl/day (2009)
+
+Kuwait
+  0 bbl/day (2007 est.)
+
+Kyrgyzstan
+  12,850 bbl/day (2007 est.)
+
+Laos
+  3,080 bbl/day (2007 est.)
+
+Latvia
+  43,400 bbl/day (2007 est.)
+
+Lebanon
+  86,750 bbl/day (2007 est.)
+
+Lesotho
+  1,553 bbl/day (2007 est.)
+
+Liberia
+  4,263 bbl/day (2007 est.)
+
+Libya
+  575 bbl/day (2007 est.)
+
+Lithuania
+  204,000 bbl/day (2007 est.)
+
+Luxembourg
+  59,210 bbl/day (2008 est.)
+
+Macau
+  9,294 bbl/day (2009 est.)
+
+Macedonia
+  20,000 bbl/day (2009 est.)
+
+Madagascar
+  16,940 bbl/day (2007 est.)
+
+Malawi
+  6,960 bbl/day (2007 est.)
+
+Malaysia
+  314,600 bbl/day (2007 est.)
+
+Maldives
+  5,490 bbl/day (2008 est.)
+
+Mali
+  4,402 bbl/day (2007 est.)
+
+Malta
+  17,910 bbl/day (2007 est.)
+
+Mauritania
+  20,610 bbl/day (2007 est.)
+
+Mauritius
+  22,200 bbl/day (2007 est.)
+
+Mexico
+  521,100 bbl/day (2008 est.)
+
+Moldova
+  14,230 bbl/day (2007 est.)
+
+Mongolia
+  0 bbl/day (2009)
+
+Montenegro
+  6,093 bbl/day (2005)
+
+Montserrat
+  521 bbl/day (2007 est.)
+
+Morocco
+  195,800 bbl/day (2007 est.)
+
+Mozambique
+  13,760 bbl/day (2007 est.)
+
+Namibia
+  19,120 bbl/day (2007 est.)
+
+Nauru
+  1,026 bbl/day (2007 est.)
+
+Nepal
+  16,920 bbl/day (2007 est.)
+
+Netherlands
+  2.426 million bbl/day (2008 est.)
+
+New Caledonia
+  14,430 bbl/day (2007 est.)
+
+New Zealand
+  143,900 bbl/day (2008 est.)
+
+Nicaragua
+  29,570 bbl/day (2007 est.)
+
+Niger
+  5,367 bbl/day (2007 est.)
+
+Nigeria
+  170,000 bbl/day (2007 est.)
+
+Niue
+  31 bbl/day (2007 est.)
+
+Norway
+  107,500 bbl/day (2008 est.)
+
+Oman
+  17,290 bbl/day (2007 est.)
+
+Pakistan
+  319,500 bbl/day (2007 est.)
+
+Panama
+  87,100 bbl/day (2007 est.)
+
+Papua New Guinea
+  14,380 bbl/day (2007 est.)
+
+Paraguay
+  25,100 bbl/day (2009 est.)
+
+Peru
+  133,100 bbl/day (2007 est.)
+
+Philippines
+  342,200 bbl/day (2007 est.)
+
+Poland
+  553,900 bbl/day (2008 est.)
+
+Portugal
+  323,000 bbl/day (2008 est.)
+
+Puerto Rico
+  225,000 bbl/day (2007 est.)
+
+Qatar
+  0 bbl/day (2008 est.)
+
+Romania
+  217,000 bbl/day (2007 est.)
+
+Russia
+  42,000 bbl/day (2009 est.)
+
+Rwanda
+  5,623 bbl/day (2007 est.)
+
+Saint Helena, Ascension, and Tristan da Cunha
+  80 bbl/day (2007 est.)
+
+Saint Kitts and Nevis
+  1,225 bbl/day (2007 est.)
+
+Saint Lucia
+  2,747 bbl/day (2007 est.)
+
+Saint Pierre and Miquelon
+  564 bbl/day (2007 est.)
+
+Saint Vincent and the Grenadines
+  1,451 bbl/day (2007 est.)
+
+Samoa
+  1,105 bbl/day (2007 est.)
+
+Sao Tome and Principe
+  726 bbl/day (2007 est.)
+
+Saudi Arabia
+  79,250 bbl/day (2007 est.)
+
+Senegal
+  42,850 bbl/day (2007 est.)
+
+Serbia
+  72,570 bbl/day (2008 est.)
+
+Seychelles
+  7,653 bbl/day (2007 est.)
+
+Sierra Leone
+  8,316 bbl/day (2007 est.)
+
+Singapore
+  2.109 million bbl/day (2007 est.)
+
+Slovakia
+  144,000 bbl/day (2008 est.)
+
+Slovenia
+  57,000 bbl/day (2009 est.)
+
+Solomon Islands
+  1,323 bbl/day (2007 est.)
+
+Somalia
+  6,387 bbl/day (2007 est.)
+
+South Africa
+  490,500 bbl/day (2007 est.)
+
+Spain
+  1.716 million bbl/day (2008 est.)
+
+Sri Lanka
+  90,000 bbl/day (2007 est.)
+
+Sudan
+  11,400 bbl/day (2007 est.)
+
+Suriname
+  6,296 bbl/day (2007 est.)
+
+Swaziland
+  4,100 bbl/day (2007 est.)
+
+Sweden
+  589,900 bbl/day (2008 est.)
+
+Switzerland
+  269,400 bbl/day (2008 est.)
+
+Syria
+  58,710 bbl/day (2007 est.)
+
+Taiwan
+  931,300 bbl/day (2009 est.)
+
+Tajikistan
+  10,100 bbl/day (2008)
+
+Tanzania
+  28,070 bbl/day (2007 est.)
+
+Thailand
+  1.695 million bbl/day (2009 est.)
+
+Togo
+  15,270 bbl/day (2007 est.)
+
+Tonga
+  1,173 bbl/day (2007 est.)
+
+Trinidad and Tobago
+  92,480 bbl/day (2007 est.)
+
+Tunisia
+  87,300 bbl/day (2007 est.)
+
+Turkey
+  734,600 bbl/day (2008 est.)
+
+Turkmenistan
+  0 bbl/day (2009 est.)
+
+Turks and Caicos Islands
+  80 bbl/day (2007 est.)
+
+Uganda
+  13,090 bbl/day (2007 est.)
+
+Ukraine
+  147,600 bbl/day (2009 est.)
+
+United Arab Emirates
+  192,900 bbl/day (2007 est.)
+
+United Kingdom
+  1.491 million bbl/day (2008 est.)
+
+United States
+  11.31 million bbl/day (2008 est.)
+
+Uruguay
+  52,730 bbl/day (2007 est.)
+
+Uzbekistan
+  35,810 bbl/day (2007 est.)
+
+Vanuatu
+  654 bbl/day (2007 est.)
+
+Venezuela
+  0 bbl/day (2007 est.)
+
+Vietnam
+  134,200 bbl/day (2009 est.)
+
+Virgin Islands
+  480,600 bbl/day (2007 est.)
+
+West Bank
+  22,150 bbl/day (2007 est.)
+
+Western Sahara
+  1,702 bbl/day (2007 est.)
+
+World
+  63.77 million bbl/day (2007 est.)
+
+Yemen
+  65,860 bbl/day (2007 est.)
+
+Zambia
+  14,730 bbl/day (2007 est.)
+
+Zimbabwe
+  13,830 bbl/day (2007 est.)
+
+
+
+
+======================================================================
+
+
+
+
+

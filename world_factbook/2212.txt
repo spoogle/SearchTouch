@@ -1,0 +1,958 @@
+2212
+
+
+Field Listing :: Urbanization
+
+  This entry provides two measures of the degree of urbanization of a
+  population. The first, urban population, describes the percentage of
+  the total population living in urban areas, as defined by the
+  country. The second, rate of urbanization, describes the projected
+  average rate of change of the size of the urban population over the
+  given period of time. Additionally, the World entry includes a list
+  of the ten largest urban agglomerations. An urban agglomeration is
+  defined as comprising the city or town proper and also the suburban
+  fringe or thickly settled territory lying outside of, but adjacent
+  to, the boundaries of the city.
+  Country
+
+
+  Urbanization(%)
+
+Afghanistan
+  urban population: 24% of total population (2008)
+  rate of urbanization: 5.4% annual rate of change (2005-10 est.)
+
+Albania
+  urban population: 47% of total population (2008)
+  rate of urbanization: 1.9% annual rate of change (2005-10 est.)
+
+Algeria
+  urban population: 65% of total population (2008)
+  rate of urbanization: 2.5% annual rate of change (2005-10 est.)
+
+American Samoa
+  urban population: 92% of total population (2008)
+  rate of urbanization: 2.4% annual rate of change (2005-10 est.)
+
+Andorra
+  urban population: 89% of total population (2008)
+  rate of urbanization: -0.2% annual rate of change (2005-10 est.)
+
+Angola
+  urban population: 57% of total population (2008)
+  rate of urbanization: 4.4% annual rate of change (2005-10 est.)
+
+Anguilla
+  urban population: 100% of total population (2008)
+  rate of urbanization: 1.4% annual rate of change (2005-10 est.)
+
+Antigua and Barbuda
+  urban population: 30% of total population (2008)
+  rate of urbanization: 0.9% annual rate of change (2005-10 est.)
+
+Argentina
+  urban population: 92% of total population (2008)
+  rate of urbanization: 1.2% annual rate of change (2005-10 est.)
+
+Armenia
+  urban population: 64% of total population (2008)
+  rate of urbanization: -0.3% annual rate of change (2005-10 est.)
+
+Aruba
+  urban population: 47% of total population (2008)
+  rate of urbanization: 0.1% annual rate of change (2005-10 est.)
+
+Australia
+  urban population: 89% of total population (2008)
+  rate of urbanization: 1.2% annual rate of change (2005-10 est.)
+
+Austria
+  urban population: 67% of total population (2008)
+  rate of urbanization: 0.7% annual rate of change (2005-10 est.)
+
+Azerbaijan
+  urban population: 52% of total population (2008)
+  rate of urbanization: 1% annual rate of change (2005-10 est.)
+
+Bahamas, The
+  urban population: 84% of total population (2008)
+  rate of urbanization: 1.4% annual rate of change (2005-10 est.)
+
+Bahrain
+  urban population: 89% of total population (2008)
+  rate of urbanization: 1.8% annual rate of change (2005-10 est.)
+
+Bangladesh
+  urban population: 27% of total population (2008)
+  rate of urbanization: 3.5% annual rate of change (2005-10 est.)
+
+Barbados
+  urban population: 40% of total population (2008)
+  rate of urbanization: 1.5% annual rate of change (2005-10 est.)
+
+Belarus
+  urban population: 73% of total population (2008)
+  rate of urbanization: 0% annual rate of change (2005-10 est.)
+
+Belgium
+  urban population: 97% of total population (2008)
+  rate of urbanization: 0.3% annual rate of change (2005-10 est.)
+
+Belize
+  urban population: 52% of total population (2008)
+  rate of urbanization: 3.1% annual rate of change (2005-10 est.)
+
+Benin
+  urban population: 41% of total population (2008)
+  rate of urbanization: 4% annual rate of change (2005-10 est.)
+
+Bermuda
+  urban population: 100% of total population (2008)
+  rate of urbanization: 0.3% annual rate of change (2005-10 est.)
+
+Bhutan
+  urban population: 35% of total population (2008)
+  rate of urbanization: 4.9% annual rate of change (2005-10 est.)
+
+Bolivia
+  urban population: 66% of total population (2008)
+  rate of urbanization: 2.5% annual rate of change (2005-10 est.)
+
+Bosnia and Herzegovina
+  urban population: 47% of total population
+  (2008)
+  rate of urbanization: 1.4% annual rate of change (2005-10 est.)
+
+Botswana
+  urban population: 60% of total population (2008)
+  rate of urbanization: 2.5% annual rate of change (2005-10 est.)
+
+Brazil
+  urban population: 86% of total population (2008)
+  rate of urbanization: 1.8% annual rate of change (2005-10 est.)
+
+British Virgin Islands
+  urban population: 40% of total population
+  (2008)
+  rate of urbanization: 1.7% annual rate of change (2005-10 est.)
+
+Brunei
+  urban population: 75% of total population (2008)
+  rate of urbanization: 2.6% annual rate of change (2005-10 est.)
+
+Bulgaria
+  urban population: 71% of total population (2008)
+  rate of urbanization: -0.3% annual rate of change (2005-10 est.)
+
+Burkina Faso
+  urban population: 20% of total population (2008)
+  rate of urbanization: 5% annual rate of change (2005-10 est.)
+
+Burma
+  urban population: 33% of total population (2008)
+  rate of urbanization: 2.9% annual rate of change (2005-10 est.)
+
+Burundi
+  urban population: 10% of total population (2008)
+  rate of urbanization: 6.8% annual rate of change (2005-10 est.)
+
+Cambodia
+  urban population: 22% of total population (2008)
+  rate of urbanization: 4.6% annual rate of change (2005-10 est.)
+
+Cameroon
+  urban population: 57% of total population (2008)
+  rate of urbanization: 3.5% annual rate of change (2005-10 est.)
+
+Canada
+  urban population: 80% of total population (2008)
+  rate of urbanization: 1% annual rate of change (2005-10 est.)
+
+Cape Verde
+  urban population: 60% of total population (2008)
+  rate of urbanization: 3.5% annual rate of change (2005-10 est.)
+
+Cayman Islands
+  urban population: 100% of total population (2008)
+  rate of urbanization: 1.5% annual rate of change (2005-10 est.)
+
+Central African Republic
+  urban population: 39% of total population
+  (2008)
+  rate of urbanization: 2.3% annual rate of change (2005-10 est.)
+
+Chad
+  urban population: 27% of total population (2008)
+  rate of urbanization: 4.7% annual rate of change (2005-10 est.)
+
+Chile
+  urban population: 88% of total population (2008)
+  rate of urbanization: 1.3% annual rate of change (2005-10 est.)
+
+China
+  urban population: 43% of total population (2008)
+  rate of urbanization: 2.7% annual rate of change (2005-10 est.)
+
+Colombia
+  urban population: 74% of total population (2008)
+  rate of urbanization: 1.7% annual rate of change (2005-10 est.)
+
+Comoros
+  urban population: 28% of total population (2008)
+  rate of urbanization: 2.7% annual rate of change (2005-10 est.)
+
+Congo, Democratic Republic of the
+  urban population: 34% of total
+  population (2008)
+  rate of urbanization: 5.1% annual rate of change (2005-10 est.)
+
+Congo, Republic of the
+  urban population: 61% of total population
+  (2008)
+  rate of urbanization: 2.7% annual rate of change (2005-10 est.)
+
+Cook Islands
+  urban population: 74% of total population (2008)
+  rate of urbanization: -0.7% annual rate of change (2005-10 est.)
+
+Costa Rica
+  urban population: 63% of total population (2008)
+  rate of urbanization: 2.3% annual rate of change (2005-10 est.)
+
+Cote d'Ivoire
+  urban population: 49% of total population (2008)
+  rate of urbanization: 3.2% annual rate of change (2005-10 est.)
+
+Croatia
+  urban population: 57% of total population (2008)
+  rate of urbanization: 0.4% annual rate of change (2005-10 est.)
+
+Cuba
+  urban population: 76% of total population (2008)
+  rate of urbanization: 0% annual rate of change (2005-10 est.)
+
+Cyprus
+  urban population: 70% of total population (2008)
+  rate of urbanization: 1.3% annual rate of change (2005-10 est.)
+
+Czech Republic
+  urban population: 73% of total population (2008)
+  rate of urbanization: 0% annual rate of change (2005-10 est.)
+
+Denmark
+  urban population: 87% of total population (2008)
+  rate of urbanization: 0.5% annual rate of change (2005-10 est.)
+
+Djibouti
+  urban population: 87% of total population (2008)
+  rate of urbanization: 2.2% annual rate of change (2005-10 est.)
+
+Dominica
+  urban population: 74% of total population (2008)
+  rate of urbanization: 0.2% annual rate of change (2005-10 est.)
+
+Dominican Republic
+  urban population: 69% of total population (2008)
+  rate of urbanization: 2.6% annual rate of change (2005-10 est.)
+
+Ecuador
+  urban population: 66% of total population (2008)
+  rate of urbanization: 2.1% annual rate of change (2005-10 est.)
+
+Egypt
+  urban population: 43% of total population (2008)
+  rate of urbanization: 1.8% annual rate of change (2005-10 est.)
+
+El Salvador
+  urban population: 61% of total population (2008)
+  rate of urbanization: 1.9% annual rate of change (2005-10 est.)
+
+Equatorial Guinea
+  urban population: 39% of total population (2008)
+  rate of urbanization: 2.8% annual rate of change (2005-10 est.)
+
+Eritrea
+  urban population: 21% of total population (2008)
+  rate of urbanization: 5.4% annual rate of change (2005-10 est.)
+
+Estonia
+  urban population: 69% of total population (2008)
+  rate of urbanization: -0.3% annual rate of change (2005-10 est.)
+
+Ethiopia
+  urban population: 17% of total population (2008)
+  rate of urbanization: 4.3% annual rate of change (2005-10 est.)
+
+Falkland Islands (Islas Malvinas)
+  urban population: 92% of total
+  population (2008)
+  rate of urbanization: 1.2% annual rate of change (2005-10 est.)
+
+Faroe Islands
+  urban population: 41% of total population (2008)
+  rate of urbanization: 2% annual rate of change (2005-10 est.)
+
+Fiji
+  urban population: 52% of total population (2008)
+  rate of urbanization: 1.6% annual rate of change (2005-10 est.)
+
+Finland
+  urban population: 63% of total population (2008)
+  rate of urbanization: 0.8% annual rate of change (2005-10 est.)
+
+France
+  urban population: 77% of total population (2008)
+  rate of urbanization: 0.8% annual rate of change (2005-10 est.)
+
+French Polynesia
+  urban population: 52% of total population (2008)
+  rate of urbanization: 1.3% annual rate of change (2005-10 est.)
+
+Gabon
+  urban population: 85% of total population (2008)
+  rate of urbanization: 2.1% annual rate of change (2005-10 est.)
+
+Gambia, The
+  urban population: 57% of total population (2008)
+  rate of urbanization: 4.2% annual rate of change (2005-10 est.)
+
+Gaza Strip
+  urban population: 72% of total population (2008)
+  rate of urbanization: 3.3% annual rate of change (2005-10 est.)
+
+Georgia
+  urban population: 53% of total population (2008)
+  rate of urbanization: -0.6% annual rate of change (2005-10 est.)
+
+Germany
+  urban population: 74% of total population (2008)
+  rate of urbanization: 0.1% annual rate of change (2005-10 est.)
+
+Ghana
+  urban population: 50% of total population (2008)
+  rate of urbanization: 3.5% annual rate of change (2005-10 est.)
+
+Gibraltar
+  urban population: 100% of total population (2008)
+  rate of urbanization: 0.1% annual rate of change (2005-10 est.)
+
+Greece
+  urban population: 61% of total population (2008)
+  rate of urbanization: 0.6% annual rate of change (2005-10 est.)
+
+Greenland
+  urban population: 84% of total population (2008)
+  rate of urbanization: 0.9% annual rate of change (2005-10 est.)
+
+Grenada
+  urban population: 31% of total population (2008)
+  rate of urbanization: 0.3% annual rate of change (2005-10 est.)
+
+Guam
+  urban population: 93% of total population (2008)
+  rate of urbanization: 1.3% annual rate of change (2005-10 est.)
+
+Guatemala
+  urban population: 49% of total population (2008)
+  rate of urbanization: 3.4% annual rate of change (2005-10 est.)
+
+Guernsey
+  urban population: 31% of total population (2008)
+  rate of urbanization: 0.6% annual rate of change (2005-10 est.)
+
+Guinea
+  urban population: 34% of total population (2008)
+  rate of urbanization: 3.5% annual rate of change (2005-10 est.)
+
+Guinea-Bissau
+  urban population: 30% of total population (2008)
+  rate of urbanization: 3.2% annual rate of change (2005-10 est.)
+
+Guyana
+  urban population: 28% of total population (2008)
+  rate of urbanization: 0% annual rate of change (2005-10 est.)
+
+Haiti
+  urban population: 47% of total population (2008)
+  rate of urbanization: 4.5% annual rate of change (2005-10 est.)
+
+Holy See (Vatican City)
+  urban population: 100% of total population
+  (2008)
+  rate of urbanization: 0.1% annual rate of change (2005-10 est.)
+
+Honduras
+  urban population: 48% of total population (2008)
+  rate of urbanization: 2.9% annual rate of change (2005-10 est.)
+
+Hong Kong
+  urban population: 100% of total population (2008)
+  rate of urbanization: 1% annual rate of change (2005-10 est.)
+
+Hungary
+  urban population: 68% of total population (2008)
+  rate of urbanization: 0.3% annual rate of change (2005-10 est.)
+
+Iceland
+  urban population: 92% of total population (2008)
+  rate of urbanization: 0.8% annual rate of change (2005-10 est.)
+
+India
+  urban population: 29% of total population (2008)
+  rate of urbanization: 2.4% annual rate of change (2005-10 est.)
+
+Indonesia
+  urban population: 52% of total population (2008)
+  rate of urbanization: 3.3% annual rate of change (2005-10 est.)
+
+Iran
+  urban population: 68% of total population (2008)
+  rate of urbanization: 2.1% annual rate of change (2005-10 est.)
+
+Iraq
+  urban population: 67% of total population (2008)
+  rate of urbanization: 1.7% annual rate of change (2005-10 est.)
+
+Ireland
+  urban population: 61% of total population (2008)
+  rate of urbanization: 2.2% annual rate of change (2005-10 est.)
+
+Isle of Man
+  urban population: 51% of total population (2008)
+  rate of urbanization: -0.2% annual rate of change (2005-10 est.)
+
+Israel
+  urban population: 92% of total population (2008)
+  rate of urbanization: 1.7% annual rate of change (2005-10 est.)
+
+Italy
+  urban population: 68% of total population (2008)
+  rate of urbanization: 0.4% annual rate of change (2005-10 est.)
+
+Jamaica
+  urban population: 53% of total population (2008)
+  rate of urbanization: 0.9% annual rate of change (2005-10 est.)
+
+Japan
+  urban population: 66% of total population (2008)
+  rate of urbanization: 0.2% annual rate of change (2005-10 est.)
+
+Jersey
+  urban population: 31% of total population (2008)
+  rate of urbanization: 0.6% annual rate of change (2005-10 est.)
+
+Jordan
+  urban population: 78% of total population (2008)
+  rate of urbanization: 3.1% annual rate of change (2005-10 est.)
+
+Kazakhstan
+  urban population: 58% of total population (2008)
+  rate of urbanization: 1.2% annual rate of change (2005-10 est.)
+
+Kenya
+  urban population: 22% of total population (2008)
+  rate of urbanization: 4% annual rate of change (2005-10 est.)
+
+Kiribati
+  urban population: 44% of total population (2008)
+  rate of urbanization: 1.8% annual rate of change (2005-10 est.)
+
+Korea, North
+  urban population: 63% of total population (2008)
+  rate of urbanization: 0.9% annual rate of change (2005-10 est.)
+
+Korea, South
+  urban population: 81% of total population (2008)
+  rate of urbanization: 0.6% annual rate of change (2005-10 est.)
+
+Kuwait
+  urban population: 98% of total population (2008)
+  rate of urbanization: 2.5% annual rate of change (2005-10 est.)
+
+Kyrgyzstan
+  urban population: 36% of total population (2008)
+  rate of urbanization: 1.6% annual rate of change (2005-10 est.)
+
+Laos
+  urban population: 31% of total population (2008)
+  rate of urbanization: 5.6% annual rate of change (2005-10 est.)
+
+Latvia
+  urban population: 68% of total population (2008)
+  rate of urbanization: -0.5% annual rate of change (2005-10 est.)
+
+Lebanon
+  urban population: 87% of total population (2008)
+  rate of urbanization: 1.2% annual rate of change (2005-10 est.)
+
+Lesotho
+  urban population: 25% of total population (2008)
+  rate of urbanization: 3.5% annual rate of change (2005-10 est.)
+
+Liberia
+  urban population: 60% of total population (2008)
+  rate of urbanization: 5.6% annual rate of change (2005-10 est.)
+
+Libya
+  urban population: 78% of total population (2008)
+  rate of urbanization: 2.2% annual rate of change (2005-10 est.)
+
+Liechtenstein
+  urban population: 14% of total population (2008)
+  rate of urbanization: 0.5% annual rate of change (2005-10 est.)
+
+Lithuania
+  urban population: 67% of total population (2008)
+  rate of urbanization: -0.4% annual rate of change (2005-10 est.)
+
+Luxembourg
+  urban population: 82% of total population (2008)
+  rate of urbanization: 1% annual rate of change (2005-10 est.)
+
+Macau
+  urban population: 100% of total population (2008)
+  rate of urbanization: 0.7% annual rate of change (2005-10 est.)
+
+Macedonia
+  urban population: 67% of total population (2008)
+  rate of urbanization: 0.8% annual rate of change (2005-10 est.)
+
+Madagascar
+  urban population: 29% of total population (2008)
+  rate of urbanization: 3.8% annual rate of change (2005-10 est.)
+
+Malawi
+  urban population: 19% of total population (2008)
+  rate of urbanization: 5.2% annual rate of change (2005-10 est.)
+
+Malaysia
+  urban population: 70% of total population (2008)
+  rate of urbanization: 3% annual rate of change (2005-10 est.)
+
+Maldives
+  urban population: 38% of total population (2008)
+  rate of urbanization: 5.3% annual rate of change (2005-10 est.)
+
+Mali
+  urban population: 32% of total population (2008)
+  rate of urbanization: 4.8% annual rate of change (2005-10 est.)
+
+Malta
+  urban population: 94% of total population (2008)
+  rate of urbanization: 0.6% annual rate of change (2005-10 est.)
+
+Marshall Islands
+  urban population: 71% of total population (2008)
+  rate of urbanization: 2.7% annual rate of change (2005-10 est.)
+
+Mauritania
+  urban population: 41% of total population (2008)
+  rate of urbanization: 3% annual rate of change (2005-10 est.)
+
+Mauritius
+  urban population: 42% of total population (2008)
+  rate of urbanization: 0.9% annual rate of change (2005-10 est.)
+
+Mexico
+  urban population: 77% of total population (2008)
+  rate of urbanization: 1.5% annual rate of change (2005-10 est.)
+
+Micronesia, Federated States of
+  urban population: 22% of total
+  population (2008)
+  rate of urbanization: 0.8% annual rate of change (2005-10 est.)
+
+Moldova
+  urban population: 42% of total population (2008)
+  rate of urbanization: -1.5% annual rate of change (2005-10 est.)
+
+Monaco
+  urban population: 100% of total population (2008)
+  rate of urbanization: 0.3% annual rate of change (2005-10 est.)
+
+Mongolia
+  urban population: 57% of total population (2008)
+  rate of urbanization: 1.2% annual rate of change (2005-10 est.)
+
+Montenegro
+  urban population: 60% of total population (2008)
+  rate of urbanization: -0.8% annual rate of change (2005-10 est.)
+
+Montserrat
+  urban population: 14% of total population (2008)
+  rate of urbanization: 2.2% annual rate of change (2005-10 est.)
+
+Morocco
+  urban population: 56% of total population (2008)
+  rate of urbanization: 1.8% annual rate of change (2005-10 est.)
+
+Mozambique
+  urban population: 37% of total population (2008)
+  rate of urbanization: 4.1% annual rate of change (2005-10 est.)
+
+Namibia
+  urban population: 37% of total population (2008)
+  rate of urbanization: 2.9% annual rate of change (2005-10 est.)
+
+Nauru
+  urban population: 100% of total population (2008)
+  rate of urbanization: 0.3% annual rate of change (2005-10 est.)
+
+Nepal
+  urban population: 17% of total population (2008)
+  rate of urbanization: 4.9% annual rate of change (2005-10 est.)
+
+Netherlands
+  urban population: 82% of total population (2008)
+  rate of urbanization: 0.9% annual rate of change (2005-10 est.)
+
+New Caledonia
+  urban population: 65% of total population (2008)
+  rate of urbanization: 2.1% annual rate of change (2005-10 est.)
+
+New Zealand
+  urban population: 87% of total population (2008)
+  rate of urbanization: 1% annual rate of change (2005-10 est.)
+
+Nicaragua
+  urban population: 57% of total population (2008)
+  rate of urbanization: 1.8% annual rate of change (2005-10 est.)
+
+Niger
+  urban population: 16% of total population (2008)
+  rate of urbanization: 4% annual rate of change (2005-10 est.)
+
+Nigeria
+  urban population: 48% of total population (2008)
+  rate of urbanization: 3.8% annual rate of change (2005-10 est.)
+
+Niue
+  urban population: 39% of total population (2008)
+  rate of urbanization: -0.2% annual rate of change (2005-10 est.)
+
+Northern Mariana Islands
+  urban population: 91% of total population
+  (2008)
+  rate of urbanization: 2.1% annual rate of change (2005-10 est.)
+
+Norway
+  urban population: 77% of total population (2008)
+  rate of urbanization: 0.7% annual rate of change (2005-10 est.)
+
+Oman
+  urban population: 72% of total population (2008)
+  rate of urbanization: 2% annual rate of change (2005-10 est.)
+
+Pakistan
+  urban population: 36% of total population (2008)
+  rate of urbanization: 3% annual rate of change (2005-10 est.)
+
+Palau
+  urban population: 81% of total population (2008)
+  rate of urbanization: 1.8% annual rate of change (2005-10 est.)
+
+Panama
+  urban population: 73% of total population (2008)
+  rate of urbanization: 2.7% annual rate of change (2005-10 est.)
+
+Papua New Guinea
+  urban population: 12% of total population (2008)
+  rate of urbanization: 1.9% annual rate of change (2005-10 est.)
+
+Paraguay
+  urban population: 60% of total population (2008)
+  rate of urbanization: 2.8% annual rate of change (2005-10 est.)
+
+Peru
+  urban population: 71% of total population (2008)
+  rate of urbanization: 1.3% annual rate of change (2005-10 est.)
+
+Philippines
+  urban population: 65% of total population (2008)
+  rate of urbanization: 3% annual rate of change (2005-10 est.)
+
+Pitcairn Islands
+  urban population: 0% of total population (2008)
+  rate of urbanization: 0% annual rate of change (2005-10 est.)
+
+Poland
+  urban population: 61% of total population (2008)
+  rate of urbanization: -0.3% annual rate of change (2005-10 est.)
+
+Portugal
+  urban population: 59% of total population (2008)
+  rate of urbanization: 1.4% annual rate of change (2005-10 est.)
+
+Puerto Rico
+  urban population: 98% of total population (2008)
+  rate of urbanization: 0.8% annual rate of change (2005-10 est.)
+
+Qatar
+  urban population: 96% of total population (2008)
+  rate of urbanization: 2.2% annual rate of change (2005-10 est.)
+
+Romania
+  urban population: 54% of total population (2008)
+  rate of urbanization: -0.1% annual rate of change (2005-10 est.)
+
+Russia
+  urban population: 73% of total population (2008)
+  rate of urbanization: -0.5% annual rate of change (2005-10 est.)
+
+Rwanda
+  urban population: 18% of total population (2008)
+  rate of urbanization: 4.2% annual rate of change (2005-10 est.)
+
+Saint Helena, Ascension, and Tristan da Cunha
+  urban population: 39%
+  of total population (2008)
+  rate of urbanization: 1.5% annual rate of change (2005-10 est.)
+
+Saint Kitts and Nevis
+  urban population: 32% of total population
+  (2008)
+  rate of urbanization: 1.4% annual rate of change (2005-10 est.)
+
+Saint Lucia
+  urban population: 28% of total population (2008)
+  rate of urbanization: 1.4% annual rate of change (2005-10 est.)
+
+Saint Pierre and Miquelon
+  urban population: 89% of total population
+  (2008)
+  rate of urbanization: 0.1% annual rate of change (2005-10 est.)
+
+Saint Vincent and the Grenadines
+  urban population: 47% of total
+  population (2008)
+  rate of urbanization: 1.3% annual rate of change (2005-10 est.)
+
+Samoa
+  urban population: 23% of total population (2008)
+  rate of urbanization: 1.7% annual rate of change (2005-10 est.)
+
+San Marino
+  urban population: 94% of total population (2008)
+  rate of urbanization: 0.9% annual rate of change (2005-10 est.)
+
+Sao Tome and Principe
+  urban population: 61% of total population
+  (2008)
+  rate of urbanization: 3% annual rate of change (2005-10 est.)
+
+Saudi Arabia
+  urban population: 82% of total population (2008)
+  rate of urbanization: 2.5% annual rate of change (2005-10 est.)
+
+Senegal
+  urban population: 42% of total population (2008)
+  rate of urbanization: 3.1% annual rate of change (2005-10 est.)
+
+Serbia
+  urban population: 52% of total population (2008)
+  rate of urbanization: 0.5% annual rate of change (2005-10 est.)
+
+Seychelles
+  urban population: 54% of total population (2008)
+  rate of urbanization: 1.4% annual rate of change (2005-10 est.)
+
+Sierra Leone
+  urban population: 38% of total population (2008)
+  rate of urbanization: 2.9% annual rate of change (2005-10 est.)
+
+Singapore
+  urban population: 100% of total population (2008)
+  rate of urbanization: 1.2% annual rate of change (2005-10 est.)
+
+Slovakia
+  urban population: 56% of total population (2008)
+  rate of urbanization: 0.2% annual rate of change (2005-10 est.)
+
+Slovenia
+  urban population: 48% of total population (2008)
+  rate of urbanization: -0.6% annual rate of change (2005-10 est.)
+
+Solomon Islands
+  urban population: 18% of total population (2008)
+  rate of urbanization: 4.1% annual rate of change (2005-10 est.)
+
+Somalia
+  urban population: 37% of total population (2008)
+  rate of urbanization: 4.2% annual rate of change (2005-10 est.)
+
+South Africa
+  urban population: 61% of total population (2008)
+  rate of urbanization: 1.4% annual rate of change (2005-10 est.)
+
+Spain
+  urban population: 77% of total population (2008)
+  rate of urbanization: 0.9% annual rate of change (2005-10 est.)
+
+Sri Lanka
+  urban population: 15% of total population (2008)
+  rate of urbanization: 0.5% annual rate of change (2005-10 est.)
+
+Sudan
+  urban population: 43% of total population (2008)
+  rate of urbanization: 4.3% annual rate of change (2005-10 est.)
+
+Suriname
+  urban population: 75% of total population (2008)
+  rate of urbanization: 1% annual rate of change (2005-10 est.)
+
+Swaziland
+  urban population: 25% of total population (2008)
+  rate of urbanization: 1.7% annual rate of change (2005-10 est.)
+
+Sweden
+  urban population: 85% of total population (2008)
+  rate of urbanization: 0.5% annual rate of change (2005-10 est.)
+
+Switzerland
+  urban population: 73% of total population (2008)
+  rate of urbanization: 0.5% annual rate of change (2005-10 est.)
+
+Syria
+  urban population: 54% of total population (2008)
+  rate of urbanization: 3.1% annual rate of change (2005-10 est.)
+
+Tajikistan
+  urban population: 26% of total population (2008)
+  rate of urbanization: 1.6% annual rate of change (2005-10 est.)
+
+Tanzania
+  urban population: 25% of total population (2008)
+  rate of urbanization: 4.2% annual rate of change (2005-10 est.)
+
+Thailand
+  urban population: 33% of total population (2008)
+  rate of urbanization: 1.7% annual rate of change (2005-10 est.)
+
+Timor-Leste
+  urban population: 27% of total population (2008)
+  rate of urbanization: 5% annual rate of change (2005-10 est.)
+
+Togo
+  urban population: 42% of total population (2008)
+  rate of urbanization: 4.3% annual rate of change (2005-10 est.)
+
+Tokelau
+  urban population: 0% of total population (2008)
+  rate of urbanization: 0% annual rate of change (2005-10 est.)
+
+Tonga
+  urban population: 25% of total population (2008)
+  rate of urbanization: 1.6% annual rate of change (2005-10 est.)
+
+Trinidad and Tobago
+  urban population: 13% of total population (2008)
+  rate of urbanization: 2.9% annual rate of change (2005-10 est.)
+
+Tunisia
+  urban population: 67% of total population (2008)
+  rate of urbanization: 1.7% annual rate of change (2005-10 est.)
+
+Turkey
+  urban population: 69% of total population (2008)
+  rate of urbanization: 1.9% annual rate of change (2005-10 est.)
+
+Turkmenistan
+  urban population: 49% of total population (2008)
+  rate of urbanization: 2.2% annual rate of change (2005-10 est.)
+
+Turks and Caicos Islands
+  urban population: 92% of total population
+  (2008)
+  rate of urbanization: 2.2% annual rate of change (2005-10 est.)
+
+Tuvalu
+  urban population: 49% of total population (2008)
+  rate of urbanization: 1.3% annual rate of change (2005-10 est.)
+
+Uganda
+  urban population: 13% of total population (2008)
+  rate of urbanization: 4.4% annual rate of change (2005-10 est.)
+
+Ukraine
+  urban population: 68% of total population (2008)
+  rate of urbanization: -0.7% annual rate of change (2005-10 est.)
+
+United Arab Emirates
+  urban population: 78% of total population (2008)
+  rate of urbanization: 2.9% annual rate of change (2005-10 est.)
+
+United Kingdom
+  urban population: 90% of total population (2008)
+  rate of urbanization: 0.5% annual rate of change (2005-10 est.)
+
+United States
+  urban population: 82% of total population (2008)
+  rate of urbanization: 1.3% annual rate of change (2005-10 est.)
+
+Uruguay
+  urban population: 92% of total population (2008)
+  rate of urbanization: 0.4% annual rate of change (2005-10 est.)
+
+Uzbekistan
+  urban population: 37% of total population (2008)
+  rate of urbanization: 1.6% annual rate of change (2005-10 est.)
+
+Vanuatu
+  urban population: 25% of total population (2008)
+  rate of urbanization: 4.1% annual rate of change (2005-10 est.)
+
+Venezuela
+  urban population: 93% of total population (2008)
+  rate of urbanization: 2% annual rate of change (2005-10 est.)
+
+Vietnam
+  urban population: 28% of total population (2008)
+  rate of urbanization: 3.1% annual rate of change (2005-10 est.)
+
+Virgin Islands
+  urban population: 95% of total population (2008)
+  rate of urbanization: 0.2% annual rate of change (2005-10 est.)
+
+Wallis and Futuna
+  urban population: 0% of total population (2008)
+  rate of urbanization: 0% annual rate of change (2005-10 est.)
+
+West Bank
+  urban population: 72% of total population (2008)
+  rate of urbanization: 3.3% annual rate of change (2005-10 est.)
+
+Western Sahara
+  urban population: 81% of total population (2008)
+  rate of urbanization: 4% annual rate of change (2005-10 est.)
+
+World
+  urban population: 50.5% of total population (2010)
+  rate of urbanization: 1.85% annual rate of change (2010-15 est.)
+  ten largest urban agglomerations: Tokyo (Japan) - 36,669,000; Delhi
+  (India) - 22,157,000; Sao Paulo (Brazil) - 20,262,000; Mumbai
+  (India) - 20,041,000; Mexico City (Mexico) - 19,460,000; New
+  York-Newark (US) - 19,425,000; Shanghai (China) - 16,575,000;
+  Kolkata (India) - 15,552,000; Dhaka (Bangladesh) - 14,648,000;
+  Karachi (Pakistan) - 13,125,000 (2009)
+
+Yemen
+  urban population: 31% of total population (2008)
+  rate of urbanization: 4.9% annual rate of change (2005-10 est.)
+
+Zambia
+  urban population: 35% of total population (2008)
+  rate of urbanization: 2.3% annual rate of change (2005-10 est.)
+
+Zimbabwe
+  urban population: 37% of total population (2008)
+  rate of urbanization: 2.2% annual rate of change (2005-10 est.)
+
+
+
+
+======================================================================
+
+
+
+
+

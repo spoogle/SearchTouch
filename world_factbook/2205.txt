@@ -1,0 +1,978 @@
+2205
+
+  Field Listing :: School life expectancy (primary to tertiary
+
+education)
+
+  School life expectancy (SLE) is the total number of years of
+  schooling (primary to tertiary) that a child can expect to receive,
+  assuming that the probability of his or her being enrolled in school
+  at any particular future age is equal to the current enrollment
+  ratio at that age. Caution must be maintained when utilizing this
+  indicator in international comparisons. For example, a year or grade
+  completed in one country is not necessarily the same in terms of
+  educational content or quality as a year or grade completed in
+  another country. SLE represents the expected number of years of
+  schooling that will be completed, including years spent repeating
+  one or more grades.
+  Country
+
+
+  School life expectancy (primary to tertiary education)(years)
+
+Afghanistan
+  total: 8 years
+  male: 11 years
+  female: 5 years (2004)
+
+Albania
+  total: 11 years
+  male: 11 years
+  female: 11 years (2004)
+
+Algeria
+  total: 13 years
+  male: 13 years
+  female: 13 years (2005)
+
+Andorra
+  total: 12 years
+  male: 11 years
+  female: 12 years (2008)
+
+Anguilla
+  total: 11 years
+  male: 11 years
+  female: 11 years (2008)
+
+Argentina
+  total: 16 years
+  male: 15 years
+  female: 17 years (2007)
+
+Armenia
+  total: 12 years
+  male: 11 years
+  female: 12 years (2007)
+
+Aruba
+  total: 13 years
+  male: 13 years
+  female: 14 years (2008)
+
+Australia
+  total: 21 years
+  male: 20 years
+  female: 21 years (2008)
+
+Austria
+  total: 15 years
+  male: 15 years
+  female: 15 years (2008)
+
+Azerbaijan
+  total: 13 years
+  male: 13 years
+  female: 13 years (2008)
+
+Bahrain
+  total: 14 years
+  male: 14 years
+  female: 15 years (2006)
+
+Bangladesh
+  total: 8 years
+  male: 8 years
+  female: 8 years (2007)
+
+Barbados
+  total: 13 years
+  male: 13 years
+  female: 14 years (2001)
+
+Belarus
+  total: 15 years
+  male: 14 years
+  female: 15 years (2007)
+
+Belgium
+  total: 16 years
+  male: 16 years
+  female: 16 years (2008)
+
+Belize
+  total: 12 years
+  male: 13 years
+  female: 12 years (2004)
+
+Benin
+  total: 9 years
+  male: 10 years
+  female: 6 years (2005)
+
+Bermuda
+  total: 13 years
+  male: 13 years
+  female: 14 years (2005)
+
+Bhutan
+  total: 11 years
+  male: 12 years
+  female: 11 years (2008)
+
+Bolivia
+  total: 14 years
+  male: 14 years
+  female: 14 years (2007)
+
+Bosnia and Herzegovina
+  total: 13 years (2007)
+
+Botswana
+  total: 12 years
+  male: 12 years
+  female: 12 years (2006)
+
+Brazil
+  total: 14 years
+  male: 14 years
+  female: 14 years (2008)
+
+British Virgin Islands
+  total: 17 years
+  male: 16 years
+  female: 19 years (2005)
+
+Brunei
+  total: 14 years
+  male: 14 years
+  female: 14 years (2008)
+
+Bulgaria
+  total: 14 years
+  male: 13 years
+  female: 14 years (2008)
+
+Burkina Faso
+  total: 6 years
+  male: 7 years
+  female: 6 years (2009)
+
+Burma
+  total: 9 years
+  male: 8 years
+  female: 8 years (2007)
+
+Burundi
+  total: 10 years
+  male: 9 years
+  female: 7 years (2008)
+
+Cambodia
+  total: 10 years
+  male: 10 years
+  female: 9 years (2007)
+
+Cameroon
+  total: 10 years
+  male: 11 years
+  female: 9 years (2008)
+
+Canada
+  total: 17 years
+  male: 17 years
+  female: 17 years (2004)
+
+Cape Verde
+  total: 12 years
+  male: 11 years
+  female: 12 years (2006)
+
+Cayman Islands
+  total: 13 years
+  male: 13 years
+  female: 13 years (2008)
+
+Central African Republic
+  total: 7 years
+  male: 8 years
+  female: 5 years (2009)
+
+Chad
+  total: 6 years
+  male: 8 years
+  female: 4 years (2005)
+
+Chile
+  total: 15 years
+  male: 15 years
+  female: 14 years (2007)
+
+China
+  total: 11 years
+  male: 11 years
+  female: 12 years (2008)
+
+Colombia
+  total: 13 years
+  male: 13 years
+  female: 14 years (2008)
+
+Comoros
+  total: 11 years
+  male: 12 years
+  female: 10 years (2004)
+
+Congo, Democratic Republic of the
+  total: 8 years
+  male: 9 years
+  female: 6 years (2008)
+
+Congo, Republic of the
+  total: 9 years
+  male: 10 years
+  female: 9 years (2003)
+
+Cook Islands
+  total: 10 years
+  male: 10 years
+  female: 10 years (2005)
+
+Costa Rica
+  total: 12 years
+  male: 12 years
+  female: 12 years (2005)
+
+Cote d'Ivoire
+  total: 6 years
+  male: 10 years
+  female: 5 years (2000)
+
+Croatia
+  total: 14 years
+  male: 14 years
+  female: 14 years (2007)
+
+Cuba
+  total: 18 years
+  male: 16 years
+  female: 19 years (2009)
+
+Cyprus
+  total: 14 years
+  male: 14 years
+  female: 14 years (2008)
+
+Czech Republic
+  total: 15 years
+  male: 15 years
+  female: 16 years (2008)
+
+Denmark
+  total: 17 years
+  male: 16 years
+  female: 18 years (2007)
+
+Djibouti
+  total: 5 years
+  male: 5 years
+  female: 4 years (2007)
+
+Dominica
+  total: 13 years
+  male: 12 years
+  female: 13 years (2008)
+
+Dominican Republic
+  total: 12 years
+  male: 11 years
+  female: 13 years (2004)
+
+Ecuador
+  total: 14 years
+  male: 14 years
+  female: 14 years (2008)
+
+Egypt
+  total: 11 years (2004)
+
+El Salvador
+  total: 12 years
+  male: 12 years
+  female: 12 years (2008)
+
+Equatorial Guinea
+  total: 8 years
+  male: 9 years
+  female: 7 years (2000)
+
+Eritrea
+  total: 6 years
+  male: 7 years
+  female: 5 years (2004)
+
+Estonia
+  total: 16 years
+  male: 15 years
+  female: 17 years (2008)
+
+Ethiopia
+  total: 8 years
+  male: 9 years
+  female: 8 years (2008)
+
+Fiji
+  total: 13 years
+  male: 13 years
+  female: 13 years (2005)
+
+Finland
+  total: 17 years
+  male: 17 years
+  female: 18 years (2008)
+
+France
+  total: 16 years
+  male: 16 years
+  female: 17 years (2008)
+
+Gabon
+  total: 13 years
+  male: 13 years
+  female: 12 years (1999)
+
+Gambia, The
+  total: 9 years
+  male: 7 years
+  female: 7 years (2004)
+
+Gaza Strip
+  total: 14 years
+  male: 13 years
+  female: 14 years (2006)
+
+Georgia
+  total: 13 years
+  male: 13 years
+  female: 13 years (2008)
+
+Germany
+  total: 16 years
+  male: 16 years
+  female: 16 years (2006)
+
+Ghana
+  total: 10 years
+  male: 10 years
+  female: 9 years (2007)
+
+Greece
+  total: 17 years
+  male: 16 years
+  female: 17 years (2007)
+
+Grenada
+  total: 13 years
+  male: 13 years
+  female: 14 years (2005)
+
+Guatemala
+  total: 11 years
+  male: 11 years
+  female: 10 years (2007)
+
+Guinea
+  total: 9 years
+  male: 10 years
+  female: 7 years (2008)
+
+Guinea-Bissau
+  total: 9 years
+  male: 8 years
+  female: 5 years (2006)
+
+Guyana
+  total: 12 years
+  male: 12 years
+  female: 12 years (2008)
+
+Honduras
+  total: 11 years
+  male: 11 years
+  female: 12 years (2008)
+
+Hong Kong
+  total: 14 years
+  male: 14 years
+  female: 13 years (2006)
+
+Hungary
+  total: 15 years
+  male: 15 years
+  female: 16 years (2008)
+
+Iceland
+  total: 18 years
+  male: 17 years
+  female: 20 years (2008)
+
+India
+  total: 10 years
+  male: 11 years
+  female: 10 years (2007)
+
+Indonesia
+  total: 13 years
+  male: 13 years
+  female: 13 years (2008)
+
+Iran
+  total: 14 years
+  male: 13 years
+  female: 15 years (2008)
+
+Iraq
+  total: 10 years
+  male: 11 years
+  female: 8 years (2005)
+
+Ireland
+  total: 18 years
+  male: 18 years
+  female: 18 years (2008)
+
+Israel
+  total: 15 years
+  male: 15 years
+  female: 16 years (2008)
+
+Italy
+  total: 16 years
+  male: 16 years
+  female: 17 years (2007)
+
+Jamaica
+  total: 14 years
+  male: 13 years
+  female: 14 years (2008)
+
+Japan
+  total: 15 years
+  male: 15 years
+  female: 15 years (2008)
+
+Jordan
+  total: 13 years
+  male: 13 years
+  female: 13 years (2008)
+
+Kazakhstan
+  total: 15 years
+  male: 15 years
+  female: 15 years (2009)
+
+Kenya
+  total: 10 years
+  male: 10 years
+  female: 9 years (2005)
+
+Kiribati
+  total: 12 years
+  male: 12 years
+  female: 13 years (2005)
+
+Korea, South
+  total: 17 years
+  male: 18 years
+  female: 16 years (2008)
+
+Kuwait
+  total: 12 years
+  male: 12 years
+  female: 13 years (2006)
+
+Kyrgyzstan
+  total: 13 years
+  male: 12 years
+  female: 13 years (2008)
+
+Laos
+  total: 9 years
+  male: 10 years
+  female: 9 years (2008)
+
+Latvia
+  total: 15 years
+  male: 14 years
+  female: 17 years (2008)
+
+Lebanon
+  total: 14 years
+  male: 13 years
+  female: 14 years (2009)
+
+Lesotho
+  total: 10 years
+  male: 10 years
+  female: 10 years (2006)
+
+Liberia
+  total: 11 years
+  male: 13 years
+  female: 9 years (2000)
+
+Libya
+  total: 17 years
+  male: 16 years
+  female: 17 years (2003)
+
+Liechtenstein
+  total: 15 years
+  male: 16 years
+  female: 14 years (2008)
+
+Lithuania
+  total: 16 years
+  male: 15 years
+  female: 17 years (2008)
+
+Luxembourg
+  total: 13 years
+  male: 13 years
+  female: 13 years (2006)
+
+Macau
+  total: 14 years
+  male: 15 years
+  female: 14 years (2008)
+
+Macedonia
+  total: 12 years
+  male: 12 years
+  female: 12 years (2007)
+
+Madagascar
+  total: 10 years
+  male: 10 years
+  female: 10 years (2008)
+
+Malawi
+  total: 9 years
+  male: 9 years
+  female: 9 years (2007)
+
+Malaysia
+  total: 13 years
+  male: 12 years
+  female: 13 years (2007)
+
+Maldives
+  total: 12 years
+  male: 13 years
+  female: 12 years (2006)
+
+Mali
+  total: 8 years
+  male: 9 years
+  female: 7 years (2009)
+
+Malta
+  total: 14 years
+  male: 14 years
+  female: 15 years (2007)
+
+Marshall Islands
+  total: 13 years
+  male: 13 years
+  female: 13 years (2003)
+
+Mauritania
+  total: 8 years
+  male: 8 years
+  female: 8 years (2007)
+
+Mauritius
+  total: 14 years
+  male: 13 years
+  female: 14 years (2008)
+
+Mexico
+  total: 14 years
+  male: 14 years
+  female: 14 years (2008)
+
+Moldova
+  total: 12 years
+  male: 12 years
+  female: 13 years (2008)
+
+Mongolia
+  total: 14 years
+  male: 13 years
+  female: 14 years (2008)
+
+Montserrat
+  total: 15 years
+  male: 14 years
+  female: 17 years (2007)
+
+Morocco
+  total: 10 years
+  male: 11 years
+  female: 9 years (2006)
+
+Mozambique
+  total: 8 years
+  male: 9 years
+  female: 7 years (2005)
+
+Namibia
+  total: 12 years
+  male: 12 years
+  female: 12 years (2008)
+
+Nauru
+  total: 9 years
+  male: 8 years
+  female: 9 years (2006)
+
+Nepal
+  total: 9 years
+  male: 10 years
+  female: 8 years (2003)
+
+Netherlands
+  total: 17 years
+  male: 17 years
+  female: 17 years (2008)
+
+New Zealand
+  total: 19 years
+  male: 19 years
+  female: 20 years (2008)
+
+Nicaragua
+  total: 11 years
+  male: 11 years
+  female: 11 years (2003)
+
+Niger
+  total: 5 years
+  male: 5 years
+  female: 4 years (2009)
+
+Nigeria
+  total: 9 years
+  male: 10 years
+  female: 8 years (2005)
+
+Niue
+  total: 12 years
+  male: 12 years
+  female: 12 years (2005)
+
+Norway
+  total: 17 years
+  male: 17 years
+  female: 18 years (2008)
+
+Oman
+  total: 11 years
+  male: 11 years
+  female: 11 years (2008)
+
+Pakistan
+  total: 7 years
+  male: 8 years
+  female: 6 years (2008)
+
+Palau
+  total: 15 years
+  male: 14 years
+  female: 15 years (2001)
+
+Panama
+  total: 14 years
+  male: 13 years
+  female: 14 years (2007)
+
+Paraguay
+  total: 12 years
+  male: 12 years
+  female: 12 years (2007)
+
+Peru
+  total: 14 years
+  male: 13 years
+  female: 14 years (2006)
+
+Philippines
+  total: 12 years
+  male: 12 years
+  female: 12 years (2008)
+
+Poland
+  total: 15 years
+  male: 15 years
+  female: 16 years (2007)
+
+Portugal
+  total: 16 years
+  male: 15 years
+  female: 16 years (2007)
+
+Qatar
+  total: 13 years
+  male: 12 years
+  female: 15 years (2008)
+
+Romania
+  total: 15 years
+  male: 14 years
+  female: 15 years (2008)
+
+Russia
+  total: 14 years
+  male: 14 years
+  female: 15 years (2008)
+
+Rwanda
+  total: 11 years
+  male: 9 years
+  female: 9 years (2008)
+
+Saint Kitts and Nevis
+  total: 12 years
+  male: 12 years
+  female: 13 years (2005)
+
+Saint Lucia
+  total: 13 years
+  male: 13 years
+  female: 14 years (2008)
+
+Saint Vincent and the Grenadines
+  total: 14 years
+  male: 12 years
+  female: 12 years (2005)
+
+Samoa
+  total: 12 years
+  male: 12 years
+  female: 13 years (2001)
+
+Sao Tome and Principe
+  total: 11 years
+  male: 11 years
+  female: 11 years (2009)
+
+Saudi Arabia
+  total: 14 years
+  male: 14 years
+  female: 13 years (2008)
+
+Senegal
+  total: 8 years
+  male: 8 years
+  female: 7 years (2008)
+
+Serbia
+  total: 14 years
+  male: 13 years
+  female: 14 years (2008)
+
+Seychelles
+  total: 15 years
+  male: 14 years
+  female: 16 years (2008)
+
+Sierra Leone
+  total: 7 years
+  male: 9 years
+  female: 6 years (2001)
+
+Slovakia
+  total: 15 years
+  male: 14 years
+  female: 16 years (2008)
+
+Slovenia
+  total: 17 years
+  male: 16 years
+  female: 18 years (2008)
+
+Solomon Islands
+  total: 9 years
+  male: 9 years
+  female: 9 years (2006)
+
+South Africa
+  total: 13 years
+  male: 13 years
+  female: 13 years (2004)
+
+Spain
+  total: 16 years
+  male: 16 years
+  female: 17 years (2008)
+
+Sudan
+  total: 4 years (2000)
+
+Suriname
+  total: 12 years
+  male: 11 years
+  female: 13 years (2002)
+
+Swaziland
+  total: 10 years
+  male: 11 years
+  female: 10 years (2006)
+
+Sweden
+  total: 16 years
+  male: 15 years
+  female: 16 years (2008)
+
+Switzerland
+  total: 16 years
+  male: 16 years
+  female: 15 years (2008)
+
+Tajikistan
+  total: 11 years
+  male: 12 years
+  female: 10 years (2008)
+
+Tanzania
+  total: 5 years
+  male: 5 years
+  female: 5 years (1999)
+
+Thailand
+  total: 12 years
+  male: 12 years
+  female: 13 years (2009)
+
+Timor-Leste
+  total: 11 years (2002)
+
+Togo
+  total: 10 years
+  male: 11 years
+  female: 7 years (2007)
+
+Tokelau
+  total: 11 years
+  male: 10 years
+  female: 11 years (2004)
+
+Tonga
+  total: 14 years
+  male: 14 years
+  female: 14 years (2004)
+
+Trinidad and Tobago
+  total: 11 years
+  male: 11 years
+  female: 12 years (2005)
+
+Tunisia
+  total: 15 years
+  male: 14 years
+  female: 15 years (2008)
+
+Turkey
+  total: 12 years
+  male: 12 years
+  female: 11 years (2008)
+
+Turks and Caicos Islands
+  total: 11 years
+  male: 11 years
+  female: 12 years (2005)
+
+Tuvalu
+  total: 11 years
+  male: 11 years
+  female: 11 years (2001)
+
+Uganda
+  total: 10 years
+  male: 11 years
+  female: 10 years (2008)
+
+Ukraine
+  total: 15 years
+  male: 14 years
+  female: 15 years (2008)
+
+United Arab Emirates
+  total: 12 years
+  male: 11 years
+  female: 12 years (2003)
+
+United Kingdom
+  total: 16 years
+  male: 16 years
+  female: 17 years (2008)
+
+United States
+  total: 16 years
+  male: 15 years
+  female: 17 years (2008)
+
+Uruguay
+  total: 16 years
+  male: 15 years
+  female: 17 years (2007)
+
+Uzbekistan
+  total: 11 years
+  male: 12 years
+  female: 11 years (2008)
+
+Vanuatu
+  total: 10 years
+  male: 11 years
+  female: 10 years (2004)
+
+Venezuela
+  total: 14 years
+  male: 13 years
+  female: 15 years (2008)
+
+Vietnam
+  total: 10 years
+  male: 11 years
+  female: 10 years (2001)
+
+West Bank
+  total: 14 years
+  male: 13 years
+  female: 14 years (2006)
+
+Yemen
+  total: 9 years
+  male: 11 years
+  female: 7 years (2005)
+
+Zambia
+  total: 7 years
+  male: 8 years
+  female: 7 years (2000)
+
+Zimbabwe
+  total: 9 years
+  male: 10 years
+  female: 9 years (2003)
+
+
+
+
+======================================================================
+
+
+
+
+

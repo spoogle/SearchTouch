@@ -1,0 +1,707 @@
+2202
+
+  Field Listing :: Freshwater withdrawal
+
+(domestic/industrial/agricultural)
+
+  This entry provides the annual quantity of water in cubic kilometers
+  removed from available sources for use in any purpose. Water
+  drawn-off is not necessarily entirely consumed and some portion may
+  be returned for further use downstream. Domestic sector use refers
+  to water supplied by public distribution systems. Note that some of
+  this total may be used for small industrial and/or limited
+  agricultural purposes. Industrial sector use is the quantity of
+  water used by self-supplied industries not connected to a public
+  distribution system. Agricultural sector use includes water used for
+  irrigation and livestock watering, and does not account for
+  agriculture directly dependent on rainfall. Included are figures for
+  total annual water withdrawal and per capita water withdrawal.
+  Country
+
+
+  Freshwater withdrawal (domestic/industrial/agricultural)()
+
+Afghanistan
+  total: 23.26 cu km/yr (2%/0%/98%)
+  per capita: 779 cu m/yr (2000)
+
+Albania
+  total: 1.71 cu km/yr (27%/11%/62%)
+  per capita: 546 cu m/yr (2000)
+
+Algeria
+  total: 6.07 cu km/yr (22%/13%/65%)
+  per capita: 185 cu m/yr (2000)
+
+Angola
+  total: 0.35 cu km/yr (23%/17%/60%)
+  per capita: 22 cu m/yr (2000)
+
+Antigua and Barbuda
+  total: 0.005 cu km/yr (60%/20%/20%)
+  per capita: 63 cu m/yr (1990)
+
+Argentina
+  total: 29.19 cu km/yr (17%/9%/74%)
+  per capita: 753 cu m/yr (2000)
+
+Armenia
+  total: 2.95 cu km/yr (30%/4%/66%)
+  per capita: 977 cu m/yr (2000)
+
+Australia
+  total: 24.06 cu km/yr (15%/10%/75%)
+  per capita: 1,193 cu m/yr (2000)
+
+Austria
+  total: 3.67 cu km/yr (35%/64%/1%)
+  per capita: 448 cu m/yr (1999)
+
+Azerbaijan
+  total: 17.25 cu km/yr (5%/28%/68%)
+  per capita: 2,051 cu m/yr (2000)
+
+Bahrain
+  total: 0.3 cu km/yr (40%/3%/57%)
+  per capita: 411 cu m/yr (2000)
+
+Bangladesh
+  total: 79.4 cu km/yr (3%/1%/96%)
+  per capita: 560 cu m/yr (2000)
+
+Barbados
+  total: 0.09 cu km/yr (33%/44%/22%)
+  per capita: 333 cu m/yr (2000)
+
+Belarus
+  total: 2.79 cu km/yr (23%/47%/30%)
+  per capita: 286 cu m/yr (2000)
+
+Belgium
+  total: 7.44 cu km/yr (13%/85%/1%)
+  per capita: 714 cu m/yr (1998)
+
+Belize
+  total: 0.15 cu km/yr (7%/73%/20%)
+  per capita: 556 cu m/yr (2000)
+
+Benin
+  total: 0.13 cu km/yr (32%/23%/45%)
+  per capita: 15 cu m/yr (2001)
+
+Bhutan
+  total: 0.43 cu km/yr (5%/1%/94%)
+  per capita: 199 cu m/yr (2000)
+
+Bolivia
+  total: 1.44 cu km/yr (13%/7%/81%)
+  per capita: 157 cu m/yr (2000)
+
+Botswana
+  total: 0.19 cu km/yr (41%/18%/41%)
+  per capita: 107 cu m/yr (2000)
+
+Brazil
+  total: 59.3 cu km/yr (20%/18%/62%)
+  per capita: 318 cu m/yr (2000)
+
+Brunei
+  total: 0.09
+  per capita: 243 cu m/yr (1994)
+
+Bulgaria
+  total: 6.92 cu km/yr (3%/78%/19%)
+  per capita: 895 cu m/yr (2003)
+
+Burkina Faso
+  total: 0.8 cu km/yr (13%/1%/86%)
+  per capita: 60 cu m/yr (2000)
+
+Burma
+  total: 33.23 cu km/yr (1%/1%/98%)
+  per capita: 658 cu m/yr (2000)
+
+Burundi
+  total: 0.29 cu km/yr (17%/6%/77%)
+  per capita: 38 cu m/yr (2000)
+
+Cambodia
+  total: 4.08 cu km/yr (1%/0%/98%)
+  per capita: 290 cu m/yr (2000)
+
+Cameroon
+  total: 0.99 cu km/yr (18%/8%/74%)
+  per capita: 61 cu m/yr (2000)
+
+Canada
+  total: 44.72 cu km/yr (20%/69%/12%)
+  per capita: 1,386 cu m/yr (1996)
+
+Cape Verde
+  total: 0.02 cu km/yr (7%/2%/91%)
+  per capita: 39 cu m/yr (2000)
+
+Central African Republic
+  total: 0.03 cu km/yr (80%/16%/4%)
+  per capita: 7 cu m/yr (2000)
+
+Chad
+  total: 0.23 cu km/yr (17%/0%/83%)
+  per capita: 24 cu m/yr (2000)
+
+Chile
+  total: 12.55 cu km/yr (11%/25%/64%)
+  per capita: 770 cu m/yr (2000)
+
+China
+  total: 549.76 cu km/yr (7%/26%/68%)
+  per capita: 415 cu m/yr (2000)
+
+Colombia
+  total: 10.71 cu km/yr (50%/4%/46%)
+  per capita: 235 cu m/yr (2000)
+
+Comoros
+  total: 0.01 cu km/yr (48%/5%/47%)
+  per capita: 13 cu m/yr (1999)
+
+Congo, Democratic Republic of the
+  total: 0.36 cu km/yr (53%/17%/31%)
+  per capita: 6 cu m/yr (2000)
+
+Congo, Republic of the
+  total: 0.03 cu km/yr (59%/29%/12%)
+  per capita: 8 cu m/yr (2000)
+
+Costa Rica
+  total: 2.68 cu km/yr (29%/17%/53%)
+  per capita: 619 cu m/yr (2000)
+
+Cote d'Ivoire
+  total: 0.93 cu km/yr (24%/12%/65%)
+  per capita: 51 cu m/yr (2000)
+
+Cuba
+  total: 8.2 cu km/yr (19%/12%/69%)
+  per capita: 728 cu m/yr (2000)
+
+Curacao
+  NA
+
+Cyprus
+  total: 0.21 cu km/yr (27%/1%/71%)
+  per capita: 250 cu m/yr (2000)
+
+Czech Republic
+  total: 1.91 cu km/yr (41%/57%/2%)
+  per capita: 187 cu m/yr (2002)
+
+Denmark
+  total: 0.67 cu km/yr (32%/26%/42%)
+  per capita: 123 cu m/yr (2002)
+
+Djibouti
+  total: 0.02 cu km/yr (84%/0%/16%)
+  per capita: 25 cu m/yr (2000)
+
+Dominica
+  total: 0.02 cu km/yr
+  per capita: 213 cu m/yr (1996)
+
+Dominican Republic
+  total: 3.39 cu km/yr (32%/2%/66%)
+  per capita: 381 cu m/yr (2000)
+
+Ecuador
+  total: 16.98 cu km/yr (12%/5%/82%)
+  per capita: 1,283 cu m/yr (2000)
+
+Egypt
+  total: 68.3 cu km/yr (8%/6%/86%)
+  per capita: 923 cu m/yr (2000)
+
+El Salvador
+  total: 1.28 cu km/yr (25%/16%/59%)
+  per capita: 186 cu m/yr (2000)
+
+Equatorial Guinea
+  total: 0.11 cu km/yr (83%/16%/1%)
+  per capita: 220 cu m/yr (2000)
+
+Eritrea
+  total: 0.3 cu km/yr (3%/0%/97%)
+  per capita: 68 cu m/yr (2000)
+
+Estonia
+  total: 1.41 cu km/yr (56%/39%/5%)
+  per capita: 1,060 cu m/yr (2002)
+
+Ethiopia
+  total: 5.56 cu km/yr (6%/0%/94%)
+  per capita: 72 cu m/yr (2002)
+
+Fiji
+  total: 0.07 cu km/yr (14%/14%/71%)
+  per capita: 82 cu m/yr (2000)
+
+Finland
+  total: 2.33 cu km/yr (14%/84%/3%)
+  per capita: 444 cu m/yr (1999)
+
+France
+  total: 33.16 cu km/yr (16%/74%/10%)
+  per capita: 548 cu m/yr (2000)
+
+Gabon
+  total: 0.12 cu km/yr (50%/8%/42%)
+  per capita: 87 cu m/yr (2000)
+
+Gambia, The
+  total: 0.03 cu km/yr (23%/12%/65%)
+  per capita: 20 cu m/yr (2000)
+
+Georgia
+  total: 3.61 cu km/yr (20%/21%/59%)
+  per capita: 808 cu m/yr (2000)
+
+Germany
+  total: 38.01 cu km/yr (12%/68%/20%)
+  per capita: 460 cu m/yr (2001)
+
+Ghana
+  total: 0.98 cu km/yr (24%/10%/66%)
+  per capita: 44 cu m/yr (2000)
+
+Greece
+  total: 8.7 cu km/yr (16%/3%/81%)
+  per capita: 782 cu m/yr (1997)
+
+Guatemala
+  total: 2.01 cu km/yr (6%/13%/80%)
+  per capita: 160 cu m/yr (2000)
+
+Guinea
+  total: 1.51 cu km/yr (8%/2%/90%)
+  per capita: 161 cu m/yr (2000)
+
+Guinea-Bissau
+  total: 0.18 cu km/yr (13%/5%/82%)
+  per capita: 113 cu m/yr (2000)
+
+Guyana
+  total: 1.64 cu km/yr (2%/1%/98%)
+  per capita: 2,187 cu m/yr (2000)
+
+Haiti
+  total: 0.99 cu km/yr (5%/1%/94%)
+  per capita: 116 cu m/yr (2000)
+
+Honduras
+  total: 0.86 cu km/yr (8%/12%/80%)
+  per capita: 119 cu m/yr (2000)
+
+Hungary
+  total: 21.03 cu km/yr (9%/59%/32%)
+  per capita: 2,082 cu m/yr (2001)
+
+Iceland
+  total: 0.17 cu km/yr (34%/66%/0%)
+  per capita: 567 cu m/yr (2003)
+
+India
+  total: 645.84 cu km/yr (8%/5%/86%)
+  per capita: 585 cu m/yr (2000)
+
+Indonesia
+  total: 82.78 cu km/yr (8%/1%/91%)
+  per capita: 372 cu m/yr (2000)
+
+Iran
+  total: 72.88 cu km/yr (7%/2%/91%)
+  per capita: 1,048 cu m/yr (2000)
+
+Iraq
+  total: 42.7 cu km/yr (3%/5%/92%)
+  per capita: 1,482 cu m/yr (2000)
+
+Ireland
+  total: 1.18 cu km/yr (23%/77%/0%)
+  per capita: 284 cu m/yr (1994)
+
+Israel
+  total: 2.05 cu km/yr (31%/7%/62%)
+  per capita: 305 cu m/yr (2000)
+
+Italy
+  total: 41.98 cu km/yr (18%/37%/45%)
+  per capita: 723 cu m/yr (1998)
+
+Jamaica
+  total: 0.41 cu km/yr (34%/17%/49%)
+  per capita: 155 cu m/yr (2000)
+
+Japan
+  total: 88.43 cu km/yr (20%/18%/62%)
+  per capita: 690 cu m/yr (2000)
+
+Jordan
+  total: 1.01 cu km/yr (21%/4%/75%)
+  per capita: 177 cu m/yr (2000)
+
+Kazakhstan
+  total: 35 cu km/yr (2%/17%/82%)
+  per capita: 2,360 cu m/yr (2000)
+
+Kenya
+  total: 1.58 cu km/yr (30%/6%/64%)
+  per capita: 46 cu m/yr (2000)
+
+Korea, North
+  total: 9.02 cu km/yr (20%/25%/55%)
+  per capita: 401 cu m/yr (2000)
+
+Korea, South
+  total: 18.59 cu km/yr (36%/16%/48%)
+  per capita: 389 cu m/yr (2000)
+
+Kuwait
+  total: 0.44 cu km/yr (45%/2%/52%)
+  per capita: 164 cu m/yr (2000)
+
+Kyrgyzstan
+  total: 10.08 cu km/yr (3%/3%/94%)
+  per capita: 1,916 cu m/yr (2000)
+
+Laos
+  total: 3 cu km/yr (4%/6%/90%)
+  per capita: 507 cu m/yr (2000)
+
+Latvia
+  total: 0.25 cu km/yr (55%/33%/12%)
+  per capita: 108 cu m/yr (2003)
+
+Lebanon
+  total: 1.38 cu km/yr (33%/1%/67%)
+  per capita: 385 cu m/yr (2000)
+
+Lesotho
+  total: 0.05 cu km/yr (40%/40%/20%)
+  per capita: 28 cu m/yr (2000)
+
+Liberia
+  total: 0.11 cu km/yr (27%/18%/55%)
+  per capita: 34 cu m/yr (2000)
+
+Libya
+  total: 4.27 cu km/yr (14%/3%/83%)
+  per capita: 730 cu m/yr (2000)
+
+Lithuania
+  total: 3.33 cu km/yr (78%/15%/7%)
+  per capita: 971 cu m/yr (2003)
+
+Luxembourg
+  total: 0.06 cu km/yr (42%/45%/13%)
+  per capita: 121 cu m/yr (1999)
+
+Macedonia
+  total: 2.27
+  per capita: 1,118 cu m/yr (2000)
+
+Madagascar
+  total: 14.96 cu km/yr (3%/2%/96%)
+  per capita: 804 cu m/yr (2000)
+
+Malawi
+  total: 1.01 cu km/yr (15%/5%/80%)
+  per capita: 78 cu m/yr (2000)
+
+Malaysia
+  total: 9.02 cu km/yr (17%/21%/62%)
+  per capita: 356 cu m/yr (2000)
+
+Maldives
+  total: 0.003 cu km/yr (98%/2%/0%)
+  per capita: 9 cu m/yr (1987)
+
+Mali
+  total: 6.55 cu km/yr (9%/1%/90%)
+  per capita: 484 cu m/yr (2000)
+
+Malta
+  total: 0.02 cu km/yr (74%/1%/25%)
+  per capita: 50 cu m/yr (2000)
+
+Mauritania
+  total: 1.7 cu km/yr (9%/3%/88%)
+  per capita: 554 cu m/yr (2000)
+
+Mauritius
+  total: 0.61 cu km/yr (25%/14%/60%)
+  per capita: 488 cu m/yr (2000)
+
+Mexico
+  total: 78.22 cu km/yr (17%/5%/77%)
+  per capita: 731 cu m/yr (2000)
+
+Moldova
+  total: 2.31 cu km/yr (10%/58%/33%)
+  per capita: 549 cu m/yr (2000)
+
+Mongolia
+  total: 0.44 cu km/yr (20%/27%/52%)
+  per capita: 166 cu m/yr (2000)
+
+Morocco
+  total: 12.6 cu km/yr (10%/3%/87%)
+  per capita: 400 cu m/yr (2000)
+
+Mozambique
+  total: 0.63 cu km/yr (11%/2%/87%)
+  per capita: 32 cu m/yr (2000)
+
+Namibia
+  total: 0.3 cu km/yr (24%/5%/71%)
+  per capita: 148 cu m/yr (2000)
+
+Nepal
+  total: 10.18 cu km/yr (3%/1%/96%)
+  per capita: 375 cu m/yr (2000)
+
+Netherlands
+  total: 8.86 cu km/yr (6%/60%/34%)
+  per capita: 544 cu m/yr (2001)
+
+New Zealand
+  total: 2.11 cu km/yr (48%/9%/42%)
+  per capita: 524 cu m/yr (2000)
+
+Nicaragua
+  total: 1.3 cu km/yr (15%/2%/83%)
+  per capita: 237 cu m/yr (2000)
+
+Niger
+  total: 2.18 cu km/yr (4%/0%/95%)
+  per capita: 156 cu m/yr (2000)
+
+Nigeria
+  total: 8.01 cu km/yr (21%/10%/69%)
+  per capita: 61 cu m/yr (2000)
+
+Norway
+  total: 2.4 cu km/yr (23%/67%/10%)
+  per capita: 519 cu m/yr (1996)
+
+Oman
+  total: 1.36 cu km/yr (7%/2%/90%)
+  per capita: 529 cu m/yr (2000)
+
+Pakistan
+  total: 169.39 cu km/yr (2%/2%/96%)
+  per capita: 1,072 cu m/yr (2000)
+
+Panama
+  total: 0.82 cu km/yr (67%/5%/28%)
+  per capita: 254 cu m/yr (2000)
+
+Papua New Guinea
+  total: 0.1 cu km/yr (56%/43%/1%)
+  per capita: 17 cu m/yr (1987)
+
+Paraguay
+  total: 0.49 cu km/yr (20%/8%/71%)
+  per capita: 80 cu m/yr (2000)
+
+Peru
+  total: 20.13 cu km/yr (8%/10%/82%)
+  per capita: 720 cu m/yr (2000)
+
+Philippines
+  total: 28.52 cu km/yr (17%/9%/74%)
+  per capita: 343 cu m/yr (2000)
+
+Poland
+  total: 11.73 cu km/yr (13%/79%/8%)
+  per capita: 304 cu m/yr (2002)
+
+Portugal
+  total: 11.09 cu km/yr (10%/12%/78%)
+  per capita: 1,056 cu m/yr (1998)
+
+Qatar
+  total: 0.29 cu km/yr (24%/3%/72%)
+  per capita: 358 cu m/yr (2000)
+
+Romania
+  total: 6.5 cu km/yr (9%/34%/57%)
+  per capita: 299 cu m/yr (2003)
+
+Russia
+  total: 76.68 cu km/yr (19%/63%/18%)
+  per capita: 535 cu m/yr (2000)
+
+Rwanda
+  total: 0.15 cu km/yr (24%/8%/68%)
+  per capita: 17 cu m/yr (2000)
+
+Saint Lucia
+  total: 0.01
+  per capita: 81 cu m/yr (1997)
+
+Saint Vincent and the Grenadines
+  total: 0.01
+  per capita: 83 cu m/yr (1995)
+
+Saudi Arabia
+  total: 17.32 cu km/yr (10%/1%/89%)
+  per capita: 705 cu m/yr (2000)
+
+Senegal
+  total: 2.22 cu km/yr (4%/3%/93%)
+  per capita: 190 cu m/yr (2002)
+
+Sierra Leone
+  total: 0.38 cu km/yr (5%/3%/92%)
+  per capita: 69 cu m/yr (2000)
+
+Singapore
+  total: 0.19 cu km/yr (45%/51%/4%)
+  per capita: 44 cu m/yr (1975)
+
+Slovakia
+  total: 1.04
+  per capita: 193 cu m/yr (2003)
+
+Slovenia
+  total: 0.9
+  per capita: 457 cu m/yr (2002)
+
+Somalia
+  total: 3.29 cu km/yr (0%/0%/100%)
+  per capita: 400 cu m/yr (2000)
+
+South Africa
+  total: 12.5 cu km/yr (31%/6%/63%)
+  per capita: 264 cu m/yr (2000)
+
+Spain
+  total: 37.22 cu km/yr (13%/19%/68%)
+  per capita: 864 cu m/yr (2002)
+
+Sri Lanka
+  total: 12.61 cu km/yr (2%/2%/95%)
+  per capita: 608 cu m/yr (2000)
+
+Sudan
+  total: 37.32 cu km/yr (3%/1%/97%)
+  per capita: 1,030 cu m/yr (2000)
+
+Suriname
+  total: 0.67 cu km/yr (4%/3%/93%)
+  per capita: 1,489 cu m/yr (2000)
+
+Swaziland
+  total: 1.04 cu km/yr (2%/1%/97%)
+  per capita: 1,010 cu m/yr (2000)
+
+Sweden
+  total: 2.68 cu km/yr (37%/54%/9%)
+  per capita: 296 cu m/yr (2002)
+
+Switzerland
+  total: 2.52 cu km/yr (24%/74%/2%)
+  per capita: 348 cu m/yr (2002)
+
+Syria
+  total: 19.95 cu km/yr (3%/2%/95%)
+  per capita: 1,048 cu m/yr (2000)
+
+Tajikistan
+  total: 11.96 cu km/yr (4%/5%/92%)
+  per capita: 1,837 cu m/yr (2000)
+
+Tanzania
+  total: 5.18 cu km/yr (10%/0%/89%)
+  per capita: 135 cu m/yr (2000)
+
+Thailand
+  total: 82.75 cu km/yr (2%/2%/95%)
+  per capita: 1,288 cu m/yr (2000)
+
+Togo
+  total: 0.17 cu km/yr (53%/2%/45%)
+  per capita: 28 cu m/yr (2000)
+
+Trinidad and Tobago
+  total: 0.31 cu km/yr (68%/26%/6%)
+  per capita: 237 cu m/yr (2000)
+
+Tunisia
+  total: 2.64 cu km/yr (14%/4%/82%)
+  per capita: 261 cu m/yr (2000)
+
+Turkey
+  total: 39.78 cu km/yr (15%/11%/74%)
+  per capita: 544 cu m/yr (2001)
+
+Turkmenistan
+  total: 24.65 cu km/yr (2%/1%/98%)
+  per capita: 5,104 cu m/yr (2000)
+
+Uganda
+  total: 0.3 cu km/yr (43%/17%/40%)
+  per capita: 10 cu m/yr (2002)
+
+Ukraine
+  total: 37.53 cu km/yr (12%/35%/52%)
+  per capita: 807 cu m/yr (2000)
+
+United Arab Emirates
+  total: 2.3 cu km/yr (23%/9%/68%)
+  per capita: 511 cu m/yr (2000)
+
+United Kingdom
+  total: 11.75 cu km/yr (22%/75%/3%)
+  per capita: 197 cu m/yr (1994)
+
+United States
+  total: 477 cu km/yr (13%/46%/41%)
+  per capita: 1,600 cu m/yr (2000)
+
+Uruguay
+  total: 3.15 cu km/yr (2%/1%/96%)
+  per capita: 910 cu m/yr (2000)
+
+Uzbekistan
+  total: 58.34 cu km/yr (5%/2%/93%)
+  per capita: 2,194 cu m/yr (2000)
+
+Venezuela
+  total: 8.37 cu km/yr (6%/7%/47%)
+  per capita: 313 cu m/yr (2000)
+
+Vietnam
+  total: 71.39 cu km/yr (8%/24%/68%)
+  per capita: 847 cu m/yr (2000)
+
+Yemen
+  total: 6.63 cu km/yr (4%/1%/95%)
+  per capita: 316 cu m/yr (2000)
+
+Zambia
+  total: 1.74 cu km/yr (17%/7%/76%)
+  per capita: 149 cu m/yr (2000)
+
+Zimbabwe
+  total: 4.21 cu km/yr (14%/7%/79%)
+  per capita: 324 cu m/yr (2002)
+
+
+
+
+======================================================================
+
+
+
+
+

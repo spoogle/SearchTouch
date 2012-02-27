@@ -1,0 +1,817 @@
+2200
+
+
+Field Listing :: Market value of publicly traded shares
+
+  This entry gives the value of shares issued by publicly traded
+  companies at a price determined in the national stock markets on the
+  final day of the period indicated. It is simply the latest price per
+  share multiplied by the total number of outstanding shares,
+  cumulated over all companies listed on the particular exchange.
+  Country Comparison to the World
+  Country
+
+
+  Market value of publicly traded shares
+
+Afghanistan
+  $NA
+
+Albania
+  $NA
+
+Algeria
+  $NA
+
+Argentina
+  $48.93 billion (31 December 2009)
+  $52.31 billion (31 December 2008)
+  $86.68 billion (31 December 2007)
+
+Armenia
+  $140.5 million (31 December 2009)
+  $176 million (31 December 2008)
+  $105 million (31 December 2007)
+
+Australia
+  $1.258 trillion (31 December 2009)
+  $675.6 billion (31 December 2008)
+  $1.298 trillion (31 December 2007)
+
+Austria
+  $53.58 billion (31 December 2009)
+  $72.3 billion (31 December 2008)
+  $228.7 billion (31 December 2007)
+
+Azerbaijan
+  $NA
+
+Bahamas, The
+  $NA
+
+Bahrain
+  $16.93 billion (31 December 2009)
+  $21.18 billion (31 December 2008)
+  $28.13 billion (31 December 2007)
+
+Bangladesh
+  $7.068 billion (31 December 2009)
+  $6.671 billion (31 December 2008)
+  $6.793 billion (31 December 2007)
+
+Barbados
+  $NA (31 December 2009)
+  $4.964 billion (31 December 2008)
+  $5.599 billion (31 December 2007)
+
+Belarus
+  $NA
+
+Belgium
+  $261.4 billion (31 December 2009)
+  $167.4 billion (31 December 2008)
+  $386.4 billion (31 December 2007)
+
+Belize
+  $NA
+
+Benin
+  $NA
+
+Bermuda
+  $1.36 billion (31 December 2009)
+  $1.912 billion (31 December 2008)
+  $2.731 billion (31 December 2007)
+
+Bhutan
+  $NA
+
+Bolivia
+  $2.792 billion (31 December 2009)
+  $2.672 billion (31 December 2008)
+  $2.263 billion (31 December 2007)
+
+Bosnia and Herzegovina
+  $NA
+
+Botswana
+  $3.991 billion (31 December 2009)
+  $3.556 billion (31 December 2008)
+  $5.887 billion (31 December 2007)
+
+Brazil
+  $1.167 trillion (31 December 2009)
+  $589.4 billion (31 December 2008)
+  $1.37 trillion (31 December 2007)
+
+Brunei
+  $NA
+
+Bulgaria
+  $7.103 billion (31 December 2009)
+  $8.858 billion (31 December 2008)
+  $21.79 billion (31 December 2007)
+
+Burkina Faso
+  $NA
+
+Burma
+  $NA
+
+Burundi
+  $NA
+
+Cambodia
+  $NA
+
+Cameroon
+  $NA
+
+Canada
+  $1.681 trillion (31 December 2009)
+  $1.002 trillion (31 December 2008)
+  $2.187 trillion (31 December 2007)
+
+Cayman Islands
+  $NA (31 December 2008)
+  $183.5 million (31 December 2007)
+  $188.4 million (31 December 2006)
+
+Central African Republic
+  $NA
+
+Chad
+  $NA
+
+Chile
+  $209.5 billion (31 December 2009)
+  $132.4 billion (31 December 2008)
+  $212.9 billion (31 December 2007)
+
+China
+  $5.008 trillion (31 December 2009 est.)
+  $2.794 trillion (31 December 2008)
+  $6.226 trillion (31 December 2007 est.)
+
+Colombia
+  $133.3 billion (31 December 2009)
+  $87.03 billion (31 December 2008)
+  $102 billion (31 December 2007)
+
+Congo, Democratic Republic of the
+  $NA
+
+Congo, Republic of the
+  $NA
+
+Costa Rica
+  $1.452 billion (31 December 2009)
+  $1.887 billion (31 December 2008)
+  $2.035 billion (31 December 2007)
+
+Cote d'Ivoire
+  $6.141 billion (31 December 2009)
+  $7.071 billion (31 December 2008)
+  $8.353 billion (31 December 2007)
+
+Croatia
+  $25.64 billion (31 December 2009)
+  $26.79 billion (31 December 2008)
+  $65.98 billion (31 December 2007)
+
+Cyprus
+  $4.993 billion (31 December 2009)
+  $7.955 billion (31 December 2008)
+  $29.48 billion (31 December 2007)
+
+Czech Republic
+  $52.69 billion (31 December 2009)
+  $48.85 billion (31 December 2008)
+  $73.42 billion (31 December 2007)
+
+Denmark
+  $186.9 billion (31 December 2009)
+  $131.5 billion (31 December 2008)
+  $277.7 billion (31 December 2007)
+
+Dominican Republic
+  $NA
+
+Ecuador
+  $4.248 billion (31 December 2009)
+  $4.562 billion (31 December 2008)
+  $4.266 billion (31 December 2007)
+
+Egypt
+  $89.95 billion (31 December 2009)
+  $85.89 billion (31 December 2008)
+  $139.3 billion (31 December 2007)
+
+El Salvador
+  $4.432 billion (31 December 2009)
+  $4.656 billion (31 December 2008)
+  $6.743 billion (31 December 2007)
+
+Estonia
+  $2.654 billion (31 December 2009)
+  $1.95 billion (31 December 2008)
+  $6.037 billion (31 December 2007)
+
+Ethiopia
+  $NA
+
+European Union
+  $NA (31 December 2009 est.)
+  $7.564 trillion (31 December 2008)
+  $15.57 trillion (31 December 2007 est.)
+
+Fiji
+  $NA (31 December 2009)
+  $568.2 million (31 December 2008)
+  $522.2 million (31 December 2007)
+
+Finland
+  $91.02 billion (31 December 2009)
+  $154.4 billion (31 December 2008)
+  $369.2 billion (31 December 2007)
+
+France
+  $1.972 trillion (31 December 2009)
+  $1.492 trillion (31 December 2008)
+  $2.771 trillion (31 December 2007)
+
+French Polynesia
+  $NA
+
+Gabon
+  $NA
+
+Gambia, The
+  $NA
+
+Georgia
+  $733.3 million (31 December 2009)
+  $327.3 million (31 December 2008)
+  $1.389 billion (31 December 2007)
+
+Germany
+  $1.298 trillion (31 December 2009)
+  $1.108 trillion (31 December 2008)
+  $2.106 trillion (31 December 2007)
+
+Ghana
+  $2.508 billion (31 December 2009)
+  $3.394 billion (31 December 2008)
+  $2.38 billion (31 December 2007)
+
+Greece
+  $54.72 billion (31 December 2009)
+  $90.4 billion (31 December 2008)
+  $264.9 billion (31 December 2007)
+
+Grenada
+  $NA
+
+Guatemala
+  $NA
+
+Guinea
+  $NA
+
+Guinea-Bissau
+  $NA
+
+Guyana
+  $NA (31 December 2009)
+  $289.9 million (31 December 2008)
+  $262.4 million (31 December 2007)
+
+Haiti
+  $NA
+
+Honduras
+  $NA
+
+Hong Kong
+  $2.292 trillion (31 December 2009)
+  $1.32 trillion (31 December 2008)
+  $1.163 trillion (31 December 2007 est.)
+
+Hungary
+  $28.29 billion (31 December 2009)
+  $18.58 billion (31 December 2008)
+  $47.65 billion (31 December 2007)
+
+Iceland
+  $1.128 billion (31 December 2009)
+  $5.557 billion (31 December 2008)
+  $40.56 billion (31 December 2007)
+
+India
+  $1.179 trillion (31 December 2009)
+  $645.5 billion (31 December 2008)
+  $1.819 trillion (31 December 2007)
+
+Indonesia
+  $178.2 billion (31 December 2009)
+  $98.76 billion (31 December 2008)
+  $211.7 billion (31 December 2007)
+
+Iran
+  $63.3 billion (31 December 2009)
+  $49.04 billion (31 December 2008)
+  $45.57 billion (31 December 2007)
+
+Iraq
+  $2.6 billion (31 July 2010)
+  $2 billion (31 July 2009)
+  $1.878 billion (31 March 2008)
+
+Ireland
+  $29.88 billion (31 December 2009)
+  $49.4 billion (31 December 2008)
+  $144 billion (31 December 2007)
+
+Isle of Man
+  $NA
+
+Israel
+  $182.1 billion (31 December 2009)
+  $134.5 billion (31 December 2008)
+  $236.4 billion (31 December 2007)
+
+Italy
+  $317.3 billion (31 December 2009)
+  $520.9 billion (31 December 2008)
+  $1.073 trillion (31 December 2007)
+
+Jamaica
+  $6.201 billion (31 December 2009)
+  $7.513 billion (31 December 2008)
+  $12.33 billion (31 December 2007)
+
+Japan
+  $3.378 trillion (31 December 2009)
+  $3.22 trillion (31 December 2008)
+  $4.453 trillion (31 December 2007)
+
+Jersey
+  $NA
+
+Jordan
+  $31.86 billion (31 December 2009)
+  $35.85 billion (31 December 2008)
+  $41.22 billion (31 December 2007)
+
+Kazakhstan
+  $57.66 billion (31 December 2009)
+  $31.08 billion (31 December 2008)
+  $41.38 billion (31 December 2007)
+
+Kenya
+  $10.76 billion (31 December 2009)
+  $10.92 billion (31 December 2008)
+  $13.39 billion (31 December 2007)
+
+Kiribati
+  $NA
+
+Korea, South
+  $836.5 billion (31 December 2009)
+  $494.6 billion (31 December 2008)
+  $1.124 trillion (31 December 2007)
+
+Kuwait
+  $95.94 billion (31 December 2009)
+  $107.2 billion (31 December 2008)
+  $188 billion (31 December 2007)
+
+Kyrgyzstan
+  $71.84 million (31 December 2009)
+  $93.79 million (31 December 2008)
+  $121 million (31 December 2007)
+
+Latvia
+  $1.824 billion (31 December 2009)
+  $1.609 billion (31 December 2008)
+  $3.111 billion (31 December 2007)
+
+Lebanon
+  $12.89 billion (31 December 2009)
+  $9.641 billion (31 December 2008)
+  $10.86 billion (31 December 2007)
+
+Liberia
+  $NA
+
+Libya
+  $NA
+
+Liechtenstein
+  $NA
+
+Lithuania
+  $4.477 billion (31 December 2009)
+  $3.625 billion (31 December 2008)
+  $10.13 billion (31 December 2007)
+
+Luxembourg
+  $105.6 billion (31 December 2009)
+  $66.46 billion (31 December 2008)
+  $166.1 billion (31 December 2007)
+
+Macau
+  $2.3 billion (31 December 2008 est.)
+  $NA (31 December 2007)
+  $413.1 million (2004 est.)
+
+Macedonia
+  $2.859 billion (31 December 2009)
+  $823.5 million (31 December 2008)
+  $2.715 billion (31 December 2007)
+
+Madagascar
+  $NA
+
+Malawi
+  $NA (31 December 2009)
+  $1.771 billion (31 December 2008)
+  $587.2 million (31 December 2006)
+
+Malaysia
+  $256 billion (31 December 2009)
+  $187.1 billion (31 December 2008)
+  $325.7 billion (31 December 2007)
+
+Maldives
+  $NA
+
+Mali
+  $NA
+
+Malta
+  $1.982 billion (31 December 2009)
+  $3.572 billion (31 December 2008)
+  $5.633 billion (31 December 2007)
+
+Mauritania
+  $NA
+
+Mauritius
+  $4.74 billion (31 December 2009)
+  $3.443 billion (31 December 2008)
+  $5.666 billion (31 December 2007)
+
+Mayotte
+  $NA
+
+Mexico
+  $340.6 billion (31 December 2009)
+  $232.6 billion (31 December 2008)
+  $397.7 billion (31 December 2007)
+
+Moldova
+  $NA (2004)
+  $573.9 million (2004)
+
+Monaco
+  $NA
+
+Mongolia
+  $430.2 million (31 December 2009)
+  $407 million (31 December 2008)
+  $612.2 million (31 December 2007)
+
+Montenegro
+  $4.289 billion (31 December 2009)
+  $2.863 billion (31 December 2008)
+  $3.699 billion (31 December 2007)
+
+Morocco
+  $62.91 billion (31 December 2009)
+  $65.75 billion (31 December 2008)
+  $75.49 billion (31 December 2007)
+
+Mozambique
+  $NA
+
+Namibia
+  $846.3 million (31 December 2009)
+  $618.7 million (31 December 2008)
+  $702 million (31 December 2007)
+
+Nepal
+  $5.2 billion (31 December 2010)
+  $5.485 billion (31 December 2009)
+  $4.894 billion (31 December 2008)
+
+Netherlands
+  $542.5 billion (31 December 2009)
+  $387.9 billion (31 December 2008)
+  $956.5 billion (31 December 2007)
+
+New Caledonia
+  $NA
+
+New Zealand
+  $67.06 billion (31 December 2009)
+  $24.17 billion (31 December 2008)
+  $47.45 billion (31 December 2007)
+
+Nicaragua
+  $NA
+
+Niger
+  $NA
+
+Nigeria
+  $33.32 billion (31 December 2009)
+  $49.8 billion (31 December 2008)
+  $86.35 billion (31 December 2007)
+
+Norway
+  $227.2 billion (31 December 2009)
+  $125.9 billion (31 December 2008)
+  $357.4 billion (31 December 2007)
+
+Oman
+  $17.3 billion (31 December 2009)
+  $14.91 billion (31 December 2008)
+  $23.06 billion (31 December 2007)
+
+Pakistan
+  $33.24 billion (31 December 2009)
+  $23.49 billion (31 December 2008)
+  $70.26 billion (31 December 2007)
+
+Palau
+  $NA
+
+Panama
+  $8.048 billion (31 December 2009)
+  $6.568 billion (31 December 2008)
+  $6.219 billion (31 December 2007)
+
+Papua New Guinea
+  $NA (31 December 2008)
+  $NA (31 December 2007)
+  $6.632 billion (31 December 2006)
+
+Paraguay
+  $NA (31 December 2008)
+  $NA (31 December 2007)
+  $409.1 million (31 December 2006)
+
+Peru
+  $69.75 billion (31 December 2009)
+  $55.63 billion (31 December 2008)
+  $106 billion (31 December 2007)
+
+Philippines
+  $80.13 billion (31 December 2009)
+  $85.63 billion (31 December 2008)
+  $172.5 billion (31 December 2007)
+
+Poland
+  $135.3 billion (31 December 2009)
+  $90.23 billion (31 December 2008)
+  $207.3 billion (31 December 2007)
+
+Portugal
+  $98.65 billion (31 December 2009)
+  $68.71 billion (31 December 2008)
+  $132.3 billion (31 December 2007)
+
+Puerto Rico
+  $NA
+
+Qatar
+  $87.86 billion (31 December 2009)
+  $76.31 billion (31 December 2008)
+  $95.49 billion (31 December 2007)
+
+Romania
+  $30.32 billion (31 December 2009)
+  $19.92 billion (31 December 2008)
+  $44.93 billion (31 December 2007)
+
+Russia
+  $861.4 billion (31 December 2009 est.)
+  $1.322 trillion (31 December 2008)
+  $1.503 trillion (31 December 2007 est.)
+
+Rwanda
+  $NA
+
+Saint Kitts and Nevis
+  $648 million (31 December 2009)
+  $595.2 million (31 December 2008)
+  $439.7 million (31 December 2007)
+
+Samoa
+  $NA
+
+San Marino
+  $NA
+
+Sao Tome and Principe
+  $NA
+
+Saudi Arabia
+  $318.8 billion (31 December 2009)
+  $246.3 billion (31 December 2008)
+  $515.1 billion (31 December 2007)
+
+Senegal
+  $NA
+
+Serbia
+  $11.52 billion (31 December 2009)
+  $12.17 billion (31 December 2008)
+  $23.93 billion (31 December 2007)
+
+Seychelles
+  $NA
+
+Sierra Leone
+  $NA
+
+Singapore
+  $474.8 billion (31 December 2009)
+  $268.6 billion (31 December 2008)
+  $353.5 billion (31 December 2007)
+
+Slovakia
+  $4.672 billion (31 December 2009)
+  $5.079 billion (31 December 2008)
+  $6.971 billion (31 December 2007)
+
+Slovenia
+  $11.77 billion (31 December 2009)
+  $22.1 billion (31 December 2008)
+  $28.96 billion (31 December 2007)
+
+South Africa
+  $704.8 billion (31 December 2009)
+  $491.3 billion (31 December 2008)
+  $833.5 billion (31 December 2007)
+
+Spain
+  $1.297 trillion (31 December 2009)
+  $946.1 billion (31 December 2008)
+  $1.8 trillion (31 December 2007)
+
+Sri Lanka
+  $11.5 billion (December 2010)
+  $8.133 billion (31 December 2009)
+  $4.326 billion (31 December 2008)
+
+Sudan
+  $NA
+
+Suriname
+  $NA
+
+Swaziland
+  $NA (31 December 2009)
+  $203.1 million (31 December 2007)
+  $199.9 million (31 December 2006)
+
+Sweden
+  $432.3 billion (31 December 2009)
+  $252.5 billion (31 December 2008)
+  $612.5 billion (31 December 2007)
+
+Switzerland
+  $1.071 trillion (31 December 2009)
+  $862.7 billion (31 December 2008)
+  $1.275 trillion (31 December 2007)
+
+Syria
+  $NA
+
+Taiwan
+  $657.3 billion (31 December 2009)
+  $354.7 billion (31 December 2008)
+  $654 billion (28 December 2007)
+
+Tajikistan
+  $NA
+
+Tanzania
+  $NA (31 December 2009)
+  $1.293 billion (31 December 2008)
+  $541.1 million (31 December 2006)
+
+Thailand
+  $138.2 billion (31 December 2009)
+  $102.6 billion (31 December 2008)
+  $196 billion (31 December 2007)
+
+Timor-Leste
+  $NA
+
+Togo
+  $NA
+
+Tonga
+  $NA
+
+Trinidad and Tobago
+  $11.15 billion (31 December 2009)
+  $12.16 billion (31 December 2008)
+  $15.61 billion (31 December 2007)
+
+Tunisia
+  $9.12 billion (31 December 2009)
+  $6.374 billion (31 December 2008)
+  $5.355 billion (31 December 2007)
+
+Turkey
+  $225.7 billion (31 December 2009)
+  $117.9 billion (31 December 2008)
+  $286.6 billion (31 December 2007)
+
+Turkmenistan
+  $NA
+
+Uganda
+  $NA (31 December 2009)
+  $NA (31 December 2007)
+  $116.3 million (31 December 2006)
+
+Ukraine
+  $16.79 billion (31 December 2009)
+  $24.36 billion (31 December 2008)
+  $111.8 billion (31 December 2007)
+
+United Arab Emirates
+  $109.6 billion (31 December 2009)
+  $97.85 billion (31 December 2008)
+  $224.7 billion (31 December 2007)
+
+United Kingdom
+  $2.796 trillion (31 December 2009)
+  $1.852 trillion (31 December 2008)
+  $3.859 trillion (31 December 2007)
+
+United States
+  $15.08 trillion (31 December 2009)
+  $11.74 trillion (31 December 2008)
+  $19.95 trillion (31 December 2007)
+
+Uruguay
+  $NA (31 December 2008)
+  $159 million (31 December 2007)
+  $125.1 million (31 December 2006)
+
+Uzbekistan
+  $NA (31 December 2009)
+  $NA (31 December 2007)
+  $715.3 million (31 December 2006)
+
+Vanuatu
+  $NA
+
+Venezuela
+  $NA (31 December 2008)
+  $NA (31 December 2007)
+  $8.251 billion (31 December 2006)
+
+Vietnam
+  $21.2 billion (31 December 2009 est.)
+  $9.589 billion (31 December 2008)
+  $19.54 billion (31 December 2007)
+
+West Bank
+  $NA (31 December 2009)
+  $2.123 billion (31 December 2008)
+  $2.475 billion (31 December 2007)
+
+World
+  $48.85 trillion (31 December 2009 est.)
+  $36.41 trillion (31 December 2008)
+  $64.6 trillion (31 December 2007 est.)
+
+Yemen
+  $NA
+
+Zambia
+  $NA (31 December 2008)
+  $2.346 billion (31 December 2007)
+  $1.186 billion (31 December 2006)
+
+Zimbabwe
+  $NA (31 December 2008)
+  $5.333 billion (31 December 2007)
+  $26.56 billion (31 December 2006)
+
+
+
+
+======================================================================
+
+
+
+
+

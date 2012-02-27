@@ -1,0 +1,22 @@
+2056
+
+
+Field Listing :: Budget
+
+  This entry includes revenues, expenditures, and capital
+  expenditures. These figures are calculated on an exchange rate
+  basis, i.e., not in purchasing power parity (PPP) terms.
+  Country
+
+
+  Budget
+
+
+
+
+======================================================================
+
+
+
+
+

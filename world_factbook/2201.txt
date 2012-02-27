@@ -1,0 +1,556 @@
+2201
+
+
+Field Listing :: Total renewable water resources
+
+  This entry provides the long-term average water availability for a
+  country in cubic kilometers of precipitation, recharged ground
+  water, and surface inflows from surrounding countries. The values
+  have been adjusted to account for overlap resulting from surface
+  flow recharge of groundwater sources. Total renewable water
+  resources provides the water total available to a country but does
+  not include water resource totals that have been reserved for
+  upstream or downstream countries through international agreements.
+  Note that these values are averages and do not accurately reflect
+  the total available in any given year. Annual available resources
+  can vary greatly due to short-term and long-term climatic and
+  weather variations.
+  Country
+
+
+  Total renewable water resources(cu km)
+
+Afghanistan
+  65 cu km (1997)
+
+Albania
+  41.7 cu km (2001)
+
+Algeria
+  14.3 cu km (1997)
+
+Angola
+  184 cu km (1987)
+
+Antigua and Barbuda
+  0.1 cu km (2000)
+
+Argentina
+  814 cu km (2000)
+
+Armenia
+  10.5 cu km (1997)
+
+Australia
+  398 cu km (1995)
+
+Austria
+  84 cu km (2005)
+
+Azerbaijan
+  30.3 cu km (1997)
+
+Bahamas, The
+  NA
+
+Bahrain
+  0.1 cu km (1997)
+
+Bangladesh
+  1,210.6 cu km (1999)
+
+Barbados
+  0.1 cu km (2003)
+
+Belarus
+  58 cu km (1997)
+
+Belgium
+  20.8 cu km (2005)
+
+Belize
+  18.6 cu km (2000)
+
+Benin
+  25.8 cu km (2001)
+
+Bhutan
+  95 cu km (1987)
+
+Bolivia
+  622.5 cu km (2000)
+
+Bosnia and Herzegovina
+  37.5 cu km (2003)
+
+Botswana
+  14.7 cu km (2001)
+
+Brazil
+  8,233 cu km (2000)
+
+Brunei
+  8.5 cu km (1999)
+
+Bulgaria
+  19.4 cu km (2005)
+
+Burkina Faso
+  17.5 cu km (2001)
+
+Burma
+  1,045.6 cu km (1999)
+
+Burundi
+  3.6 cu km (1987)
+
+Cambodia
+  476.1 cu km (1999)
+
+Cameroon
+  285.5 cu km (2003)
+
+Canada
+  3,300 cu km (1985)
+
+Cape Verde
+  0.3 cu km (1990)
+
+Central African Republic
+  144.4 cu km (2003)
+
+Chad
+  43 cu km (1987)
+
+Chile
+  922 cu km (2000)
+
+China
+  2,829.6 cu km (1999)
+
+Colombia
+  2,132 cu km (2000)
+
+Comoros
+  1.2 cu km (2003)
+
+Congo, Democratic Republic of the
+  1,283 cu km (2001)
+
+Congo, Republic of the
+  832 cu km (1987)
+
+Costa Rica
+  112.4 cu km (2000)
+
+Cote d'Ivoire
+  81 cu km (2001)
+
+Croatia
+  105.5 cu km (1998)
+
+Cuba
+  38.1 cu km (2000)
+
+Curacao
+  NA
+
+Cyprus
+  0.4 cu km (2005)
+
+Czech Republic
+  16 cu km (2005)
+
+Denmark
+  6.1 cu km (2003)
+
+Djibouti
+  0.3 cu km (1997)
+
+Dominica
+  NA
+
+Dominican Republic
+  21 cu km (2000)
+
+Ecuador
+  432 cu km (2000)
+
+Egypt
+  86.8 cu km (1997)
+
+El Salvador
+  25.2 cu km (2001)
+
+Equatorial Guinea
+  26 cu km (2001)
+
+Eritrea
+  6.3 cu km (2001)
+
+Estonia
+  21.1 cu km (2005)
+
+Ethiopia
+  110 cu km (1987)
+
+Fiji
+  28.6 cu km (1987)
+
+Finland
+  110 cu km (2005)
+
+France
+  189 cu km (2005)
+
+Gabon
+  164 cu km (1987)
+
+Gambia, The
+  8 cu km (1982)
+
+Georgia
+  63.3 cu km (1997)
+
+Germany
+  188 cu km (2005)
+
+Ghana
+  53.2 cu km (2001)
+
+Greece
+  72 cu km (2005)
+
+Grenada
+  NA
+
+Guatemala
+  111.3 cu km (2000)
+
+Guinea
+  226 cu km (1987)
+
+Guinea-Bissau
+  31 cu km (2003)
+
+Guyana
+  241 cu km (2000)
+
+Haiti
+  14 cu km (2000)
+
+Honduras
+  95.9 cu km (2000)
+
+Hungary
+  120 cu km (2005)
+
+Iceland
+  170 cu km (2005)
+
+India
+  1,907.8 cu km (1999)
+
+Indonesia
+  2,838 cu km (1999)
+
+Iran
+  137.5 cu km (1997)
+
+Iraq
+  96.4 cu km (1997)
+
+Ireland
+  46.8 cu km (2003)
+
+Israel
+  1.7 cu km (2001)
+
+Italy
+  175 cu km (2005)
+
+Jamaica
+  9.4 cu km (2000)
+
+Japan
+  430 cu km (1999)
+
+Jordan
+  0.9 cu km (1997)
+
+Kazakhstan
+  109.6 cu km (1997)
+
+Kenya
+  30.2 cu km (1990)
+
+Korea, North
+  77.1 cu km (1999)
+
+Korea, South
+  69.7 cu km (1999)
+
+Kuwait
+  0.02 cu km (1997)
+
+Kyrgyzstan
+  46.5 cu km (1997)
+
+Laos
+  333.6 cu km (2003)
+
+Latvia
+  49.9 cu km (2005)
+
+Lebanon
+  4.8 cu km (1997)
+
+Lesotho
+  5.2 cu km (1987)
+
+Liberia
+  232 cu km (1987)
+
+Libya
+  0.6 cu km (1997)
+
+Lithuania
+  24.5 cu km (2005)
+
+Luxembourg
+  1.6 cu km (2005)
+
+Macedonia
+  6.4 cu km (2001)
+
+Madagascar
+  337 cu km (1984)
+
+Malawi
+  17.3 cu km (2001)
+
+Malaysia
+  580 cu km (1999)
+
+Maldives
+  0.03 cu km (1999)
+
+Mali
+  100 cu km (2001)
+
+Malta
+  0.07 cu km (2005)
+
+Mauritania
+  11.4 cu km (1997)
+
+Mauritius
+  2.2 cu km (2001)
+
+Mexico
+  457.2 cu km (2000)
+
+Moldova
+  11.7 cu km (1997)
+
+Mongolia
+  34.8 cu km (1999)
+
+Morocco
+  29 cu km (2003)
+
+Mozambique
+  216 cu km (1992)
+
+Namibia
+  45.5 cu km (1991)
+
+Nepal
+  210.2 cu km (1999)
+
+Netherlands
+  89.7 cu km (2005)
+
+New Zealand
+  397 cu km (1995)
+
+Nicaragua
+  196.7 cu km (2000)
+
+Niger
+  33.7 cu km (2003)
+
+Nigeria
+  286.2 cu km (2003)
+
+Norway
+  381.4 cu km (2005)
+
+Oman
+  1 cu km (1997)
+
+Pakistan
+  233.8 cu km (2003)
+
+Panama
+  148 cu km (2000)
+
+Papua New Guinea
+  801 cu km (1987)
+
+Paraguay
+  336 cu km (2000)
+
+Peru
+  1,913 cu km (2000)
+
+Philippines
+  479 cu km (1999)
+
+Poland
+  63.1 cu km (2005)
+
+Portugal
+  73.6 cu km (2005)
+
+Qatar
+  0.1 cu km (1997)
+
+Romania
+  42.3 cu km (2003)
+
+Russia
+  4,498 cu km (1997)
+
+Rwanda
+  5.2 cu km (2003)
+
+Saint Kitts and Nevis
+  0.02 cu km (2000)
+
+Saudi Arabia
+  2.4 cu km (1997)
+
+Senegal
+  39.4 cu km (1987)
+
+Serbia
+  208.5 cu km (note - includes Kosovo) (2003)
+
+Sierra Leone
+  160 cu km (1987)
+
+Singapore
+  0.6 cu km (1975)
+
+Slovakia
+  50.1 cu km (2003)
+
+Slovenia
+  32.1 cu km (2005)
+
+Solomon Islands
+  44.7 cu km (1987)
+
+Somalia
+  15.7 cu km (1997)
+
+South Africa
+  50 cu km (1990)
+
+Spain
+  111.1 cu km (2005)
+
+Sri Lanka
+  50 cu km (1999)
+
+Sudan
+  154 cu km (1997)
+
+Suriname
+  122 cu km (2003)
+
+Swaziland
+  4.5 cu km (1987)
+
+Sweden
+  179 cu km (2005)
+
+Switzerland
+  53.3 cu km (2005)
+
+Syria
+  46.1 cu km (1997)
+
+Taiwan
+  67 cu km (2000)
+
+Tajikistan
+  99.7 cu km (1997)
+
+Tanzania
+  91 cu km (2001)
+
+Thailand
+  409.9 cu km (1999)
+
+Togo
+  14.7 cu km (2001)
+
+Trinidad and Tobago
+  3.8 cu km (2000)
+
+Tunisia
+  4.6 cu km (2003)
+
+Turkey
+  234 cu km (2003)
+
+Turkmenistan
+  60.9 cu km (1997)
+
+Uganda
+  66 cu km (1970)
+
+Ukraine
+  139.5 cu km (1997)
+
+United Arab Emirates
+  0.2 cu km (1997)
+
+United Kingdom
+  160.6 cu km (2005)
+
+United States
+  3,069 cu km (1985)
+
+Uruguay
+  139 cu km (2000)
+
+Uzbekistan
+  72.2 cu km (2003)
+
+Venezuela
+  1,233.2 cu km (2000)
+
+Vietnam
+  891.2 cu km (1999)
+
+Yemen
+  4.1 cu km (1997)
+
+Zambia
+  105.2 cu km (2001)
+
+Zimbabwe
+  20 cu km (1987)
+
+
+
+
+======================================================================
+
+
+
+
+

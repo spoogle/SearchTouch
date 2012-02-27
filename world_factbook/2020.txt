@@ -1,0 +1,1131 @@
+2020
+
+
+Field Listing :: Elevation extremes
+
+  This entry includes both the highest point and the lowest point.
+  Country
+
+
+  Elevation extremes(m)
+
+Afghanistan
+  lowest point: Amu Darya 258 m
+  highest point: Noshak 7,485 m
+
+Albania
+  lowest point: Adriatic Sea 0 m
+  highest point: Maja e Korabit (Golem Korab) 2,764 m
+
+Algeria
+  lowest point: Chott Melrhir -40 m
+  highest point: Tahat 3,003 m
+
+American Samoa
+  lowest point: Pacific Ocean 0 m
+  highest point: Lata Mountain 964 m
+
+Andorra
+  lowest point: Riu Runer 840 m
+  highest point: Pic de Coma Pedrosa 2,946 m
+
+Angola
+  lowest point: Atlantic Ocean 0 m
+  highest point: Morro de Moco 2,620 m
+
+Anguilla
+  lowest point: Caribbean Sea 0 m
+  highest point: Crocus Hill 65 m
+
+Antarctica
+  lowest point: Bentley Subglacial Trench -2,540 m
+  highest point: Vinson Massif 4,897 m
+  note: the lowest known land point in Antarctica is hidden in the
+  Bentley Subglacial Trench; at its surface is the deepest ice yet
+  discovered and the world's lowest elevation not under seawater
+
+Antigua and Barbuda
+  lowest point: Caribbean Sea 0 m
+  highest point: Boggy Peak 402 m
+
+Arctic Ocean
+  lowest point: Fram Basin -4,665 m
+  highest point: sea level 0 m
+
+Argentina
+  lowest point: Laguna del Carbon -105 m (located between
+  Puerto San Julian and Comandante Luis Piedra Buena in the province
+  of Santa Cruz)
+  highest point: Cerro Aconcagua 6,960 m (located in the northwestern
+  corner of the province of Mendoza)
+
+Armenia
+  lowest point: Debed River 400 m
+  highest point: Aragats Lerrnagagat' 4,090 m
+
+Aruba
+  lowest point: Caribbean Sea 0 m
+  highest point: Ceru Jamanota 188 m
+
+Ashmore and Cartier Islands
+  lowest point: Indian Ocean 0 m
+  highest point: unnamed location 3 m
+
+Atlantic Ocean
+  lowest point: Milwaukee Deep in the Puerto Rico
+  Trench -8,605 m
+  highest point: sea level 0 m
+
+Australia
+  lowest point: Lake Eyre -15 m
+  highest point: Mount Kosciuszko 2,229 m
+
+Austria
+  lowest point: Neusiedler See 115 m
+  highest point: Grossglockner 3,798 m
+
+Azerbaijan
+  lowest point: Caspian Sea -28 m
+  highest point: Bazarduzu Dagi 4,485 m
+
+Bahamas, The
+  lowest point: Atlantic Ocean 0 m
+  highest point: Mount Alvernia on Cat Island 63 m
+
+Bahrain
+  lowest point: Persian Gulf 0 m
+  highest point: Jabal ad Dukhan 122 m
+
+Bangladesh
+  lowest point: Indian Ocean 0 m
+  highest point: Keokradong 1,230 m
+
+Barbados
+  lowest point: Atlantic Ocean 0 m
+  highest point: Mount Hillaby 336 m
+
+Belarus
+  lowest point: Nyoman River 90 m
+  highest point: Dzyarzhynskaya Hara 346 m
+
+Belgium
+  lowest point: North Sea 0 m
+  highest point: Botrange 694 m
+
+Belize
+  lowest point: Caribbean Sea 0 m
+  highest point: Doyle's Delight 1,160 m
+
+Benin
+  lowest point: Atlantic Ocean 0 m
+  highest point: Mont Sokbaro 658 m
+
+Bermuda
+  lowest point: Atlantic Ocean 0 m
+  highest point: Town Hill 76 m
+
+Bhutan
+  lowest point: Drangeme Chhu 97 m
+  highest point: Gangkar Puensum 7,570 m
+
+Bolivia
+  lowest point: Rio Paraguay 90 m
+  highest point: Nevado Sajama 6,542 m
+
+Bosnia and Herzegovina
+  lowest point: Adriatic Sea 0 m
+  highest point: Maglic 2,386 m
+
+Botswana
+  lowest point: junction of the Limpopo and Shashe Rivers 513
+  m
+  highest point: Tsodilo Hills 1,489 m
+
+Bouvet Island
+  lowest point: South Atlantic Ocean 0 m
+  highest point: Olav Peak 935 m
+
+Brazil
+  lowest point: Atlantic Ocean 0 m
+  highest point: Pico da Neblina 2,994 m
+
+British Indian Ocean Territory
+  lowest point: Indian Ocean 0 m
+  highest point: unnamed location on Diego Garcia 15 m
+
+British Virgin Islands
+  lowest point: Caribbean Sea 0 m
+  highest point: Mount Sage 521 m
+
+Brunei
+  lowest point: South China Sea 0 m
+  highest point: Bukit Pagon 1,850 m
+
+Bulgaria
+  lowest point: Black Sea 0 m
+  highest point: Musala 2,925 m
+
+Burkina Faso
+  lowest point: Mouhoun (Black Volta) River 200 m
+  highest point: Tena Kourou 749 m
+
+Burma
+  lowest point: Andaman Sea 0 m
+  highest point: Hkakabo Razi 5,881 m
+
+Burundi
+  lowest point: Lake Tanganyika 772 m
+  highest point: Heha 2,670 m
+
+Cambodia
+  lowest point: Gulf of Thailand 0 m
+  highest point: Phnum Aoral 1,810 m
+
+Cameroon
+  lowest point: Atlantic Ocean 0 m
+  highest point: Fako 4,095 m (on Mt. Cameroon)
+
+Canada
+  lowest point: Atlantic Ocean 0 m
+  highest point: Mount Logan 5,959 m
+
+Cape Verde
+  lowest point: Atlantic Ocean 0 m
+  highest point: Mt. Fogo 2,829 m (a volcano on Fogo Island)
+
+Cayman Islands
+  lowest point: Caribbean Sea 0 m
+  highest point: The Bluff on Cayman Brac 43 m
+
+Central African Republic
+  lowest point: Oubangui River 335 m
+  highest point: Mont Ngaoui 1,420 m
+
+Chad
+  lowest point: Djourab 160 m
+  highest point: Emi Koussi 3,415 m
+
+Chile
+  lowest point: Pacific Ocean 0 m
+  highest point: Nevado Ojos del Salado 6,880 m
+
+China
+  lowest point: Turpan Pendi -154 m
+  highest point: Mount Everest 8,850 m
+
+Christmas Island
+  lowest point: Indian Ocean 0 m
+  highest point: Murray Hill 361 m
+
+Clipperton Island
+  lowest point: Pacific Ocean 0 m
+  highest point: Rocher Clipperton 29 m
+
+Cocos (Keeling) Islands
+  lowest point: Indian Ocean 0 m
+  highest point: unnamed location 5 m
+
+Colombia
+  lowest point: Pacific Ocean 0 m
+  highest point: Pico Cristobal Colon 5,775 m
+  note: nearby Pico Simon Bolivar also has the same elevation
+
+Comoros
+  lowest point: Indian Ocean 0 m
+  highest point: Karthala 2,360 m
+
+Congo, Democratic Republic of the
+  lowest point: Atlantic Ocean 0 m
+  highest point: Pic Marguerite on Mont Ngaliema (Mount Stanley) 5,110
+  m
+
+Congo, Republic of the
+  lowest point: Atlantic Ocean 0 m
+  highest point: Mount Berongou 903 m
+
+Cook Islands
+  lowest point: Pacific Ocean 0 m
+  highest point: Te Manga 652 m
+
+Coral Sea Islands
+  lowest point: Pacific Ocean 0 m
+  highest point: unnamed location on Cato Island 6 m
+
+Costa Rica
+  lowest point: Pacific Ocean 0 m
+  highest point: Cerro Chirripo 3,810 m
+
+Cote d'Ivoire
+  lowest point: Gulf of Guinea 0 m
+  highest point: Monts Nimba 1,752 m
+
+Croatia
+  lowest point: Adriatic Sea 0 m
+  highest point: Dinara 1,831 m
+
+Cuba
+  lowest point: Caribbean Sea 0 m
+  highest point: Pico Turquino 2,005 m
+
+Curacao
+  lowest point: Caribbean Sea 0 m
+  highest point: Mt. Christoffel, 372m
+
+Cyprus
+  lowest point: Mediterranean Sea 0 m
+  highest point: Mount Olympus 1,951 m
+
+Czech Republic
+  lowest point: Elbe River 115 m
+  highest point: Snezka 1,602 m
+
+Denmark
+  lowest point: Lammefjord -7 m
+  highest point: Mollehoj/Ejer Bavnehoj 171 m
+
+Djibouti
+  lowest point: Lac Assal -155 m
+  highest point: Moussa Ali 2,028 m
+
+Dominica
+  lowest point: Caribbean Sea 0 m
+  highest point: Morne Diablotins 1,447 m
+
+Dominican Republic
+  lowest point: Lago Enriquillo -46 m
+  highest point: Pico Duarte 3,175 m
+
+Ecuador
+  lowest point: Pacific Ocean 0 m
+  highest point: Chimborazo 6,267 m
+  note: due to the fact that the earth is not a perfect sphere and has
+  an equatorial bulge, the highest point on the planet furthest from
+  its center is Mount Chimborazo not Mount Everest, which is merely
+  the highest peak above sea-level
+
+Egypt
+  lowest point: Qattara Depression -133 m
+  highest point: Mount Catherine 2,629 m
+
+El Salvador
+  lowest point: Pacific Ocean 0 m
+  highest point: Cerro El Pital 2,730 m
+
+Equatorial Guinea
+  lowest point: Atlantic Ocean 0 m
+  highest point: Pico Basile 3,008 m
+
+Eritrea
+  lowest point: near Kulul within the Danakil Depression -75 m
+  highest point: Soira 3,018 m
+
+Estonia
+  lowest point: Baltic Sea 0 m
+  highest point: Suur Munamagi 318 m
+
+Ethiopia
+  lowest point: Danakil Depression -125 m
+  highest point: Ras Dejen 4,533 m
+
+European Union
+  lowest point: Lammefjord, Denmark -7 m;
+  Zuidplaspolder, Netherlands -7 m
+  highest point: Mont Blanc 4,807 m; note - situated on the border
+  between France and Italy
+
+Falkland Islands (Islas Malvinas)
+  lowest point: Atlantic Ocean 0 m
+  highest point: Mount Usborne 705 m
+
+Faroe Islands
+  lowest point: Atlantic Ocean 0 m
+  highest point: Slaettaratindur 882 m
+
+Fiji
+  lowest point: Pacific Ocean 0 m
+  highest point: Tomanivi 1,324 m
+
+Finland
+  lowest point: Baltic Sea 0 m
+  highest point: Haltiatunturi 1,328 m
+
+France
+  lowest point: Rhone River delta -2 m
+  highest point: Mont Blanc 4,807 m
+  note: in order to assess the possible effects of climate change on
+  the ice and snow cap of Mont Blanc, its surface and peak have been
+  extensively and periodically measured in recent years; these new
+  peak measurements have exceeded the traditional height of 4,807 m
+  and have varied between 4,808 m and 4,811 m; the actual rock summit
+  is 4,792 m and is 40 m away from the ice-covered summit
+
+French Polynesia
+  lowest point: Pacific Ocean 0 m
+  highest point: Mont Orohena 2,241 m
+
+French Southern and Antarctic Lands
+  lowest point: Indian Ocean 0 m
+  highest point: Mont de la Dives on Ile Amsterdam (Ile Amsterdam et
+  Ile Saint-Paul) 867 m; unnamed location on Ile Saint-Paul (Ile
+  Amsterdam et Ile Saint-Paul) 272 m; Pic Marion-Dufresne in Iles
+  Crozet 1,090 m; Mont Ross in Iles Kerguelen 1,850 m; unnamed
+  location on Bassas de India (Iles Eparses) 2.4 m; unnamed location
+  on Europa Island (Iles Eparses) 24 m; unnamed location on Glorioso
+  Islands (Iles Eparses) 12 m; unnamed location on Juan de Nova Island
+  (Iles Eparses) 10 m; unnamed location on Tromelin Island (Iles
+  Eparses) 7 m
+
+Gabon
+  lowest point: Atlantic Ocean 0 m
+  highest point: Mont Iboundji 1,575 m
+
+Gambia, The
+  lowest point: Atlantic Ocean 0 m
+  highest point: unnamed elevation 53 m
+
+Gaza Strip
+  lowest point: Mediterranean Sea 0 m
+  highest point: Abu 'Awdah (Joz Abu 'Awdah) 105 m
+
+Georgia
+  lowest point: Black Sea 0 m
+  highest point: Mt'a Shkhara 5,201 m
+
+Germany
+  lowest point: Neuendorf bei Wilster -3.54 m
+  highest point: Zugspitze 2,963 m
+
+Ghana
+  lowest point: Atlantic Ocean 0 m
+  highest point: Mount Afadjato 885 m
+
+Gibraltar
+  lowest point: Mediterranean Sea 0 m
+  highest point: Rock of Gibraltar 426 m
+
+Greece
+  lowest point: Mediterranean Sea 0 m
+  highest point: Mount Olympus 2,917 m
+
+Greenland
+  lowest point: Atlantic Ocean 0 m
+  highest point: Gunnbjorn Fjeld 3,700 m
+
+Grenada
+  lowest point: Caribbean Sea 0 m
+  highest point: Mount Saint Catherine 840 m
+
+Guam
+  lowest point: Pacific Ocean 0 m
+  highest point: Mount Lamlam 406 m
+
+Guatemala
+  lowest point: Pacific Ocean 0 m
+  highest point: Volcan Tajumulco 4,211 m
+
+Guernsey
+  lowest point: Atlantic Ocean 0 m
+  highest point: unnamed elevation on Sark 114 m
+
+Guinea
+  lowest point: Atlantic Ocean 0 m
+  highest point: Mont Nimba 1,752 m
+
+Guinea-Bissau
+  lowest point: Atlantic Ocean 0 m
+  highest point: unnamed elevation in the eastern part of the country
+  300 m
+
+Guyana
+  lowest point: Atlantic Ocean 0 m
+  highest point: Mount Roraima 2,835 m
+
+Haiti
+  lowest point: Caribbean Sea 0 m
+  highest point: Chaine de la Selle 2,680 m
+
+Heard Island and McDonald Islands
+  lowest point: Indian Ocean 0 m
+  highest point: Mawson Peak on Big Ben volcano 2,745 m
+
+Holy See (Vatican City)
+  lowest point: unnamed location 19 m
+  highest point: unnamed elevation 75 m
+
+Honduras
+  lowest point: Caribbean Sea 0 m
+  highest point: Cerro Las Minas 2,870 m
+
+Hong Kong
+  lowest point: South China Sea 0 m
+  highest point: Tai Mo Shan 958 m
+
+Hungary
+  lowest point: Tisza River 78 m
+  highest point: Kekes 1,014 m
+
+Iceland
+  lowest point: Atlantic Ocean 0 m
+  highest point: Hvannadalshnukur 2,110 m (at Vatnajokull glacier)
+
+India
+  lowest point: Indian Ocean 0 m
+  highest point: Kanchenjunga 8,598 m
+
+Indian Ocean
+  lowest point: Java Trench -7,258 m
+  highest point: sea level 0 m
+
+Indonesia
+  lowest point: Indian Ocean 0 m
+  highest point: Puncak Jaya 5,030 m
+
+Iran
+  lowest point: Caspian Sea -28 m
+  highest point: Kuh-e Damavand 5,671 m
+
+Iraq
+  lowest point: Persian Gulf 0 m
+  highest point: unnamed peak; 3,611 m; note - this peak is neither
+  Gundah Zhur 3,607 m nor Kuh-e Hajji-Ebrahim 3,595 m
+
+Ireland
+  lowest point: Atlantic Ocean 0 m
+  highest point: Carrauntoohil 1,041 m
+
+Isle of Man
+  lowest point: Irish Sea 0 m
+  highest point: Snaefell 621 m
+
+Israel
+  lowest point: Dead Sea -408 m
+  highest point: Har Meron 1,208 m
+
+Italy
+  lowest point: Mediterranean Sea 0 m
+  highest point: Mont Blanc (Monte Bianco) de Courmayeur 4,748 m (a
+  secondary peak of Mont Blanc)
+
+Jamaica
+  lowest point: Caribbean Sea 0 m
+  highest point: Blue Mountain Peak 2,256 m
+
+Jan Mayen
+  lowest point: Norwegian Sea 0 m
+  highest point: Haakon VII Toppen on Beerenberg 2,277 m
+  note: Beerenberg volcano has numerous peaks; the highest point on
+  the volcano rim is named Haakon VII Toppen, after Norway's first
+  king following the reestablishment of Norwegian independence in 1905
+
+Japan
+  lowest point: Hachiro-gata -4 m
+  highest point: Fujiyama 3,776 m
+
+Jersey
+  lowest point: Atlantic Ocean 0 m
+  highest point: unnamed elevation 143 m
+
+Jordan
+  lowest point: Dead Sea -408 m
+  highest point: Jabal Umm ad Dami 1,854 m
+
+Kazakhstan
+  lowest point: Vpadina Kaundy -132 m
+  highest point: Khan Tangiri Shyngy (Pik Khan-Tengri) 6,995 m
+
+Kenya
+  lowest point: Indian Ocean 0 m
+  highest point: Mount Kenya 5,199 m
+
+Kiribati
+  lowest point: Pacific Ocean 0 m
+  highest point: unnamed elevation on Banaba 81 m
+
+Korea, North
+  lowest point: Sea of Japan 0 m
+  highest point: Paektu-san 2,744 m
+
+Korea, South
+  lowest point: Sea of Japan 0 m
+  highest point: Halla-san 1,950 m
+
+Kosovo
+  lowest point: Drini i Bardhe/Beli Drim 297 m (located on the
+  border with Albania)
+  highest point: Gjeravica/Deravica 2,656 m
+
+Kuwait
+  lowest point: Persian Gulf 0 m
+  highest point: unnamed elevation 306 m
+
+Kyrgyzstan
+  lowest point: Kara-Daryya (Karadar'ya) 132 m
+  highest point: Jengish Chokusu (Pik Pobedy) 7,439 m
+
+Laos
+  lowest point: Mekong River 70 m
+  highest point: Phu Bia 2,817 m
+
+Latvia
+  lowest point: Baltic Sea 0 m
+  highest point: Gaizina Kalns 312 m
+
+Lebanon
+  lowest point: Mediterranean Sea 0 m
+  highest point: Qornet es Saouda 3,088 m
+
+Lesotho
+  lowest point: junction of the Orange and Makhaleng Rivers
+  1,400 m
+  highest point: Thabana Ntlenyana 3,482 m
+
+Liberia
+  lowest point: Atlantic Ocean 0 m
+  highest point: Mount Wuteve 1,380 m
+
+Libya
+  lowest point: Sabkhat Ghuzayyil -47 m
+  highest point: Bikku Bitti 2,267 m
+
+Liechtenstein
+  lowest point: Ruggeller Riet 430 m
+  highest point: Vorder-Grauspitz 2,599 m
+
+Lithuania
+  lowest point: Baltic Sea 0 m
+  highest point: Aukstojas 294 m
+
+Luxembourg
+  lowest point: Moselle River 133 m
+  highest point: Buurgplaatz 559 m
+
+Macau
+  lowest point: South China Sea 0 m
+  highest point: Coloane Alto 172 m
+
+Macedonia
+  lowest point: Vardar River 50 m
+  highest point: Golem Korab (Maja e Korabit) 2,764 m
+
+Madagascar
+  lowest point: Indian Ocean 0 m
+  highest point: Maromokotro 2,876 m
+
+Malawi
+  lowest point: junction of the Shire River and international
+  boundary with Mozambique 37 m
+  highest point: Sapitwa (Mount Mlanje) 3,002 m
+
+Malaysia
+  lowest point: Indian Ocean 0 m
+  highest point: Gunung Kinabalu 4,100 m
+
+Maldives
+  lowest point: Indian Ocean 0 m
+  highest point: unnamed location on Viligili in the Addu Atholhu 2.4 m
+
+Mali
+  lowest point: Senegal River 23 m
+  highest point: Hombori Tondo 1,155 m
+
+Malta
+  lowest point: Mediterranean Sea 0 m
+  highest point: Ta'Dmejrek 253 m (near Dingli)
+
+Marshall Islands
+  lowest point: Pacific Ocean 0 m
+  highest point: unnamed location on Likiep 10 m
+
+Mauritania
+  lowest point: Sebkhet Te-n-Dghamcha -5 m
+  highest point: Kediet Ijill 915 m
+
+Mauritius
+  lowest point: Indian Ocean 0 m
+  highest point: Mont Piton 828 m
+
+Mayotte
+  lowest point: Indian Ocean 0 m
+  highest point: Mlima Benara 660 m
+
+Mexico
+  lowest point: Laguna Salada -10 m
+  highest point: Volcan Pico de Orizaba 5,700 m
+
+Micronesia, Federated States of
+  lowest point: Pacific Ocean 0 m
+  highest point: Dolohmwar (Totolom) 791 m
+
+Moldova
+  lowest point: Dniester (Nistru) 2 m
+  highest point: Dealul Balanesti 430 m
+
+Monaco
+  lowest point: Mediterranean Sea 0 m
+  highest point: Mont Agel 140 m
+
+Mongolia
+  lowest point: Hoh Nuur 560 m
+  highest point: Nayramadlin Orgil (Huyten Orgil) 4,374 m
+
+Montenegro
+  lowest point: Adriatic Sea 0 m
+  highest point: Bobotov Kuk 2,522 m
+
+Montserrat
+  lowest point: Caribbean Sea 0 m
+  highest point: lava dome in English's Crater (in the Soufriere Hills
+  volcanic complex) estimated at over 930 m (2006)
+
+Morocco
+  lowest point: Sebkha Tah -55 m
+  highest point: Jebel Toubkal 4,165 m
+
+Mozambique
+  lowest point: Indian Ocean 0 m
+  highest point: Monte Binga 2,436 m
+
+Namibia
+  lowest point: Atlantic Ocean 0 m
+  highest point: Konigstein 2,606 m
+
+Nauru
+  lowest point: Pacific Ocean 0 m
+  highest point: unnamed elevation along plateau rim 61 m
+
+Navassa Island
+  lowest point: Caribbean Sea 0 m
+  highest point: unnamed elevation on southwest side 77 m
+
+Nepal
+  lowest point: Kanchan Kalan 70 m
+  highest point: Mount Everest 8,850 m
+
+Netherlands
+  lowest point: Zuidplaspolder -7 m
+  highest point: Mount Scenery 862 m (on the island of Saba in the
+  Caribbean, now considered an integral part of the Netherlands
+  following the dissolution of the Netherlands Antilles)
+  note: the highest point on continental Netherlands is Vaalserberg at
+  322 m
+
+New Caledonia
+  lowest point: Pacific Ocean 0 m
+  highest point: Mont Panie 1,628 m
+
+New Zealand
+  lowest point: Pacific Ocean 0 m
+  highest point: Aoraki-Mount Cook 3,754 m
+
+Nicaragua
+  lowest point: Pacific Ocean 0 m
+  highest point: Mogoton 2,438 m
+
+Niger
+  lowest point: Niger River 200 m
+  highest point: Idoukal-n-Taghes 2,022 m
+
+Nigeria
+  lowest point: Atlantic Ocean 0 m
+  highest point: Chappal Waddi 2,419 m
+
+Niue
+  lowest point: Pacific Ocean 0 m
+  highest point: unnamed elevation near Mutalau settlement 68 m
+
+Norfolk Island
+  lowest point: Pacific Ocean 0 m
+  highest point: Mount Bates 319 m
+
+Northern Mariana Islands
+  lowest point: Pacific Ocean 0 m
+  highest point: unnamed elevation on Agrihan 965 m
+
+Norway
+  lowest point: Norwegian Sea 0 m
+  highest point: Galdhopiggen 2,469 m
+
+Oman
+  lowest point: Arabian Sea 0 m
+  highest point: Jabal Shams 2,980 m
+
+Pacific Ocean
+  lowest point: Challenger Deep in the Mariana Trench
+  -10,924 m
+  highest point: sea level 0 m
+
+Pakistan
+  lowest point: Indian Ocean 0 m
+  highest point: K2 (Mt. Godwin-Austen) 8,611 m
+
+Palau
+  lowest point: Pacific Ocean 0 m
+  highest point: Mount Ngerchelchuus 242 m
+
+Panama
+  lowest point: Pacific Ocean 0 m
+  highest point: Volcan Baru 3,475 m
+
+Papua New Guinea
+  lowest point: Pacific Ocean 0 m
+  highest point: Mount Wilhelm 4,509 m
+
+Paracel Islands
+  lowest point: South China Sea 0 m
+  highest point: unnamed location on Rocky Island 14 m
+
+Paraguay
+  lowest point: junction of Rio Paraguay and Rio Parana 46 m
+  highest point: Cerro Pero 842 m
+
+Peru
+  lowest point: Pacific Ocean 0 m
+  highest point: Nevado Huascaran 6,768 m
+
+Philippines
+  lowest point: Philippine Sea 0 m
+  highest point: Mount Apo 2,954 m
+
+Pitcairn Islands
+  lowest point: Pacific Ocean 0 m
+  highest point: Big Ridge 347 m
+
+Poland
+  lowest point: near Raczki Elblaskie -2 m
+  highest point: Rysy 2,499 m
+
+Portugal
+  lowest point: Atlantic Ocean 0 m
+  highest point: Ponta do Pico (Pico or Pico Alto) on Ilha do Pico in
+  the Azores 2,351 m
+
+Puerto Rico
+  lowest point: Caribbean Sea 0 m
+  highest point: Cerro de Punta 1,338 m
+
+Qatar
+  lowest point: Persian Gulf 0 m
+  highest point: Tuwayyir al Hamir 103 m
+
+Romania
+  lowest point: Black Sea 0 m
+  highest point: Moldoveanu 2,544 m
+
+Russia
+  lowest point: Caspian Sea -28 m
+  highest point: Gora El'brus 5,633 m
+
+Rwanda
+  lowest point: Rusizi River 950 m
+  highest point: Volcan Karisimbi 4,519 m
+
+Saint Barthelemy
+  lowest point: Caribbean Ocean 0 m
+  highest point: Morne du Vitet 286 m
+
+Saint Helena, Ascension, and Tristan da Cunha
+  lowest point: Atlantic
+  Ocean 0 m
+  highest point: Queen Mary's Peak on Tristan da Cunha 2,060 m; Green
+  Mountain on Ascension Island 859 m; Mount Actaeon on Saint Helena
+  Island 818 m
+
+Saint Kitts and Nevis
+  lowest point: Caribbean Sea 0 m
+  highest point: Mount Liamuiga 1,156 m
+
+Saint Lucia
+  lowest point: Caribbean Sea 0 m
+  highest point: Mount Gimie 950 m
+
+Saint Martin
+  lowest point: Caribbean Ocean 0 m
+  highest point: Pic du Paradis 424 m
+
+Saint Pierre and Miquelon
+  lowest point: Atlantic Ocean 0 m
+  highest point: Morne de la Grande Montagne 240 m
+
+Saint Vincent and the Grenadines
+  lowest point: Caribbean Sea 0 m
+  highest point: La Soufriere 1,234 m
+
+Samoa
+  lowest point: Pacific Ocean 0 m
+  highest point: Mount Silisili 1,857 m
+
+San Marino
+  lowest point: Torrente Ausa 55 m
+  highest point: Monte Titano 755 m
+
+Sao Tome and Principe
+  lowest point: Atlantic Ocean 0 m
+  highest point: Pico de Sao Tome 2,024 m
+
+Saudi Arabia
+  lowest point: Persian Gulf 0 m
+  highest point: Jabal Sawda' 3,133 m
+
+Senegal
+  lowest point: Atlantic Ocean 0 m
+  highest point: unnamed elevation southwest of Kedougou 581 m
+
+Serbia
+  lowest point: Danube and Timok Rivers 35 m
+  highest point: Midzor 2,169 m
+
+Seychelles
+  lowest point: Indian Ocean 0 m
+  highest point: Morne Seychellois 905 m
+
+Sierra Leone
+  lowest point: Atlantic Ocean 0 m
+  highest point: Loma Mansa (Bintimani) 1,948 m
+
+Singapore
+  lowest point: Singapore Strait 0 m
+  highest point: Bukit Timah 166 m
+
+Sint Maarten
+  lowest point: Caribbean Sea 0 m
+  highest point: Mount Flagstaff 386 m
+
+Slovakia
+  lowest point: Bodrok River 94 m
+  highest point: Gerlachovsky Stit 2,655 m
+
+Slovenia
+  lowest point: Adriatic Sea 0 m
+  highest point: Triglav 2,864 m
+
+Solomon Islands
+  lowest point: Pacific Ocean 0 m
+  highest point: Mount Popomanaseu 2,310 m
+
+Somalia
+  lowest point: Indian Ocean 0 m
+  highest point: Shimbiris 2,416 m
+
+South Africa
+  lowest point: Atlantic Ocean 0 m
+  highest point: Njesuthi 3,408 m
+
+South Georgia and South Sandwich Islands
+  lowest point: Atlantic
+  Ocean 0 m
+  highest point: Mount Paget (South Georgia) 2,934 m
+
+Southern Ocean
+  lowest point: -7,235 m at the southern end of the
+  South Sandwich Trench
+  highest point: sea level 0 m
+
+Spain
+  lowest point: Atlantic Ocean 0 m
+  highest point: Pico de Teide (Tenerife) on Canary Islands 3,718 m
+
+Spratly Islands
+  lowest point: South China Sea 0 m
+  highest point: unnamed location on Southwest Cay 4 m
+
+Sri Lanka
+  lowest point: Indian Ocean 0 m
+  highest point: Pidurutalagala 2,524 m
+
+Sudan
+  lowest point: Red Sea 0 m
+  highest point: Kinyeti 3,187 m
+
+Suriname
+  lowest point: unnamed location in the coastal plain -2 m
+  highest point: Juliana Top 1,230 m
+
+Svalbard
+  lowest point: Arctic Ocean 0 m
+  highest point: Newtontoppen 1,717 m
+
+Swaziland
+  lowest point: Great Usutu River 21 m
+  highest point: Emlembe 1,862 m
+
+Sweden
+  lowest point: reclaimed bay of Lake Hammarsjon, near
+  Kristianstad -2.4 m
+  highest point: Kebnekaise 2,111 m
+
+Switzerland
+  lowest point: Lake Maggiore 195 m
+  highest point: Dufourspitze 4,634 m
+
+Syria
+  lowest point: unnamed location near Lake Tiberias -200 m
+  highest point: Mount Hermon 2,814 m
+
+Taiwan
+  lowest point: South China Sea 0 m
+  highest point: Yu Shan 3,952 m
+
+Tajikistan
+  lowest point: Syr Darya (Sirdaryo) 300 m
+  highest point: Qullai Ismoili Somoni (Pik Imeni Ismail Samani) 7,495
+  m
+
+Tanzania
+  lowest point: Indian Ocean 0 m
+  highest point: Kilimanjaro 5,895 m
+
+Thailand
+  lowest point: Gulf of Thailand 0 m
+  highest point: Doi Inthanon 2,576 m
+
+Timor-Leste
+  lowest point: Timor Sea, Savu Sea, and Banda Sea 0 m
+  highest point: Foho Tatamailau 2,963 m
+
+Togo
+  lowest point: Atlantic Ocean 0 m
+  highest point: Mont Agou 986 m
+
+Tokelau
+  lowest point: Pacific Ocean 0 m
+  highest point: unnamed location 5 m
+
+Tonga
+  lowest point: Pacific Ocean 0 m
+  highest point: unnamed elevation on Kao Island 1,033 m
+
+Trinidad and Tobago
+  lowest point: Caribbean Sea 0 m
+  highest point: El Cerro del Aripo 940 m
+
+Tunisia
+  lowest point: Shatt al Gharsah -17 m
+  highest point: Jebel ech Chambi 1,544 m
+
+Turkey
+  lowest point: Mediterranean Sea 0 m
+  highest point: Mount Ararat 5,166 m
+
+Turkmenistan
+  lowest point: Vpadina Akchanaya -81 m
+  note: Sarygamysh Koli is a lake in northern Turkmenistan with a
+  water level that fluctuates above and below the elevation of Vpadina
+  Akchanaya (the lake has dropped as low as -110 m)
+  highest point: Gora Ayribaba 3,139 m
+
+Turks and Caicos Islands
+  lowest point: Caribbean Sea 0 m
+  highest point: Flamingo Hill 48 m
+
+Tuvalu
+  lowest point: Pacific Ocean 0 m
+  highest point: unnamed location 5 m
+
+Uganda
+  lowest point: Lake Albert 621 m
+  highest point: Margherita Peak on Mount Stanley 5,110 m
+
+Ukraine
+  lowest point: Black Sea 0 m
+  highest point: Hora Hoverla 2,061 m
+
+United Arab Emirates
+  lowest point: Persian Gulf 0 m
+  highest point: Jabal Yibir 1,527 m
+
+United Kingdom
+  lowest point: The Fens -4 m
+  highest point: Ben Nevis 1,343 m
+
+United States
+  lowest point: Death Valley -86 m
+  highest point: Mount McKinley 6,194 m
+  note: the peak of Mauna Kea (4,207 m above sea level) on the island
+  of Hawaii rises about 10,200 m above the Pacific Ocean floor; by
+  this measurement, it is the world's tallest mountain - higher than
+  Mount Everest, which is recognized as the tallest mountain above sea
+  level
+
+United States Pacific Island Wildlife Refuges
+  lowest point: Pacific
+  Ocean 0 m
+  highest point: Baker Island, unnamed location - 8 m; Howland Island,
+  unnamed location - 3 m; Jarvis Island, unnamed location - 7 m;
+  Johnston Atoll, Sand Island - 10 m; Kingman Reef, unnamed location -
+  less than 2 m; Midway Islands, unnamed location - 13 m; Palmyra
+  Atoll, unnamed location - 3 m
+
+Uruguay
+  lowest point: Atlantic Ocean 0 m
+  highest point: Cerro Catedral 514 m
+
+Uzbekistan
+  lowest point: Sariqamish Kuli -12 m
+  highest point: Adelunga Toghi 4,301 m
+
+Vanuatu
+  lowest point: Pacific Ocean 0 m
+  highest point: Tabwemasana 1,877 m
+
+Venezuela
+  lowest point: Caribbean Sea 0 m
+  highest point: Pico Bolivar 5,007 m
+
+Vietnam
+  lowest point: South China Sea 0 m
+  highest point: Fan Si Pan 3,144 m
+
+Virgin Islands
+  lowest point: Caribbean Sea 0 m
+  highest point: Crown Mountain 474 m
+
+Wake Island
+  lowest point: Pacific Ocean 0 m
+  highest point: unnamed location 6 m
+
+Wallis and Futuna
+  lowest point: Pacific Ocean 0 m
+  highest point: Mont Singavi (on Futuna) 765 m
+
+West Bank
+  lowest point: Dead Sea -408 m
+  highest point: Tall Asur 1,022 m
+
+Western Sahara
+  lowest point: Sebjet Tah -55 m
+  highest point: unnamed elevation 805 m
+
+World
+  lowest point: Bentley Subglacial Trench -2,555 m
+  note: in the oceanic realm, Challenger Deep in the Mariana Trench is
+  the lowest point, lying -10,924 m below the surface of the Pacific
+  Ocean
+  highest point: Mount Everest 8,850 m
+  top ten highest mountains (measured from sea level): Mount Everest
+  (Nepal-China) 8,850 m; K2 (Pakistan) 8,611 m; Kanchenjunga
+  (Nepal-India) 8,598 m; Lhotse (Nepal) 8,516 m; Makalu (Nepal-China)
+  8,463 m; Cho Oyu (Nepal-China) 8,201 m; Dhaulagiri (Nepal) 8,167 m;
+  Manaslu (Nepal) 8,163 m; Nanga Parbat (Pakistan) 8,125 m; Anapurna
+  (Nepal) 8,091 m
+
+Yemen
+  lowest point: Arabian Sea 0 m
+  highest point: Jabal an Nabi Shu'ayb 3,760 m
+
+Zambia
+  lowest point: Zambezi river 329 m
+  highest point: unnamed elevation in Mafinga Hills 2,301 m
+
+Zimbabwe
+  lowest point: junction of the Runde and Save Rivers 162 m
+  highest point: Inyangani 2,592 m
+
+
+
+
+======================================================================
+
+
+
+
+

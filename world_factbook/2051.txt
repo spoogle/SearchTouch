@@ -1,0 +1,1892 @@
+2051
+
+
+Field Listing :: Administrative divisions
+
+  This entry generally gives the numbers, designatory terms, and
+  first-order administrative divisions as approved by the US Board on
+  Geographic Names (BGN). Changes that have been reported but not yet
+  acted on by the BGN are noted.
+  Country
+
+
+  Administrative divisions
+
+Afghanistan
+  34 provinces (welayat, singular - welayat); Badakhshan,
+  Badghis, Baghlan, Balkh, Bamyan, Daykundi, Farah, Faryab, Ghazni,
+  Ghor, Helmand, Herat, Jowzjan, Kabul, Kandahar, Kapisa, Khost,
+  Kunar, Kunduz, Laghman, Logar, Nangarhar, Nimroz, Nuristan, Paktika,
+  Paktiya, Panjshir, Parwan, Samangan, Sar-e Pul, Takhar, Uruzgan,
+  Wardak, Zabul
+
+Albania
+  12 counties (qarqe, singular - qark); Berat, Diber, Durres,
+  Elbasan, Fier, Gjirokaster, Korce, Kukes, Lezhe, Shkoder, Tirane,
+  Vlore
+
+Algeria
+  48 provinces (wilayat, singular - wilaya); Adrar, Ain Defla,
+  Ain Temouchent, Alger, Annaba, Batna, Bechar, Bejaia, Biskra, Blida,
+  Bordj Bou Arreridj, Bouira, Boumerdes, Chlef, Constantine, Djelfa,
+  El Bayadh, El Oued, El Tarf, Ghardaia, Guelma, Illizi, Jijel,
+  Khenchela, Laghouat, Mascara, Medea, Mila, Mostaganem, M'Sila,
+  Naama, Oran, Ouargla, Oum el Bouaghi, Relizane, Saida, Setif, Sidi
+  Bel Abbes, Skikda, Souk Ahras, Tamanghasset, Tebessa, Tiaret,
+  Tindouf, Tipaza, Tissemsilt, Tizi Ouzou, Tlemcen
+
+American Samoa
+  none (territory of the US); there are no first-order
+  administrative divisions as defined by the US Government, but there
+  are three districts and two islands* at the second order; Eastern,
+  Manu'a, Rose Island*, Swains Island*, Western
+
+Andorra
+  7 parishes (parroquies, singular - parroquia); Andorra la
+  Vella, Canillo, Encamp, Escaldes-Engordany, La Massana, Ordino, Sant
+  Julia de Loria
+
+Angola
+  18 provinces (provincias, singular - provincia); Bengo,
+  Benguela, Bie, Cabinda, Cuando Cubango, Cuanza Norte, Cuanza Sul,
+  Cunene, Huambo, Huila, Luanda, Lunda Norte, Lunda Sul, Malanje,
+  Moxico, Namibe, Uige, Zaire
+
+Anguilla
+  none (overseas territory of the UK)
+
+Antigua and Barbuda
+  6 parishes and 2 dependencies*; Barbuda*,
+  Redonda*, Saint George, Saint John, Saint Mary, Saint Paul, Saint
+  Peter, Saint Philip
+
+Argentina
+  23 provinces (provincias, singular - provincia) and 1
+  autonomous city* (distrito federal); Buenos Aires, Buenos Aires
+  Capital Federal*, Catamarca, Chaco, Chubut, Cordoba, Corrientes,
+  Entre Rios, Formosa, Jujuy, La Pampa, La Rioja, Mendoza, Misiones,
+  Neuquen, Rio Negro, Salta, San Juan, San Luis, Santa Cruz, Santa Fe,
+  Santiago del Estero, Tierra del Fuego - Antartida e Islas del
+  Atlantico Sur (Tierra del Fuego), Tucuman
+  note: the US does not recognize any claims to Antarctica
+
+Armenia
+  11 provinces (marzer, singular - marz); Aragatsotn, Ararat,
+  Armavir, Geghark'unik', Kotayk', Lorri, Shirak, Syunik', Tavush,
+  Vayots' Dzor, Yerevan
+
+Aruba
+  none (part of the Kingdom of the Netherlands)
+
+Australia
+  6 states and 2 territories*; Australian Capital
+  Territory*, New South Wales, Northern Territory*, Queensland, South
+  Australia, Tasmania, Victoria, Western Australia
+
+Austria
+  9 states (Bundeslaender, singular - Bundesland); Burgenland,
+  Kaernten (Carinthia), Niederoesterreich (Lower Austria),
+  Oberoesterreich (Upper Austria), Salzburg, Steiermark (Styria),
+  Tirol (Tyrol), Vorarlberg, Wien (Vienna)
+
+Azerbaijan
+  59 rayons (rayonlar; rayon - singular), 11 cities
+  (saharlar; sahar - singular), 1 autonomous republic (muxtar
+  respublika)
+  rayons: Abseron Rayonu, Agcabadi Rayonu, Agdam Rayonu, Agdas Rayonu,
+  Agstafa Rayonu, Agsu Rayonu, Astara Rayonu, Balakan Rayonu, Barda
+  Rayonu, Beylaqan Rayonu, Bilasuvar Rayonu, Cabrayil Rayonu,
+  Calilabad Rayonu, Daskasan Rayonu, Davaci Rayonu, Fuzuli Rayonu,
+  Gadabay Rayonu, Goranboy Rayonu, Goycay Rayonu, Haciqabul Rayonu,
+  Imisli Rayonu, Ismayilli Rayonu, Kalbacar Rayonu, Kurdamir Rayonu,
+  Lacin Rayonu, Lankaran Rayonu, Lerik Rayonu, Masalli Rayonu,
+  Neftcala Rayonu, Oguz Rayonu, Qabala Rayonu, Qax Rayonu, Qazax
+  Rayonu, Qobustan Rayonu, Quba Rayonu, Qubadli Rayonu, Qusar Rayonu,
+  Saatli Rayonu, Sabirabad Rayonu, Saki Rayonu, Salyan Rayonu, Samaxi
+  Rayonu, Samkir Rayonu, Samux Rayonu, Siyazan Rayonu, Susa Rayonu,
+  Tartar Rayonu, Tovuz Rayonu, Ucar Rayonu, Xacmaz Rayonu, Xanlar
+  Rayonu, Xizi Rayonu, Xocali Rayonu, Xocavand Rayonu, Yardimli
+  Rayonu, Yevlax Rayonu, Zangilan Rayonu, Zaqatala Rayonu, Zardab
+  Rayonu
+  cities: Ali Bayramli Sahari, Baki Sahari, Ganca Sahari, Lankaran
+  Sahari, Mingacevir Sahari, Naftalan Sahari, Saki Sahari, Sumqayit
+  Sahari, Susa Sahari, Xankandi Sahari, Yevlax Sahari
+  autonomous republic: Naxcivan Muxtar Respublikasi (Nakhichevan)
+
+Bahamas, The
+  31 districts; Acklins Islands, Berry Islands, Bimini,
+  Black Point, Cat Island, Central Abaco, Central Andros, Central
+  Eleuthera, City of Freeport, Crooked Island and Long Cay, East Grand
+  Bahama, Exuma, Grand Cay, Harbour Island, Hope Town, Inagua, Long
+  Island, Mangrove Cay, Mayaguana, Moore's Island, North Abaco, North
+  Andros, North Eleuthera, Ragged Island, Rum Cay, San Salvador, South
+  Abaco, South Andros, South Eleuthera, Spanish Wells, West Grand
+  Bahama
+
+Bahrain
+  5 governorates; Asamah, Janubiyah, Muharraq, Shamaliyah,
+  Wasat
+  note: each governorate administered by an appointed governor
+
+Bangladesh
+  7 divisions; Barisal, Chittagong, Dhaka, Khulna,
+  Rajshahi, Rangpur, Sylhet
+
+Barbados
+  11 parishes and 1 city*; Bridgetown*, Christ Church, Saint
+  Andrew, Saint George, Saint James, Saint John, Saint Joseph, Saint
+  Lucy, Saint Michael, Saint Peter, Saint Philip, Saint Thomas
+
+Belarus
+  6 provinces (voblastsi, singular - voblasts') and 1
+  municipality* (horad); Brest, Homyel' (Gomel), Horad Minsk* (Minsk
+  City), Hrodna (Grodno), Mahilyow (Mogilev), Minsk, Vitsyebsk
+  (Vitebsk)
+  note: administrative divisions have the same names as their
+  administrative centers; Russian spelling provided for reference when
+  different from Belarusian
+
+Belgium
+  3 regions (French: regions, singular - region; Dutch:
+  gewesten, singular - gewest); Brussels-Capital Region, also known as
+  Brussels Hoofdstedelijk Gewest (Dutch), Region de Bruxelles-Capitale
+  (French long form), Bruxelles-Capitale (French short form); Flemish
+  Region (Flanders), also known as Vlaams Gewest (Dutch long form),
+  Vlaanderen (Dutch short form), Region Flamande (French long form),
+  Flandre (French short form); Walloon Region (Wallonia), also known
+  as Region Wallone (French long form), Wallonie (French short form),
+  Waals Gewest (Dutch long form), Wallonie (Dutch short form)
+  note: as a result of the 1993 constitutional revision that furthered
+  devolution into a federal state, there are now three levels of
+  government (federal, regional, and linguistic community) with a
+  complex division of responsibilities
+
+Belize
+  6 districts; Belize, Cayo, Corozal, Orange Walk, Stann Creek,
+  Toledo
+
+Benin
+  12 departments; Alibori, Atakora, Atlantique, Borgou,
+  Collines, Kouffo, Donga, Littoral, Mono, Oueme, Plateau, Zou
+
+Bermuda
+  9 parishes and 2 municipalities*; Devonshire, Hamilton,
+  Hamilton*, Paget, Pembroke, Saint George*, Saint George's, Sandys,
+  Smith's, Southampton, Warwick
+
+Bhutan
+  20 districts (dzongkhag, singular and plural); Bumthang,
+  Chhukha, Chirang, Daga, Gasa, Geylegphug, Ha, Lhuntshi, Mongar,
+  Paro, Pemagatsel, Punakha, Samchi, Samdrup Jongkhar, Shemgang,
+  Tashigang, Tashi Yangtse, Thimphu, Tongsa, Wangdi Phodrang
+
+Bolivia
+  9 departments (departamentos, singular - departamento);
+  Beni, Chuquisaca, Cochabamba, La Paz, Oruro, Pando, Potosi, Santa
+  Cruz, Tarija
+
+Bosnia and Herzegovina
+  2 first-order administrative divisions and 1
+  internationally supervised district* - Brcko district (Brcko
+  Distrikt)*, the Bosniak/Croat Federation of Bosnia and Herzegovina
+  (Federacija Bosna i Hercegovina) and the Bosnian Serb-led Republika
+  Srpska; note - Brcko district is in northeastern Bosnia and is a
+  self-governing administrative unit under the sovereignty of Bosnia
+  and Herzegovina and formally held in condominium between the two
+  entities; the District remains under international supervision
+
+Botswana
+  9 districts and 5 town councils*; Central, Francistown*,
+  Gaborone*, Ghanzi, Jwaneng*, Kgalagadi, Kgatleng, Kweneng, Lobatse*,
+  Northeast, Northwest, Selebi-Pikwe*, Southeast, Southern
+
+Brazil
+  26 states (estados, singular - estado) and 1 federal
+  district* (distrito federal); Acre, Alagoas, Amapa, Amazonas, Bahia,
+  Ceara, Distrito Federal*, Espirito Santo, Goias, Maranhao, Mato
+  Grosso, Mato Grosso do Sul, Minas Gerais, Para, Paraiba, Parana,
+  Pernambuco, Piaui, Rio de Janeiro, Rio Grande do Norte, Rio Grande
+  do Sul, Rondonia, Roraima, Santa Catarina, Sao Paulo, Sergipe,
+  Tocantins
+
+British Virgin Islands
+  none (overseas territory of the UK)
+
+Brunei
+  4 districts (daerah-daerah, singular - daerah); Belait,
+  Brunei-Muara, Temburong, Tutong
+
+Bulgaria
+  28 provinces (oblasti, singular - oblast); Blagoevgrad,
+  Burgas, Dobrich, Gabrovo, Khaskovo, Kurdzhali, Kyustendil, Lovech,
+  Montana, Pazardzhik, Pernik, Pleven, Plovdiv, Razgrad, Ruse, Shumen,
+  Silistra, Sliven, Smolyan, Sofiya (Sofia), Sofiya-Grad (Sofia City),
+  Stara Zagora, Turgovishte, Varna, Veliko Turnovo, Vidin, Vratsa,
+  Yambol
+
+Burkina Faso
+  45 provinces; Bale, Bam, Banwa, Bazega, Bougouriba,
+  Boulgou, Boulkiemde, Comoe, Ganzourgou, Gnagna, Gourma, Houet, Ioba,
+  Kadiogo, Kenedougou, Komondjari, Kompienga, Kossi, Koulpelogo,
+  Kouritenga, Kourweogo, Leraba, Loroum, Mouhoun, Nahouri, Namentenga,
+  Nayala, Noumbiel, Oubritenga, Oudalan, Passore, Poni, Sanguie,
+  Sanmatenga, Seno, Sissili, Soum, Sourou, Tapoa, Tuy, Yagha, Yatenga,
+  Ziro, Zondoma, Zoundweogo
+
+Burma
+  7 divisions (taing-myar, singular - taing) and 7 states* (pyi
+  ne-myar, singular - pyi ne)
+  divisions: Ayeyarwady, Bago, Magway, Mandalay, Sagaing, Tanintharyi,
+  Yangon
+  states: Chin, Kachin, Kayah, Kayin, Mon, Rakhine (Arakan), Shan
+
+Burundi
+  17 provinces; Bubanza, Bujumbura Mairie, Bujumbura Rural,
+  Bururi, Cankuzo, Cibitoke, Gitega, Karuzi, Kayanza, Kirundo,
+  Makamba, Muramvya, Muyinga, Mwaro, Ngozi, Rutana, Ruyigi
+
+Cambodia
+  23 provinces (khett, singular and plural) and 1
+  municipality (krong, singular and plural)
+  provinces: Banteay Mean Choay, Batdambang, Kampong Cham, Kampong
+  Chhnang, Kampong Spoe, Kampong Thum, Kampot, Kandal, Kaoh Kong, Keb,
+  Krachen, Mondol Kiri, Otdar Mean Choay, Pailin, Pouthisat, Preah
+  Seihanu (Sihanoukville), Preah Vihear, Prey Veng, Rotanokiri, Siem
+  Reab, Stoeng Treng, Svay Rieng, Takev
+  municipalities: Phnum Penh (Phnom Penh)
+
+Cameroon
+  10 regions (regions, singular - region); Adamaoua, Centre,
+  Est, Extreme-Nord, Littoral, Nord, North-West (Nord-Ouest), Ouest,
+  Sud, South-West (Sud-Ouest)
+
+Canada
+  10 provinces and 3 territories*; Alberta, British Columbia,
+  Manitoba, New Brunswick, Newfoundland and Labrador, Northwest
+  Territories*, Nova Scotia, Nunavut*, Ontario, Prince Edward Island,
+  Quebec, Saskatchewan, Yukon Territory*
+
+Cape Verde
+  17 municipalities (concelhos, singular - concelho); Boa
+  Vista, Brava, Maio, Mosteiros, Paul, Praia, Porto Novo, Ribeira
+  Grande, Sal, Santa Catarina, Santa Cruz, Sao Domingos, Sao Filipe,
+  Sao Miguel, Sao Nicolau, Sao Vicente, Tarrafal
+
+Cayman Islands
+  8 districts; Creek, Eastern, Midland, South Town,
+  Spot Bay, Stake Bay, West End, Western
+
+Central African Republic
+  14 prefectures (prefectures, singular -
+  prefecture), 2 economic prefectures* (prefectures economiques,
+  singular - prefecture economique), and 1 commune**;
+  Bamingui-Bangoran, Bangui**, Basse-Kotto, Haute-Kotto, Haut-Mbomou,
+  Kemo, Lobaye, Mambere-Kadei, Mbomou, Nana-Grebizi*, Nana-Mambere,
+  Ombella-Mpoko, Ouaka, Ouham, Ouham-Pende, Sangha-Mbaere*, Vakaga
+
+Chad
+  22 regions (regions, singular - region); Barh el Gazel, Batha,
+  Borkou, Chari-Baguirmi, Ennedi, Guera, Hadjer-Lamis, Kanem, Lac,
+  Logone Occidental, Logone Oriental, Mandoul, Mayo-Kebbi Est,
+  Mayo-Kebbi Ouest, Moyen-Chari, Ouaddai, Salamat, Sila, Tandjile,
+  Tibesti, Ville de N'Djamena, Wadi Fira
+
+Chile
+  15 regions (regiones, singular - region); Aisen del General
+  Carlos Ibanez del Campo, Antofagasta, Araucania, Arica y Parinacota,
+  Atacama, Biobio, Coquimbo, Libertador General Bernardo O'Higgins,
+  Los Lagos, Los Rios, Magallanes y de la Antartica Chilena, Maule,
+  Region Metropolitana (Santiago), Tarapaca, Valparaiso
+  note: the US does not recognize claims to Antarctica
+
+China
+  23 provinces (sheng, singular and plural), 5 autonomous
+  regions (zizhiqu, singular and plural), and 4 municipalities (shi,
+  singular and plural)
+  provinces: Anhui, Fujian, Gansu, Guangdong, Guizhou, Hainan, Hebei,
+  Heilongjiang, Henan, Hubei, Hunan, Jiangsu, Jiangxi, Jilin,
+  Liaoning, Qinghai, Shaanxi, Shandong, Shanxi, Sichuan, Yunnan,
+  Zhejiang; (see note on Taiwan)
+  autonomous regions: Guangxi, Nei Mongol, Ningxia, Xinjiang Uygur,
+  Xizang (Tibet)
+  municipalities: Beijing, Chongqing, Shanghai, Tianjin
+  note: China considers Taiwan its 23rd province; see separate entries
+  for the special administrative regions of Hong Kong and Macau
+
+Christmas Island
+  none (territory of Australia)
+
+Cocos (Keeling) Islands
+  none (territory of Australia)
+
+Colombia
+  32 departments (departamentos, singular - departamento) and
+  1 capital district* (distrito capital); Amazonas, Antioquia, Arauca,
+  Atlantico, Bogota*, Bolivar, Boyaca, Caldas, Caqueta, Casanare,
+  Cauca, Cesar, Choco, Cordoba, Cundinamarca, Guainia, Guaviare,
+  Huila, La Guajira, Magdalena, Meta, Narino, Norte de Santander,
+  Putumayo, Quindio, Risaralda, San Andres y Providencia, Santander,
+  Sucre, Tolima, Valle del Cauca, Vaupes, Vichada
+
+Comoros
+  3 islands and 4 municipalities*; Grande Comore (N'gazidja),
+  Anjouan (Ndzuwani), Domoni*, Fomboni*, Moheli (Mwali), Moroni*,
+  Moutsamoudou*
+
+Congo, Democratic Republic of the
+  10 provinces (provinces, singular
+  - province) and 1 city* (ville); Bandundu, Bas-Congo, Equateur,
+  Kasai-Occidental, Kasai-Oriental, Katanga, Kinshasa*, Maniema,
+  Nord-Kivu, Orientale, Sud-Kivu
+  note: according to the Constitution adopted in December 2005, the
+  current administrative divisions will be subdivided into 26 new
+  provinces by 2009
+
+Congo, Republic of the
+  10 regions (regions, singular - region) and 1
+  commune*; Bouenza, Brazzaville*, Cuvette, Cuvette-Ouest, Kouilou,
+  Lekoumou, Likouala, Niari, Plateaux, Pool, Sangha
+
+Cook Islands
+  none
+
+Costa Rica
+  7 provinces (provincias, singular - provincia); Alajuela,
+  Cartago, Guanacaste, Heredia, Limon, Puntarenas, San Jose
+
+Cote d'Ivoire
+  19 regions; Agneby, Bafing, Bas-Sassandra, Denguele,
+  Dix-Huit Montagnes, Fromager, Haut-Sassandra, Lacs, Lagunes,
+  Marahoue, Moyen-Cavally, Moyen-Comoe, N'zi-Comoe, Savanes,
+  Sud-Bandama, Sud-Comoe, Vallee du Bandama, Worodougou, Zanzan
+
+Croatia
+  20 counties (zupanije, zupanija - singular) and 1 city*
+  (grad - singular); Bjelovarsko-Bilogorska, Brodsko-Posavska,
+  Dubrovacko-Neretvanska (Dubrovnik-Neretva), Istarska (Istria),
+  Karlovacka, Koprivnicko-Krizevacka, Krapinsko-Zagorska,
+  Licko-Senjska (Lika-Senj), Medimurska, Osjecko-Baranjska,
+  Pozesko-Slavonska (Pozega-Slavonia), Primorsko-Goranska,
+  Sibensko-Kninska, Sisacko-Moslavacka, Splitsko-Dalmatinska
+  (Split-Dalmatia), Varazdinska, Viroviticko-Podravska,
+  Vukovarsko-Srijemska, Zadarska, Zagreb*, Zagrebacka
+
+Cuba
+  14 provinces (provincias, singular - provincia) and 1 special
+  municipality* (municipio especial); Camaguey, Ciego de Avila,
+  Cienfuegos, Ciudad de La Habana, Granma, Guantanamo, Holguin, Isla
+  de la Juventud*, La Habana, Las Tunas, Matanzas, Pinar del Rio,
+  Sancti Spiritus, Santiago de Cuba, Villa Clara
+
+Curacao
+  none (part of the Kingdom of the Netherlands)
+
+Cyprus
+  6 districts; Famagusta, Kyrenia, Larnaca, Limassol, Nicosia,
+  Paphos; note - Turkish Cypriot area's administrative divisions
+  include Kyrenia, all but a small part of Famagusta, and small parts
+  of Nicosia (Lefkosia) and Larnaca
+
+Czech Republic
+  13 regions (kraje, singular - kraj) and 1 capital
+  city* (hlavni mesto); Jihocesky (South Bohemia), Jihomoravsky (South
+  Moravia), Karlovarsky, Kralovehradecky, Liberecky, Moravskoslezsky
+  (Moravia-Silesia), Olomoucky, Pardubicky, Plzensky (Pilsen), Praha
+  (Prague)*, Stredocesky (Central Bohemia), Ustecky, Vysocina, Zlinsky
+
+Denmark
+  metropolitan Denmark - 5 regions (regioner, singular -
+  region); Hovedstaden, Midtjylland, Nordjylland, Sjaelland, Syddanmark
+  note: an extensive local government reform merged 271 municipalities
+  into 98 and 13 counties into five regions, effective 1 January 2007
+
+Djibouti
+  6 districts (cercles, singular - cercle); Ali Sabieh, Arta,
+  Dikhil, Djibouti, Obock, Tadjourah
+
+Dominica
+  10 parishes; Saint Andrew, Saint David, Saint George, Saint
+  John, Saint Joseph, Saint Luke, Saint Mark, Saint Patrick, Saint
+  Paul, Saint Peter
+
+Dominican Republic
+  31 provinces (provincias, singular - provincia)
+  and 1 district* (distrito); Azua, Bahoruco, Barahona, Dajabon,
+  Distrito Nacional*, Duarte, El Seibo, Elias Pina, Espaillat, Hato
+  Mayor, Independencia, La Altagracia, La Romana, La Vega, Maria
+  Trinidad Sanchez, Monsenor Nouel, Monte Cristi, Monte Plata,
+  Pedernales, Peravia, Puerto Plata, Salcedo, Samana, San Cristobal,
+  San Jose de Ocoa, San Juan, San Pedro de Macoris, Sanchez Ramirez,
+  Santiago, Santiago Rodriguez, Santo Domingo, Valverde
+
+Ecuador
+  24 provinces (provincias, singular - provincia); Azuay,
+  Bolivar, Canar, Carchi, Chimborazo, Cotopaxi, El Oro, Esmeraldas,
+  Galapagos, Guayas, Imbabura, Loja, Los Rios, Manabi,
+  Morona-Santiago, Napo, Orellana, Pastaza, Pichincha, Santa Elena,
+  Santo Domingo de los Tsachilas, Sucumbios, Tungurahua,
+  Zamora-Chinchipe
+
+Egypt
+  29 governorates (muhafazat, singular - muhafazat); Ad
+  Daqahliyah, Al Bahr al Ahmar (Red Sea), Al Buhayrah (El Beheira), Al
+  Fayyum (El Faiyum), Al Gharbiyah, Al Iskandariyah (Alexandria), Al
+  Isma'iliyah (Ismailia), Al Jizah (Giza), Al Minufiyah (El Monofia),
+  Al Minya, Al Qahirah (Cairo), Al Qalyubiyah, Al Uqsur, Al Wadi al
+  Jadid (New Valley), As Suways (Suez), Ash Sharqiyah, Aswan, Asyut,
+  Bani Suwayf (Beni Suef), Bur Sa'id (Port Said), Dumyat (Damietta),
+  Helwan, Janub Sina' (South Sinai), Kafr ash Shaykh, Matruh (Western
+  Desert), Qina (Qena), Shamal Sina' (North Sinai), Sittah Uktubar,
+  Suhaj (Sohag)
+
+El Salvador
+  14 departments (departamentos, singular - departamento);
+  Ahuachapan, Cabanas, Chalatenango, Cuscatlan, La Libertad, La Paz,
+  La Union, Morazan, San Miguel, San Salvador, San Vicente, Santa Ana,
+  Sonsonate, Usulutan
+
+Equatorial Guinea
+  7 provinces (provincias, singular - provincia);
+  Annobon, Bioko Norte, Bioko Sur, Centro Sur, Kie-Ntem, Litoral,
+  Wele-Nzas
+
+Eritrea
+  6 regions (zobatat, singular - zoba); Anseba, Debub (South),
+  Debubawi K'eyih Bahri (Southern Red Sea), Gash Barka, Ma'akel
+  (Central), Semenawi Keyih Bahri (Northern Red Sea)
+
+Estonia
+  15 counties (maakonnad, singular - maakond); Harjumaa
+  (Tallinn), Hiiumaa (Kardla), Ida-Virumaa (Johvi), Jarvamaa (Paide),
+  Jogevamaa (Jogeva), Laanemaa (Haapsalu), Laane-Virumaa (Rakvere),
+  Parnumaa (Parnu), Polvamaa (Polva), Raplamaa (Rapla), Saaremaa
+  (Kuressaare), Tartumaa (Tartu), Valgamaa (Valga), Viljandimaa
+  (Viljandi), Vorumaa (Voru)
+  note: counties have the administrative center name following in
+  parentheses
+
+Ethiopia
+  9 ethnically based states (kililoch, singular - kilil) and
+  2 self-governing administrations* (astedaderoch, singular -
+  astedader); Adis Abeba* (Addis Ababa), Afar, Amara (Amhara),
+  Binshangul Gumuz, Dire Dawa*, Gambela Hizboch (Gambela Peoples),
+  Hareri Hizb (Harari People), Oromiya (Oromia), Sumale (Somali),
+  Tigray, Ye Debub Biheroch Bihereseboch na Hizboch (Southern Nations,
+  Nationalities and Peoples)
+
+Falkland Islands (Islas Malvinas)
+  none (overseas territory of the
+  UK; also claimed by Argentina)
+
+Faroe Islands
+  none (part of the Kingdom of Denmark; self-governing
+  overseas administrative division of Denmark); there are no
+  first-order administrative divisions as defined by the US
+  Government, but there are 34 municipalities
+
+Fiji
+  4 divisions and 1 dependency*; Central, Eastern, Northern,
+  Rotuma*, Western
+
+Finland
+  20 regions (maakunnat, singular - maakunta (Finnish);
+  landskapen, singular - landskapet (Swedish)); Aland (Swedish),
+  Ahvenanmaa (Finnish); Etela-Karjala (Finnish), Sodra Karelen
+  (Swedish) [South Karelia]; Etela-Pohjanmaa (Finnish), Sodra
+  Osterbotten (Swedish) [South Ostrobothnia]; Etela-Savo (Finnish),
+  Sodra Savolax (Swedish) [South Savo]; Kanta-Hame (Finnish),
+  Egentliga Tavastland (Swedish); Ita-Uusimaa (Finnish), Ostra Nyland
+  (Swedish) [East Newland]; Kainuu (Finnish), Kajanaland (Swedish);
+  Keski-Pohjanmaa (Finnish), Mellersta Osterbotten (Swedish) [Central
+  Ostrobothnia]; Keski-Suomi (Finnish), Mellersta Finland (Swedish)
+  [Central Finland]; Kymenlaakso (Finnish), Kymmenedalen (Swedish);
+  Lappi (Finnish), Lappland (Swedish); Paijat-Hame (Finnish),
+  Paijanne-Tavastland (Swedish); Pirkanmaa (Finnish), Birkaland
+  (Swedish) [Tampere]; Osterbotten (Swedish), Pohjanmaa (Finnish)
+  [Ostrobothnia]; Pohjois-Karjala (Finnish), Norra Karelen (Swedish)
+  [North Karelia]; Pohjois-Pohjanmaa (Finnish), Norra Osterbotten
+  (Swedish) [North Ostrobothnia]; Pohjois-Savo (Finnish), Norra
+  Savolax (Swedish) [North Savo]; Satakunta (Finnish and Swedish);
+  Uusimaa (Finnish), Nyland (Swedish) [Newland]; Varsinais-Suomi
+  (Finnish), Egentliga Finland (Swedish) [Southwest Finland]
+
+France
+  26 regions (regions, singular - region); Alsace, Aquitaine,
+  Auvergne, Basse-Normandie (Lower Normandy), Bourgogne (Burgundy),
+  Bretagne (Brittany), Centre, Champagne-Ardenne, Corse (Corsica),
+  Franche-Comte, Guadeloupe, Guyane (French Guiana), Haute-Normandie
+  (Upper Normandy), Ile-de-France, Languedoc-Roussillon, Limousin,
+  Lorraine, Martinique, Midi-Pyrenees, Nord-Pas-de-Calais, Pays de la
+  Loire, Picardie, Poitou-Charentes, Provence-Alpes-Cote d'Azur,
+  Reunion, Rhone-Alpes
+  note: France is divided into 22 metropolitan regions (including the
+  "territorial collectivity" of Corse or Corsica) and 4 overseas
+  regions (including French Guiana, Guadeloupe, Martinique, and
+  Reunion) and is subdivided into 96 metropolitan departments and 4
+  overseas departments (which are the same as the overseas regions)
+
+French Polynesia
+  none (overseas lands of France); there are no
+  first-order administrative divisions as defined by the US
+  Government, but there are five archipelagic divisions named Archipel
+  des Marquises, Archipel des Tuamotu, Archipel des Tubuai, Iles du
+  Vent, Iles Sous-le-Vent
+
+French Southern and Antarctic Lands
+  none (overseas territory of
+  France); there are no first-order administrative divisions as
+  defined by the US Government, but there are five administrative
+  districts named Iles Crozet, Iles Eparses, Iles Kerguelen, Ile
+  Saint-Paul et Ile Amsterdam; the fifth district is the "Adelie Land"
+  claim in Antarctica that is not recognized by the US
+
+Gabon
+  9 provinces; Estuaire, Haut-Ogooue, Moyen-Ogooue, Ngounie,
+  Nyanga, Ogooue-Ivindo, Ogooue-Lolo, Ogooue-Maritime, Woleu-Ntem
+
+Gambia, The
+  5 divisions and 1 city*; Banjul*, Central River, Lower
+  River, North Bank, Upper River, Western
+
+Georgia
+  9 regions (mkharebi, singular - mkhare), 1 city (k'alak'i),
+  and 2 autonomous republics (avtomnoy respubliki, singular - avtom
+  respublika)
+  regions: Guria, Imereti, Kakheti, Kvemo Kartli, Mtskheta-Mtianeti,
+  Racha-Lechkhumi and Kvemo Svaneti, Samegrelo and Zemo Svaneti,
+  Samtskhe-Javakheti, Shida Kartli
+  city: Tbilisi
+  autonomous republics: Abkhazia or Ap'khazet'is Avtonomiuri
+  Respublika (Sokhumi), Ajaria or Acharis Avtonomiuri Respublika
+  (Bat'umi)
+  note: the administrative centers of the two autonomous republics are
+  shown in parentheses
+
+Germany
+  16 states (Laender, singular - Land); Baden-Wurttemberg,
+  Bayern (Bavaria), Berlin, Brandenburg, Bremen, Hamburg, Hessen
+  (Hesse), Mecklenburg-Vorpommern (Mecklenburg-Western Pomerania),
+  Niedersachsen (Lower Saxony), Nordrhein-Westfalen (North
+  Rhine-Westphalia), Rheinland-Pfalz (Rhineland-Palatinate), Saarland,
+  Sachsen (Saxony), Sachsen-Anhalt (Saxony-Anhalt),
+  Schleswig-Holstein, Thueringen (Thuringia); note - Bayern, Sachsen,
+  and Thueringen refer to themselves as free states (Freistaaten,
+  singular - Freistaat)
+
+Ghana
+  10 regions; Ashanti, Brong-Ahafo, Central, Eastern, Greater
+  Accra, Northern, Upper East, Upper West, Volta, Western
+
+Gibraltar
+  none (overseas territory of the UK)
+
+Greece
+  51 prefectures (nomoi, singular - nomos) and 1 autonomous
+  region*; Achaia, Agion Oros* (Mount Athos), Aitolia kai Akarnania,
+  Argolis, Arkadia, Arta, Attiki, Chalkidiki, Chania, Chios,
+  Dodekanisos, Drama, Evros, Evrytania, Evvoia, Florina, Fokidos,
+  Fthiotis, Grevena, Ileia, Imathia, Ioannina, Irakleion, Karditsa,
+  Kastoria, Kavala, Kefallinia, Kerkyra, Kilkis, Korinthia, Kozani,
+  Kyklades, Lakonia, Larisa, Lasithi, Lefkada, Lesvos, Magnisia,
+  Messinia, Pella, Pieria, Preveza, Rethymnis, Rodopi, Samos, Serres,
+  Thesprotia, Thessaloniki, Trikala, Voiotia, Xanthi, Zakynthos
+
+Greenland
+  4 municipalities (kommuner, singular kommune); Kujalleq,
+  Qaasuitsup, Qeqqata, Sermersooq
+  note: the North and East Greenland National Park (Avannaarsuani
+  Tunumilu Nuna Allanngutsaaliugaq) and the Thule Air Base in Pituffik
+  (in northwest Greenland) are two unincorporated areas; the national
+  park's 972,000 sq km - about 46% of the island - make it the largest
+  national park in the world and also the most northerly
+
+Grenada
+  6 parishes and 1 dependency*; Carriacou and Petite
+  Martinique*, Saint Andrew, Saint David, Saint George, Saint John,
+  Saint Mark, Saint Patrick
+
+Guam
+  none (territory of the US)
+
+Guatemala
+  22 departments (departamentos, singular - departamento);
+  Alta Verapaz, Baja Verapaz, Chimaltenango, Chiquimula, El Progreso,
+  Escuintla, Guatemala, Huehuetenango, Izabal, Jalapa, Jutiapa, Peten,
+  Quetzaltenango, Quiche, Retalhuleu, Sacatepequez, San Marcos, Santa
+  Rosa, Solola, Suchitepequez, Totonicapan, Zacapa
+
+Guernsey
+  none (British crown dependency); there are no first-order
+  administrative divisions as defined by the US Government, but there
+  are 10 parishes including Castel, Forest, Saint Andrew, Saint
+  Martin, Saint Peter Port, Saint Pierre du Bois, Saint Sampson, Saint
+  Saviour, Torteval, Vale
+
+Guinea
+  33 prefectures and 1 special zone (zone special)*; Beyla,
+  Boffa, Boke, Conakry*, Coyah, Dabola, Dalaba, Dinguiraye, Dubreka,
+  Faranah, Forecariah, Fria, Gaoual, Gueckedou, Kankan, Kerouane,
+  Kindia, Kissidougou, Koubia, Koundara, Kouroussa, Labe, Lelouma,
+  Lola, Macenta, Mali, Mamou, Mandiana, Nzerekore, Pita, Siguiri,
+  Telimele, Tougue, Yomou
+
+Guinea-Bissau
+  9 regions (regioes, singular - regiao); Bafata,
+  Biombo, Bissau, Bolama, Cacheu, Gabu, Oio, Quinara, Tombali; note -
+  Bolama may have been renamed Bolama/Bijagos
+
+Guyana
+  10 regions; Barima-Waini, Cuyuni-Mazaruni, Demerara-Mahaica,
+  East Berbice-Corentyne, Essequibo Islands-West Demerara,
+  Mahaica-Berbice, Pomeroon-Supenaam, Potaro-Siparuni, Upper
+  Demerara-Berbice, Upper Takutu-Upper Essequibo
+
+Haiti
+  10 departments (departements, singular - departement);
+  Artibonite, Centre, Grand'Anse, Nippes, Nord, Nord-Est, Nord-Ouest,
+  Ouest, Sud, Sud-Est
+
+Holy See (Vatican City)
+  none
+
+Honduras
+  18 departments (departamentos, singular - departamento);
+  Atlantida, Choluteca, Colon, Comayagua, Copan, Cortes, El Paraiso,
+  Francisco Morazan, Gracias a Dios, Intibuca, Islas de la Bahia, La
+  Paz, Lempira, Ocotepeque, Olancho, Santa Barbara, Valle, Yoro
+
+Hong Kong
+  none (special administrative region of China)
+
+Hungary
+  19 counties (megyek, singular - megye), 23 urban counties
+  (singular - megyei varos), and 1 capital city (fovaros)
+  counties: Bacs-Kiskun, Baranya, Bekes, Borsod-Abauj-Zemplen,
+  Csongrad, Fejer, Gyor-Moson-Sopron, Hajdu-Bihar, Heves,
+  Jasz-Nagykun-Szolnok, Komarom-Esztergom, Nograd, Pest, Somogy,
+  Szabolcs-Szatmar-Bereg, Tolna, Vas, Veszprem, Zala
+  urban counties: Bekescsaba, Debrecen, Dunaujvaros, Eger, Erd, Gyor,
+  Hodmezovasarhely, Kaposvar, Kecskemet, Miskolc, Nagykanizsa,
+  Nyiregyhaza, Pecs, Salgotarjan, Sopron, Szeged, Szekesfehervar,
+  Szekszard, Szolnok, Szombathely, Tatabanya, Veszprem, Zalaegerszeg
+  capital city: Budapest
+
+Iceland
+  8 regions; Austurland, Hofudhborgarsvaedhi, Nordhurland
+  Eystra, Nordhurland Vestra, Sudhurland, Sudhurnes, Vestfirdhir,
+  Vesturland
+
+India
+  28 states and 7 union territories*; Andaman and Nicobar
+  Islands*, Andhra Pradesh, Arunachal Pradesh, Assam, Bihar,
+  Chandigarh*, Chhattisgarh, Dadra and Nagar Haveli*, Daman and Diu*,
+  Delhi*, Goa, Gujarat, Haryana, Himachal Pradesh, Jammu and Kashmir,
+  Jharkhand, Karnataka, Kerala, Lakshadweep*, Madhya Pradesh,
+  Maharashtra, Manipur, Meghalaya, Mizoram, Nagaland, Orissa,
+  Puducherry*, Punjab, Rajasthan, Sikkim, Tamil Nadu, Tripura, Uttar
+  Pradesh, Uttarakhand, West Bengal
+
+Indonesia
+  30 provinces (provinsi-provinsi, singular - provinsi), 2
+  special regions* (daerah-daerah istimewa, singular - daerah
+  istimewa), and 1 special capital city district** (daerah khusus
+  ibukota); Aceh*, Bali, Banten, Bengkulu, Gorontalo, Jakarta Raya**,
+  Jambi, Jawa Barat (West Java), Jawa Tengah (Central Java), Jawa
+  Timur (East Java), Kalimantan Barat (West Kalimantan), Kalimantan
+  Selatan (South Kalimantan), Kalimantan Tengah (Central Kalimantan),
+  Kalimantan Timur (East Kalimantan), Kepulauan Bangka Belitung
+  (Bangka Belitung Islands), Kepulauan Riau (Riau Islands), Lampung,
+  Maluku, Maluku Utara (North Maluku), Nusa Tenggara Barat (West Nusa
+  Tenggara), Nusa Tenggara Timur (East Nusa Tenggara), Papua, Papua
+  Barat (West Papua), Riau, Sulawesi Barat (West Sulawesi), Sulawesi
+  Selatan (South Sulawesi), Sulawesi Tengah (Central Sulawesi),
+  Sulawesi Tenggara (Southeast Sulawesi), Sulawesi Utara (North
+  Sulawesi), Sumatera Barat (West Sumatra), Sumatera Selatan (South
+  Sumatra), Sumatera Utara (North Sumatra), Yogyakarta*
+  note: following the implementation of decentralization beginning on
+  1 January 2001, regencies and municipalities have become the key
+  administrative units responsible for providing most government
+  services
+
+Iran
+  31 provinces (ostanha, singular - ostan); Alborz, Ardabil,
+  Azarbayjan-e Gharbi (West Azerbaijan), Azarbayjan-e Sharqi (East
+  Azerbaijan), Bushehr, Chahar Mahal va Bakhtiari, Esfahan, Fars,
+  Gilan, Golestan, Hamadan, Hormozgan, Ilam, Kerman, Kermanshah,
+  Khorasan-e Jonubi (South Khorasan), Khorasan-e Razavi (Razavi
+  Khorasan), Khorasan-e Shomali (North Khorasan), Khuzestan,
+  Kohgiluyeh va Bowyer Ahmad, Kordestan, Lorestan, Markazi,
+  Mazandaran, Qazvin, Qom, Semnan, Sistan va Baluchestan, Tehran,
+  Yazd, Zanjan
+
+Iraq
+  18 governorates (muhafazat, singular - muhafazah) and 1
+  region*; Al Anbar, Al Basrah, Al Muthanna, Al Qadisiyah (Ad
+  Diwaniyah), An Najaf, Arbil (Erbil), As Sulaymaniyah, Babil,
+  Baghdad, Dahuk, Dhi Qar, Diyala, Karbala', Kirkuk, Kurdistan
+  Regional Government*, Maysan, Ninawa, Salah ad Din, Wasit
+
+Ireland
+  29 counties and 5 cities*; Carlow, Cavan, Clare, Cork,
+  Cork*, Donegal, Dublin*, Dun Laoghaire-Rathdown, Fingal, Galway,
+  Galway*, Kerry, Kildare, Kilkenny, Laois, Leitrim, Limerick,
+  Limerick*, Longford, Louth, Mayo, Meath, Monaghan, North Tipperary,
+  Offaly, Roscommon, Sligo, South Dublin, South Tipperary, Waterford,
+  Waterford*, Westmeath, Wexford, Wicklow
+
+Isle of Man
+  none; there are no first-order administrative divisions
+  as defined by the US Government, but there are 24 local authorities
+  each with its own elections
+
+Israel
+  6 districts (mehozot, singular - mehoz); Central, Haifa,
+  Jerusalem, Northern, Southern, Tel Aviv
+
+Italy
+  15 regions (regioni, singular - regione) and 5 autonomous
+  regions (regioni autonome, singular - regione autonoma)
+  regions: Abruzzo, Basilicata, Calabria, Campania, Emilia-Romagna,
+  Lazio (Latium), Liguria, Lombardia, Marche, Molise, Piemonte
+  (Piedmont), Puglia (Apulia), Toscana (Tuscany), Umbria, Veneto
+  (Venetia)
+  autonomous regions: Friuli-Venezia Giulia; Sardegna (Sardinia);
+  Sicilia (Sicily); Trentino-Alto Adige (Trentino-South Tyrol) or
+  Trentino-Suedtirol (German); Valle d'Aosta (Aosta Valley) or Vallee
+  d'Aoste (French)
+
+Jamaica
+  14 parishes; Clarendon, Hanover, Kingston, Manchester,
+  Portland, Saint Andrew, Saint Ann, Saint Catherine, Saint Elizabeth,
+  Saint James, Saint Mary, Saint Thomas, Trelawny, Westmoreland
+  note: for local government purposes, Kingston and Saint Andrew were
+  amalgamated in 1923 into the present single corporate body known as
+  the Kingston and Saint Andrew Corporation
+
+Japan
+  47 prefectures; Aichi, Akita, Aomori, Chiba, Ehime, Fukui,
+  Fukuoka, Fukushima, Gifu, Gunma, Hiroshima, Hokkaido, Hyogo,
+  Ibaraki, Ishikawa, Iwate, Kagawa, Kagoshima, Kanagawa, Kochi,
+  Kumamoto, Kyoto, Mie, Miyagi, Miyazaki, Nagano, Nagasaki, Nara,
+  Niigata, Oita, Okayama, Okinawa, Osaka, Saga, Saitama, Shiga,
+  Shimane, Shizuoka, Tochigi, Tokushima, Tokyo, Tottori, Toyama,
+  Wakayama, Yamagata, Yamaguchi, Yamanashi
+
+Jersey
+  none (British crown dependency); there are no first-order
+  administrative divisions as defined by the US Government, but there
+  are 12 parishes including Grouville, Saint Brelade, Saint Clement,
+  Saint Helier, Saint John, Saint Lawrence, Saint Martin, Saint Mary,
+  Saint Ouen, Saint Peter, Saint Saviour, and Trinity
+
+Jordan
+  12 governorates (muhafazat, singular - muhafazah); Ajlun, Al
+  'Aqabah, Al Balqa', Al Karak, Al Mafraq, 'Amman, At Tafilah, Az
+  Zarqa', Irbid, Jarash, Ma'an, Madaba
+
+Kazakhstan
+  14 provinces (oblystar, singular - oblys) and 3 cities*
+  (qalalar, singular - qala); Almaty Oblysy, Almaty Qalasy*, Aqmola
+  Oblysy (Astana), Aqtobe Oblysy, Astana Qalasy*, Atyrau Oblysy, Batys
+  Qazaqstan Oblysy [West Kazakhstan] (Oral), Bayqongyr Qalasy
+  [Baykonur]*, Mangghystau Oblysy (Aqtau), Ongtustik Qazaqstan Oblysy
+  [South Kazakhstan] (Shymkent), Pavlodar Oblysy, Qaraghandy Oblysy,
+  Qostanay Oblysy, Qyzylorda Oblysy, Shyghys Qazaqstan Oblysy [East
+  Kazakhstan] (Oskemen), Soltustik Qazaqstan Oblysy (Petropavlovsk),
+  Zhambyl Oblysy (Taraz)
+  note: administrative divisions have the same names as their
+  administrative centers (exceptions have the administrative center
+  name following in parentheses); in 1995, the Governments of
+  Kazakhstan and Russia entered into an agreement whereby Russia would
+  lease for a period of 20 years an area of 6,000 sq km enclosing the
+  Baykonur space launch facilities and the city of Bayqongyr
+  (Baykonur, formerly Leninsk); in 2004, a new agreement extended the
+  lease to 2050
+
+Kenya
+  7 provinces and 1 area*; Central, Coast, Eastern, Nairobi
+  Area*, North Eastern, Nyanza, Rift Valley, Western
+
+Kiribati
+  3 units; Gilbert Islands, Line Islands, Phoenix Islands;
+  note - in addition, there are 6 districts (Banaba, Central Gilberts,
+  Line Islands, Northern Gilberts, Southern Gilberts, Tarawa) and 21
+  island councils - one for each of the inhabited islands (Abaiang,
+  Abemama, Aranuka, Arorae, Banaba, Beru, Butaritari, Kanton,
+  Kiritimati, Kuria, Maiana, Makin, Marakei, Nikunau, Nonouti, Onotoa,
+  Tabiteuea, Tabuaeran, Tamana, Tarawa, Teraina)
+
+Korea, North
+  9 provinces (do, singular and plural) and 2
+  municipalities (si, singular and plural)
+  provinces: Chagang-do (Chagang), Hamgyong-bukto (North Hamgyong),
+  Hamgyong-namdo (South Hamgyong), Hwanghae-bukto (North Hwanghae),
+  Hwanghae-namdo (South Hwanghae), Kangwon-do (Kangwon),
+  P'yongan-bukto (North P'yongan), P'yongan-namdo (South P'yongan),
+  Yanggang-do (Yanggang)
+  municipalities: Nason-si, P'yongyang-si (Pyongyang)
+
+Korea, South
+  9 provinces (do, singular and plural) and 7
+  metropolitan cities (gwangyoksi, singular and plural)
+  provinces: Cheju-do, Cholla-bukto (North Cholla), Cholla-namdo
+  (South Cholla), Ch'ungch'ong-bukto (North Ch'ungch'ong),
+  Ch'ungch'ong-namdo (South Ch'ungch'ong), Kangwon-do, Kyonggi-do,
+  Kyongsang-bukto (North Kyongsang), Kyongsang-namdo (South Kyongsang)
+  metropolitan cities: Inch'on-gwangyoksi, Kwangju-gwangyoksi,
+  Pusan-gwangyoksi, Soul-t'ukpyolsi (Seoul), Taegu-gwangyoksi,
+  Taejon-gwangyoksi, Ulsan-gwangyoksi
+
+Kosovo
+  30 municipalities (komunat, singular - komuna in Albanian;
+  opstine, singular - opstina in Serbian); Decan (Decani), Dragash
+  (Dragas), Ferizaj (Urosevac), Fushe Kosove (Kosovo Polje), Gjakove
+  (Dakovica), Gjilan (Gnjilane), Gllogovc/Drenas (Glogovac), Istog
+  (Istok), Kacanik, Kamenice/Dardana (Kamenica), Kline (Klina),
+  Leposaviq (Leposavic), Lipjan (Lipljan), Malisheve (Malisevo),
+  Mitrovice (Mitrovica), Novoberde (Novo Brdo), Obiliq (Obilic), Peje
+  (Pec), Podujeve (Podujevo), Prishtine (Pristina), Prizren, Rahovec
+  (Orahovac), Shterpce (Strpce), Shtime (Stimlje), Skenderaj (Srbica),
+  Suhareke (Suva Reka), Viti (Vitina), Vushtrri (Vucitrn), Zubin
+  Potok, Zvecan
+  note - the Government of Kosovo has announced the establishment of
+  eight additional municipalities in accordance with UN Special Envoy
+  AHTISAARI's mandated decentralization process; the boundaries of
+  several municipalities are pending final approval; the
+  municipalities are: Gracanice (Gracanica), Hani i Elezit (Dzeneral
+  Jankovic), Junik, Kllokot-Verboc (Klokot-Vrbovac), Mamushe (Mamusa),
+  Partes, and Ranillug (Ranilug); in addition, the current Mitrovice
+  (Mitrovica) municipality is to be split into Mitrovice (Mitrovica)
+  North and Mitrovice (Mitrovica) South
+
+Kuwait
+  6 governorates (muhafazat, singular - muhafazah); Al Ahmadi,
+  Al 'Asimah, Al Farwaniyah, Al Jahra', Hawalli, Mubarak al Kabir
+
+Kyrgyzstan
+  7 provinces (oblastlar, singular - oblasty) and 1 city*
+  (shaar); Batken Oblasty, Bishkek Shaary*, Chuy Oblasty (Bishkek),
+  Jalal-Abad Oblasty, Naryn Oblasty, Osh Oblasty, Talas Oblasty,
+  Ysyk-Kol Oblasty (Karakol)
+  note: administrative divisions have the same names as their
+  administrative centers (exceptions have the administrative center
+  name following in parentheses)
+
+Laos
+  16 provinces (khoueng, singular and plural) and 1 capital city*
+  (nakhon luang, singular and plural); Attapu, Bokeo, Bolikhamxai,
+  Champasak, Houaphan, Khammouan, Louangnamtha, Louangphrabang,
+  Oudomxai, Phongsali, Salavan, Savannakhet, Viangchan (Vientiane)*,
+  Viangchan, Xaignabouli, Xekong, Xiangkhoang
+
+Latvia
+  109 municipalities (novadi, singular-novads) and 9 cities*:
+  Adazu Novads, Aglonas Novads, Aizkraukles Novads, Aizputes Novads,
+  Aknistes Novads, Alojas Novads, Alsungas Novads, Aluksnes Novads,
+  Amatas Novads, Apes Novads, Auces Novads, Babites Novads, Baldones
+  Novads, Baltinavas Novads, Balvu Novads, Bauskas Novads, Beverinas
+  Novads, Brocenu Novads, Burtnieku Novads, Carnikavas Novads, Cesu
+  Novads, Cesvaines Novads, Ciblas Novads, Dagdas Novads, Daugavpils*,
+  Daugavpils Novads, Dobeles Novads, Dundagas Novads, Durbes Novads,
+  Engures Novads, Erglu Novads, Garkalnes Novads, Grobinas Novads,
+  Gulbenes Novads, Iecavas Novads, Ikskiles Novads, Ilukstes Novads,
+  Incukalna Novads, Jaunjelgavas Novads, Juanpiebalgas Novads,
+  Jaunpils Novads, Jekabpils*, Jekabpils Novads, Jelgava*, Jelgavas
+  Novads, Jurmala*, Kandavas Novads, Karsavas Novads, Keguma Novads,
+  Kekavas Novads, Kocenu Novads, Kokneses Novads, Kraslavas Novads,
+  Krimuldas Novads, Krustpils Novads, Kuldigas Novads, Lielvardes
+  Novads, Liepaja*, Ligatnes Novads, Limbazu Novads, Livanu Novads,
+  Lubanas Novads, Ludzas Novads, Madonas Novads, Malpils Novads,
+  Marupes Novads, Mazsalacas Novads, Nauksenu Novads, Neretas Novads,
+  Nicas Novads, Ogres Novads, Olaines Novads, Ozolnieku Novads,
+  Pargaujas Novads, Pavilostas Novads, Plavinu Novads, Preilu Novads,
+  Priekules Novads, Priekulu Novads, Raunas Novads, Rezekne*, Rezeknes
+  Novads, Riebinu Novads, Riga*, Rojas Novads, Ropazu Novads, Rucavas
+  Novads, Rugaju Novads, Rujienas Novads, Rundales Novads, Salacgrivas
+  Novads, Salas Novads, Salaspils Novads, Saldus Novads, Saulkrastu
+  Novads, Sejas Novads, Siguldas Novads, Skriveru Novads, Skrundas
+  Novads, Smiltenes Novads, Stopinu Novads, Strencu Novads, Talsu
+  Novads, Tervetes Novads, Tukuma Novads, Vainodes Novads, Valkas
+  Novads, Valmiera*, Varaklanu Novads, Varkavas Novads, Vecpiebalgas
+  Novads, Vecumnieku Novads, Ventspils*, Ventspils Novads, Viesites
+  Novads, Vilakas Novads, Vilanu Novads, Zilupes Novads
+
+Lebanon
+  6 governorates (mohafazat, singular - mohafazah); Beqaa,
+  Beyrouth (Beirut), Liban-Nord, Liban-Sud, Mont-Liban, Nabatiye
+  note: two new governorates - Aakar and Baalbek-Hermel - have been
+  legislated but not yet implemented
+
+Lesotho
+  10 districts; Berea, Butha-Buthe, Leribe, Mafeteng, Maseru,
+  Mohale's Hoek, Mokhotlong, Qacha's Nek, Quthing, Thaba-Tseka
+
+Liberia
+  15 counties; Bomi, Bong, Gbarpolu, Grand Bassa, Grand Cape
+  Mount, Grand Gedeh, Grand Kru, Lofa, Margibi, Maryland, Montserrado,
+  Nimba, River Cess, River Gee, Sinoe
+
+Libya
+  22 states (shabiyat, singular - shabiyat); Al Butnan, Al Jabal
+  al Akhdar, Al Jabal Al Gharbi, Al Jafarah, Al Jafrah, Al Kafrah, Al
+  Maraj, Al Marqab, Al Murzuq, Al Wahat, An Nuqat al Khams, Az
+  Zawiyah, Banghazi, Darnah, Ghat, Misratah, Nalut, Sibha, Surt,
+  Tarabulus, Wadi al Hayat, Wadi ash Shati
+
+Liechtenstein
+  11 communes (Gemeinden, singular - Gemeinde); Balzers,
+  Eschen, Gamprin, Mauren, Planken, Ruggell, Schaan, Schellenberg,
+  Triesen, Triesenberg, Vaduz
+
+Lithuania
+  10 counties (apskritys, singular - apskritis); Alytaus,
+  Kauno, Klaipedos, Marijampoles, Panevezio, Siauliu, Taurages,
+  Telsiu, Utenos, Vilniaus
+
+Luxembourg
+  3 districts; Diekirch, Grevenmacher, Luxembourg
+
+Macau
+  none (special administrative region of the People's Republic
+  of China)
+
+Macedonia
+  84 municipalities (opstini, singular - opstina); Aerodrom
+  (Skopje), Aracinovo, Berovo, Bitola, Bogdanci, Bogovinje, Bosilovo,
+  Brvenica, Butel (Skopje), Cair (Skopje), Caska, Centar (Skopje),
+  Centar Zupa, Cesinovo, Cucer Sandevo, Debar, Debarca, Delcevo, Demir
+  Hisar, Demir Kapija, Dojran, Dolneni, Dorce Petrov (Gjorce Petrov)
+  (Skopje), Drugovo, Gazi Baba (Skopje), Gevgelija, Gostivar, Gradsko,
+  Ilinden, Jegunovce, Karbinci, Karpos (Skopje), Kavadarci, Kicevo,
+  Kisela Voda (Skopje), Kocani, Konce, Kratovo, Kriva Palanka,
+  Krivogastani, Krusevo, Kumanovo, Lipkovo, Lozovo, Makedonska
+  Kamenica, Makedonski Brod, Mavrovo i Rostusa, Mogila, Negotino,
+  Novaci, Novo Selo, Ohrid, Oslomej, Pehcevo, Petrovec, Plasnica,
+  Prilep, Probistip, Radovis, Rankovce, Resen, Rosoman, Saraj
+  (Skopje), Sopiste, Staro Nagoricane, Stip, Struga, Strumica,
+  Studenicani, Suto Orizari (Skopje), Sveti Nikole, Tearce, Tetovo,
+  Valandovo, Vasilevo, Veles, Vevcani, Vinica, Vranestica, Vrapciste,
+  Zajas, Zelenikovo, Zelino, Zrnovci
+  note: the 10 municipalities followed by Skopje in parentheses
+  collectively constitute the larger Skopje Municipality
+
+Madagascar
+  6 provinces (faritany); Antananarivo, Antsiranana,
+  Fianarantsoa, Mahajanga, Toamasina, Toliara
+
+Malawi
+  28 districts; Balaka, Blantyre, Chikwawa, Chiradzulu,
+  Chitipa, Dedza, Dowa, Karonga, Kasungu, Likoma, Lilongwe, Machinga
+  (Kasupe), Mangochi, Mchinji, Mulanje, Mwanza, Mzimba, Neno, Ntcheu,
+  Nkhata Bay, Nkhotakota, Nsanje, Ntchisi, Phalombe, Rumphi, Salima,
+  Thyolo, Zomba
+
+Malaysia
+  13 states (negeri-negeri, singular - negeri) Johor, Kedah,
+  Kelantan, Melaka, Negeri Sembilan, Pahang, Perak, Perlis, Pulau
+  Pinang, Sabah, Sarawak, Selangor, and Terengganu; and 1 federal
+  territory (Wilayah Persekutuan) with three components, city of Kuala
+  Lumpur, Labuan, and Putrajaya
+
+Maldives
+  19 atolls (atholhu, singular and plural) and the capital
+  city*; Alifu, Baa, Dhaalu, Faafu, Gaafu Alifu, Gaafu Dhaalu,
+  Gnaviyani, Haa Alifu, Haa Dhaalu, Kaafu, Laamu, Lhaviyani, Maale
+  (Male)*, Meemu, Noonu, Raa, Seenu, Shaviyani, Thaa, Vaavu
+
+Mali
+  8 regions (regions, singular - region); Gao, Kayes, Kidal,
+  Koulikoro, Mopti, Segou, Sikasso, Tombouctou
+
+Malta
+  none (administered directly from Valletta); note - local
+  councils carry out administrative orders and have some
+  responsibility for local road and other public maintenance
+
+Marshall Islands
+  33 municipalities; Ailinginae, Ailinglaplap, Ailuk,
+  Arno, Aur, Bikar, Bikini, Bokak, Ebon, Enewetak, Erikub, Jabat,
+  Jaluit, Jemo, Kili, Kwajalein, Lae, Lib, Likiep, Majuro, Maloelap,
+  Mejit, Mili, Namorik, Namu, Rongelap, Rongrik, Toke, Ujae, Ujelang,
+  Utirik, Wotho, Wotje
+
+Mauritania
+  13 regions (wilayas, singular - wilaya); Adrar, Assaba,
+  Brakna, Dakhlet Nouadhibou, Gorgol, Guidimaka, Hodh ech Chargui,
+  Hodh El Gharbi, Inchiri, Nouakchott, Tagant, Tiris Zemmour, Trarza
+
+Mauritius
+  9 districts and 3 dependencies*; Agalega Islands*, Black
+  River, Cargados Carajos Shoals*, Flacq, Grand Port, Moka,
+  Pamplemousses, Plaines Wilhems, Port Louis, Riviere du Rempart,
+  Rodrigues*, Savanne
+
+Mayotte
+  none (territorial overseas collectivity of France)
+
+Mexico
+  31 states (estados, singular - estado) and 1 federal
+  district* (distrito federal); Aguascalientes, Baja California, Baja
+  California Sur, Campeche, Chiapas, Chihuahua, Coahuila de Zaragoza,
+  Colima, Distrito Federal*, Durango, Guanajuato, Guerrero, Hidalgo,
+  Jalisco, Mexico, Michoacan de Ocampo, Morelos, Nayarit, Nuevo Leon,
+  Oaxaca, Puebla, Queretaro de Arteaga, Quintana Roo, San Luis Potosi,
+  Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz-Llave,
+  Yucatan, Zacatecas
+
+Micronesia, Federated States of
+  4 states; Chuuk (Truk), Kosrae
+  (Kosaie), Pohnpei (Ponape), Yap
+
+Moldova
+  32 raions (raioane, singular - raion), 3 municipalities
+  (municipii, singular - municipiu), 1 autonomous territorial unit
+  (unitatea teritoriala autonoma), and 1 territorial unit (unitatea
+  teritoriala)
+  raions: Anenii Noi, Basarabeasca, Briceni, Cahul, Cantemir,
+  Calarasi, Causeni, Cimislia, Criuleni, Donduseni, Drochia, Dubasari,
+  Edinet, Falesti, Floresti, Glodeni, Hincesti, Ialoveni, Leova,
+  Nisporeni, Ocnita, Orhei, Rezina, Riscani, Singerei, Soldanesti,
+  Soroca, Stefan-Voda, Straseni, Taraclia, Telenesti, Ungheni
+  municipalities: Balti, Bender, Chisinau
+  autonomous territorial unit: Gagauzia
+  territorial unit: Stinga Nistrului (Transnistria)
+
+Monaco
+  none; there are no first-order administrative divisions as
+  defined by the US Government, but there are four quarters
+  (quartiers, singular - quartier); Fontvieille, La Condamine,
+  Monaco-Ville, Monte-Carlo
+
+Mongolia
+  21 provinces (aymguud, singular - aymag) and 1
+  municipality* (singular - hot); Arhangay, Bayanhongor, Bayan-Olgiy,
+  Bulgan, Darhan-Uul, Dornod, Dornogovi, Dundgovi, Dzavhan (Zavkhan),
+  Govi-Altay, Govisumber, Hentiy, Hovd, Hovsgol, Omnogovi, Orhon,
+  Ovorhangay, Selenge, Suhbaatar, Tov, Ulaanbaatar*, Uvs
+
+Montenegro
+  21 municipalities (opstine, singular - opstina);
+  Andrijevica, Bar, Berane, Bijelo Polje, Budva, Cetinje, Danilovgrad,
+  Herceg Novi, Kolasin, Kotor, Mojkovac, Niksic, Plav, Pljevlja,
+  Pluzine, Podgorica, Rozaje, Savnik, Tivat, Ulcinj, Zabljak
+
+Montserrat
+  3 parishes; Saint Anthony, Saint Georges, Saint Peter
+
+Morocco
+  15 regions; Grand Casablanca, Chaouia-Ouardigha,
+  Doukkala-Abda, Fes-Boulemane, Gharb-Chrarda-Beni Hssen, Guelmim-Es
+  Smara, Laayoune-Boujdour-Sakia El Hamra, Marrakech-Tensift-Al Haouz,
+  Meknes-Tafilalet, Oriental, Rabat-Sale-Zemmour-Zaer,
+  Souss-Massa-Draa, Tadla-Azilal, Tanger-Tetouan, Taza-Al
+  Hoceima-Taounate
+  note: Morocco claims the territory of Western Sahara, the political
+  status of which is considered undetermined by the US Government;
+  portions of the regions Guelmim-Es Smara and Laayoune-Boujdour-Sakia
+  El Hamra as claimed by Morocco lie within Western Sahara; Morocco
+  also claims Oued Eddahab-Lagouira, another region that falls
+  entirely within Western Sahara
+
+Mozambique
+  10 provinces (provincias, singular - provincia), 1 city
+  (cidade)*; Cabo Delgado, Gaza, Inhambane, Manica, Maputo, Cidade de
+  Maputo*, Nampula, Niassa, Sofala, Tete, Zambezia
+
+Namibia
+  13 regions; Caprivi, Erongo, Hardap, Karas, Khomas, Kunene,
+  Ohangwena, Okavango, Omaheke, Omusati, Oshana, Oshikoto, Otjozondjupa
+
+Nauru
+  14 districts; Aiwo, Anabar, Anetan, Anibare, Baiti, Boe,
+  Buada, Denigomodu, Ewa, Ijuw, Meneng, Nibok, Uaboe, Yaren
+
+Nepal
+  14 zones (anchal, singular and plural); Bagmati, Bheri,
+  Dhawalagiri, Gandaki, Janakpur, Karnali, Kosi, Lumbini, Mahakali,
+  Mechi, Narayani, Rapti, Sagarmatha, Seti
+
+Netherlands
+  12 provinces (provincies, singular - provincie);
+  Drenthe, Flevoland, Fryslan (Friesland), Gelderland, Groningen,
+  Limburg, Noord-Brabant (North Brabant), Noord-Holland (North
+  Holland), Overijssel, Utrecht, Zeeland (Zealand), Zuid-Holland
+  (South Holland)
+
+New Caledonia
+  none (overseas territory of France); there are no
+  first-order administrative divisions as defined by the US
+  Government, but there are 3 provinces named Province des Iles,
+  Province Nord, and Province Sud
+
+New Zealand
+  16 regions and 1 territory*; Auckland, Bay of Plenty,
+  Canterbury, Chatham Islands*, Gisborne, Hawke's Bay,
+  Manawatu-Wanganui, Marlborough, Nelson, Northland, Otago, Southland,
+  Taranaki, Tasman, Waikato, Wellington, West Coast
+
+Nicaragua
+  15 departments (departamentos, singular - departamento)
+  and 2 autonomous regions* (regiones autonomistas, singular - region
+  autonoma); Atlantico Norte*, Atlantico Sur*, Boaco, Carazo,
+  Chinandega, Chontales, Esteli, Granada, Jinotega, Leon, Madriz,
+  Managua, Masaya, Matagalpa, Nueva Segovia, Rio San Juan, Rivas
+
+Niger
+  8 regions (regions, singular - region) includes 1 capital
+  district* (communite urbaine); Agadez, Diffa, Dosso, Maradi,
+  Niamey*, Tahoua, Tillaberi, Zinder
+
+Nigeria
+  36 states and 1 territory*; Abia, Adamawa, Akwa Ibom,
+  Anambra, Bauchi, Bayelsa, Benue, Borno, Cross River, Delta, Ebonyi,
+  Edo, Ekiti, Enugu, Federal Capital Territory*, Gombe, Imo, Jigawa,
+  Kaduna, Kano, Katsina, Kebbi, Kogi, Kwara, Lagos, Nassarawa, Niger,
+  Ogun, Ondo, Osun, Oyo, Plateau, Rivers, Sokoto, Taraba, Yobe, Zamfara
+
+Niue
+  none; note - there are no first-order administrative divisions
+  as defined by the US Government, but there are 14 villages at the
+  second order
+
+Norfolk Island
+  none (territory of Australia)
+
+Northern Mariana Islands
+  none (commonwealth in political union with
+  the US); there are no first-order administrative divisions as
+  defined by the US Government, but there are four municipalities at
+  the second order: Northern Islands, Rota, Saipan, Tinian
+
+Norway
+  19 counties (fylker, singular - fylke); Akershus, Aust-Agder,
+  Buskerud, Finnmark, Hedmark, Hordaland, More og Romsdal, Nordland,
+  Nord-Trondelag, Oppland, Oslo, Ostfold, Rogaland, Sogn og Fjordane,
+  Sor-Trondelag, Telemark, Troms, Vest-Agder, Vestfold
+
+Oman
+  5 regions (manatiq, singular - mintaqat) and 4 governorates*
+  (muhafazat, singular - muhafazat) Ad Dakhiliyah, Al Batinah, Al
+  Buraymi*, Al Wusta, Ash Sharqiyah, Az Zahirah, Masqat (Muscat)*,
+  Musandam*, Zufar (Dhofar)*
+
+Pakistan
+  4 provinces, 1 territory*, and 1 capital territory**;
+  Balochistan, Federally Administered Tribal Areas*, Islamabad Capital
+  Territory**, Khyber Pakhtunkhwa (formerly North-West Frontier
+  Province), Punjab, Sindh
+  note: the Pakistani-administered portion of the disputed Jammu and
+  Kashmir region consists of two administrative entities: Azad Kashmir
+  and Gilgit-Baltistan
+
+Palau
+  16 states; Aimeliik, Airai, Angaur, Hatohobei, Kayangel,
+  Koror, Melekeok, Ngaraard, Ngarchelong, Ngardmau, Ngatpang,
+  Ngchesar, Ngeremlengui, Ngiwal, Peleliu, Sonsorol
+
+Panama
+  11 provinces (provincias, singular - provincia) and 1
+  territory* (comarca); Bocas del Toro, Comarca Kuna Yala, Comarca
+  Ngobe-Bugle, Chiriqui, Cocle, Colon, Darien, Herrera, Los Santos,
+  Panama, San Blas* (Kuna Yala), and Veraguas
+
+Papua New Guinea
+  18 provinces, 1 autonomous region*, and 1
+  district**; Bougainville*, Central, Chimbu, Eastern Highlands, East
+  New Britain, East Sepik, Enga, Gulf, Madang, Manus, Milne Bay,
+  Morobe, National Capital**, New Ireland, Northern, Sandaun, Southern
+  Highlands, Western, Western Highlands, West New Britain
+
+Paraguay
+  17 departments (departamentos, singular - departamento) and
+  1 capital city*; Alto Paraguay, Alto Parana, Amambay, Asuncion*,
+  Boqueron, Caaguazu, Caazapa, Canindeyu, Central, Concepcion,
+  Cordillera, Guaira, Itapua, Misiones, Neembucu, Paraguari,
+  Presidente Hayes, San Pedro
+
+Peru
+  25 regions (regiones, singular - region) and 1 province*
+  (provincia); Amazonas, Ancash, Apurimac, Arequipa, Ayacucho,
+  Cajamarca, Callao, Cusco, Huancavelica, Huanuco, Ica, Junin, La
+  Libertad, Lambayeque, Lima, Lima*, Loreto, Madre de Dios, Moquegua,
+  Pasco, Piura, Puno, San Martin, Tacna, Tumbes, Ucayali
+
+Philippines
+  80 provinces and 120 chartered cities
+  provinces: Abra, Agusan del Norte, Agusan del Sur, Aklan, Albay,
+  Antique, Apayao, Aurora, Basilan, Bataan, Batanes, Batangas,
+  Biliran, Benguet, Bohol, Bukidnon, Bulacan, Cagayan, Camarines
+  Norte, Camarines Sur, Camiguin, Capiz, Catanduanes, Cavite, Cebu,
+  Compostela, Davao del Norte, Davao del Sur, Davao Oriental, Dinagat
+  Islands, Eastern Samar, Guimaras, Ifugao, Ilocos Norte, Ilocos Sur,
+  Iloilo, Isabela, Kalinga, Laguna, Lanao del Norte, Lanao del Sur, La
+  Union, Leyte, Maguindanao, Marinduque, Masbate, Mindoro Occidental,
+  Mindoro Oriental, Misamis Occidental, Misamis Oriental, Mountain
+  Province, Negros Occidental, Negros Oriental, North Cotabato,
+  Northern Samar, Nueva Ecija, Nueva Vizcaya, Palawan, Pampanga,
+  Pangasinan, Quezon, Quirino, Rizal, Romblon, Samar, Sarangani,
+  Siquijor, Sorsogon, South Cotabato, Southern Leyte, Sultan Kudarat,
+  Sulu, Surigao del Norte, Surigao del Sur, Tarlac, Tawi-Tawi,
+  Zambales, Zamboanga del Norte, Zamboanga del Sur, Zamboanga Sibugay
+  chartered cities: Alaminos, Angeles, Antipolo, Bacolod, Bago,
+  Baguio, Bais, Balanga, Batac, Batangas, Bayawan, Bislig, Butuan,
+  Cabadbaran, Cabanatuan, Cadiz, Cagayan de Oro, Calamba, Calapan,
+  Calbayog, Candon, Canlaon, Cauayan, Cavite, Cebu, Cotabato, Dagupan,
+  Danao, Dapitan, Davao, Digos, Dipolog, Dumaguete, Escalante, Gapan,
+  General Santos, Gingoog, Himamaylan, Iligan, Iloilo, Isabela, Iriga,
+  Kabankalan, Kalookan, Kidapawan, Koronadal, La Carlota, Laoag,
+  Lapu-Lapu, Las Pinas, Legazpi, Ligao, Lipa, Lucena, Maasin, Makati,
+  Malabon, Malaybalay, Malolos, Mandaluyong, Mandaue, Manila, Marawi,
+  Marikina, Masbate, Mati, Meycauayan, Muntinlupa, Munoz, Naga,
+  Navotas, Olongapo, Ormoc, Oroquieta, Ozamis, Pagadian, Palayan,
+  Panabo, Paranaque, Pasay, Pasig, Passi, Puerto Princesa, Quezon,
+  Roxas, Sagay, Samal, San Carlos (in Negros Occidental), San Carlos
+  (in Pangasinan), San Fernando (in La Union), San Fernando (in
+  Pampanga), San Jose, San Jose del Monte, San Juan, San Pablo, Santa
+  Rosa, Santiago, Silay, Sipalay, Sorsogon, Surigao, Tabaco, Tacloban,
+  Tacurong, Tagaytay, Tagbilaran, Taguig, Tagum, Talisay (in Cebu),
+  Talisay (in Negros Occidental), Tanauan, Tangub, Tanjay, Tarlac,
+  Toledo, Tuguegarao, Trece Martires, Urdaneta, Valencia, Valenzuela,
+  Victorias, Vigan, Zamboanga (2009)
+
+Pitcairn Islands
+  none (overseas territory of the UK)
+
+Poland
+  16 provinces (wojewodztwa, singular - wojewodztwo);
+  Dolnoslaskie (Lower Silesia), Kujawsko-Pomorskie
+  (Kuyavia-Pomerania), Lodzkie, Lubelskie (Lublin), Lubuskie (Lubusz),
+  Malopolskie (Lesser Poland), Mazowieckie (Masovia), Opolskie,
+  Podkarpackie (Subcarpathia), Podlaskie, Pomorskie (Pomerania),
+  Slaskie (Silesia), Swietokrzyskie, Warminsko-Mazurskie
+  (Warmia-Masuria), Wielkopolskie (Greater Poland), Zachodniopomorskie
+  (West Pomerania)
+
+Portugal
+  18 districts (distritos, singular - distrito) and 2
+  autonomous regions* (regioes autonomas, singular - regiao autonoma);
+  Aveiro, Acores (Azores)*, Beja, Braga, Braganca, Castelo Branco,
+  Coimbra, Evora, Faro, Guarda, Leiria, Lisboa (Lisbon), Madeira*,
+  Portalegre, Porto, Santarem, Setubal, Viana do Castelo, Vila Real,
+  Viseu
+
+Puerto Rico
+  none (territory of the US with commonwealth status);
+  there are no first-order administrative divisions as defined by the
+  US Government, but there are 78 municipalities (municipios, singular
+  - municipio) at the second order; Adjuntas, Aguada, Aguadilla, Aguas
+  Buenas, Aibonito, Anasco, Arecibo, Arroyo, Barceloneta,
+  Barranquitas, Bayamon, Cabo Rojo, Caguas, Camuy, Canovanas,
+  Carolina, Catano, Cayey, Ceiba, Ciales, Cidra, Coamo, Comerio,
+  Corozal, Culebra, Dorado, Fajardo, Florida, Guanica, Guayama,
+  Guayanilla, Guaynabo, Gurabo, Hatillo, Hormigueros, Humacao,
+  Isabela, Jayuya, Juana Diaz, Juncos, Lajas, Lares, Las Marias, Las
+  Piedras, Loiza, Luquillo, Manati, Maricao, Maunabo, Mayaguez, Moca,
+  Morovis, Naguabo, Naranjito, Orocovis, Patillas, Penuelas, Ponce,
+  Quebradillas, Rincon, Rio Grande, Sabana Grande, Salinas, San
+  German, San Juan, San Lorenzo, San Sebastian, Santa Isabel, Toa
+  Alta, Toa Baja, Trujillo Alto, Utuado, Vega Alta, Vega Baja,
+  Vieques, Villalba, Yabucoa, Yauco
+
+Qatar
+  7 municipalities (baladiyat, singular - baladiyah); Ad Dawhah,
+  Al Khawr wa adh Dhakhirah, Al Wakrah, Ar Rayyan, Ash Shamal, Az
+  Za'ayin, Umm Salal
+
+Romania
+  41 counties (judete, singular - judet) and 1 municipality*
+  (municipiu); Alba, Arad, Arges, Bacau, Bihor, Bistrita-Nasaud,
+  Botosani, Braila, Brasov, Bucuresti (Bucharest)*, Buzau, Calarasi,
+  Caras-Severin, Cluj, Constanta, Covasna, Dimbovita, Dolj, Galati,
+  Gorj, Giurgiu, Harghita, Hunedoara, Ialomita, Iasi, Ilfov,
+  Maramures, Mehedinti, Mures, Neamt, Olt, Prahova, Salaj, Satu Mare,
+  Sibiu, Suceava, Teleorman, Timis, Tulcea, Vaslui, Vilcea, Vrancea
+
+Russia
+  46 oblasts (oblastey, singular - oblast), 21 republics
+  (respublik, singular - respublika), 4 autonomous okrugs (avtonomnykh
+  okrugov, singular - avtonomnyy okrug), 9 krays (krayev, singular -
+  kray), 2 federal cities (goroda, singular - gorod), and 1 autonomous
+  oblast (avtonomnaya oblast')
+  oblasts: Amur (Blagoveshchensk), Arkhangel'sk, Astrakhan', Belgorod,
+  Bryansk, Chelyabinsk, Irkutsk, Ivanovo, Kaliningrad, Kaluga,
+  Kemerovo, Kirov, Kostroma, Kurgan, Kursk, Leningrad, Lipetsk,
+  Magadan, Moscow, Murmansk, Nizhniy Novgorod, Novgorod, Novosibirsk,
+  Omsk, Orenburg, Orel, Penza, Pskov, Rostov, Ryazan', Sakhalin
+  (Yuzhno-Sakhalinsk), Samara, Saratov, Smolensk, Sverdlovsk
+  (Yekaterinburg), Tambov, Tomsk, Tula, Tver', Tyumen', Ul'yanovsk,
+  Vladimir, Volgograd, Vologda, Voronezh, Yaroslavl'
+  republics: Adygeya (Maykop), Altay (Gorno-Altaysk), Bashkortostan
+  (Ufa), Buryatiya (Ulan-Ude), Chechnya (Groznyy), Chuvashiya
+  (Cheboksary), Dagestan (Makhachkala), Ingushetiya (Magas),
+  Kabardino-Balkariya (Nal'chik), Kalmykiya (Elista),
+  Karachayevo-Cherkesiya (Cherkessk), Kareliya (Petrozavodsk),
+  Khakasiya (Abakan), Komi (Syktyvkar), Mariy-El (Yoshkar-Ola),
+  Mordoviya (Saransk), North Ossetia (Vladikavkaz), Sakha [Yakutiya]
+  (Yakutsk), Tatarstan (Kazan'), Tyva (Kyzyl), Udmurtiya (Izhevsk)
+  autonomous okrugs: Chukotka (Anadyr'), Khanty-Mansi
+  (Khanty-Mansiysk), Nenets (Nar'yan-Mar), Yamalo-Nenets (Salekhard)
+  krays: Altay (Barnaul), Kamchatka (Petropavlovsk-Kamchatskiy),
+  Khabarovsk, Krasnodar, Krasnoyarsk, Perm', Primorskiy [Maritime]
+  (Vladivostok), Stavropol', Zabaykal'sk (Chita)
+  federal cities: Moscow [Moskva], Saint Petersburg [Sankt-Peterburg]
+  autonomous oblast: Yevrey [Jewish] (Birobidzhan)
+  note: administrative divisions have the same names as their
+  administrative centers (exceptions have the administrative center
+  name following in parentheses)
+
+Rwanda
+  4 provinces (in French - provinces, singular - province; in
+  Kinyarwanda - intara for singular and plural) and 1 city* (in French
+  - ville; in Kinyarwanda - umujyi); Est (Eastern), Kigali*, Nord
+  (Northern), Ouest (Western), Sud (Southern)
+
+Saint Helena, Ascension, and Tristan da Cunha
+  3 administrative
+  areas; Ascension, Saint Helena, Tristan da Cunha
+
+Saint Kitts and Nevis
+  14 parishes; Christ Church Nichola Town, Saint
+  Anne Sandy Point, Saint George Basseterre, Saint George Gingerland,
+  Saint James Windward, Saint John Capesterre, Saint John Figtree,
+  Saint Mary Cayon, Saint Paul Capesterre, Saint Paul Charlestown,
+  Saint Peter Basseterre, Saint Thomas Lowland, Saint Thomas Middle
+  Island, Trinity Palmetto Point
+
+Saint Lucia
+  11 quarters; Anse-la-Raye, Castries, Choiseul, Dauphin,
+  Dennery, Gros-Islet, Laborie, Micoud, Praslin, Soufriere, Vieux-Fort
+
+Saint Pierre and Miquelon
+  none (territorial overseas collectivity of
+  France); note - there are no first-order administrative divisions as
+  defined by the US Government, but there are two communes - Saint
+  Pierre, Miquelon at the second order
+
+Saint Vincent and the Grenadines
+  6 parishes; Charlotte, Grenadines,
+  Saint Andrew, Saint David, Saint George, Saint Patrick
+
+Samoa
+  11 districts; A'ana, Aiga-i-le-Tai, Atua, Fa'asaleleaga,
+  Gaga'emauga, Gagaifomauga, Palauli, Satupa'itea, Tuamasaga,
+  Va'a-o-Fonoti, Vaisigano
+
+San Marino
+  9 municipalities (castelli, singular - castello);
+  Acquaviva, Borgo Maggiore, Chiesanuova, Domagnano, Faetano,
+  Fiorentino, Montegiardino, San Marino Citta, Serravalle
+
+Sao Tome and Principe
+  2 provinces; Principe, Sao Tome
+  note: Principe has had self government since 29 April 1995
+
+Saudi Arabia
+  13 provinces (mintaqat, singular - mintaqah); Al Bahah,
+  Al Hudud ash Shamaliyah (Northern Border), Al Jawf, Al Madinah
+  (Medina), Al Qasim, Ar Riyad (Riyadh), Ash Sharqiyah (Eastern),
+  'Asir, Ha'il, Jizan, Makkah (Mecca), Najran, Tabuk
+
+Senegal
+  14 regions (regions, singular - region); Dakar, Diourbel,
+  Fatick, Kaffrine, Kaolack, Kedougou, Kolda, Louga, Matam,
+  Saint-Louis, Sedhiou, Tambacounda, Thies, Ziguinchor
+
+Serbia
+  167 municipalities (opcstine, singular - opcstina)
+  Serbia Proper: Belgrade City (Beograd): Barajevo, Cukarica, Grocka,
+  Lazarevac, Mladenovac, Novi Beograd, Obrenovac, Palilula, Rakovica,
+  Savski Venac, Sopot, Stari Grad, Surcin, Vozdovac, Vracar, Zemun,
+  Zvezdara; Bor: Bor, Kladovo, Majdanpek, Negotin; Branicevo: Golubac,
+  Kucevo, Malo Crnice, Petrovac, Pozarevac, Veliko Gradiste, Zabari,
+  Zagubica; Grad Nis: Crveni Krst, Mediana, Niska Banja, Palilula,
+  Pantelej Jablanica: Bojnik, Crna Trava, Lebane, Leskovac, Medveda,
+  Vlasotince; Kolubara: Lajkovac, Ljig, Mionica, Osecina, Ub, Valjevo;
+  Macva: Bogatic, Koceljeva, Krupanj, Ljubovija, Loznica, Mali
+  Zvornik, Sabac, Vladimirci; Moravica: Cacak, Gornkji Milanovac,
+  Ivanjica, Lucani; Nisava: Aleksinac, Doljevac, Gadzin Han, Merosina,
+  Nis, Razanj, Svrljig; Pcinja: Bosilegrad, Bujanovac, Presevo,
+  Surdulica, Trgoviste, Vladicin Han, Vranje; Pirot: Babusnica, Bela
+  Palanka, Dimitrovgrad, Pirot; Podunavlje: Smederevo, Smederevskia
+  Palanka, Velika Plana; Pomoravlje: Cuprija, Despotovac, Jagodina,
+  Paracin, Rekovac, Svilajnac; Rasina: Aleksandrovac, Brus, Cicevac,
+  Krusevac, Trstenik, Varvarin; Raska: Kraljevo, Novi Pazar, Raska,
+  Tutin, Vrnjacka Banja; Sumadija: Arandelovac, Batocina, Knic,
+  Kragujevac, Lapovo, Raca, Topola; Toplica: Blace, Kursumlija,
+  Prokuplje, Zitorada; Zajecar: Boljevac, Knjazevac, Sokobanja,
+  Zajecar; Zlatibor: Arilje, Bajina Basta, Cajetina, Kosjeric, Nova
+  Varos, Pozega, Priboj, Prijepolje, Sjenica, Uzice
+  Vojvodina Autonomous Province: South Backa: Bac, Backa Palanka,
+  Backi Petrovac, Becej, Beocin, Novi Sad, Sremski Karlovci,
+  Srobobran, Temerin, Titel, Vrbas, Zabalj; South Banat: Alibunar,
+  Bela Crkva, Kovacica, Kovin, Opovo, Pancevo, Plandiste, Vrsac; North
+  Backa: Backa Topola, Mali Idjos, Subotica; North Banat: Ada, Coka,
+  Kanjiza, Kikinda, Novi Knezevac, Senta; Central Banat: Nova Crnja,
+  Novi Becej, Secanj, Zitiste, Zrenjanin; Srem: Indija, Irig, Pecinci,
+  Ruma, Sid, Sremska Mitrovica, Stara Pazova; West Backa: Apatin,
+  Kula, Odzaci, Sombor
+
+Seychelles
+  23 administrative districts; Anse aux Pins, Anse Boileau,
+  Anse Etoile, Anse Louis, Anse Royale, Baie Lazare, Baie Sainte Anne,
+  Beau Vallon, Bel Air, Bel Ombre, Cascade, Glacis, Grand' Anse (on
+  Mahe), Grand' Anse (on Praslin), La Digue, La Riviere Anglaise, Mont
+  Buxton, Mont Fleuri, Plaisance, Pointe La Rue, Port Glaud, Saint
+  Louis, Takamaka
+
+Sierra Leone
+  3 provinces and 1 area*; Eastern, Northern, Southern,
+  Western*
+
+Singapore
+  none
+
+Sint Maarten
+  none (part of the Kingdom of the Netherlands)
+
+Slovakia
+  8 regions (kraje, singular - kraj); Banskobystricky,
+  Bratislavsky, Kosicky, Nitriansky, Presovsky, Trenciansky, Trnavsky,
+  Zilinsky
+
+Slovenia
+  210 municipalities (obcine, singular - obcina) including 11
+  urban municipalities* (mestne obcine, singular - mestna obcina)
+  Ajdovscina, Apace, Beltinci, Benedikt, Bistrica ob Sotli, Bled,
+  Bloke, Bohinj, Borovnica, Bovec, Braslovce, Brda, Brezice,
+  Brezovica, Cankova, Celje*, Cerklje na Gorenjskem, Cerknica, Cerkno,
+  Cerkvenjak, Cirkulane, Crensovci, Crna na Koroskem, Crnomelj,
+  Destrnik, Divaca, Dobje, Dobrepolje, Dobrna, Dobrova-Polhov Gradec,
+  Dobrovnik/Dobronak, Dolenjske Toplice, Dol pri Ljubljani, Domzale,
+  Dornava, Dravograd, Duplek, Gorenja Vas-Poljane, Gorisnica, Gorje,
+  Gornja Radgona, Gornji Grad, Gornji Petrovci, Grad, Grosuplje,
+  Hajdina, Hoce-Slivnica, Hodos, Horjul, Hrastnik, Hrpelje-Kozina,
+  Idrija, Ig, Ilirska Bistrica, Ivancna Gorica, Izola/Isola, Jesenice,
+  Jezersko, Jursinci, Kamnik, Kanal, Kidricevo, Kobarid, Kobilje,
+  Kocevje, Komen, Komenda, Koper-Capodistria*, Kosanjevica na Krki,
+  Kostel, Kozje, Kranj*, Kranjska Gora, Krizevci, Krsko, Kungota,
+  Kuzma, Lasko, Lenart, Lendava/Lendva, Litija, Ljubljana*, Ljubno,
+  Ljutomer, Log-Dragomer, Logatec, Loska Dolina, Loski Potok, Lovrenc
+  na Pohorju, Luce, Lukovica, Majsperk, Makole, Maribor*, Markovci,
+  Medvode, Menges, Metlika, Mezica, Miklavz na Dravskem Polju,
+  Miren-Kostanjevica, Mirna Pec, Mislinja, Mokronog-Trebelno, Moravce,
+  Moravske Toplice, Mozirje, Murska Sobota*, Muta, Naklo, Nazarje,
+  Nova Gorica*, Novo Mesto*, Odranci, Oplotnica, Ormoz, Osilnica,
+  Pesnica, Piran/Pirano, Pivka, Podcetrtek, Podlehnik, Podvelka,
+  Poljcane, Polzela, Postojna, Prebold, Preddvor, Prevalje, Ptuj*,
+  Puconci, Race-Fram, Radece, Radenci, Radlje ob Dravi, Radovljica,
+  Ravne na Koroskem, Razkrizje, Recica ob Savinji, Rence-Vogrsko,
+  Ribnica, Ribnica na Pohorju, Rogaska Slatina, Rogasovci, Rogatec,
+  Ruse, Selnica ob Dravi, Semic, Sevnica, Sezana, Slovenj Gradec*,
+  Slovenska Bistrica, Slovenske Konjice, Sodrazica, Solcava, Sredisce
+  ob Dravi, Starse, Straza, Sveta Ana, Sveta Trojica v Slovenskih
+  Goricah, Sveti Andraz v Slovenskih Goricah, Sveti Jurij, Sveti Jurij
+  v Slovenskih Goricah, Sveti Tomaz, Salovci, Sempeter-Vrtojba,
+  Sencur, Sentilj, Sentjernej, Sentjur, Sentrupert, Skocjan, Skofja
+  Loka, Skofljica, Smarje pri Jelsah, Smarjeske Toplice, Smartno ob
+  Paki, Smartno pri Litiji, Sostanj, Store, Tabor, Tisina, Tolmin,
+  Trbovlje, Trebnje, Trnovska Vas, Trzic, Trzin, Turnisce, Velenje*,
+  Velika Polana, Velike Lasce, Verzej, Videm, Vipava, Vitanje, Vodice,
+  Vojnik, Vransko, Vrhnika, Vuzenica, Zagorje ob Savi, Zalec, Zavrc,
+  Zelezniki, Zetale, Ziri, Zirovnica, Zrece, Zuzemberk
+
+Solomon Islands
+  9 provinces and 1 capital territory*; Central,
+  Choiseul, Guadalcanal, Honiara*, Isabel, Makira, Malaita, Rennell
+  and Bellona, Temotu, Western
+
+Somalia
+  18 regions (plural - NA, singular - gobolka); Awdal, Bakool,
+  Banaadir, Bari, Bay, Galguduud, Gedo, Hiiraan, Jubbada Dhexe (Middle
+  Jubba), Jubbada Hoose (Lower Jubba), Mudug, Nugaal, Sanaag,
+  Shabeellaha Dhexe (Middle Shabeelle), Shabeellaha Hoose (Lower
+  Shabeelle), Sool, Togdheer, Woqooyi Galbeed
+
+South Africa
+  9 provinces; Eastern Cape, Free State, Gauteng,
+  KwaZulu-Natal, Limpopo, Mpumalanga, Northern Cape, North-West,
+  Western Cape
+
+Spain
+  17 autonomous communities (comunidades autonomas, singular -
+  comunidad autonoma) and 2 autonomous cities* (ciudades autonomas,
+  singular - ciudad autonoma); Andalucia, Aragon, Asturias, Baleares
+  (Balearic Islands), Ceuta*, Canarias (Canary Islands), Cantabria,
+  Castilla-La Mancha, Castilla y Leon, Cataluna (Catalonia), Comunidad
+  Valenciana (Valencian Community), Extremadura, Galicia, La Rioja,
+  Madrid, Melilla*, Murcia, Navarra, Pais Vasco (Basque Country)
+  note: the autonomous cities of Ceuta and Melilla plus three small
+  islands of Islas Chafarinas, Penon de Alhucemas, and Penon de Velez
+  de la Gomera, administered directly by the Spanish central
+  government, are all along the coast of Morocco and are collectively
+  referred to as Places of Sovereignty (Plazas de Soberania)
+
+Sri Lanka
+  9 provinces; Central, Eastern, North Central, Northern,
+  North Western, Sabaragamuwa, Southern, Uva, Western
+
+Sudan
+  25 states (wilayat, singular - wilayah); A'ali an Nil (Upper
+  Nile), Al Bahr al Ahmar (Red Sea), Al Buhayrat (Lakes), Al Jazira
+  (Gezira), Al Khartoum (Khartoum), Al Qadarif (Gedaref), Al Wahda
+  (Unity), An Nil al Abyad (White Nile), An Nil al Azraq (Blue Nile),
+  Ash Shimaliyya (Northern), Bahr al Jabal (Central Equatoria), Gharb
+  al Istiwa'iyya (Western Equatoria), Gharb Bahr al Ghazal (Western
+  Bahr el Ghazal), Gharb Darfur (Western Darfur), Janub Darfur
+  (Southern Darfur), Janub Kurdufan (Southern Kordofan), Junqoley
+  (Jonglei), Kassala (Kassala), Nahr an Nil (River Nile), Shimal Bahr
+  al Ghazal (Northern Bahr el Ghazal), Shimal Darfur (Northern
+  Darfur), Shimal Kurdufan (Northern Kordofan), Sharq al Istiwa'iyya
+  (Eastern Equatoria), Sinnar (Sinnar), Warab (Warrap)
+
+Suriname
+  10 districts (distrikten, singular - distrikt); Brokopondo,
+  Commewijne, Coronie, Marowijne, Nickerie, Para, Paramaribo,
+  Saramacca, Sipaliwini, Wanica
+
+Swaziland
+  4 districts; Hhohho, Lubombo, Manzini, Shiselweni
+
+Sweden
+  21 counties (lan, singular and plural); Blekinge, Dalarna,
+  Gavleborg, Gotland, Halland, Jamtland, Jonkoping, Kalmar, Kronoberg,
+  Norrbotten, Orebro, Ostergotland, Skane, Sodermanland, Stockholm,
+  Uppsala, Varmland, Vasterbotten, Vasternorrland, Vastmanland, Vastra
+  Gotaland
+
+Switzerland
+  26 cantons, singular - canton in French; cantoni,
+  singular - cantone in Italian; Kantone, singular - Kanton in
+  German); Aargau, Appenzell Ausser-Rhoden, Appenzell Inner-Rhoden,
+  Basel-Landschaft, Basel-Stadt, Bern, Fribourg, Geneve, Glarus,
+  Graubunden, Jura, Luzern, Neuchatel, Nidwalden, Obwalden, Sankt
+  Gallen, Schaffhausen, Schwyz, Solothurn, Thurgau, Ticino, Uri,
+  Valais, Vaud, Zug, Zurich
+  note: 6 of the cantons - Appenzell Ausser-Rhoden,
+  Appenzell-Inner-Rhoden, Basel-Landschaft, Basel-Stadt, Nidwalden,
+  Obwalden - are styled half cantons because they elect only one
+  member to the Council of States and, in popular referendums where a
+  majority of popular votes and a majority of cantonal votes are
+  required, these six cantons only have a half vote
+
+Syria
+  14 provinces (muhafazat, singular - muhafazah); Al Hasakah, Al
+  Ladhiqiyah (Latakia), Al Qunaytirah, Ar Raqqah, As Suwayda', Dar'a,
+  Dayr az Zawr, Dimashq, Halab, Hamah, Hims, Idlib, Rif Dimashq
+  (Damascus), Tartus
+
+Taiwan
+  includes main island of Taiwan plus smaller islands nearby
+  and off coast of China's Fujian Province; Taiwan is divided into 18
+  counties (hsien, singular and plural), 5 municipalities (shih,
+  singular and plural), and 2 special municipalities (chih-hsia-shih,
+  singular and plural)
+  note: Taiwan uses a variety of romanization systems; while a
+  modified Wade-Giles system still dominates, the city of Taipei has
+  adopted a Pinyin romanization for street and place names within its
+  boundaries; other local authorities use different romanization
+  systems; names for administrative divisions that follow are taken
+  from the Taiwan Yearbook 2007 published by the Government
+  Information Office in Taipei.
+  counties: Changhua, Chiayi (county), Hsinchu (county), Hualien,
+  Kaohsiung (county), Kinmen, Lienchiang, Miaoli, Nantou, Penghu,
+  Pingtung, Taichung (county), Tainan (county), Taipei (county),
+  Taitung, Taoyuan, Yilan, and Yunlin
+  municipalities: Chiayi (city), Hsinchu (city), Keelung, Taichung
+  (city), Tainan (city)
+  special municipalities: Kaohsiung (city), Taipei (city)
+
+Tajikistan
+  2 provinces (viloyatho, singular - viloyat) and 1
+  autonomous province* (viloyati mukhtor); Viloyati Khatlon
+  (Qurghonteppa), Viloyati Mukhtori Kuhistoni Badakhshon
+  [Gorno-Badakhshan]* (Khorugh), Viloyati Sughd (Khujand)
+  note: the administrative center name follows in parentheses
+
+Tanzania
+  26 regions; Arusha, Dar es Salaam, Dodoma, Iringa, Kagera,
+  Kigoma, Kilimanjaro, Lindi, Manyara, Mara, Mbeya, Morogoro, Mtwara,
+  Mwanza, Pemba North, Pemba South, Pwani, Rukwa, Ruvuma, Shinyanga,
+  Singida, Tabora, Tanga, Zanzibar Central/South, Zanzibar North,
+  Zanzibar Urban/West
+
+Thailand
+  76 provinces (changwat, singular and plural); Amnat
+  Charoen, Ang Thong, Buriram, Chachoengsao, Chai Nat, Chaiyaphum,
+  Chanthaburi, Chiang Mai, Chiang Rai, Chon Buri, Chumphon, Kalasin,
+  Kamphaeng Phet, Kanchanaburi, Khon Kaen, Krabi, Krung Thep
+  Mahanakhon (Bangkok), Lampang, Lamphun, Loei, Lop Buri, Mae Hong
+  Son, Maha Sarakham, Mukdahan, Nakhon Nayok, Nakhon Pathom, Nakhon
+  Phanom, Nakhon Ratchasima, Nakhon Sawan, Nakhon Si Thammarat, Nan,
+  Narathiwat, Nong Bua Lamphu, Nong Khai, Nonthaburi, Pathum Thani,
+  Pattani, Phangnga, Phatthalung, Phayao, Phetchabun, Phetchaburi,
+  Phichit, Phitsanulok, Phra Nakhon Si Ayutthaya, Phrae, Phuket,
+  Prachin Buri, Prachuap Khiri Khan, Ranong, Ratchaburi, Rayong, Roi
+  Et, Sa Kaeo, Sakon Nakhon, Samut Prakan, Samut Sakhon, Samut
+  Songkhram, Sara Buri, Satun, Sing Buri, Sisaket, Songkhla,
+  Sukhothai, Suphan Buri, Surat Thani, Surin, Tak, Trang, Trat, Ubon
+  Ratchathani, Udon Thani, Uthai Thani, Uttaradit, Yala, Yasothon
+
+Timor-Leste
+  13 administrative districts; Aileu, Ainaro, Baucau,
+  Bobonaro (Maliana), Cova-Lima (Suai), Dili, Ermera (Gleno), Lautem
+  (Los Palos), Liquica, Manatuto, Manufahi (Same), Oecussi (Ambeno),
+  Viqueque
+  note: administrative divisions have the same names as their
+  administrative centers (exceptions have the administrative center
+  name following in parentheses)
+
+Togo
+  5 regions (regions, singular - region); Centrale, Kara,
+  Maritime, Plateaux, Savanes
+
+Tokelau
+  none (territory of New Zealand)
+
+Tonga
+  3 island groups; Ha'apai, Tongatapu, Vava'u
+
+Trinidad and Tobago
+  9 regional corporations, 2 city corporations, 3
+  borough corporations, 1 ward
+  regional corporations: Couva/Tabaquite/Talparo, Diego Martin,
+  Mayaro/Rio Claro, Penal/Debe, Princes Town, Sangre Grande, San
+  Juan/Laventille, Siparia, Tunapuna/Piarco
+  city corporations: Port-of-Spain, San Fernando
+  borough corporations: Arima, Chaguanas, Point Fortin
+  ward: Tobago
+
+Tunisia
+  24 governorates; Ariana (Aryanah), Beja (Bajah), Ben Arous
+  (Bin 'Arus), Bizerte (Banzart), Gabes (Qabis), Gafsa (Qafsah),
+  Jendouba (Jundubah), Kairouan (Al Qayrawan), Kasserine (Al Qasrayn),
+  Kebili (Qibili), Kef (Al Kaf), Mahdia (Al Mahdiyah), Manouba
+  (Manubah), Medenine (Madanin), Monastir (Al Munastir), Nabeul
+  (Nabul), Sfax (Safaqis), Sidi Bou Zid (Sidi Bu Zayd), Siliana
+  (Silyanah), Sousse (Susah), Tataouine (Tatawin), Tozeur (Tawzar),
+  Tunis, Zaghouan (Zaghwan)
+
+Turkey
+  81 provinces (iller, singular - ili); Adana, Adiyaman,
+  Afyonkarahisar, Agri, Aksaray, Amasya, Ankara, Antalya, Ardahan,
+  Artvin, Aydin, Balikesir, Bartin, Batman, Bayburt, Bilecik, Bingol,
+  Bitlis, Bolu, Burdur, Bursa, Canakkale, Cankiri, Corum, Denizli,
+  Diyarbakir, Duzce, Edirne, Elazig, Erzincan, Erzurum, Eskisehir,
+  Gaziantep, Giresun, Gumushane, Hakkari, Hatay, Igdir, Isparta,
+  Istanbul, Izmir (Smyrna), Kahramanmaras, Karabuk, Karaman, Kars,
+  Kastamonu, Kayseri, Kilis, Kirikkale, Kirklareli, Kirsehir, Kocaeli,
+  Konya, Kutahya, Malatya, Manisa, Mardin, Mersin, Mugla, Mus,
+  Nevsehir, Nigde, Ordu, Osmaniye, Rize, Sakarya, Samsun, Sanliurfa,
+  Siirt, Sinop, Sirnak, Sivas, Tekirdag, Tokat, Trabzon (Trebizond),
+  Tunceli, Usak, Van, Yalova, Yozgat, Zonguldak
+
+Turkmenistan
+  5 provinces (welayatlar, singular - welayat) and 1
+  independent city*: Ahal Welayaty (Anew), Ashgabat*, Balkan Welayaty
+  (Balkanabat), Dashoguz Welayaty, Lebap Welayaty (Turkmenabat), Mary
+  Welayaty
+  note: administrative divisions have the same names as their
+  administrative centers (exceptions have the administrative center
+  name following in parentheses)
+
+Turks and Caicos Islands
+  none (overseas territory of the UK)
+
+Tuvalu
+  none
+
+Uganda
+  80 districts; Abim, Adjumani, Amolatar, Amuria, Amuru, Apac,
+  Arua, Budaka, Bududa, Bugiri, Bukedea, Bukwa, Bulisa, Bundibugyo,
+  Bushenyi, Busia, Butaleja, Dokolo, Gulu, Hoima, Ibanda, Iganga,
+  Isingiro, Jinja, Kaabong, Kabale, Kabarole, Kaberamaido, Kalangala,
+  Kaliro, Kampala, Kamuli, Kamwenge, Kanungu, Kapchorwa, Kasese,
+  Katakwi, Kayunga, Kibale, Kiboga, Kiruhara, Kisoro, Kitgum, Koboko,
+  Kotido, Kumi, Kyenjojo, Lira, Luwero, Lyantonde, Manafwa, Maracha,
+  Masaka, Masindi, Mayuge, Mbale, Mbarara, Mityana, Moroto, Moyo,
+  Mpigi, Mubende, Mukono, Nakapiripirit, Nakaseke, Nakasongola,
+  Namutumba, Nebbi, Ntungamo, Oyam, Pader, Pallisa, Rakai, Rukungiri,
+  Sembabule, Sironko, Soroti, Tororo, Wakiso, Yumbe
+
+Ukraine
+  24 provinces (oblasti, singular - oblast'), 1 autonomous
+  republic* (avtonomna respublika), and 2 municipalities (mista,
+  singular - misto) with oblast status**; Cherkasy, Chernihiv,
+  Chernivtsi, Crimea or Avtonomna Respublika Krym* (Simferopol'),
+  Dnipropetrovs'k, Donets'k, Ivano-Frankivs'k, Kharkiv, Kherson,
+  Khmel'nyts'kyy, Kirovohrad, Kyiv**, Kyiv, Luhans'k, L'viv,
+  Mykolayiv, Odesa, Poltava, Rivne, Sevastopol'**, Sumy, Ternopil',
+  Vinnytsya, Volyn' (Luts'k), Zakarpattya (Uzhhorod), Zaporizhzhya,
+  Zhytomyr
+  note: administrative divisions have the same names as their
+  administrative centers (exceptions have the administrative center
+  name following in parentheses)
+
+United Arab Emirates
+  7 emirates (imarat, singular - imarah); Abu
+  Zaby (Abu Dhabi), 'Ajman, Al Fujayrah, Ash Shariqah (Sharjah),
+  Dubayy (Dubai), Ra's al Khaymah, Umm al Qaywayn (Quwain)
+
+United Kingdom
+  England: 27 two-tier counties, 32 London boroughs and
+  1 City of London or Greater London, 36 metropolitan districts, 56
+  unitary authorities (including 4 single-tier counties*)
+  two-tier counties: Buckinghamshire, Cambridgeshire, Cumbria,
+  Derbyshire, Devon, Dorset, East Sussex, Essex, Gloucestershire,
+  Hampshire, Hertfordshire, Kent, Lancashire, Leicestershire,
+  Lincolnshire, Norfolk, North Yorkshire, Northamptonshire,
+  Nottinghamshire, Oxfordshire, Somerset, Staffordshire, Suffolk,
+  Surrey, Warwickshire, West Sussex, Worcestershire
+  London boroughs and City of London or Greater London: Barking and
+  Dagenham, Barnet, Bexley, Brent, Bromley, Camden, Croydon, Ealing,
+  Enfield, Greenwich, Hackney, Hammersmith and Fulham, Haringey,
+  Harrow, Havering, Hillingdon, Hounslow, Islington, Kensington and
+  Chelsea, Kingston upon Thames, Lambeth, Lewisham, City of London,
+  Merton, Newham, Redbridge, Richmond upon Thames, Southwark, Sutton,
+  Tower Hamlets, Waltham Forest, Wandsworth, Westminster
+  metropolitan districts: Barnsley, Birmingham, Bolton, Bradford,
+  Bury, Calderdale, Coventry, Doncaster, Dudley, Gateshead, Kirklees,
+  Knowlsey, Leeds, Liverpool, Manchester, Newcastle upon Tyne, North
+  Tyneside, Oldham, Rochdale, Rotherham, Salford, Sandwell, Sefton,
+  Sheffield, Solihull, South Tyneside, St. Helens, Stockport,
+  Sunderland, Tameside, Trafford, Wakefield, Walsall, Wigan, Wirral,
+  Wolverhampton
+  unitary authorities: Bath and North East Somerset, Blackburn with
+  Darwen, Bedford, Blackpool, Bournemouth, Bracknell Forest, Brighton
+  and Hove, City of Bristol, Central Bedfordshire, Cheshire East,
+  Cheshire West and Chester, Cornwall, Darlington, Derby, Durham
+  County*, East Riding of Yorkshire, Halton, Hartlepool,
+  Herefordshire*, Isle of Wight*, Isles of Scilly*, City of Kingston
+  upon Hull, Leicester, Luton, Medway, Middlesbrough, Milton Keynes,
+  North East Lincolnshire, North Lincolnshire, North Somerset,
+  Northumberland*, Nottingham, Peterborough, Plymouth, Poole,
+  Portsmouth, Reading, Redcar and Cleveland, Rutland, Shropshire,
+  Slough, South Gloucestershire, Southampton, Southend-on-Sea,
+  Stockton-on-Tees, Stoke-on-Trent, Swindon, Telford and Wrekin,
+  Thurrock, Torbay, Warrington, West Berkshire, Wiltshire, Windsor and
+  Maidenhead, Wokingham, York
+  Northern Ireland: 26 district council areas
+  district council areas: Antrim, Ards, Armagh, Ballymena, Ballymoney,
+  Banbridge, Belfast, Carrickfergus, Castlereagh, Coleraine,
+  Cookstown, Craigavon, Derry, Down, Dungannon, Fermanagh, Larne,
+  Limavady, Lisburn, Magherafelt, Moyle, Newry and Mourne,
+  Newtownabbey, North Down, Omagh, Strabane
+  Scotland: 32 council areas
+  council areas: Aberdeen City, Aberdeenshire, Angus, Argyll and Bute,
+  Clackmannanshire, Dumfries and Galloway, Dundee City, East Ayrshire,
+  East Dunbartonshire, East Lothian, East Renfrewshire, City of
+  Edinburgh, Eilean Siar (Western Isles), Falkirk, Fife, Glasgow City,
+  Highland, Inverclyde, Midlothian, Moray, North Ayrshire, North
+  Lanarkshire, Orkney Islands, Perth and Kinross, Renfrewshire,
+  Shetland Islands, South Ayrshire, South Lanarkshire, Stirling, The
+  Scottish Borders, West Dunbartonshire, West Lothian
+  Wales: 22 unitary authorities
+  unitary authorities: Blaenau Gwent; Bridgend; Caerphilly; Cardiff;
+  Carmarthenshire; Ceredigion; Conwy; Denbighshire; Flintshire;
+  Gwynedd; Isle of Anglesey; Merthyr Tydfil; Monmouthshire; Neath Port
+  Talbot; Newport; Pembrokeshire; Powys; Rhondda, Cynon, Taff;
+  Swansea; The Vale of Glamorgan; Torfaen; Wrexham
+
+United States
+  50 states and 1 district*; Alabama, Alaska, Arizona,
+  Arkansas, California, Colorado, Connecticut, Delaware, District of
+  Columbia*, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa,
+  Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts,
+  Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska,
+  Nevada, New Hampshire, New Jersey, New Mexico, New York, North
+  Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode
+  Island, South Carolina, South Dakota, Tennessee, Texas, Utah,
+  Vermont, Virginia, Washington, West Virginia, Wisconsin, Wyoming
+
+Uruguay
+  19 departments (departamentos, singular - departamento);
+  Artigas, Canelones, Cerro Largo, Colonia, Durazno, Flores, Florida,
+  Lavalleja, Maldonado, Montevideo, Paysandu, Rio Negro, Rivera,
+  Rocha, Salto, San Jose, Soriano, Tacuarembo, Treinta y Tres
+
+Uzbekistan
+  12 provinces (viloyatlar, singular - viloyat), 1
+  autonomous republic* (respublika), and 1 city** (shahar); Andijon
+  Viloyati, Buxoro Viloyati, Farg'ona Viloyati, Jizzax Viloyati,
+  Namangan Viloyati, Navoiy Viloyati, Qashqadaryo Viloyati (Qarshi),
+  Qoraqalpog'iston Respublikasi [Karakalpakstan Republic]* (Nukus),
+  Samarqand Viloyati, Sirdaryo Viloyati (Guliston), Surxondaryo
+  Viloyati (Termiz), Toshkent Shahri [Tashkent City]**, Toshkent
+  Viloyati [Tashkent province], Xorazm Viloyati (Urganch)
+  note: administrative divisions have the same names as their
+  administrative centers (exceptions have the administrative center
+  name following in parentheses)
+
+Vanuatu
+  6 provinces; Malampa, Penama, Sanma, Shefa, Tafea, Torba
+
+Venezuela
+  23 states (estados, singular - estado), 1 capital
+  district* (distrito capital), and 1 federal dependency**
+  (dependencia federal); Amazonas, Anzoategui, Apure, Aragua, Barinas,
+  Bolivar, Carabobo, Cojedes, Delta Amacuro, Dependencias Federales
+  (Federal Dependencies)**, Distrito Capital (Capital District)*,
+  Falcon, Guarico, Lara, Merida, Miranda, Monagas, Nueva Esparta,
+  Portuguesa, Sucre, Tachira, Trujillo, Vargas, Yaracuy, Zulia
+  note: the federal dependency consists of 11 federally controlled
+  island groups with a total of 72 individual islands
+
+Vietnam
+  58 provinces (tinh, singular and plural) and 5
+  municipalities (thanh pho, singular and plural)
+  provinces: An Giang, Bac Giang, Bac Kan, Bac Lieu, Bac Ninh, Ba
+  Ria-Vung Tau, Ben Tre, Binh Dinh, Binh Duong, Binh Phuoc, Binh
+  Thuan, Ca Mau, Cao Bang, Dac Lak, Dac Nong, Dien Bien, Dong Nai,
+  Dong Thap, Gia Lai, Ha Giang, Ha Nam, Ha Tinh, Hai Duong, Hau Giang,
+  Hoa Binh, Hung Yen, Khanh Hoa, Kien Giang, Kon Tum, Lai Chau, Lam
+  Dong, Lang Son, Lao Cai, Long An, Nam Dinh, Nghe An, Ninh Binh, Ninh
+  Thuan, Phu Tho, Phu Yen, Quang Binh, Quang Nam, Quang Ngai, Quang
+  Ninh, Quang Tri, Soc Trang, Son La, Tay Ninh, Thai Binh, Thai
+  Nguyen, Thanh Hoa, Thua Thien-Hue, Tien Giang, Tra Vinh, Tuyen
+  Quang, Vinh Long, Vinh Phuc, Yen Bai
+  municipalities: Can Tho, Da Nang, Ha Noi, Hai Phong, Ho Chi Minh City
+
+Virgin Islands
+  none (territory of the US); there are no first-order
+  administrative divisions as defined by the US Government, but there
+  are three islands at the second order; Saint Croix, Saint John,
+  Saint Thomas
+
+Wallis and Futuna
+  none (overseas territory of France); there are no
+  first-order administrative divisions as defined by the US
+  Government, but there are three kingdoms at the second order named
+  Alo, Sigave, Wallis
+
+Western Sahara
+  none (territory west of the berm under de facto
+  Moroccan control)
+
+World
+  266 countries, dependent areas, and other entities
+
+Yemen
+  21 governorates (muhafazat, singular - muhafazah); Abyan,
+  'Adan (Aden), Ad Dali', Al Bayda', Al Hudaydah, Al Jawf, Al Mahrah,
+  Al Mahwit, Amanat al 'Asimah, 'Amran, Dhamar, Hadramawt, Hajjah,
+  Ibb, Lahij, Ma'rib, Raymah, Sa'dah, San'a' (Sanaa), Shabwah, Ta'izz
+
+Zambia
+  9 provinces; Central, Copperbelt, Eastern, Luapula, Lusaka,
+  Northern, North-Western, Southern, Western
+
+Zimbabwe
+  8 provinces and 2 cities* with provincial status;
+  Bulawayo*, Harare*, Manicaland, Mashonaland Central, Mashonaland
+  East, Mashonaland West, Masvingo, Matabeleland North, Matabeleland
+  South, Midlands
+
+
+
+
+======================================================================
+
+
+
+
+

@@ -1,0 +1,1070 @@
+2125
+
+
+Field Listing :: Terrain
+
+  This entry contains a brief description of the topography.
+  Country
+
+
+  Terrain
+
+Afghanistan
+  mostly rugged mountains; plains in north and southwest
+
+Albania
+  mostly mountains and hills; small plains along coast
+
+Algeria
+  mostly high plateau and desert; some mountains; narrow,
+  discontinuous coastal plain
+
+American Samoa
+  five volcanic islands with rugged peaks and limited
+  coastal plains, two coral atolls (Rose Island, Swains Island)
+
+Andorra
+  rugged mountains dissected by narrow valleys
+
+Angola
+  narrow coastal plain rises abruptly to vast interior plateau
+
+Anguilla
+  flat and low-lying island of coral and limestone
+
+Antarctica
+  about 98% thick continental ice sheet and 2% barren rock,
+  with average elevations between 2,000 and 4,000 meters; mountain
+  ranges up to nearly 5,000 meters; ice-free coastal areas include
+  parts of southern Victoria Land, Wilkes Land, the Antarctic
+  Peninsula area, and parts of Ross Island on McMurdo Sound; glaciers
+  form ice shelves along about half of the coastline, and floating ice
+  shelves constitute 11% of the area of the continent
+
+Antigua and Barbuda
+  mostly low-lying limestone and coral islands,
+  with some higher volcanic areas
+
+Arctic Ocean
+  central surface covered by a perennial drifting polar
+  icepack that, on average, is about 3 meters thick, although pressure
+  ridges may be three times that thickness; clockwise drift pattern in
+  the Beaufort Gyral Stream, but nearly straight-line movement from
+  the New Siberian Islands (Russia) to Denmark Strait (between
+  Greenland and Iceland); the icepack is surrounded by open seas
+  during the summer, but more than doubles in size during the winter
+  and extends to the encircling landmasses; the ocean floor is about
+  50% continental shelf (highest percentage of any ocean) with the
+  remainder a central basin interrupted by three submarine ridges
+  (Alpha Cordillera, Nansen Cordillera, and Lomonosov Ridge)
+
+Argentina
+  rich plains of the Pampas in northern half, flat to
+  rolling plateau of Patagonia in south, rugged Andes along western
+  border
+
+Armenia
+  Armenian Highland with mountains; little forest land; fast
+  flowing rivers; good soil in Aras River valley
+
+Aruba
+  flat with a few hills; scant vegetation
+
+Ashmore and Cartier Islands
+  low with sand and coral
+
+Atlantic Ocean
+  surface usually covered with sea ice in Labrador Sea,
+  Denmark Strait, and coastal portions of the Baltic Sea from October
+  to June; clockwise warm-water gyre (broad, circular system of
+  currents) in the northern Atlantic, counterclockwise warm-water gyre
+  in the southern Atlantic; the ocean floor is dominated by the
+  Mid-Atlantic Ridge, a rugged north-south centerline for the entire
+  Atlantic basin
+
+Australia
+  mostly low plateau with deserts; fertile plain in southeast
+
+Austria
+  in the west and south mostly mountains (Alps); along the
+  eastern and northern margins mostly flat or gently sloping
+
+Azerbaijan
+  large, flat Kur-Araz Ovaligi (Kura-Araks Lowland) (much
+  of it below sea level) with Great Caucasus Mountains to the north,
+  Qarabag Yaylasi (Karabakh Upland) in west; Baku lies on Abseron
+  Yasaqligi (Apsheron Peninsula) that juts into Caspian Sea
+
+Bahamas, The
+  long, flat coral formations with some low rounded hills
+
+Bahrain
+  mostly low desert plain rising gently to low central
+  escarpment
+
+Bangladesh
+  mostly flat alluvial plain; hilly in southeast
+
+Barbados
+  relatively flat; rises gently to central highland region
+
+Belarus
+  generally flat and contains much marshland
+
+Belgium
+  flat coastal plains in northwest, central rolling hills,
+  rugged mountains of Ardennes Forest in southeast
+
+Belize
+  flat, swampy coastal plain; low mountains in south
+
+Benin
+  mostly flat to undulating plain; some hills and low mountains
+
+Bermuda
+  low hills separated by fertile depressions
+
+Bhutan
+  mostly mountainous with some fertile valleys and savanna
+
+Bolivia
+  rugged Andes Mountains with a highland plateau (Altiplano),
+  hills, lowland plains of the Amazon Basin
+
+Bosnia and Herzegovina
+  mountains and valleys
+
+Botswana
+  predominantly flat to gently rolling tableland; Kalahari
+  Desert in southwest
+
+Bouvet Island
+  volcanic; coast is mostly inaccessible
+
+Brazil
+  mostly flat to rolling lowlands in north; some plains, hills,
+  mountains, and narrow coastal belt
+
+British Indian Ocean Territory
+  flat and low (most areas do not
+  exceed two meters in elevation)
+
+British Virgin Islands
+  coral islands relatively flat; volcanic
+  islands steep, hilly
+
+Brunei
+  flat coastal plain rises to mountains in east; hilly lowland
+  in west
+
+Bulgaria
+  mostly mountains with lowlands in north and southeast
+
+Burkina Faso
+  mostly flat to dissected, undulating plains; hills in
+  west and southeast
+
+Burma
+  central lowlands ringed by steep, rugged highlands
+
+Burundi
+  hilly and mountainous, dropping to a plateau in east, some
+  plains
+
+Cambodia
+  mostly low, flat plains; mountains in southwest and north
+
+Cameroon
+  diverse, with coastal plain in southwest, dissected plateau
+  in center, mountains in west, plains in north
+
+Canada
+  mostly plains with mountains in west and lowlands in southeast
+
+Cape Verde
+  steep, rugged, rocky, volcanic
+
+Cayman Islands
+  low-lying limestone base surrounded by coral reefs
+
+Central African Republic
+  vast, flat to rolling, monotonous plateau;
+  scattered hills in northeast and southwest
+
+Chad
+  broad, arid plains in center, desert in north, mountains in
+  northwest, lowlands in south
+
+Chile
+  low coastal mountains; fertile central valley; rugged Andes in
+  east
+
+China
+  mostly mountains, high plateaus, deserts in west; plains,
+  deltas, and hills in east
+
+Christmas Island
+  steep cliffs along coast rise abruptly to central
+  plateau
+
+Clipperton Island
+  coral atoll
+
+Cocos (Keeling) Islands
+  flat, low-lying coral atolls
+
+Colombia
+  flat coastal lowlands, central highlands, high Andes
+  Mountains, eastern lowland plains
+
+Comoros
+  volcanic islands, interiors vary from steep mountains to low
+  hills
+
+Congo, Democratic Republic of the
+  vast central basin is a low-lying
+  plateau; mountains in east
+
+Congo, Republic of the
+  coastal plain, southern basin, central
+  plateau, northern basin
+
+Cook Islands
+  low coral atolls in north; volcanic, hilly islands in
+  south
+
+Coral Sea Islands
+  sand and coral reefs and islands (or cays)
+
+Costa Rica
+  coastal plains separated by rugged mountains including
+  over 100 volcanic cones, of which several are major volcanoes
+
+Cote d'Ivoire
+  mostly flat to undulating plains; mountains in
+  northwest
+
+Croatia
+  geographically diverse; flat plains along Hungarian border,
+  low mountains and highlands near Adriatic coastline and islands
+
+Cuba
+  mostly flat to rolling plains, with rugged hills and mountains
+  in the southeast
+
+Curacao
+  generally low, hilly terrain
+
+Cyprus
+  central plain with mountains to north and south; scattered
+  but significant plains along southern coast
+
+Czech Republic
+  Bohemia in the west consists of rolling plains,
+  hills, and plateaus surrounded by low mountains; Moravia in the east
+  consists of very hilly country
+
+Denmark
+  low and flat to gently rolling plains
+
+Djibouti
+  coastal plain and plateau separated by central mountains
+
+Dominica
+  rugged mountains of volcanic origin
+
+Dominican Republic
+  rugged highlands and mountains with fertile
+  valleys interspersed
+
+Ecuador
+  coastal plain (costa), inter-Andean central highlands
+  (sierra), and flat to rolling eastern jungle (oriente)
+
+Egypt
+  vast desert plateau interrupted by Nile valley and delta
+
+El Salvador
+  mostly mountains with narrow coastal belt and central
+  plateau
+
+Equatorial Guinea
+  coastal plains rise to interior hills; islands are
+  volcanic
+
+Eritrea
+  dominated by extension of Ethiopian north-south trending
+  highlands, descending on the east to a coastal desert plain, on the
+  northwest to hilly terrain and on the southwest to flat-to-rolling
+  plains
+
+Estonia
+  marshy, lowlands; flat in the north, hilly in the south
+
+Ethiopia
+  high plateau with central mountain range divided by Great
+  Rift Valley
+
+European Union
+  fairly flat along the Baltic and Atlantic coast;
+  mountainous in the central and southern areas
+
+Falkland Islands (Islas Malvinas)
+  rocky, hilly, mountainous with
+  some boggy, undulating plains
+
+Faroe Islands
+  rugged, rocky, some low peaks; cliffs along most of
+  coast
+
+Fiji
+  mostly mountains of volcanic origin
+
+Finland
+  mostly low, flat to rolling plains interspersed with lakes
+  and low hills
+
+France
+  metropolitan France: mostly flat plains or gently rolling
+  hills in north and west; remainder is mountainous, especially
+  Pyrenees in south, Alps in east
+  French Guiana: low-lying coastal plains rising to hills and small
+  mountains
+  Guadeloupe: Basse-Terre is volcanic in origin with interior
+  mountains; Grande-Terre is low limestone formation; most of the
+  seven other islands are volcanic in origin
+  Martinique: mountainous with indented coastline; dormant volcano
+  Reunion: mostly rugged and mountainous; fertile lowlands along coast
+
+French Polynesia
+  mixture of rugged high islands and low islands with
+  reefs
+
+French Southern and Antarctic Lands
+  Ile Amsterdam (Ile Amsterdam et
+  Ile Saint-Paul): a volcanic island with steep coastal cliffs; the
+  center floor of the volcano is a large plateau
+  Ile Saint-Paul (Ile Amsterdam et Ile Saint-Paul): triangular in
+  shape, the island is the top of a volcano, rocky with steep cliffs
+  on the eastern side; has active thermal springs
+  Iles Crozet: a large archipelago formed from the Crozet Plateau is
+  divided into two groups of islands
+  Iles Kerguelen: the interior of the large island of Ile Kerguelen is
+  composed of rugged terrain of high mountains, hills, valleys, and
+  plains with a number of peninsulas stretching off its coasts
+  Bassas da India (Iles Eparses): atoll, awash at high tide; shallow
+  (15 m) lagoon
+  Europa Island, Glorioso Islands, Juan de Nova Island: low, flat, and
+  sandy
+  Tromelin Island (Iles Eparses): low, flat, sandy; likely volcanic
+  seamount
+
+Gabon
+  narrow coastal plain; hilly interior; savanna in east and south
+
+Gambia, The
+  flood plain of the Gambia River flanked by some low hills
+
+Gaza Strip
+  flat to rolling, sand- and dune-covered coastal plain
+
+Georgia
+  largely mountainous with Great Caucasus Mountains in the
+  north and Lesser Caucasus Mountains in the south; Kolkhet'is Dablobi
+  (Kolkhida Lowland) opens to the Black Sea in the west; Mtkvari River
+  Basin in the east; good soils in river valley flood plains,
+  foothills of Kolkhida Lowland
+
+Germany
+  lowlands in north, uplands in center, Bavarian Alps in south
+
+Ghana
+  mostly low plains with dissected plateau in south-central area
+
+Gibraltar
+  a narrow coastal lowland borders the Rock of Gibraltar
+
+Greece
+  mostly mountains with ranges extending into the sea as
+  peninsulas or chains of islands
+
+Greenland
+  flat to gradually sloping icecap covers all but a narrow,
+  mountainous, barren, rocky coast
+
+Grenada
+  volcanic in origin with central mountains
+
+Guam
+  volcanic origin, surrounded by coral reefs; relatively flat
+  coralline limestone plateau (source of most fresh water), with steep
+  coastal cliffs and narrow coastal plains in north, low hills in
+  center, mountains in south
+
+Guatemala
+  mostly mountains with narrow coastal plains and rolling
+  limestone plateau
+
+Guernsey
+  mostly level with low hills in southwest
+
+Guinea
+  generally flat coastal plain, hilly to mountainous interior
+
+Guinea-Bissau
+  mostly low coastal plain rising to savanna in east
+
+Guyana
+  mostly rolling highlands; low coastal plain; savanna in south
+
+Haiti
+  mostly rough and mountainous
+
+Heard Island and McDonald Islands
+  Heard Island - 80% ice-covered,
+  bleak and mountainous, dominated by a large massif (Big Ben) and an
+  active volcano (Mawson Peak); McDonald Islands - small and rocky
+
+Holy See (Vatican City)
+  urban; low hill
+
+Honduras
+  mostly mountains in interior, narrow coastal plains
+
+Hong Kong
+  hilly to mountainous with steep slopes; lowlands in north
+
+Hungary
+  mostly flat to rolling plains; hills and low mountains on
+  the Slovakian border
+
+Iceland
+  mostly plateau interspersed with mountain peaks, icefields;
+  coast deeply indented by bays and fiords
+
+India
+  upland plain (Deccan Plateau) in south, flat to rolling plain
+  along the Ganges, deserts in west, Himalayas in north
+
+Indian Ocean
+  surface dominated by counterclockwise gyre (broad,
+  circular system of currents) in the southern Indian Ocean; unique
+  reversal of surface currents in the northern Indian Ocean; low
+  atmospheric pressure over southwest Asia from hot, rising, summer
+  air results in the southwest monsoon and southwest-to-northeast
+  winds and currents, while high pressure over northern Asia from
+  cold, falling, winter air results in the northeast monsoon and
+  northeast-to-southwest winds and currents; ocean floor is dominated
+  by the Mid-Indian Ocean Ridge and subdivided by the Southeast Indian
+  Ocean Ridge, Southwest Indian Ocean Ridge, and Ninetyeast Ridge
+
+Indonesia
+  mostly coastal lowlands; larger islands have interior
+  mountains
+
+Iran
+  rugged, mountainous rim; high, central basin with deserts,
+  mountains; small, discontinuous plains along both coasts
+
+Iraq
+  mostly broad plains; reedy marshes along Iranian border in
+  south with large flooded areas; mountains along borders with Iran
+  and Turkey
+
+Ireland
+  mostly level to rolling interior plain surrounded by rugged
+  hills and low mountains; sea cliffs on west coast
+
+Isle of Man
+  hills in north and south bisected by central valley
+
+Israel
+  Negev desert in the south; low coastal plain; central
+  mountains; Jordan Rift Valley
+
+Italy
+  mostly rugged and mountainous; some plains, coastal lowlands
+
+Jamaica
+  mostly mountains, with narrow, discontinuous coastal plain
+
+Jan Mayen
+  volcanic island, partly covered by glaciers
+
+Japan
+  mostly rugged and mountainous
+
+Jersey
+  gently rolling plain with low, rugged hills along north coast
+
+Jordan
+  mostly desert plateau in east, highland area in west; Great
+  Rift Valley separates East and West Banks of the Jordan River
+
+Kazakhstan
+  vast flat steppe extending from the Volga in the west to
+  the Altai Mountains in the east and from the plains of western
+  Siberia in the north to oases and deserts of Central Asia in the
+  south
+
+Kenya
+  low plains rise to central highlands bisected by Great Rift
+  Valley; fertile plateau in west
+
+Kiribati
+  mostly low-lying coral atolls surrounded by extensive reefs
+
+Korea, North
+  mostly hills and mountains separated by deep, narrow
+  valleys; coastal plains wide in west, discontinuous in east
+
+Korea, South
+  mostly hills and mountains; wide coastal plains in west
+  and south
+
+Kosovo
+  flat fluvial basin with an elevation of 400-700 m above sea
+  level surrounded by several high mountain ranges with elevations of
+  2,000 to 2,500 m
+
+Kuwait
+  flat to slightly undulating desert plain
+
+Kyrgyzstan
+  peaks of Tien Shan and associated valleys and basins
+  encompass entire nation
+
+Laos
+  mostly rugged mountains; some plains and plateaus
+
+Latvia
+  low plain
+
+Lebanon
+  narrow coastal plain; El Beqaa (Bekaa Valley) separates
+  Lebanon and Anti-Lebanon Mountains
+
+Lesotho
+  mostly highland with plateaus, hills, and mountains
+
+Liberia
+  mostly flat to rolling coastal plains rising to rolling
+  plateau and low mountains in northeast
+
+Libya
+  mostly barren, flat to undulating plains, plateaus, depressions
+
+Liechtenstein
+  mostly mountainous (Alps) with Rhine Valley in western
+  third
+
+Lithuania
+  lowland, many scattered small lakes, fertile soil
+
+Luxembourg
+  mostly gently rolling uplands with broad, shallow
+  valleys; uplands to slightly mountainous in the north; steep slope
+  down to Moselle flood plain in the southeast
+
+Macau
+  generally flat
+
+Macedonia
+  mountainous territory covered with deep basins and
+  valleys; three large lakes, each divided by a frontier line; country
+  bisected by the Vardar River
+
+Madagascar
+  narrow coastal plain, high plateau and mountains in center
+
+Malawi
+  narrow elongated plateau with rolling plains, rounded hills,
+  some mountains
+
+Malaysia
+  coastal plains rising to hills and mountains
+
+Maldives
+  flat, with white sandy beaches
+
+Mali
+  mostly flat to rolling northern plains covered by sand; savanna
+  in south, rugged hills in northeast
+
+Malta
+  mostly low, rocky, flat to dissected plains; many coastal
+  cliffs
+
+Marshall Islands
+  low coral limestone and sand islands
+
+Mauritania
+  mostly barren, flat plains of the Sahara; some central
+  hills
+
+Mauritius
+  small coastal plain rising to discontinuous mountains
+  encircling central plateau
+
+Mayotte
+  generally undulating, with deep ravines and ancient volcanic
+  peaks
+
+Mexico
+  high, rugged mountains; low coastal plains; high plateaus;
+  desert
+
+Micronesia, Federated States of
+  islands vary geologically from high
+  mountainous islands to low, coral atolls; volcanic outcroppings on
+  Pohnpei, Kosrae, and Chuuk
+
+Moldova
+  rolling steppe, gradual slope south to Black Sea
+
+Monaco
+  hilly, rugged, rocky
+
+Mongolia
+  vast semidesert and desert plains, grassy steppe, mountains
+  in west and southwest; Gobi Desert in south-central
+
+Montenegro
+  highly indented coastline with narrow coastal plain
+  backed by rugged high limestone mountains and plateaus
+
+Montserrat
+  volcanic island, mostly mountainous, with small coastal
+  lowland
+
+Morocco
+  northern coast and interior are mountainous with large areas
+  of bordering plateaus, intermontane valleys, and rich coastal plains
+
+Mozambique
+  mostly coastal lowlands, uplands in center, high plateaus
+  in northwest, mountains in west
+
+Namibia
+  mostly high plateau; Namib Desert along coast; Kalahari
+  Desert in east
+
+Nauru
+  sandy beach rises to fertile ring around raised coral reefs
+  with phosphate plateau in center
+
+Navassa Island
+  raised coral and limestone plateau, flat to
+  undulating; ringed by vertical white cliffs (9 to 15 m high)
+
+Nepal
+  Tarai or flat river plain of the Ganges in south, central hill
+  region, rugged Himalayas in north
+
+Netherlands
+  mostly coastal lowland and reclaimed land (polders);
+  some hills in southeast
+
+New Caledonia
+  coastal plains with interior mountains
+
+New Zealand
+  predominately mountainous with some large coastal plains
+
+Nicaragua
+  extensive Atlantic coastal plains rising to central
+  interior mountains; narrow Pacific coastal plain interrupted by
+  volcanoes
+
+Niger
+  predominately desert plains and sand dunes; flat to rolling
+  plains in south; hills in north
+
+Nigeria
+  southern lowlands merge into central hills and plateaus;
+  mountains in southeast, plains in north
+
+Niue
+  steep limestone cliffs along coast, central plateau
+
+Norfolk Island
+  volcanic formation with mostly rolling plains
+
+Northern Mariana Islands
+  southern islands are limestone with level
+  terraces and fringing coral reefs; northern islands are volcanic
+
+Norway
+  glaciated; mostly high plateaus and rugged mountains broken
+  by fertile valleys; small, scattered plains; coastline deeply
+  indented by fjords; arctic tundra in north
+
+Oman
+  central desert plain, rugged mountains in north and south
+
+Pacific Ocean
+  surface currents in the northern Pacific are dominated
+  by a clockwise, warm-water gyre (broad circular system of currents)
+  and in the southern Pacific by a counterclockwise, cool-water gyre;
+  in the northern Pacific, sea ice forms in the Bering Sea and Sea of
+  Okhotsk in winter; in the southern Pacific, sea ice from Antarctica
+  reaches its northernmost extent in October; the ocean floor in the
+  eastern Pacific is dominated by the East Pacific Rise, while the
+  western Pacific is dissected by deep trenches, including the Mariana
+  Trench, which is the world's deepest
+
+Pakistan
+  flat Indus plain in east; mountains in north and northwest;
+  Balochistan plateau in west
+
+Palau
+  varying geologically from the high, mountainous main island of
+  Babelthuap to low, coral islands usually fringed by large barrier
+  reefs
+
+Panama
+  interior mostly steep, rugged mountains and dissected, upland
+  plains; coastal areas largely plains and rolling hills
+
+Papua New Guinea
+  mostly mountains with coastal lowlands and rolling
+  foothills
+
+Paracel Islands
+  mostly low and flat
+
+Paraguay
+  grassy plains and wooded hills east of Rio Paraguay; Gran
+  Chaco region west of Rio Paraguay mostly low, marshy plain near the
+  river, and dry forest and thorny scrub elsewhere
+
+Peru
+  western coastal plain (costa), high and rugged Andes in center
+  (sierra), eastern lowland jungle of Amazon Basin (selva)
+
+Philippines
+  mostly mountains with narrow to extensive coastal
+  lowlands
+
+Pitcairn Islands
+  rugged volcanic formation; rocky coastline with
+  cliffs
+
+Poland
+  mostly flat plain; mountains along southern border
+
+Portugal
+  mountainous north of the Tagus River, rolling plains in
+  south
+
+Puerto Rico
+  mostly mountains with coastal plain belt in north;
+  mountains precipitous to sea on west coast; sandy beaches along most
+  coastal areas
+
+Qatar
+  mostly flat and barren desert covered with loose sand and
+  gravel
+
+Romania
+  central Transylvanian Basin is separated from the Moldavian
+  Plateau on the east by the Eastern Carpathian Mountains and
+  separated from the Walachian Plain on the south by the Transylvanian
+  Alps
+
+Russia
+  broad plain with low hills west of Urals; vast coniferous
+  forest and tundra in Siberia; uplands and mountains along southern
+  border regions
+
+Rwanda
+  mostly grassy uplands and hills; relief is mountainous with
+  altitude declining from west to east
+
+Saint Barthelemy
+  hilly, almost completely surrounded by
+  shallow-water reefs, with 20 beaches
+
+Saint Helena, Ascension, and Tristan da Cunha
+  the islands of this
+  group result from volcanic activity associated with the Atlantic
+  Mid-Ocean Ridge
+  Saint Helena: rugged, volcanic; small scattered plateaus and plains
+  Ascension: surface covered by lava flows and cinder cones of 44
+  dormant volcanoes; ground rises to the east
+  Tristan da Cunha: sheer cliffs line the coastline of the nearly
+  circular island; the flanks of the central volcanic peak are deeply
+  dissected; narrow coastal plain lies between The Peak and the
+  coastal cliffs
+
+Saint Kitts and Nevis
+  volcanic with mountainous interiors
+
+Saint Lucia
+  volcanic and mountainous with some broad, fertile valleys
+
+Saint Pierre and Miquelon
+  mostly barren rock
+
+Saint Vincent and the Grenadines
+  volcanic, mountainous
+
+Samoa
+  two main islands (Savaii, Upolu) and several smaller islands
+  and uninhabited islets; narrow coastal plain with volcanic, rocky,
+  rugged mountains in interior
+
+San Marino
+  rugged mountains
+
+Sao Tome and Principe
+  volcanic, mountainous
+
+Saudi Arabia
+  mostly uninhabited, sandy desert
+
+Senegal
+  generally low, rolling, plains rising to foothills in
+  southeast
+
+Serbia
+  extremely varied; to the north, rich fertile plains; to the
+  east, limestone ranges and basins; to the southeast, ancient
+  mountains and hills
+
+Seychelles
+  Mahe Group is granitic, narrow coastal strip, rocky,
+  hilly; others are coral, flat, elevated reefs
+
+Sierra Leone
+  coastal belt of mangrove swamps, wooded hill country,
+  upland plateau, mountains in east
+
+Singapore
+  lowland; gently undulating central plateau contains water
+  catchment area and nature preserve
+
+Sint Maarten
+  low, hilly terrain, volcanic origin
+
+Slovakia
+  rugged mountains in the central and northern part and
+  lowlands in the south
+
+Slovenia
+  a short coastal strip on the Adriatic, an alpine mountain
+  region adjacent to Italy and Austria, mixed mountains and valleys
+  with numerous rivers to the east
+
+Solomon Islands
+  mostly rugged mountains with some low coral atolls
+
+Somalia
+  mostly flat to undulating plateau rising to hills in north
+
+South Africa
+  vast interior plateau rimmed by rugged hills and narrow
+  coastal plain
+
+South Georgia and South Sandwich Islands
+  most of the islands, rising
+  steeply from the sea, are rugged and mountainous; South Georgia is
+  largely barren and has steep, glacier-covered mountains; the South
+  Sandwich Islands are of volcanic origin with some active volcanoes
+
+Southern Ocean
+  the Southern Ocean is deep, 4,000 to 5,000 m over
+  most of its extent with only limited areas of shallow water; the
+  Antarctic continental shelf is generally narrow and unusually deep,
+  its edge lying at depths of 400 to 800 m (the global mean is 133 m);
+  the Antarctic icepack grows from an average minimum of 2.6 million
+  sq km in March to about 18.8 million sq km in September, better than
+  a sixfold increase in area; the Antarctic Circumpolar Current
+  (21,000 km in length) moves perpetually eastward; it is the world's
+  largest ocean current, transporting 130 million cubic meters of
+  water per second - 100 times the flow of all the world's rivers
+
+Spain
+  large, flat to dissected plateau surrounded by rugged hills;
+  Pyrenees in north
+
+Spratly Islands
+  flat
+
+Sri Lanka
+  mostly low, flat to rolling plain; mountains in
+  south-central interior
+
+Sudan
+  generally flat, featureless plain; mountains in far south,
+  northeast and west; desert dominates the north
+
+Suriname
+  mostly rolling hills; narrow coastal plain with swamps
+
+Svalbard
+  wild, rugged mountains; much of high land ice covered; west
+  coast clear of ice about one-half of the year; fjords along west and
+  north coasts
+
+Swaziland
+  mostly mountains and hills; some moderately sloping plains
+
+Sweden
+  mostly flat or gently rolling lowlands; mountains in west
+
+Switzerland
+  mostly mountains (Alps in south, Jura in northwest) with
+  a central plateau of rolling hills, plains, and large lakes
+
+Syria
+  primarily semiarid and desert plateau; narrow coastal plain;
+  mountains in west
+
+Taiwan
+  eastern two-thirds mostly rugged mountains; flat to gently
+  rolling plains in west
+
+Tajikistan
+  Pamir and Alay Mountains dominate landscape; western
+  Fergana Valley in north, Kofarnihon and Vakhsh Valleys in southwest
+
+Tanzania
+  plains along coast; central plateau; highlands in north,
+  south
+
+Thailand
+  central plain; Khorat Plateau in the east; mountains
+  elsewhere
+
+Timor-Leste
+  mountainous
+
+Togo
+  gently rolling savanna in north; central hills; southern
+  plateau; low coastal plain with extensive lagoons and marshes
+
+Tokelau
+  low-lying coral atolls enclosing large lagoons
+
+Tonga
+  most islands have limestone base formed from uplifted coral
+  formation; others have limestone overlying volcanic base
+
+Trinidad and Tobago
+  mostly plains with some hills and low mountains
+
+Tunisia
+  mountains in north; hot, dry central plain; semiarid south
+  merges into the Sahara
+
+Turkey
+  high central plateau (Anatolia); narrow coastal plain;
+  several mountain ranges
+
+Turkmenistan
+  flat-to-rolling sandy desert with dunes rising to
+  mountains in the south; low mountains along border with Iran;
+  borders Caspian Sea in west
+
+Turks and Caicos Islands
+  low, flat limestone; extensive marshes and
+  mangrove swamps
+
+Tuvalu
+  low-lying and narrow coral atolls
+
+Uganda
+  mostly plateau with rim of mountains
+
+Ukraine
+  most of Ukraine consists of fertile plains (steppes) and
+  plateaus, mountains being found only in the west (the Carpathians),
+  and in the Crimean Peninsula in the extreme south
+
+United Arab Emirates
+  flat, barren coastal plain merging into rolling
+  sand dunes of vast desert wasteland; mountains in east
+
+United Kingdom
+  mostly rugged hills and low mountains; level to
+  rolling plains in east and southeast
+
+United States
+  vast central plain, mountains in west, hills and low
+  mountains in east; rugged mountains and broad river valleys in
+  Alaska; rugged, volcanic topography in Hawaii
+
+United States Pacific Island Wildlife Refuges
+  low and nearly level
+  sandy coral islands with narrow fringing reefs that have developed
+  at the top of submerged volcanic mountains, which in most cases rise
+  steeply from the ocean floor
+
+Uruguay
+  mostly rolling plains and low hills; fertile coastal lowland
+
+Uzbekistan
+  mostly flat-to-rolling sandy desert with dunes; broad,
+  flat intensely irrigated river valleys along course of Amu Darya,
+  Syr Darya (Sirdaryo), and Zarafshon; Fergana Valley in east
+  surrounded by mountainous Tajikistan and Kyrgyzstan; shrinking Aral
+  Sea in west
+
+Vanuatu
+  mostly mountainous islands of volcanic origin; narrow
+  coastal plains
+
+Venezuela
+  Andes Mountains and Maracaibo Lowlands in northwest;
+  central plains (llanos); Guiana Highlands in southeast
+
+Vietnam
+  low, flat delta in south and north; central highlands;
+  hilly, mountainous in far north and northwest
+
+Virgin Islands
+  mostly hilly to rugged and mountainous with little
+  level land
+
+Wake Island
+  atoll of three low coral islands, Peale, Wake, and
+  Wilkes, built up on an underwater volcano; central lagoon is former
+  crater, islands are part of the rim
+
+Wallis and Futuna
+  volcanic origin; low hills
+
+West Bank
+  mostly rugged dissected upland, some vegetation in west,
+  but barren in east
+
+Western Sahara
+  mostly low, flat desert with large areas of rocky or
+  sandy surfaces rising to small mountains in south and northeast
+
+World
+  the greatest ocean depth is the Mariana Trench at 10,924 m in
+  the Pacific Ocean
+
+Yemen
+  narrow coastal plain backed by flat-topped hills and rugged
+  mountains; dissected upland desert plains in center slope into the
+  desert interior of the Arabian Peninsula
+
+Zambia
+  mostly high plateau with some hills and mountains
+
+Zimbabwe
+  mostly high plateau with higher central plateau (high
+  veld); mountains in east
+
+
+
+
+======================================================================
+
+
+
+
+

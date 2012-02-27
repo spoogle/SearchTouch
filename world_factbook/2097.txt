@@ -1,0 +1,1306 @@
+2097
+
+
+Field Listing :: Land use
+
+  This entry contains the percentage shares of total land area for
+  three different types of land use: arable land - land cultivated for
+  crops like wheat, maize, and rice that are replanted after each
+  harvest; permanent crops - land cultivated for crops like citrus,
+  coffee, and rubber that are not replanted after each harvest;
+  includes land under flowering shrubs, fruit trees, nut trees, and
+  vines, but excludes land under trees grown for wood or timber; other
+  - any land not arable or under permanent crops; includes permanent
+  meadows and pastures, forests and woodlands, built-on areas, roads,
+  barren land, etc.
+  Country
+
+
+  Land use(%)
+
+Afghanistan
+  arable land: 12.13%
+  permanent crops: 0.21%
+  other: 87.66% (2005)
+
+Albania
+  arable land: 20.1%
+  permanent crops: 4.21%
+  other: 75.69% (2005)
+
+Algeria
+  arable land: 3.17%
+  permanent crops: 0.28%
+  other: 96.55% (2005)
+
+American Samoa
+  arable land: 10%
+  permanent crops: 15%
+  other: 75% (2005)
+
+Andorra
+  arable land: 2.13%
+  permanent crops: 0%
+  other: 97.87% (2005)
+
+Angola
+  arable land: 2.65%
+  permanent crops: 0.23%
+  other: 97.12% (2005)
+
+Anguilla
+  arable land: 0%
+  permanent crops: 0%
+  other: 100% (mostly rock with sparse scrub oak, few trees, some
+  commercial salt ponds) (2005)
+
+Antarctica
+  arable land: 0%
+  permanent crops: 0%
+  other: 100% (ice 98%, barren rock 2%) (2005)
+
+Antigua and Barbuda
+  arable land: 18.18%
+  permanent crops: 4.55%
+  other: 77.27% (2005)
+
+Argentina
+  arable land: 10.03%
+  permanent crops: 0.36%
+  other: 89.61% (2005)
+
+Armenia
+  arable land: 16.78%
+  permanent crops: 2.01%
+  other: 81.21% (2005)
+
+Aruba
+  arable land: 10.53%
+  permanent crops: 0%
+  other: 89.47% (2005)
+
+Ashmore and Cartier Islands
+  arable land: 0%
+  permanent crops: 0%
+  other: 100% (all grass and sand) (2005)
+
+Australia
+  arable land: 6.15% (includes about 27 million hectares of
+  cultivated grassland)
+  permanent crops: 0.04%
+  other: 93.81% (2005)
+
+Austria
+  arable land: 16.59%
+  permanent crops: 0.85%
+  other: 82.56% (2005)
+
+Azerbaijan
+  arable land: 20.62%
+  permanent crops: 2.61%
+  other: 76.77% (2005)
+
+Bahamas, The
+  arable land: 0.58%
+  permanent crops: 0.29%
+  other: 99.13% (2005)
+
+Bahrain
+  arable land: 2.82%
+  permanent crops: 5.63%
+  other: 91.55% (2005)
+
+Bangladesh
+  arable land: 55.39%
+  permanent crops: 3.08%
+  other: 41.53% (2005)
+
+Barbados
+  arable land: 37.21%
+  permanent crops: 2.33%
+  other: 60.46% (2005)
+
+Belarus
+  arable land: 26.77%
+  permanent crops: 0.6%
+  other: 72.63% (2005)
+
+Belgium
+  arable land: 27.42%
+  permanent crops: 0.69%
+  other: 71.89%
+  note: includes Luxembourg (2005)
+
+Belize
+  arable land: 3.05%
+  permanent crops: 1.39%
+  other: 95.56% (2005)
+
+Benin
+  arable land: 23.53%
+  permanent crops: 2.37%
+  other: 74.1% (2005)
+
+Bermuda
+  arable land: 20%
+  permanent crops: 0%
+  other: 80% (55% developed, 45% rural/open space) (2005)
+
+Bhutan
+  arable land: 2.3%
+  permanent crops: 0.43%
+  other: 97.27% (2005)
+
+Bolivia
+  arable land: 2.78%
+  permanent crops: 0.19%
+  other: 97.03% (2005)
+
+Bosnia and Herzegovina
+  arable land: 19.61%
+  permanent crops: 1.89%
+  other: 78.5% (2005)
+
+Botswana
+  arable land: 0.65%
+  permanent crops: 0.01%
+  other: 99.34% (2005)
+
+Bouvet Island
+  arable land: 0%
+  permanent crops: 0%
+  other: 100% (93% ice) (2005)
+
+Brazil
+  arable land: 6.93%
+  permanent crops: 0.89%
+  other: 92.18% (2005)
+
+British Indian Ocean Territory
+  arable land: 0%
+  permanent crops: 0%
+  other: 100% (2005)
+
+British Virgin Islands
+  arable land: 20%
+  permanent crops: 6.67%
+  other: 73.33% (2005)
+
+Brunei
+  arable land: 2.08%
+  permanent crops: 0.87%
+  other: 97.05% (2005)
+
+Bulgaria
+  arable land: 29.94%
+  permanent crops: 1.9%
+  other: 68.16% (2005)
+
+Burkina Faso
+  arable land: 17.66%
+  permanent crops: 0.22%
+  other: 82.12% (2005)
+
+Burma
+  arable land: 14.92%
+  permanent crops: 1.31%
+  other: 83.77% (2005)
+
+Burundi
+  arable land: 35.57%
+  permanent crops: 13.12%
+  other: 51.31% (2005)
+
+Cambodia
+  arable land: 20.44%
+  permanent crops: 0.59%
+  other: 78.97% (2005)
+
+Cameroon
+  arable land: 12.54%
+  permanent crops: 2.52%
+  other: 84.94% (2005)
+
+Canada
+  arable land: 4.57%
+  permanent crops: 0.65%
+  other: 94.78% (2005)
+
+Cape Verde
+  arable land: 11.41%
+  permanent crops: 0.74%
+  other: 87.85% (2005)
+
+Cayman Islands
+  arable land: 3.85%
+  permanent crops: 0%
+  other: 96.15% (2005)
+
+Central African Republic
+  arable land: 3.1%
+  permanent crops: 0.15%
+  other: 96.75% (2005)
+
+Chad
+  arable land: 2.8%
+  permanent crops: 0.02%
+  other: 97.18% (2005)
+
+Chile
+  arable land: 2.62%
+  permanent crops: 0.43%
+  other: 96.95% (2005)
+
+China
+  arable land: 14.86%
+  permanent crops: 1.27%
+  other: 83.87% (2005)
+
+Christmas Island
+  arable land: 0%
+  permanent crops: 0%
+  other: 100% (mainly tropical rainforest; 63% of the island is a
+  national park) (2005)
+
+Clipperton Island
+  arable land: 0%
+  permanent crops: 0%
+  other: 100% (all coral) (2005)
+
+Cocos (Keeling) Islands
+  arable land: 0%
+  permanent crops: 0%
+  other: 100% (2005)
+
+Colombia
+  arable land: 2.01%
+  permanent crops: 1.37%
+  other: 96.62% (2005)
+
+Comoros
+  arable land: 35.87%
+  permanent crops: 23.32%
+  other: 40.81% (2005)
+
+Congo, Democratic Republic of the
+  arable land: 2.86%
+  permanent crops: 0.47%
+  other: 96.67% (2005)
+
+Congo, Republic of the
+  arable land: 1.45%
+  permanent crops: 0.15%
+  other: 98.4% (2005)
+
+Cook Islands
+  arable land: 16.67%
+  permanent crops: 8.33%
+  other: 75% (2005)
+
+Coral Sea Islands
+  arable land: 0%
+  permanent crops: 0%
+  other: 100% (mostly grass or scrub cover) (2005)
+
+Costa Rica
+  arable land: 4.4%
+  permanent crops: 5.87%
+  other: 89.73% (2005)
+
+Cote d'Ivoire
+  arable land: 10.23%
+  permanent crops: 11.16%
+  other: 78.61% (2005)
+
+Croatia
+  arable land: 25.82%
+  permanent crops: 2.19%
+  other: 71.99% (2005)
+
+Cuba
+  arable land: 27.63%
+  permanent crops: 6.54%
+  other: 65.83% (2005)
+
+Curacao
+  arable land: 10%
+  permanent crops: 0%
+  other: 90%
+
+Cyprus
+  arable land: 10.81%
+  permanent crops: 4.32%
+  other: 84.87% (2005)
+
+Czech Republic
+  arable land: 38.82%
+  permanent crops: 3%
+  other: 58.18% (2005)
+
+Denmark
+  arable land: 52.59%
+  permanent crops: 0.19%
+  other: 47.22% (2005)
+
+Djibouti
+  arable land: 0.04%
+  permanent crops: 0%
+  other: 99.96% (2005)
+
+Dominica
+  arable land: 6.67%
+  permanent crops: 21.33%
+  other: 72% (2005)
+
+Dominican Republic
+  arable land: 22.49%
+  permanent crops: 10.26%
+  other: 67.25% (2005)
+
+Ecuador
+  arable land: 5.71%
+  permanent crops: 4.81%
+  other: 89.48% (2005)
+
+Egypt
+  arable land: 2.92%
+  permanent crops: 0.5%
+  other: 96.58% (2005)
+
+El Salvador
+  arable land: 31.37%
+  permanent crops: 11.88%
+  other: 56.75% (2005)
+
+Equatorial Guinea
+  arable land: 4.63%
+  permanent crops: 3.57%
+  other: 91.8% (2005)
+
+Eritrea
+  arable land: 4.78%
+  permanent crops: 0.03%
+  other: 95.19% (2005)
+
+Estonia
+  arable land: 12.05%
+  permanent crops: 0.35%
+  other: 87.6% (2005)
+
+Ethiopia
+  arable land: 10.01%
+  permanent crops: 0.65%
+  other: 89.34% (2005)
+
+European Union
+  arable land: NA
+  permanent crops: NA
+  other: NA
+
+Falkland Islands (Islas Malvinas)
+  arable land: 0%
+  permanent crops: 0%
+  other: 100% (99% permanent pastures, 1% other) (2005)
+
+Faroe Islands
+  arable land: 2.14%
+  permanent crops: 0%
+  other: 97.86% (2005)
+
+Fiji
+  arable land: 10.95%
+  permanent crops: 4.65%
+  other: 84.4% (2005)
+
+Finland
+  arable land: 6.54%
+  permanent crops: 0.02%
+  other: 93.44% (2005)
+
+France
+  arable land: 33.46%
+  permanent crops: 2.03%
+  other: 64.51%
+  note: French Guiana - arable land 0.13%, permanent crops 0.04%,
+  other 99.83% (90% forest, 10% other); Guadeloupe - arable land
+  11.70%, permanent crops 2.92%, other 85.38%; Martinique - arable
+  land 9.09%, permanent crops 10.0%, other 80.91%; Reunion - arable
+  land 13.94%, permanent crops 1.59%, other 84.47% (2005)
+
+French Polynesia
+  arable land: 0.75%
+  permanent crops: 5.5%
+  other: 93.75% (2005)
+
+French Southern and Antarctic Lands
+  Ile Amsterdam (Ile Amsterdam et
+  Ile Saint-Paul) - 100% trees, grasses, ferns, and moss; Ile
+  Saint-Paul (Ile Amsterdam et Ile Saint-Paul) - 100% grass, ferns,
+  and moss; Iles Crozet - 100% tossock grass, heath, and fern; Iles
+  Kerguelen - 100% tossock grass and Kerguelen cabbage; Bassas da
+  India (Iles Eparses) - 100% rock, coral reef, and sand; Europa
+  Island (Iles Eparses) - 100% mangrove swamp and dry woodlands;
+  Glorioso Islands (Iles Eparses) - 100% lush vegetation and coconut
+  palms; Juan de Nova Island (Iles Eparses) - 90% forest, 10% other;
+  Tromelin Island (Iles Eparses) - 100% grasses and scattered brush
+  (2005)
+
+Gabon
+  arable land: 1.21%
+  permanent crops: 0.64%
+  other: 98.15% (2005)
+
+Gambia, The
+  arable land: 27.88%
+  permanent crops: 0.44%
+  other: 71.68% (2005)
+
+Gaza Strip
+  arable land: 29%
+  permanent crops: 21%
+  other: 50% (2002)
+
+Georgia
+  arable land: 11.51%
+  permanent crops: 3.79%
+  other: 84.7% (2005)
+
+Germany
+  arable land: 33.13%
+  permanent crops: 0.6%
+  other: 66.27% (2005)
+
+Ghana
+  arable land: 17.54%
+  permanent crops: 9.22%
+  other: 73.24% (2005)
+
+Gibraltar
+  arable land: 0%
+  permanent crops: 0%
+  other: 100% (2005)
+
+Greece
+  arable land: 20.45%
+  permanent crops: 8.59%
+  other: 70.96% (2005)
+
+Greenland
+  arable land: 0%
+  permanent crops: 0%
+  other: 100% (2005)
+
+Grenada
+  arable land: 5.88%
+  permanent crops: 29.41%
+  other: 64.71% (2005)
+
+Guam
+  arable land: 3.64%
+  permanent crops: 18.18%
+  other: 78.18% (2005)
+
+Guatemala
+  arable land: 13.22%
+  permanent crops: 5.6%
+  other: 81.18% (2005)
+
+Guernsey
+  arable land: NA
+  permanent crops: NA
+  other: NA
+
+Guinea
+  arable land: 4.47%
+  permanent crops: 2.64%
+  other: 92.89% (2005)
+
+Guinea-Bissau
+  arable land: 8.31%
+  permanent crops: 6.92%
+  other: 84.77% (2005)
+
+Guyana
+  arable land: 2.23%
+  permanent crops: 0.14%
+  other: 97.63% (2005)
+
+Haiti
+  arable land: 28.11%
+  permanent crops: 11.53%
+  other: 60.36% (2005)
+
+Heard Island and McDonald Islands
+  arable land: 0%
+  permanent crops: 0%
+  other: 100% (2005)
+
+Holy See (Vatican City)
+  arable land: 0%
+  permanent crops: 0%
+  other: 100% (urban area) (2005)
+
+Honduras
+  arable land: 9.53%
+  permanent crops: 3.21%
+  other: 87.26% (2005)
+
+Hong Kong
+  arable land: 5.05%
+  permanent crops: 1.01%
+  other: 93.94% (2001)
+
+Hungary
+  arable land: 49.58%
+  permanent crops: 2.06%
+  other: 48.36% (2005)
+
+Iceland
+  arable land: 0.07%
+  permanent crops: 0%
+  other: 99.93% (2005)
+
+India
+  arable land: 48.83%
+  permanent crops: 2.8%
+  other: 48.37% (2005)
+
+Indonesia
+  arable land: 11.03%
+  permanent crops: 7.04%
+  other: 81.93% (2005)
+
+Iran
+  arable land: 9.78%
+  permanent crops: 1.29%
+  other: 88.93% (2005)
+
+Iraq
+  arable land: 13.12%
+  permanent crops: 0.61%
+  other: 86.27% (2005)
+
+Ireland
+  arable land: 16.82%
+  permanent crops: 0.03%
+  other: 83.15% (2005)
+
+Isle of Man
+  arable land: 9%
+  permanent crops: 0%
+  other: 91% (permanent pastures, forests, mountain, and heathland)
+  (2002)
+
+Israel
+  arable land: 15.45%
+  permanent crops: 3.88%
+  other: 80.67% (2005)
+
+Italy
+  arable land: 26.41%
+  permanent crops: 9.09%
+  other: 64.5% (2005)
+
+Jamaica
+  arable land: 15.83%
+  permanent crops: 10.01%
+  other: 74.16% (2005)
+
+Jan Mayen
+  arable land: 0%
+  permanent crops: 0%
+  other: 100% (2005)
+
+Japan
+  arable land: 11.64%
+  permanent crops: 0.9%
+  other: 87.46% (2005)
+
+Jersey
+  arable land: 0%
+  permanent crops: 0%
+  other: 100% (2005)
+
+Jordan
+  arable land: 3.32%
+  permanent crops: 1.18%
+  other: 95.5% (2005)
+
+Kazakhstan
+  arable land: 8.28%
+  permanent crops: 0.05%
+  other: 91.67% (2005)
+
+Kenya
+  arable land: 8.01%
+  permanent crops: 0.97%
+  other: 91.02% (2005)
+
+Kiribati
+  arable land: 2.74%
+  permanent crops: 47.95%
+  other: 49.31% (2005)
+
+Korea, North
+  arable land: 22.4%
+  permanent crops: 1.66%
+  other: 75.94% (2005)
+
+Korea, South
+  arable land: 16.58%
+  permanent crops: 2.01%
+  other: 81.41% (2005)
+
+Kuwait
+  arable land: 0.84%
+  permanent crops: 0.17%
+  other: 98.99% (2005)
+
+Kyrgyzstan
+  arable land: 6.55%
+  permanent crops: 0.28%
+  other: 93.17%
+  note: Kyrgyzstan has the world's largest natural-growth walnut
+  forest (2005)
+
+Laos
+  arable land: 4.01%
+  permanent crops: 0.34%
+  other: 95.65% (2005)
+
+Latvia
+  arable land: 28.19%
+  permanent crops: 0.45%
+  other: 71.36% (2005)
+
+Lebanon
+  arable land: 16.35%
+  permanent crops: 13.75%
+  other: 69.9% (2005)
+
+Lesotho
+  arable land: 10.87%
+  permanent crops: 0.13%
+  other: 89% (2005)
+
+Liberia
+  arable land: 3.43%
+  permanent crops: 1.98%
+  other: 94.59% (2005)
+
+Libya
+  arable land: 1.03%
+  permanent crops: 0.19%
+  other: 98.78% (2005)
+
+Liechtenstein
+  arable land: 25%
+  permanent crops: 0%
+  other: 75% (2005)
+
+Lithuania
+  arable land: 44.81%
+  permanent crops: 0.9%
+  other: 54.29% (2005)
+
+Luxembourg
+  arable land: 27.42%
+  permanent crops: 0.69%
+  other: 71.89% (includes Belgium) (2005)
+
+Macau
+  arable land: 0%
+  permanent crops: 0%
+  other: 100% (2005)
+
+Macedonia
+  arable land: 22.01%
+  permanent crops: 1.79%
+  other: 76.2% (2005)
+
+Madagascar
+  arable land: 5.03%
+  permanent crops: 1.02%
+  other: 93.95% (2005)
+
+Malawi
+  arable land: 20.68%
+  permanent crops: 1.18%
+  other: 78.14% (2005)
+
+Malaysia
+  arable land: 5.46%
+  permanent crops: 17.54%
+  other: 77% (2005)
+
+Maldives
+  arable land: 13.33%
+  permanent crops: 30%
+  other: 56.67% (2005)
+
+Mali
+  arable land: 3.76%
+  permanent crops: 0.03%
+  other: 96.21% (2005)
+
+Malta
+  arable land: 31.25%
+  permanent crops: 3.13%
+  other: 65.62% (2005)
+
+Marshall Islands
+  arable land: 11.11%
+  permanent crops: 44.44%
+  other: 44.45% (2005)
+
+Mauritania
+  arable land: 0.2%
+  permanent crops: 0.01%
+  other: 99.79% (2005)
+
+Mauritius
+  arable land: 49.02%
+  permanent crops: 2.94%
+  other: 48.04% (2005)
+
+Mayotte
+  arable land: NA%
+  permanent crops: NA%
+  other: NA%
+
+Mexico
+  arable land: 12.66%
+  permanent crops: 1.28%
+  other: 86.06% (2005)
+
+Micronesia, Federated States of
+  arable land: 5.71%
+  permanent crops: 45.71%
+  other: 48.58% (2005)
+
+Moldova
+  arable land: 54.52%
+  permanent crops: 8.81%
+  other: 36.67% (2005)
+
+Monaco
+  arable land: 0%
+  permanent crops: 0%
+  other: 100% (urban area) (2005)
+
+Mongolia
+  arable land: 0.76%
+  permanent crops: 0%
+  other: 99.24% (2005)
+
+Montenegro
+  arable land: 13.7%
+  permanent crops: 1%
+  other: 85.3%
+
+Montserrat
+  arable land: 20%
+  permanent crops: 0%
+  other: 80% (2005)
+
+Morocco
+  arable land: 19%
+  permanent crops: 2%
+  other: 79% (2005)
+
+Mozambique
+  arable land: 5.43%
+  permanent crops: 0.29%
+  other: 94.28% (2005)
+
+Namibia
+  arable land: 0.99%
+  permanent crops: 0.01%
+  other: 99% (2005)
+
+Nauru
+  arable land: 0%
+  permanent crops: 0%
+  other: 100% (2005)
+
+Navassa Island
+  arable land: 0%
+  permanent crops: 0%
+  other: 100% (2005)
+
+Nepal
+  arable land: 16.07%
+  permanent crops: 0.85%
+  other: 83.08% (2005)
+
+Netherlands
+  arable land: 21.96%
+  permanent crops: 0.77%
+  other: 77.27% (2005)
+
+New Caledonia
+  arable land: 0.32%
+  permanent crops: 0.22%
+  other: 99.46% (2005)
+
+New Zealand
+  arable land: 5.54%
+  permanent crops: 6.92%
+  other: 87.54% (2005)
+
+Nicaragua
+  arable land: 14.81%
+  permanent crops: 1.82%
+  other: 83.37% (2005)
+
+Niger
+  arable land: 11.43%
+  permanent crops: 0.01%
+  other: 88.56% (2005)
+
+Nigeria
+  arable land: 33.02%
+  permanent crops: 3.14%
+  other: 63.84% (2005)
+
+Niue
+  arable land: 11.54%
+  permanent crops: 15.38%
+  other: 73.08% (2005)
+
+Norfolk Island
+  arable land: 0%
+  permanent crops: 0%
+  other: 100% (2005)
+
+Northern Mariana Islands
+  arable land: 13.04%
+  permanent crops: 4.35%
+  other: 82.61% (2005)
+
+Norway
+  arable land: 2.7%
+  permanent crops: 0%
+  other: 97.3% (2005)
+
+Oman
+  arable land: 0.12%
+  permanent crops: 0.14%
+  other: 99.74% (2005)
+
+Pakistan
+  arable land: 24.44%
+  permanent crops: 0.84%
+  other: 74.72% (2005)
+
+Palau
+  arable land: 8.7%
+  permanent crops: 4.35%
+  other: 86.95% (2005)
+
+Panama
+  arable land: 7.26%
+  permanent crops: 1.95%
+  other: 90.79% (2005)
+
+Papua New Guinea
+  arable land: 0.49%
+  permanent crops: 1.4%
+  other: 98.11% (2005)
+
+Paracel Islands
+  arable land: 0%
+  permanent crops: 0%
+  other: 100% (2005)
+
+Paraguay
+  arable land: 7.47%
+  permanent crops: 0.24%
+  other: 92.29% (2005)
+
+Peru
+  arable land: 2.88%
+  permanent crops: 0.47%
+  other: 96.65% (2005)
+
+Philippines
+  arable land: 19%
+  permanent crops: 16.67%
+  other: 64.33% (2005)
+
+Pitcairn Islands
+  arable land: NA
+  permanent crops: NA
+  other: NA
+
+Poland
+  arable land: 40.25%
+  permanent crops: 1%
+  other: 58.75% (2005)
+
+Portugal
+  arable land: 17.29%
+  permanent crops: 7.84%
+  other: 74.87% (2005)
+
+Puerto Rico
+  arable land: 3.69%
+  permanent crops: 5.59%
+  other: 90.72% (2005)
+
+Qatar
+  arable land: 1.64%
+  permanent crops: 0.27%
+  other: 98.09% (2005)
+
+Romania
+  arable land: 39.49%
+  permanent crops: 1.92%
+  other: 58.59% (2005)
+
+Russia
+  arable land: 7.17%
+  permanent crops: 0.11%
+  other: 92.72% (2005)
+
+Rwanda
+  arable land: 45.56%
+  permanent crops: 10.25%
+  other: 44.19% (2005)
+
+Saint Helena, Ascension, and Tristan da Cunha
+  arable land: 12.9%
+  permanent crops: 0%
+  other: 87.1% (2005)
+
+Saint Kitts and Nevis
+  arable land: 19.44%
+  permanent crops: 2.78%
+  other: 77.78% (2005)
+
+Saint Lucia
+  arable land: 6.45%
+  permanent crops: 22.58%
+  other: 70.97% (2005)
+
+Saint Pierre and Miquelon
+  arable land: 12.5%
+  permanent crops: 0%
+  other: 87.5% (2005)
+
+Saint Vincent and the Grenadines
+  arable land: 17.95%
+  permanent crops: 17.95%
+  other: 64.1% (2005)
+
+Samoa
+  arable land: 21.13%
+  permanent crops: 24.3%
+  other: 54.57% (2005)
+
+San Marino
+  arable land: 16.67%
+  permanent crops: 0%
+  other: 83.33% (2005)
+
+Sao Tome and Principe
+  arable land: 8.33%
+  permanent crops: 48.96%
+  other: 42.71% (2005)
+
+Saudi Arabia
+  arable land: 1.67%
+  permanent crops: 0.09%
+  other: 98.24% (2005)
+
+Senegal
+  arable land: 12.51%
+  permanent crops: 0.24%
+  other: 87.25% (2005)
+
+Serbia
+  arable land: NA
+  permanent crops: NA
+  other: NA
+
+Seychelles
+  arable land: 2.17%
+  permanent crops: 13.04%
+  other: 84.79% (2005)
+
+Sierra Leone
+  arable land: 7.95%
+  permanent crops: 1.05%
+  other: 91% (2005)
+
+Singapore
+  arable land: 1.47%
+  permanent crops: 1.47%
+  other: 97.06% (2005)
+
+Sint Maarten
+  arable land: 10%
+  permanent crops: 0%
+  other: 90%
+
+Slovakia
+  arable land: 29.23%
+  permanent crops: 2.67%
+  other: 68.1% (2005)
+
+Slovenia
+  arable land: 8.53%
+  permanent crops: 1.43%
+  other: 90.04% (2005)
+
+Solomon Islands
+  arable land: 0.62%
+  permanent crops: 2.04%
+  other: 97.34% (2005)
+
+Somalia
+  arable land: 1.64%
+  permanent crops: 0.04%
+  other: 98.32% (2005)
+
+South Africa
+  arable land: 12.1%
+  permanent crops: 0.79%
+  other: 87.11% (2005)
+
+South Georgia and South Sandwich Islands
+  arable land: 0%
+  permanent crops: 0%
+  other: 100% (largely covered by permanent ice and snow with some
+  sparse vegetation consisting of grass, moss, and lichen) (2005)
+
+Spain
+  arable land: 27.18%
+  permanent crops: 9.85%
+  other: 62.97% (2005)
+
+Spratly Islands
+  arable land: 0%
+  permanent crops: 0%
+  other: 100% (2005)
+
+Sri Lanka
+  arable land: 13.96%
+  permanent crops: 15.24%
+  other: 70.8% (2005)
+
+Sudan
+  arable land: 6.78%
+  permanent crops: 0.17%
+  other: 93.05% (2005)
+
+Suriname
+  arable land: 0.36%
+  permanent crops: 0.06%
+  other: 99.58% (2005)
+
+Svalbard
+  arable land: 0%
+  permanent crops: 0%
+  other: 100% (no trees; the only bushes are crowberry and cloudberry)
+  (2005)
+
+Swaziland
+  arable land: 10.25%
+  permanent crops: 0.81%
+  other: 88.94% (2005)
+
+Sweden
+  arable land: 5.93%
+  permanent crops: 0.01%
+  other: 94.06% (2005)
+
+Switzerland
+  arable land: 9.91%
+  permanent crops: 0.58%
+  other: 89.51% (2005)
+
+Syria
+  arable land: 24.8%
+  permanent crops: 4.47%
+  other: 70.73% (2005)
+
+Taiwan
+  arable land: 24%
+  permanent crops: 1%
+  other: 75% (2001)
+
+Tajikistan
+  arable land: 6.52%
+  permanent crops: 0.89%
+  other: 92.59% (2005)
+
+Tanzania
+  arable land: 4.23%
+  permanent crops: 1.16%
+  other: 94.61% (2005)
+
+Thailand
+  arable land: 27.54%
+  permanent crops: 6.93%
+  other: 65.53% (2005)
+
+Timor-Leste
+  arable land: 8.2%
+  permanent crops: 4.57%
+  other: 87.23% (2005)
+
+Togo
+  arable land: 44.2%
+  permanent crops: 2.11%
+  other: 53.69% (2005)
+
+Tokelau
+  arable land: 0% (soil is thin and infertile)
+  permanent crops: 0%
+  other: 100% (2005)
+
+Tonga
+  arable land: 20%
+  permanent crops: 14.67%
+  other: 65.33% (2005)
+
+Trinidad and Tobago
+  arable land: 14.62%
+  permanent crops: 9.16%
+  other: 76.22% (2005)
+
+Tunisia
+  arable land: 17.05%
+  permanent crops: 13.08%
+  other: 69.87% (2005)
+
+Turkey
+  arable land: 29.81%
+  permanent crops: 3.39%
+  other: 66.8% (2005)
+
+Turkmenistan
+  arable land: 4.51%
+  permanent crops: 0.14%
+  other: 95.35% (2005)
+
+Turks and Caicos Islands
+  arable land: 2.33%
+  permanent crops: 0%
+  other: 97.67% (2005)
+
+Tuvalu
+  arable land: 0%
+  permanent crops: 66.67%
+  other: 33.33% (2005)
+
+Uganda
+  arable land: 21.57%
+  permanent crops: 8.92%
+  other: 69.51% (2005)
+
+Ukraine
+  arable land: 53.8%
+  permanent crops: 1.5%
+  other: 44.7% (2005)
+
+United Arab Emirates
+  arable land: 0.77%
+  permanent crops: 2.27%
+  other: 96.96% (2005)
+
+United Kingdom
+  arable land: 23.23%
+  permanent crops: 0.2%
+  other: 76.57% (2005)
+
+United States
+  arable land: 18.01%
+  permanent crops: 0.21%
+  other: 81.78% (2005)
+
+United States Pacific Island Wildlife Refuges
+  arable land: 0%
+  permanent crops: 0%
+  other: 100% (2008)
+
+Uruguay
+  arable land: 7.77%
+  permanent crops: 0.24%
+  other: 91.99% (2005)
+
+Uzbekistan
+  arable land: 10.51%
+  permanent crops: 0.76%
+  other: 88.73% (2005)
+
+Vanuatu
+  arable land: 1.64%
+  permanent crops: 6.97%
+  other: 91.39% (2005)
+
+Venezuela
+  arable land: 2.85%
+  permanent crops: 0.88%
+  other: 96.27% (2005)
+
+Vietnam
+  arable land: 20.14%
+  permanent crops: 6.93%
+  other: 72.93% (2005)
+
+Virgin Islands
+  arable land: 5.71%
+  permanent crops: 2.86%
+  other: 91.43% (2005)
+
+Wake Island
+  arable land: 0%
+  permanent crops: 0%
+  other: 100% (2005)
+
+Wallis and Futuna
+  arable land: 7.14%
+  permanent crops: 35.71%
+  other: 57.15% (2005)
+
+West Bank
+  arable land: 16.9%
+  permanent crops: 18.97%
+  other: 64.13% (2001)
+
+Western Sahara
+  arable land: 0.02%
+  permanent crops: 0%
+  other: 99.98% (2005)
+
+World
+  arable land: 10.57%
+  permanent crops: 1.04%
+  other: 88.39% (2005)
+
+Yemen
+  arable land: 2.91%
+  permanent crops: 0.25%
+  other: 96.84% (2005)
+
+Zambia
+  arable land: 6.99%
+  permanent crops: 0.04%
+  other: 92.97% (2005)
+
+Zimbabwe
+  arable land: 8.24%
+  permanent crops: 0.33%
+  other: 91.43% (2005)
+
+
+
+
+======================================================================
+
+
+
+
+

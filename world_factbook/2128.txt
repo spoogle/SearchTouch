@@ -1,0 +1,1033 @@
+2128
+
+
+Field Listing :: Government type
+
+  This entry gives the basic form of government. Definitions of the
+  major governmental terms are as follows. (Note that for some
+  countries more than one definition applies.):
+  Absolute monarchy - a form of government where the monarch rules
+  unhindered, i.e., without any laws, constitution, or legally
+  organized opposition.
+  Anarchy - a condition of lawlessness or political disorder brought
+  about by the absence of governmental authority.
+  Authoritarian - a form of government in which state authority is
+  imposed onto many aspects of citizens' lives.
+  Commonwealth - a nation, state, or other political entity founded on
+  law and united by a compact of the people for the common good.
+  Communist - a system of government in which the state plans and
+  controls the economy and a single - often authoritarian - party
+  holds power; state controls are imposed with the elimination of
+  private ownership of property or capital while claiming to make
+  progress toward a higher social order in which all goods are equally
+  shared by the people (i.e., a classless society).
+  Confederacy (Confederation) - a union by compact or treaty between
+  states, provinces, or territories, that creates a central government
+  with limited powers; the constituent entities retain supreme
+  authority over all matters except those delegated to the central
+  government.
+  Constitutional - a government by or operating under an authoritative
+  document (constitution) that sets forth the system of fundamental
+  laws and principles that determines the nature, functions, and
+  limits of that government.
+  Constitutional democracy - a form of government in which the
+  sovereign power of the people is spelled out in a governing
+  constitution.
+  Constitutional monarchy - a system of government in which a monarch
+  is guided by a constitution whereby his/her rights, duties, and
+  responsibilities are spelled out in written law or by custom.
+  Democracy - a form of government in which the supreme power is
+  retained by the people, but which is usually exercised indirectly
+  through a system of representation and delegated authority
+  periodically renewed.
+  Democratic republic - a state in which the supreme power rests in
+  the body of citizens entitled to vote for officers and
+  representatives responsible to them.
+  Dictatorship - a form of government in which a ruler or small clique
+  wield absolute power (not restricted by a constitution or laws).
+  Ecclesiastical - a government administrated by a church.
+  Emirate - similar to a monarchy or sultanate, but a government in
+  which the supreme power is in the hands of an emir (the ruler of a
+  Muslim state); the emir may be an absolute overlord or a sovereign
+  with constitutionally limited authority.
+  Federal (Federation) - a form of government in which sovereign power
+  is formally divided - usually by means of a constitution - between a
+  central authority and a number of constituent regions (states,
+  colonies, or provinces) so that each region retains some management
+  of its internal affairs; differs from a confederacy in that the
+  central government exerts influence directly upon both individuals
+  as well as upon the regional units.
+  Federal republic - a state in which the powers of the central
+  government are restricted and in which the component parts (states,
+  colonies, or provinces) retain a degree of self-government; ultimate
+  sovereign power rests with the voters who chose their governmental
+  representatives.
+  Islamic republic - a particular form of government adopted by some
+  Muslim states; although such a state is, in theory, a theocracy, it
+  remains a republic, but its laws are required to be compatible with
+  the laws of Islam.
+  Maoism - the theory and practice of Marxism-Leninism developed in
+  China by Mao Zedong (Mao Tse-tung), which states that a continuous
+  revolution is necessary if the leaders of a communist state are to
+  keep in touch with the people.
+  Marxism - the political, economic, and social principles espoused by
+  19th century economist Karl Marx; he viewed the struggle of workers
+  as a progression of historical forces that would proceed from a
+  class struggle of the proletariat (workers) exploited by capitalists
+  (business owners), to a socialist "dictatorship of the proletariat,"
+  to, finally, a classless society - Communism.
+  Marxism-Leninism - an expanded form of communism developed by Lenin
+  from doctrines of Karl Marx; Lenin saw imperialism as the final
+  stage of capitalism and shifted the focus of workers' struggle from
+  developed to underdeveloped countries.
+  Monarchy - a government in which the supreme power is lodged in the
+  hands of a monarch who reigns over a state or territory, usually for
+  life and by hereditary right; the monarch may be either a sole
+  absolute ruler or a sovereign - such as a king, queen, or prince -
+  with constitutionally limited authority.
+  Oligarchy - a government in which control is exercised by a small
+  group of individuals whose authority generally is based on wealth or
+  power.
+  Parliamentary democracy - a political system in which the
+  legislature (parliament) selects the government - a prime minister,
+  premier, or chancellor along with the cabinet ministers - according
+  to party strength as expressed in elections; by this system, the
+  government acquires a dual responsibility: to the people as well as
+  to the parliament.
+  Parliamentary government (Cabinet-Parliamentary government) - a
+  government in which members of an executive branch (the cabinet and
+  its leader - a prime minister, premier, or chancellor) are nominated
+  to their positions by a legislature or parliament, and are directly
+  responsible to it; this type of government can be dissolved at will
+  by the parliament (legislature) by means of a no confidence vote or
+  the leader of the cabinet may dissolve the parliament if it can no
+  longer function.
+  Parliamentary monarchy - a state headed by a monarch who is not
+  actively involved in policy formation or implementation (i.e., the
+  exercise of sovereign powers by a monarch in a ceremonial capacity);
+  true governmental leadership is carried out by a cabinet and its
+  head - a prime minister, premier, or chancellor - who are drawn from
+  a legislature (parliament).
+  Presidential - a system of government where the executive branch
+  exists separately from a legislature (to which it is generally not
+  accountable).
+  Republic - a representative democracy in which the people's elected
+  deputies (representatives), not the people themselves, vote on
+  legislation.
+  Socialism - a government in which the means of planning, producing,
+  and distributing goods is controlled by a central government that
+  theoretically seeks a more just and equitable distribution of
+  property and labor; in actuality, most socialist governments have
+  ended up being no more than dictatorships over workers by a ruling
+  elite.
+  Sultanate - similar to a monarchy, but a government in which the
+  supreme power is in the hands of a sultan (the head of a Muslim
+  state); the sultan may be an absolute ruler or a sovereign with
+  constitutionally limited authority.
+  Theocracy - a form of government in which a Deity is recognized as
+  the supreme civil ruler, but the Deity's laws are interpreted by
+  ecclesiastical authorities (bishops, mullahs, etc.); a government
+  subject to religious authority.
+  Totalitarian - a government that seeks to subordinate the individual
+  to the state by controlling not only all political and economic
+  matters, but also the attitudes, values, and beliefs of its
+  population.
+  Country
+
+
+  Government type
+
+Afghanistan
+  Islamic republic
+
+Albania
+  republic
+
+Algeria
+  republic
+
+American Samoa
+  NA
+
+Andorra
+  parliamentary democracy (since March 1993) that retains as
+  its chiefs of state a coprincipality; the two princes are the
+  president of France and bishop of Seu d'Urgell, Spain, who are
+  represented in Andorra by the coprinces' representatives
+
+Angola
+  republic; multiparty presidential regime
+
+Anguilla
+  NA
+
+Antarctica
+  Antarctic Treaty Summary - the Antarctic region is
+  governed by a system known as the Antarctic Treaty System; the
+  system includes: 1. the Antarctic Treaty, signed on 1 December 1959
+  and entered into force on 23 June 1961, which establishes the legal
+  framework for the management of Antarctica, 2. Recommendations and
+  Measures adopted at meetings of Antarctic Treaty countries, 3. The
+  Convention for the Conservation of Antarctic Seals (1972), 4. The
+  Convention for the Conservation of Antarctic Marine Living Resources
+  (1980), and 5. The Protocol on Environmental Protection to the
+  Antarctic Treaty (1991); the 33rd Antarctic Treaty Consultative
+  Meeting was held in Punta del Este, Uruguay in May 2010; at these
+  periodic meetings, decisions are made by consensus (not by vote) of
+  all consultative member nations; by April 2010, there were 48 treaty
+  member nations: 28 consultative and 20 non-consultative;
+  consultative (decision-making) members include the seven nations
+  that claim portions of Antarctica as national territory (some claims
+  overlap) and 21 non-claimant nations; the US and Russia have
+  reserved the right to make claims; the US does not recognize the
+  claims of others; Antarctica is administered through meetings of the
+  consultative member nations; decisions from these meetings are
+  carried out by these member nations (with respect to their own
+  nationals and operations) in accordance with their own national
+  laws; the years in parentheses indicate when a consultative
+  member-nation acceded to the Treaty and when it was accepted as a
+  consultative member, while no date indicates the country was an
+  original 1959 treaty signatory; claimant nations are - Argentina,
+  Australia, Chile, France, NZ, Norway, and the UK. Nonclaimant
+  consultative nations are - Belgium, Brazil (1975/1983), Bulgaria
+  (1978/1998) China (1983/1985), Ecuador (1987/1990), Finland
+  (1984/1989), Germany (1979/1981), India (1983/1983), Italy
+  (1981/1987), Japan, South Korea (1986/1989), Netherlands
+  (1967/1990), Peru (1981/1989), Poland (1961/1977), Russia, South
+  Africa, Spain (1982/1988), Sweden (1984/1988), Ukraine (1992/2004),
+  Uruguay (1980/1985), and the US; non-consultative members, with year
+  of accession in parentheses, are - Austria (1987), Belarus (2006),
+  Canada (1988), Colombia (1989), Cuba (1984), Czech Republic
+  (1962/1993), Denmark (1965), Estonia (2001), Greece (1987),
+  Guatemala (1991), Hungary (1984), North Korea (1987), Monaco (2008),
+  Papua New Guinea (1981), Portugal (2010), Romania (1971), Slovakia
+  (1962/1993), Switzerland (1990), Turkey (1996), and Venezuela
+  (1999); note - Czechoslovakia acceded to the Treaty in 1962 and
+  separated into the Czech Republic and Slovakia in 1993;
+  claimant nations are - Argentina, Australia, Chile, France, NZ,
+  Norway, and the UK. Nonclaimant consultative nations are - Belgium,
+  Brazil (1975/1983), Bulgaria (1978/1998) China (1983/1985), Ecuador
+  (1987/1990), Finland (1984/1989), Germany (1979/1981), India
+  (1983/1983), Italy (1981/1987), Japan, South Korea (1986/1989),
+  Netherlands (1967/1990), Peru (1981/1989), Poland (1961/1977),
+  Russia, South Africa, Spain (1982/1988), Sweden (1984/1988), Ukraine
+  (1992/2004), Uruguay (1980/1985), and the US; non-consultative
+  members, with year of accession in parentheses, are - Austria
+  (1987), Belarus (2006), Canada (1988), Colombia (1989), Cuba (1984),
+  Czech Republic (1962/1993), Denmark (1965), Estonia (2001), Greece
+  (1987), Guatemala (1991), Hungary (1984), North Korea (1987), Monaco
+  (2008), Papua New Guinea (1981), Portugal (2010), Romania (1971),
+  Slovakia (1962/1993), Switzerland (1990), Turkey (1996), and
+  Venezuela (1999); note - Czechoslovakia acceded to the Treaty in
+  1962 and separated into the Czech Republic and Slovakia in 1993;
+  Article 1 - area to be used for peaceful purposes only; military
+  activity, such as weapons testing, is prohibited, but military
+  personnel and equipment may be used for scientific research or any
+  other peaceful purpose; Article 2 - freedom of scientific
+  investigation and cooperation shall continue; Article 3 - free
+  exchange of information and personnel, cooperation with the UN and
+  other international agencies; Article 4 - does not recognize,
+  dispute, or establish territorial claims and no new claims shall be
+  asserted while the treaty is in force; Article 5 - prohibits nuclear
+  explosions or disposal of radioactive wastes; Article 6 - includes
+  under the treaty all land and ice shelves south of 60 degrees 00
+  minutes south and reserves high seas rights; Article 7 -
+  treaty-state observers have free access, including aerial
+  observation, to any area and may inspect all stations,
+  installations, and equipment; advance notice of all expeditions and
+  of the introduction of military personnel must be given; Article 8 -
+  allows for jurisdiction over observers and scientists by their own
+  states; Article 9 - frequent consultative meetings take place among
+  member nations; Article 10 - treaty states will discourage
+  activities by any country in Antarctica that are contrary to the
+  treaty; Article 11 - disputes to be settled peacefully by the
+  parties concerned or, ultimately, by the ICJ; Articles 12, 13, 14 -
+  deal with upholding, interpreting, and amending the treaty among
+  involved nations; other agreements - some 200 recommendations
+  adopted at treaty consultative meetings and ratified by governments;
+  a mineral resources agreement was signed in 1988 but remains
+  unratified; the Protocol on Environmental Protection to the
+  Antarctic Treaty was signed 4 October 1991 and entered into force 14
+  January 1998; this agreement provides for the protection of the
+  Antarctic environment through six specific annexes: 1) environmental
+  impact assessment, 2) conservation of Antarctic fauna and flora, 3)
+  waste disposal and waste management, 4) prevention of marine
+  pollution, 5) area protection and management and 6) liability
+  arising from environmental emergencies; it prohibits all activities
+  relating to mineral resources except scientific research; a
+  permanent Antarctic Treaty Secretariat was established in 2004 in
+  Buenos Aires, Argentina
+
+Antigua and Barbuda
+  constitutional monarchy with a parliamentary
+  system of government and a Commonwealth realm
+
+Argentina
+  republic
+
+Armenia
+  republic
+
+Aruba
+  parliamentary democracy
+
+Australia
+  federal parliamentary democracy and a Commonwealth realm
+
+Austria
+  federal republic
+
+Azerbaijan
+  republic
+
+Bahamas, The
+  constitutional parliamentary democracy and a
+  Commonwealth realm
+
+Bahrain
+  constitutional monarchy
+
+Bangladesh
+  parliamentary democracy
+
+Barbados
+  parliamentary democracy and a Commonwealth realm
+
+Belarus
+  republic in name, although in fact a dictatorship
+
+Belgium
+  federal parliamentary democracy under a constitutional
+  monarchy
+
+Belize
+  parliamentary democracy and a Commonwealth realm
+
+Benin
+  republic
+
+Bermuda
+  parliamentary; self-governing territory
+
+Bhutan
+  constitutional monarchy
+
+Bolivia
+  republic; note - the new constitution defines Bolivia as a
+  "Social Unitarian State"
+
+Bosnia and Herzegovina
+  emerging federal democratic republic
+
+Botswana
+  parliamentary republic
+
+Brazil
+  federal republic
+
+British Virgin Islands
+  NA
+
+Brunei
+  constitutional sultanate (locally known as Malay Islamic
+  Monarchy)
+
+Bulgaria
+  parliamentary democracy
+
+Burkina Faso
+  parliamentary republic
+
+Burma
+  military regime
+
+Burundi
+  republic
+
+Cambodia
+  multiparty democracy under a constitutional monarchy
+
+Cameroon
+  republic; multiparty presidential regime
+
+Canada
+  a parliamentary democracy, a federation, and a constitutional
+  monarchy
+
+Cape Verde
+  republic
+
+Cayman Islands
+  parliamentary democracy
+
+Central African Republic
+  republic
+
+Chad
+  republic
+
+Chile
+  republic
+
+China
+  Communist state
+
+Christmas Island
+  NA
+
+Cocos (Keeling) Islands
+  NA
+
+Colombia
+  republic; executive branch dominates government structure
+
+Comoros
+  republic
+
+Congo, Democratic Republic of the
+  republic
+
+Congo, Republic of the
+  republic
+
+Cook Islands
+  self-governing parliamentary democracy
+
+Costa Rica
+  democratic republic
+
+Cote d'Ivoire
+  republic; multiparty presidential regime established
+  1960
+  note: the government is currently operating under a power-sharing
+  agreement mandated by international mediators
+
+Croatia
+  presidential/parliamentary democracy
+
+Cuba
+  Communist state
+
+Curacao
+  parliamentary
+
+Cyprus
+  republic
+  note: a separation of the two ethnic communities inhabiting the
+  island began following the outbreak of communal strife in 1963; this
+  separation was further solidified after the Turkish intervention in
+  July 1974 that followed a Greek military-junta-supported coup
+  attempt that gave the Turkish Cypriots de facto control in the
+  north; Greek Cypriots control the only internationally recognized
+  government; on 15 November 1983 Turkish Cypriot "President" Rauf
+  DENKTASH declared independence and the formation of a "Turkish
+  Republic of Northern Cyprus" ("TRNC"), which is recognized only by
+  Turkey
+
+Czech Republic
+  parliamentary democracy
+
+Denmark
+  constitutional monarchy
+
+Djibouti
+  republic
+
+Dominica
+  parliamentary democracy
+
+Dominican Republic
+  democratic republic
+
+Ecuador
+  republic
+
+Egypt
+  republic
+
+El Salvador
+  republic
+
+Equatorial Guinea
+  republic
+
+Eritrea
+  transitional government
+  note: following a successful referendum on independence for the
+  Autonomous Region of Eritrea on 23-25 April 1993, a National
+  Assembly, composed entirely of the People's Front for Democracy and
+  Justice or PFDJ, was established as a transitional legislature; a
+  Constitutional Commission was also established to draft a
+  constitution; ISAIAS Afworki was elected president by the
+  transitional legislature; the constitution, ratified in May 1997,
+  did not enter into effect, pending parliamentary and presidential
+  elections; parliamentary elections were scheduled in December 2001
+  but were postponed indefinitely; currently the sole legal party is
+  the People's Front for Democracy and Justice (PFDJ)
+
+Estonia
+  parliamentary republic
+
+Ethiopia
+  federal republic
+
+Falkland Islands (Islas Malvinas)
+  NA
+
+Faroe Islands
+  NA
+
+Fiji
+  republic
+
+Finland
+  republic
+
+France
+  republic
+
+French Polynesia
+  NA
+
+Gabon
+  republic; multiparty presidential regime
+
+Gambia, The
+  republic
+
+Georgia
+  republic
+
+Germany
+  federal republic
+
+Ghana
+  constitutional democracy
+
+Gibraltar
+  NA
+
+Greece
+  parliamentary republic
+
+Greenland
+  parliamentary democracy within a constitutional monarchy
+
+Grenada
+  parliamentary democracy and a Commonwealth realm
+
+Guam
+  NA
+
+Guatemala
+  constitutional democratic republic
+
+Guernsey
+  parliamentary democracy
+
+Guinea
+  republic
+
+Guinea-Bissau
+  republic
+
+Guyana
+  republic
+
+Haiti
+  republic
+
+Holy See (Vatican City)
+  ecclesiastical
+
+Honduras
+  democratic constitutional republic
+
+Hong Kong
+  limited democracy
+
+Hungary
+  parliamentary democracy
+
+Iceland
+  constitutional republic
+
+India
+  federal republic
+
+Indonesia
+  republic
+
+Iran
+  theocratic republic
+
+Iraq
+  parliamentary democracy
+
+Ireland
+  republic, parliamentary democracy
+
+Isle of Man
+  parliamentary democracy
+
+Israel
+  parliamentary democracy
+
+Italy
+  republic
+
+Jamaica
+  constitutional parliamentary democracy and a Commonwealth
+  realm
+
+Japan
+  a parliamentary government with a constitutional monarchy
+
+Jersey
+  parliamentary democracy
+
+Jordan
+  constitutional monarchy
+
+Kazakhstan
+  republic; authoritarian presidential rule, with little
+  power outside the executive branch
+
+Kenya
+  republic
+
+Kiribati
+  republic
+
+Korea, North
+  Communist state one-man dictatorship
+
+Korea, South
+  republic
+
+Kosovo
+  republic
+
+Kuwait
+  constitutional emirate
+
+Kyrgyzstan
+  republic
+
+Laos
+  Communist state
+
+Latvia
+  parliamentary democracy
+
+Lebanon
+  republic
+
+Lesotho
+  parliamentary constitutional monarchy
+
+Liberia
+  republic
+
+Libya
+  Jamahiriya (a state of the masses) in theory, governed by the
+  populace through local councils; in practice, an authoritarian state
+
+Liechtenstein
+  constitutional monarchy
+
+Lithuania
+  parliamentary democracy
+
+Luxembourg
+  constitutional monarchy
+
+Macau
+  limited democracy
+
+Macedonia
+  parliamentary democracy
+
+Madagascar
+  republic
+
+Malawi
+  multiparty democracy
+
+Malaysia
+  constitutional monarchy
+  note: nominally headed by paramount ruler (commonly referred to as
+  the King) and a bicameral Parliament consisting of a nonelected
+  upper house and an elected lower house; all Peninsular Malaysian
+  states have hereditary rulers (commonly referred to as sultans)
+  except Melaka and Pulau Pinang (Penang); those two states along with
+  Sabah and Sarawak in East Malaysia have governors appointed by
+  government; powers of state governments are limited by federal
+  constitution; under terms of federation, Sabah and Sarawak retain
+  certain constitutional prerogatives (e.g., right to maintain their
+  own immigration controls)
+
+Maldives
+  republic
+
+Mali
+  republic
+
+Malta
+  republic
+
+Marshall Islands
+  constitutional government in free association with
+  the US; the Compact of Free Association entered into force on 21
+  October 1986 and the Amended Compact entered into force in May 2004
+
+Mauritania
+  military junta
+
+Mauritius
+  parliamentary democracy
+
+Mayotte
+  NA
+
+Mexico
+  federal republic
+
+Micronesia, Federated States of
+  constitutional government in free
+  association with the US; the Compact of Free Association entered
+  into force on 3 November 1986 and the Amended Compact entered into
+  force in May 2004
+
+Moldova
+  republic
+
+Monaco
+  constitutional monarchy
+
+Mongolia
+  parliamentary
+
+Montenegro
+  republic
+
+Montserrat
+  NA
+
+Morocco
+  constitutional monarchy
+
+Mozambique
+  republic
+
+Namibia
+  republic
+
+Nauru
+  republic
+
+Nepal
+  federal democratic republic
+
+Netherlands
+  constitutional monarchy
+
+New Caledonia
+  NA
+
+New Zealand
+  parliamentary democracy and a Commonwealth realm
+
+Nicaragua
+  republic
+
+Niger
+  republic
+
+Nigeria
+  federal republic
+
+Niue
+  self-governing parliamentary democracy
+
+Norfolk Island
+  NA
+
+Northern Mariana Islands
+  commonwealth; self-governing with locally
+  elected governor, lieutenant governor, and legislature
+
+Norway
+  constitutional monarchy
+
+Oman
+  monarchy
+
+Pakistan
+  federal republic
+
+Palau
+  constitutional government in free association with the US; the
+  Compact of Free Association entered into force on 1 October 1994
+
+Panama
+  constitutional democracy
+
+Papua New Guinea
+  constitutional parliamentary democracy and a
+  Commonwealth realm
+
+Paraguay
+  constitutional republic
+
+Peru
+  constitutional republic
+
+Philippines
+  republic
+
+Pitcairn Islands
+  NA
+
+Poland
+  republic
+
+Portugal
+  republic; parliamentary democracy
+
+Puerto Rico
+  commonwealth
+
+Qatar
+  emirate
+
+Romania
+  republic
+
+Russia
+  federation
+
+Rwanda
+  republic; presidential, multiparty system
+
+Saint Helena, Ascension, and Tristan da Cunha
+  NA
+
+Saint Kitts and Nevis
+  parliamentary democracy and a Commonwealth
+  realm
+
+Saint Lucia
+  parliamentary democracy and a Commonwealth realm
+
+Saint Pierre and Miquelon
+  NA
+
+Saint Vincent and the Grenadines
+  parliamentary democracy and a
+  Commonwealth realm
+
+Samoa
+  parliamentary democracy
+
+San Marino
+  republic
+
+Sao Tome and Principe
+  republic
+
+Saudi Arabia
+  monarchy
+
+Senegal
+  republic
+
+Serbia
+  republic
+
+Seychelles
+  republic
+
+Sierra Leone
+  constitutional democracy
+
+Singapore
+  parliamentary republic
+
+Sint Maarten
+  parliamentary
+
+Slovakia
+  parliamentary democracy
+
+Slovenia
+  parliamentary republic
+
+Solomon Islands
+  parliamentary democracy and a Commonwealth realm
+
+Somalia
+  no permanent national government; transitional,
+  parliamentary federal government
+
+South Africa
+  republic
+
+Spain
+  parliamentary monarchy
+
+Sri Lanka
+  republic
+
+Sudan
+  Government of National Unity (GNU) - the National Congress
+  Party (NCP) and Sudan People's Liberation Movement (SPLM) formed a
+  power-sharing government under the 2005 Comprehensive Peace
+  Agreement (CPA); the NCP, which came to power by military coup in
+  1989, is the majority partner; the agreement stipulated national
+  elections in 2009, but these were subsequently rescheduled for April
+  2010
+
+Suriname
+  constitutional democracy
+
+Svalbard
+  NA
+
+Swaziland
+  monarchy
+
+Sweden
+  constitutional monarchy
+
+Switzerland
+  formally a confederation but similar in structure to a
+  federal republic
+
+Syria
+  republic under an authoritarian regime
+
+Taiwan
+  multiparty democracy
+
+Tajikistan
+  republic
+
+Tanzania
+  republic
+
+Thailand
+  constitutional monarchy
+
+Timor-Leste
+  republic
+
+Togo
+  republic under transition to multiparty democratic rule
+
+Tokelau
+  NA
+
+Tonga
+  constitutional monarchy
+
+Trinidad and Tobago
+  parliamentary democracy
+
+Tunisia
+  republic
+
+Turkey
+  republican parliamentary democracy
+
+Turkmenistan
+  defines itself as a secular democracy and a
+  presidential republic; in actuality displays authoritarian
+  presidential rule, with power concentrated within the presidential
+  administration
+
+Turks and Caicos Islands
+  NA
+
+Tuvalu
+  parliamentary democracy and a Commonwealth realm
+
+Uganda
+  republic
+
+Ukraine
+  republic
+
+United Arab Emirates
+  federation with specified powers delegated to
+  the UAE federal government and other powers reserved to member
+  emirates
+
+United Kingdom
+  constitutional monarchy and Commonwealth realm
+
+United States
+  Constitution-based federal republic; strong democratic
+  tradition
+
+Uruguay
+  constitutional republic
+
+Uzbekistan
+  republic; authoritarian presidential rule, with little
+  power outside the executive branch
+
+Vanuatu
+  parliamentary republic
+
+Venezuela
+  federal republic
+
+Vietnam
+  Communist state
+
+Virgin Islands
+  NA
+
+Wallis and Futuna
+  NA
+
+Western Sahara
+  legal status of territory and issue of sovereignty
+  unresolved; territory contested by Morocco and Polisario Front
+  (Popular Front for the Liberation of the Saguia el Hamra and Rio de
+  Oro), which in February 1976 formally proclaimed a
+  government-in-exile, the Sahrawi Arab Democratic Republic (SADR),
+  near Tindouf, Algeria, led by President Mohamed ABDELAZIZ; territory
+  partitioned between Morocco and Mauritania in April 1976 when Spain
+  withdrew, with Morocco acquiring northern two-thirds; Mauritania,
+  under pressure from Polisario guerrillas, abandoned all claims to
+  its portion in August 1979; Morocco moved to occupy that sector
+  shortly thereafter and has since asserted administrative control;
+  the Polisario's government-in-exile was seated as an Organization of
+  African Unity (OAU) member in 1984; Morocco between 1980 and 1987
+  built a fortified sand berm delineating the roughly 80 percent of
+  Western Sahara west of the barrier that currently is controlled by
+  Morocco; guerrilla activities continued sporadically until a
+  UN-monitored cease-fire was implemented on 6 September 1991
+  (Security Council Resolution 690) by the United Nations Mission for
+  the Referendum in Western Sahara (MINURSO)
+
+Yemen
+  republic
+
+Zambia
+  republic
+
+Zimbabwe
+  parliamentary democracy
+
+
+
+
+======================================================================
+
+
+
+
+

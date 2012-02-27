@@ -1,0 +1,669 @@
+2178
+
+
+Field Listing :: Oil - proved reserves
+
+  This entry is the stock of proved reserves of crude oil in barrels
+  (bbl). Proved reserves are those quantities of petroleum which, by
+  analysis of geological and engineering data, can be estimated with a
+  high degree of confidence to be commercially recoverable from a
+  given date forward, from known reservoirs and under current economic
+  conditions.
+  Country Comparison to the World
+  Country
+
+
+  Oil - proved reserves(bbl)
+
+Afghanistan
+  0 bbl (1 January 2010 est.)
+
+Albania
+  199.1 million bbl (1 January 2010 est.)
+
+Algeria
+  13.42 billion bbl (1 January 2010 est.)
+
+American Samoa
+  0 bbl (1 January 2010 est.)
+
+Angola
+  13.5 billion bbl (1 January 2010 est.)
+
+Antigua and Barbuda
+  0 bbl (1 January 2010 est.)
+
+Argentina
+  2.386 billion bbl (1 January 2010 est.)
+
+Armenia
+  0 bbl (1 January 2010 est.)
+
+Aruba
+  0 bbl (1 January 2010 est.)
+
+Australia
+  3.318 billion bbl (1 January 2010 est.)
+
+Austria
+  50 million bbl (1 January 2010 est.)
+
+Azerbaijan
+  7 billion bbl (1 January 2010 est.)
+
+Bahamas, The
+  0 bbl (1 January 2010 est.)
+
+Bahrain
+  124.6 million bbl (1 January 2010 est.)
+
+Bangladesh
+  28 million bbl (1 January 2010 est.)
+
+Barbados
+  1.79 million bbl (1 January 2010 est.)
+
+Belarus
+  198 million bbl (1 January 2010 est.)
+
+Belgium
+  0 bbl (1 January 2010 est.)
+
+Belize
+  6.7 million bbl (1 January 2010 est.)
+
+Benin
+  8 million bbl (1 January 2010 est.)
+
+Bermuda
+  0 bbl (1 January 2010 est.)
+
+Bhutan
+  0 bbl (1 January 2010 est.)
+
+Bolivia
+  465 million bbl (1 January 2010 est.)
+
+Bosnia and Herzegovina
+  0 bbl (1 January 2010 est.)
+
+Botswana
+  0 bbl (1 January 2010 est.)
+
+Brazil
+  13.2 billion bbl (1 January 2010 est.)
+
+British Virgin Islands
+  0 bbl (1 January 2010 est.)
+
+Brunei
+  1.1 billion bbl (1 January 2010 est.)
+
+Bulgaria
+  15 million bbl (1 January 2010 est.)
+
+Burkina Faso
+  0 bbl (1 January 2010 est.)
+
+Burma
+  50 million bbl (1 January 2010 est.)
+
+Burundi
+  0 bbl (1 January 2010 est.)
+
+Cambodia
+  0 bbl (1 January 2010 est.)
+
+Cameroon
+  200 million bbl (1 January 2010 est.)
+
+Canada
+  175.2 billion bbl
+  note: includes oil sands (1 January 2010 est.)
+
+Cape Verde
+  0 bbl (1 January 2010 est.)
+
+Cayman Islands
+  0 bbl (1 January 2010 est.)
+
+Central African Republic
+  0 bbl (1 January 2010 est.)
+
+Chad
+  1.5 billion bbl (1 January 2010 est.)
+
+Chile
+  150 million bbl (1 January 2010 est.)
+
+China
+  20.35 billion bbl (1 January 2010 est.)
+
+Colombia
+  2.1 billion bbl (1 January 2010 est.)
+
+Comoros
+  0 bbl (1 January 2010 est.)
+
+Congo, Democratic Republic of the
+  180 million bbl (1 January 2010
+  est.)
+
+Congo, Republic of the
+  1.6 billion bbl (1 January 2010 est.)
+
+Cook Islands
+  0 bbl (1 January 2010 est.)
+
+Costa Rica
+  0 bbl (1 January 2010 est.)
+
+Cote d'Ivoire
+  250 million bbl (1 January 2010 est.)
+
+Croatia
+  73.35 million bbl (1 January 2010 est.)
+
+Cuba
+  178.9 million bbl (1 January 2010 est.)
+
+Cyprus
+  0 bbl (1 January 2010 est.)
+
+Czech Republic
+  15 million bbl (1 January 2010 est.)
+
+Denmark
+  1.06 billion bbl (1 January 2010 est.)
+
+Djibouti
+  0 bbl (1 January 2010 est.)
+
+Dominica
+  0 bbl (1 January 2010 est.)
+
+Dominican Republic
+  0 bbl (1 January 2010 est.)
+
+Ecuador
+  6.542 billion bbl (1 January 2010 est.)
+
+Egypt
+  4.3 billion bbl (1 January 2010 est.)
+
+El Salvador
+  0 bbl (1 January 2010 est.)
+
+Equatorial Guinea
+  1.1 billion bbl (1 January 2010 est.)
+
+Eritrea
+  0 bbl (1 January 2010 est.)
+
+Estonia
+  0 bbl (1 January 2010 est.)
+
+Ethiopia
+  430,000 bbl (1 January 2010 est.)
+
+European Union
+  5.414 billion bbl (1 January 2010 est.)
+
+Falkland Islands (Islas Malvinas)
+  0 bbl (1 January 2010 est.)
+
+Faroe Islands
+  0 bbl (1 January 2010 est.)
+
+Fiji
+  0 bbl (1 January 2010 est.)
+
+Finland
+  NA bbl (1 January 2010 est.)
+
+France
+  101.2 million bbl (1 January 2010 est.)
+
+French Polynesia
+  0 bbl (1 January 2010 est.)
+
+Gabon
+  2 billion bbl (1 January 2010 est.)
+
+Gambia, The
+  0 bbl (1 January 2010 est.)
+
+Gaza Strip
+  NA bbl NA bbl
+
+Georgia
+  35 million bbl (1 January 2010 est.)
+
+Germany
+  276 million bbl (1 January 2010 est.)
+
+Ghana
+  15 million bbl (1 January 2010 est.)
+
+Gibraltar
+  0 bbl (1 January 2010 est.)
+
+Greece
+  10 million bbl (1 January 2010 est.)
+
+Greenland
+  NA bbl (1 January 2010 est.)
+
+Grenada
+  0 bbl (1 January 2010 est.)
+
+Guam
+  0 bbl (1 January 2010 est.)
+
+Guatemala
+  83.07 million bbl (1 January 2010 est.)
+
+Guinea
+  0 bbl (1 January 2010 est.)
+
+Guinea-Bissau
+  0 bbl (1 January 2010 est.)
+
+Guyana
+  0 bbl (1 January 2010 est.)
+
+Haiti
+  0 bbl (1 January 2010 est.)
+
+Honduras
+  0 bbl (1 January 2010 est.)
+
+Hong Kong
+  0 bbl (1 January 2010 est.)
+
+Hungary
+  26.57 million bbl (1 January 2010 est.)
+
+Iceland
+  0 bbl (1 January 2010 est.)
+
+India
+  5.8 billion bbl (1 January 2010 est.)
+
+Indonesia
+  4.05 billion bbl (1 January 2010 est.)
+
+Iran
+  137.6 billion bbl based on Iranian claims
+  note: Iran has about 10% of world reserves (1 January 2010 est.)
+
+Iraq
+  115 billion bbl (1 January 2010 est.)
+
+Ireland
+  0 bbl (1 January 2010 est.)
+
+Israel
+  1.94 million bbl (1 January 2010 est.)
+
+Italy
+  423.7 million bbl (1 January 2010 est.)
+
+Jamaica
+  0 bbl (1 January 2010 est.)
+
+Japan
+  44.12 million bbl (1 January 2010 est.)
+
+Jordan
+  1 million bbl (1 January 2010 est.)
+
+Kazakhstan
+  30 billion bbl (1 January 2010 est.)
+
+Kenya
+  0 bbl (1 January 2010 est.)
+
+Kiribati
+  0 bbl (1 January 2010 est.)
+
+Korea, North
+  0 bbl (1 January 2010 est.)
+
+Korea, South
+  0 bbl (1 January 2010 est.)
+
+Kosovo
+  NA bbl
+
+Kuwait
+  104 billion bbl (1 January 2010 est.)
+
+Kyrgyzstan
+  40 million bbl (1 January 2010 est.)
+
+Laos
+  NA bbl (1 January 2010 est.)
+
+Latvia
+  0 bbl (1 January 2010 est.)
+
+Lebanon
+  0 bbl (1 January 2010 est.)
+
+Lesotho
+  0 bbl (1 January 2010 est.)
+
+Liberia
+  0 bbl (1 January 2010 est.)
+
+Libya
+  47 billion bbl (1 January 2010 est.)
+
+Lithuania
+  12 million bbl (1 January 2010 est.)
+
+Luxembourg
+  0 bbl (1 January 2010 est.)
+
+Macau
+  0 bbl (1 January 2010 est.)
+
+Macedonia
+  0 bbl (1 January 2010 est.)
+
+Madagascar
+  0 bbl (1 January 2010 est.)
+
+Malawi
+  0 bbl (1 January 2010 est.)
+
+Malaysia
+  2.9 billion bbl (1 January 2010 est.)
+
+Maldives
+  0 bbl (1 January 2010 est.)
+
+Mali
+  0 bbl (1 January 2010 est.)
+
+Malta
+  0 bbl (1 January 2010 est.)
+
+Mauritania
+  100 million bbl (1 January 2010 est.)
+
+Mauritius
+  0 bbl (1 January 2010 est.)
+
+Mexico
+  12.42 billion bbl (1 January 2010 est.)
+
+Moldova
+  0 bbl (1 January 2010 est.)
+
+Mongolia
+  NA bbl (1 January 2010 est.)
+
+Montenegro
+  0 bbl (1 January 2010 est.)
+
+Montserrat
+  0 bbl (1 January 2010 est.)
+
+Morocco
+  100 million bbl (1 January 2010 est.)
+
+Mozambique
+  0 bbl (1 January 2010 est.)
+
+Namibia
+  0 bbl (1 January 2010 est.)
+
+Nauru
+  0 bbl (1 January 2010 est.)
+
+Nepal
+  0 bbl (1 January 2010 est.)
+
+Netherlands
+  100 million bbl (1 January 2010 est.)
+
+New Caledonia
+  0 bbl (1 January 2010 est.)
+
+New Zealand
+  60 million bbl (1 January 2010 est.)
+
+Nicaragua
+  0 bbl (1 January 2010 est.)
+
+Niger
+  0 bbl (1 January 2010 est.)
+
+Nigeria
+  37.5 billion bbl (1 January 2010 est.)
+
+Niue
+  0 bbl (1 January 2010 est.)
+
+Norway
+  6.68 billion bbl (1 January 2010 est.)
+
+Oman
+  5.5 billion bbl (1 January 2010 est.)
+
+Pakistan
+  436.2 million bbl (1 January 2010 est.)
+
+Panama
+  0 bbl (1 January 2010 est.)
+
+Papua New Guinea
+  170 million bbl (1 January 2010 est.)
+
+Paraguay
+  0 bbl (1 January 2010 est.)
+
+Peru
+  470.8 million bbl (1 January 2010 est.)
+
+Philippines
+  138.5 million bbl (1 January 2010 est.)
+
+Poland
+  96.38 million bbl (1 January 2010 est.)
+
+Portugal
+  0 bbl (1 January 2010 est.)
+
+Puerto Rico
+  0 bbl (1 January 2010 est.)
+
+Qatar
+  25.41 billion bbl (1 January 2010 est.)
+
+Romania
+  600 million bbl (1 January 2010 est.)
+
+Russia
+  74.2 billion bbl (1 January 2009 est.)
+
+Rwanda
+  0 bbl (1 January 2010 est.)
+
+Saint Helena, Ascension, and Tristan da Cunha
+  0 bbl (1 January 2010
+  est.)
+
+Saint Kitts and Nevis
+  0 bbl (1 January 2010 est.)
+
+Saint Lucia
+  0 bbl (1 January 2010 est.)
+
+Saint Pierre and Miquelon
+  0 bbl (1 January 2010 est.)
+
+Saint Vincent and the Grenadines
+  0 bbl (1 January 2010 est.)
+
+Samoa
+  0 bbl (1 January 2010 est.)
+
+Sao Tome and Principe
+  0 bbl (1 January 2010 est.)
+
+Saudi Arabia
+  264.6 billion bbl (1 January 2010 est.)
+
+Senegal
+  0 bbl (1 January 2010 est.)
+
+Serbia
+  77.5 million bbl (1 January 2010 est.)
+
+Seychelles
+  0 bbl (1 January 2010 est.)
+
+Sierra Leone
+  0 bbl (1 January 2010 est.)
+
+Singapore
+  0 bbl (1 January 2010 est.)
+
+Slovakia
+  9 million bbl (1 January 2010 est.)
+
+Slovenia
+  0 bbl (1 January 2010 est.)
+
+Solomon Islands
+  0 bbl (1 January 2010 est.)
+
+Somalia
+  0 bbl (1 January 2010 est.)
+
+South Africa
+  15 million bbl (1 January 2010 est.)
+
+Spain
+  150 million bbl (1 January 2010 est.)
+
+Sri Lanka
+  0 bbl (1 January 2010 est.)
+
+Sudan
+  6.8 billion bbl (1 January 2010 est.)
+
+Suriname
+  79.6 million bbl (1 January 2010 est.)
+
+Swaziland
+  0 bbl (1 January 2010 est.)
+
+Sweden
+  0 bbl (1 January 2010 est.)
+
+Switzerland
+  0 bbl (1 January 2010 est.)
+
+Syria
+  2.5 billion bbl (1 January 2010 est.)
+
+Taiwan
+  2.8 million bbl (1 January 2010 est.)
+
+Tajikistan
+  12 million bbl (1 January 2010 est.)
+
+Tanzania
+  0 bbl (1 January 2010 est.)
+
+Thailand
+  430 million bbl (1 January 2010 est.)
+
+Timor-Leste
+  553.8 million bbl (1 January 2008)
+
+Togo
+  0 bbl (1 January 2010 est.)
+
+Tonga
+  0 bbl (1 January 2010 est.)
+
+Trinidad and Tobago
+  728.3 million bbl (1 January 2010 est.)
+
+Tunisia
+  425 million bbl (1 January 2010 est.)
+
+Turkey
+  262.2 million bbl (1 January 2010 est.)
+
+Turkmenistan
+  600 million bbl (1 January 2010 est.)
+
+Turks and Caicos Islands
+  0 bbl (1 January 2010 est.)
+
+Uganda
+  0 bbl (1 January 2010 est.)
+
+Ukraine
+  395 million bbl (1 January 2010 est.)
+
+United Arab Emirates
+  97.8 billion bbl (1 January 2010 est.)
+
+United Kingdom
+  3.084 billion bbl (1 January 2010 est.)
+
+United States
+  19.12 billion bbl (1 January 2010 est.)
+
+Uruguay
+  0 bbl (1 January 2010 est.)
+
+Uzbekistan
+  594 million bbl (1 January 2010 est.)
+
+Vanuatu
+  0 bbl (1 January 2010 est.)
+
+Venezuela
+  97.77 billion bbl (1 January 2010 est.)
+
+Vietnam
+  4.7 billion bbl (1 January 2010 est.)
+
+Virgin Islands
+  0 bbl (1 January 2010 est.)
+
+West Bank
+  NA bbl (1 January 2009 est.)
+
+Western Sahara
+  0 bbl (1 January 2010 est.)
+
+World
+  1.378 trillion bbl (1 January 2010 est.)
+
+Yemen
+  3.16 billion bbl (1 January 2010 est.)
+
+Zambia
+  0 bbl (1 January 2010 est.)
+
+Zimbabwe
+  0 bbl (1 January 2010 est.)
+
+
+
+
+======================================================================
+
+
+
+
+

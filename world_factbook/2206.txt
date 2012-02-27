@@ -1,0 +1,688 @@
+2206
+
+
+Field Listing :: Education expenditures
+
+  This entry provides the public expenditure on education as a percent
+  of GDP.
+  Country Comparison to the World
+  Country
+
+
+  Education expenditures(% of GDP)
+
+Afghanistan
+  NA
+
+Albania
+  2.9% of GDP (2002)
+
+Algeria
+  4.3% of GDP (2008)
+
+American Samoa
+  NA
+
+Andorra
+  3.2% of GDP (2008)
+
+Angola
+  2.6% of GDP (2006)
+
+Anguilla
+  3.5% of GDP (2008)
+
+Antigua and Barbuda
+  3.9% of GDP (2002)
+
+Argentina
+  4.9% of GDP (2007)
+
+Armenia
+  3% of GDP (2007)
+
+Aruba
+  4.9% of GDP (2007)
+
+Australia
+  4.7% of GDP (2007)
+
+Austria
+  5.4% of GDP (2007)
+
+Azerbaijan
+  1.9% of GDP (2008)
+
+Bahamas, The
+  3.6% of GDP (2000)
+
+Bahrain
+  2.9% of GDP (2008)
+
+Bangladesh
+  2.4% of GDP (2008)
+
+Barbados
+  6.7% of GDP (2008)
+
+Belarus
+  5.2% of GDP (2007)
+
+Belgium
+  6.1% of GDP (2007)
+
+Belize
+  5.1% of GDP (2007)
+
+Benin
+  3.6% of GDP (2007)
+
+Bermuda
+  1.2% of GDP (2006)
+
+Bhutan
+  5.1% of GDP (2008)
+
+Bolivia
+  6.3% of GDP (2006)
+
+Bosnia and Herzegovina
+  NA
+
+Botswana
+  8.1% of GDP (2007)
+
+Brazil
+  5.2% of GDP (2007)
+
+British Virgin Islands
+  3.2% of GDP (2007)
+
+Brunei
+  3.7% of GDP (2000)
+
+Bulgaria
+  4.1% of GDP (2007)
+
+Burkina Faso
+  4.6% of GDP (2007)
+
+Burma
+  1.2% of GDP (2001)
+
+Burundi
+  7.2% of GDP (2008)
+
+Cambodia
+  1.6% of GDP (2007)
+
+Cameroon
+  2.9% of GDP (2008)
+
+Canada
+  4.9% of GDP (2007)
+
+Cape Verde
+  5.7% of GDP (2008)
+
+Cayman Islands
+  2.6% of GDP (2006)
+
+Central African Republic
+  1.3% of GDP (2007)
+
+Chad
+  1.9% of GDP (2005)
+
+Chile
+  3.4% of GDP (2007)
+
+China
+  1.9% of GDP (1999)
+
+Colombia
+  3.9% of GDP (2008)
+
+Comoros
+  7.6% of GDP (2008)
+
+Congo, Democratic Republic of the
+  NA
+
+Congo, Republic of the
+  1.9% of GDP (2005)
+
+Cook Islands
+  0.2% of GDP (2001)
+
+Costa Rica
+  5% of GDP (2008)
+
+Cote d'Ivoire
+  4.6% of GDP (2008)
+
+Croatia
+  3.9% of GDP (2004)
+
+Cuba
+  13.6% of GDP (2008)
+
+Cyprus
+  7.1% of GDP (2007)
+
+Czech Republic
+  4.6% of GDP (2006)
+
+Denmark
+  7.9% of GDP (2006)
+
+Djibouti
+  8.7% of GDP (2007)
+
+Dominica
+  4.8% of GDP (2008)
+
+Dominican Republic
+  2.2% of GDP (2007)
+
+Ecuador
+  1% of GDP (2001)
+
+Egypt
+  3.8% of GDP (2008)
+
+El Salvador
+  3.6% of GDP (2008)
+
+Equatorial Guinea
+  0.6% of GDP (2003)
+
+Eritrea
+  2% of GDP (2006)
+
+Estonia
+  5% of GDP (2007)
+
+Ethiopia
+  5.5% of GDP (2007)
+
+Fiji
+  6.2% of GDP (2004)
+
+Finland
+  5.4% of GDP (2007)
+
+France
+  5.6% of GDP (2006)
+
+French Polynesia
+  NA
+
+Gabon
+  3.8% of GDP (2000)
+
+Gambia, The
+  2% of GDP (2004)
+
+Gaza Strip
+  NA
+
+Georgia
+  2.9% of GDP (2008)
+
+Germany
+  4.4% of GDP (2006)
+
+Ghana
+  5.4% of GDP (2005)
+
+Gibraltar
+  NA
+
+Greece
+  4% of GDP (2005)
+
+Greenland
+  NA
+
+Grenada
+  5.2% of GDP (2003)
+
+Guam
+  NA
+
+Guatemala
+  3.2% of GDP (2008)
+
+Guernsey
+  NA
+
+Guinea
+  1.7% of GDP (2008)
+
+Guinea-Bissau
+  5.2% of GDP (1999)
+
+Guyana
+  6.1% of GDP (2007)
+
+Haiti
+  1.4% of GDP (1991)
+
+Honduras
+  3.8% of GDP (1991)
+
+Hong Kong
+  3.3% of GDP (2008)
+
+Hungary
+  5.4% of GDP (2006)
+
+Iceland
+  7.5% of GDP (2007)
+
+India
+  3.2% of GDP (2006)
+
+Indonesia
+  3.5% of GDP (2007)
+
+Iran
+  4.8% of GDP (2008)
+
+Iraq
+  NA
+
+Ireland
+  4.9% of GDP (2007)
+
+Isle of Man
+  NA
+
+Israel
+  6.4% of GDP (2007)
+
+Italy
+  4.3% of GDP (2007)
+
+Jamaica
+  6.2% of GDP (2008)
+
+Japan
+  3.7% of GDP (2007)
+
+Jersey
+  NA
+
+Jordan
+  4.9% of GDP (1999)
+
+Kazakhstan
+  2.8% of GDP (2007)
+
+Kenya
+  7% of GDP (2006)
+
+Kiribati
+  17.8% of GDP (2002)
+
+Korea, North
+  NA
+
+Korea, South
+  4.2% of GDP (2007)
+
+Kuwait
+  3.8% of GDP (2006)
+
+Kyrgyzstan
+  6.6% of GDP (2007)
+
+Laos
+  2.3% of GDP (2008)
+
+Latvia
+  5% of GDP (2007)
+
+Lebanon
+  2% of GDP (2008)
+
+Lesotho
+  12.4% of GDP (2008)
+
+Liberia
+  2.7% of GDP (2008)
+
+Libya
+  2.7% of GDP (1999)
+
+Liechtenstein
+  NA
+
+Lithuania
+  4.7% of GDP (2007)
+
+Luxembourg
+  3.7% of GDP (2001)
+
+Macau
+  2.2% of GDP (2008)
+
+Macedonia
+  3.5% of GDP (2002)
+
+Madagascar
+  2.9% of GDP (2008)
+
+Malawi
+  4.2% of GDP (2003)
+
+Malaysia
+  4.5% of GDP (2007)
+
+Maldives
+  8.1% of GDP (2008)
+
+Mali
+  3.8% of GDP (2008)
+
+Malta
+  4.8% of GDP (2004)
+
+Marshall Islands
+  12.3% of GDP (2004)
+
+Mauritania
+  4.4% of GDP (2008)
+
+Mauritius
+  3.4% of GDP (2009)
+
+Mayotte
+  NA
+
+Mexico
+  4.8% of GDP (2007)
+
+Micronesia, Federated States of
+  7.3% of GDP (2000)
+
+Moldova
+  8.2% of GDP (2008)
+
+Monaco
+  4.4% of GDP (2004)
+
+Mongolia
+  5.1% of GDP (2007)
+
+Montenegro
+  NA
+
+Montserrat
+  3.3% of GDP (2004)
+
+Morocco
+  5.7% of GDP (2008)
+
+Mozambique
+  5% of GDP (2006)
+
+Namibia
+  6.9% of GDP (2008)
+
+Nauru
+  NA
+
+Nepal
+  3.8% of GDP (2008)
+
+Netherlands
+  5.5% of GDP (2006)
+
+New Zealand
+  6.2% of GDP (2007)
+
+Nicaragua
+  3.1% of GDP (2003)
+
+Niger
+  3.7% of GDP (2008)
+
+Nigeria
+  0.9% of GDP (1991)
+
+Niue
+  NA
+
+Norfolk Island
+  NA
+
+Northern Mariana Islands
+  NA
+
+Norway
+  6.7% of GDP (2007)
+
+Oman
+  4% of GDP (2006)
+
+Pakistan
+  2.9% of GDP (2008)
+
+Palau
+  10.3% of GDP (2002)
+
+Panama
+  3.8% of GDP (2008)
+
+Papua New Guinea
+  NA
+
+Paraguay
+  4% of GDP (2008)
+
+Peru
+  2.7% of GDP (2008)
+
+Philippines
+  2.6% of GDP (2007)
+
+Poland
+  4.9% of GDP (2007)
+
+Portugal
+  4.4% of GDP (2008)
+
+Puerto Rico
+  NA
+
+Qatar
+  3.3% of GDP (2005)
+
+Romania
+  4.4% of GDP (2007)
+
+Russia
+  3.9% of GDP (2006)
+
+Rwanda
+  4.1% of GDP (2008)
+
+Saint Helena, Ascension, and Tristan da Cunha
+  NA
+
+Saint Kitts and Nevis
+  9.9% of GDP (2005)
+
+Saint Lucia
+  6.3% of GDP (2008)
+
+Saint Pierre and Miquelon
+  NA
+
+Saint Vincent and the Grenadines
+  7% of GDP (2007)
+
+Samoa
+  5.4% of GDP (2008)
+
+San Marino
+  NA
+
+Sao Tome and Principe
+  NA
+
+Saudi Arabia
+  5.7% of GDP (2008)
+
+Senegal
+  5.1% of GDP (2008)
+
+Serbia
+  4.5% of GDP (2007)
+
+Seychelles
+  5% of GDP (2006)
+
+Sierra Leone
+  3.8% of GDP (2005)
+
+Singapore
+  3.2% of GDP (2009)
+
+Slovakia
+  3.6% of GDP (2007)
+
+Slovenia
+  5.2% of GDP (2007)
+
+Solomon Islands
+  2.2% of GDP (1999)
+
+Somalia
+  NA
+
+South Africa
+  5.4% of GDP (2009)
+
+Spain
+  4.4% of GDP (2007)
+
+Sri Lanka
+  NA
+
+Sudan
+  6% of GDP (1991)
+
+Suriname
+  NA
+
+Swaziland
+  7.9% of GDP (2008)
+
+Sweden
+  6.7% of GDP (2007)
+
+Switzerland
+  5.3% of GDP (2007)
+
+Syria
+  4.9% of GDP (2007)
+
+Taiwan
+  NA
+
+Tajikistan
+  3.5% of GDP (2008)
+
+Tanzania
+  6.8% of GDP (2008)
+
+Thailand
+  4.9% of GDP (2008)
+
+Timor-Leste
+  7.1% of GDP (2008)
+
+Togo
+  3.7% of GDP (2007)
+
+Tokelau
+  NA
+
+Tonga
+  4.7% of GDP (2004)
+
+Trinidad and Tobago
+  4.2% of GDP (2002)
+
+Tunisia
+  7.2% of GDP (2007)
+
+Turkey
+  2.9% of GDP (2006)
+
+Turkmenistan
+  3.9% of GDP (1991)
+
+Turks and Caicos Islands
+  NA
+
+Tuvalu
+  NA
+
+Uganda
+  3.3% of GDP (2009)
+
+Ukraine
+  5.3% of GDP (2007)
+
+United Arab Emirates
+  0.9% of GDP (2008)
+
+United Kingdom
+  5.6% of GDP (2007)
+
+United States
+  5.5% of GDP (2007)
+
+Uruguay
+  2.9% of GDP (2006)
+
+Uzbekistan
+  9.4% of GDP (1991)
+
+Vanuatu
+  6.9% of GDP (2008)
+
+Venezuela
+  3.7% of GDP (2007)
+
+Vietnam
+  5.3% of GDP (2008)
+
+Virgin Islands
+  NA
+
+West Bank
+  NA
+
+Yemen
+  5.2% of GDP (2008)
+
+Zambia
+  1.4% of GDP (2008)
+
+Zimbabwe
+  4.6% of GDP (2000)
+
+
+
+
+======================================================================
+
+
+
+
+

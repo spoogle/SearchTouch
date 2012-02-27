@@ -1,0 +1,731 @@
+2155
+
+
+Field Listing :: HIV/AIDS - adult prevalence rate
+
+  This entry gives an estimate of the percentage of adults (aged
+  15-49) living with HIV/AIDS. The adult prevalence rate is calculated
+  by dividing the estimated number of adults living with HIV/AIDS at
+  yearend by the total adult population at yearend.
+  Country Comparison to the World
+  Country
+
+
+  HIV/AIDS - adult prevalence rate(%)
+
+Afghanistan
+  0.01% (2001 est.)
+
+Albania
+  NA
+
+Algeria
+  0.1%; note - no country specific models provided (2007 est.)
+
+American Samoa
+  NA
+
+Andorra
+  NA
+
+Angola
+  2.1% (2007 est.)
+
+Anguilla
+  NA
+
+Antigua and Barbuda
+  NA
+
+Argentina
+  0.5% (2007 est.)
+
+Armenia
+  0.1% (2007 est.)
+
+Aruba
+  NA
+
+Australia
+  0.2% (2007 est.)
+
+Austria
+  0.2% (2007 est.)
+
+Azerbaijan
+  less than 0.2% (2007 est.)
+
+Bahamas, The
+  3% (2007 est.)
+
+Bahrain
+  0.2% (2001 est.)
+
+Bangladesh
+  less than 0.1% (2001 est.)
+
+Barbados
+  1.2% (2007 est.)
+
+Belarus
+  0.2% (2007 est.)
+
+Belgium
+  0.2% (2007 est.)
+
+Belize
+  2.1% (2007 est.)
+
+Benin
+  1.2% (2007 est.)
+
+Bermuda
+  0.3% (2005)
+
+Bhutan
+  less than 0.1% (2007 est.)
+
+Bolivia
+  0.2% (2007 est.)
+
+Bosnia and Herzegovina
+  less than 0.1% (2007 est.)
+
+Botswana
+  23.9% (2007 est.)
+
+Brazil
+  0.6% (2007 est.)
+
+British Virgin Islands
+  NA
+
+Brunei
+  less than 0.1% (2003 est.)
+
+Bulgaria
+  less than 0.1% (2001 est.)
+
+Burkina Faso
+  1.6% (2007 est.)
+
+Burma
+  0.7% (2007 est.)
+
+Burundi
+  2% (2007 est.)
+
+Cambodia
+  0.8% (2007 est.)
+
+Cameroon
+  5.1% (2007 est.)
+
+Canada
+  0.4% (2007 est.)
+
+Cape Verde
+  0.04% (2001 est.)
+
+Cayman Islands
+  NA
+
+Central African Republic
+  6.3% (2007 est.)
+
+Chad
+  3.5% (2007 est.)
+
+Chile
+  0.3% (2007 est.)
+
+China
+  0.1% (2007 est.)
+
+Christmas Island
+  NA
+
+Cocos (Keeling) Islands
+  NA
+
+Colombia
+  0.6% (2007 est.)
+
+Comoros
+  less than 0.1% (2007 est.)
+
+Congo, Democratic Republic of the
+  4.2% (2003 est.)
+
+Congo, Republic of the
+  3.5% (2007 est.)
+
+Cook Islands
+  NA
+
+Costa Rica
+  0.4% (2007 est.)
+
+Cote d'Ivoire
+  3.9% (2007 est.)
+
+Croatia
+  less than 0.1% (2007 est.)
+
+Cuba
+  less than 0.1% (2007 est.)
+
+Curacao
+  NA
+
+Cyprus
+  0.1% (2003 est.)
+
+Czech Republic
+  less than 0.1% (2001 est.)
+
+Denmark
+  0.2% (2007 est.)
+
+Djibouti
+  3.1% (2007 est.)
+
+Dominica
+  NA
+
+Dominican Republic
+  1.1% (2007 est.)
+
+Ecuador
+  0.3% (2007 est.)
+
+Egypt
+  less than 0.1% (2001 est.)
+
+El Salvador
+  0.8% (2007 est.)
+
+Equatorial Guinea
+  3.4% (2007 est.)
+
+Eritrea
+  1.3% (2007 est.)
+
+Estonia
+  1.3% (2007 est.)
+
+Ethiopia
+  2.1% (2007 est.)
+
+European Union
+  note - see individual country entries of member states
+
+Falkland Islands (Islas Malvinas)
+  NA
+
+Faroe Islands
+  NA
+
+Fiji
+  0.1% (2007 est.)
+
+Finland
+  less than 0.1% (2007 est.)
+
+France
+  0.4% (2007 est.)
+
+French Polynesia
+  NA
+
+Gabon
+  5.9% (2007 est.)
+
+Gambia, The
+  0.9% (2007 est.)
+
+Gaza Strip
+  NA
+
+Georgia
+  less than 0.1% (2007 est.)
+
+Germany
+  0.1% (2007 est.)
+
+Ghana
+  1.9% (2007 est.)
+
+Gibraltar
+  NA
+
+Greece
+  0.2% (2007 est.)
+
+Greenland
+  NA
+
+Grenada
+  NA
+
+Guam
+  NA
+
+Guatemala
+  0.8% (2007 est.)
+
+Guernsey
+  NA
+
+Guinea
+  1.6% (2007 est.)
+
+Guinea-Bissau
+  1.8% (2007 est.)
+
+Guyana
+  2.5% (2007 est.)
+
+Haiti
+  2.2% (2007 est.)
+
+Holy See (Vatican City)
+  NA
+
+Honduras
+  0.7% (2007 est.)
+
+Hong Kong
+  0.1% (2003 est.)
+
+Hungary
+  0.1% (2007 est.)
+
+Iceland
+  0.2% (2007 est.)
+
+India
+  0.3% (2007 est.)
+
+Indonesia
+  0.2% (2007 est.)
+
+Iran
+  0.2% (2007 est.)
+
+Iraq
+  less than 0.1% (2001 est.)
+
+Ireland
+  0.2% (2007 est.)
+
+Isle of Man
+  NA
+
+Israel
+  0.1% (2007 est.)
+
+Italy
+  0.4% (2007 est.)
+
+Jamaica
+  1.6% (2007 est.)
+
+Japan
+  less than 0.1% (2003 est.)
+
+Jersey
+  NA
+
+Jordan
+  less than 0.1% (2001 est.)
+
+Kazakhstan
+  0.1% (2007 est.)
+
+Kenya
+  6.7% (2003 est.)
+
+Kiribati
+  NA
+
+Korea, North
+  NA
+
+Korea, South
+  less than 0.1% (2007 est.)
+
+Kuwait
+  0.1% (2001 est.)
+
+Kyrgyzstan
+  less than 0.1% (2007 est.)
+
+Laos
+  0.2% (2007 est.)
+
+Latvia
+  0.8% (2007 est.)
+
+Lebanon
+  0.1% (2007 est.)
+
+Lesotho
+  23.2% (2007 est.)
+
+Liberia
+  1.7% (2007 est.)
+
+Libya
+  0.3% (2001 est.)
+
+Liechtenstein
+  NA
+
+Lithuania
+  0.1% (2007 est.)
+
+Luxembourg
+  0.2% (2007 est.)
+
+Macau
+  NA
+
+Macedonia
+  less than 0.1% (2007 est.)
+
+Madagascar
+  0.1% (2007 est.)
+
+Malawi
+  11.9% (2007 est.)
+
+Malaysia
+  0.5% (2007 est.)
+
+Maldives
+  0.1% (2001 est.)
+
+Mali
+  1.5% (2007 est.)
+
+Malta
+  0.1% (2007 est.)
+
+Marshall Islands
+  NA
+
+Mauritania
+  0.8% (2007 est.)
+
+Mauritius
+  1.7% (2007 est.)
+
+Mayotte
+  NA
+
+Mexico
+  0.3% (2007 est.)
+
+Micronesia, Federated States of
+  NA
+
+Moldova
+  0.4% (2007 est.)
+
+Monaco
+  NA
+
+Mongolia
+  less than 0.1% (2007 est.)
+
+Montserrat
+  NA
+
+Morocco
+  0.1% (2007 est.)
+
+Mozambique
+  12.5% (2007 est.)
+
+Namibia
+  15.3% (2007 est.)
+
+Nauru
+  NA
+
+Nepal
+  0.5% (2007 est.)
+
+Netherlands
+  0.2% (2007 est.)
+
+New Caledonia
+  NA
+
+New Zealand
+  0.1% (2007 est.)
+
+Nicaragua
+  0.2% (2007 est.)
+
+Niger
+  0.8% (2007 est.)
+
+Nigeria
+  3.1% (2007 est.)
+
+Niue
+  NA
+
+Norfolk Island
+  NA
+
+Northern Mariana Islands
+  NA
+
+Norway
+  0.1% (2007 est.)
+
+Oman
+  0.1% (2001 est.)
+
+Pakistan
+  0.1% (2007 est.)
+
+Palau
+  NA
+
+Panama
+  1% (2007 est.)
+
+Papua New Guinea
+  1.5% (2007 est.)
+
+Paraguay
+  0.6% (2007 est.)
+
+Peru
+  0.5% (2007 est.)
+
+Philippines
+  less than 0.1% (2003 est.)
+
+Pitcairn Islands
+  NA
+
+Poland
+  0.1%; note - no country specific models provided (2007 est.)
+
+Portugal
+  0.5% (2007 est.)
+
+Puerto Rico
+  NA
+
+Qatar
+  0.1% (2001 est.)
+
+Romania
+  less than 0.1% (2007 est.)
+
+Russia
+  1.1% (2007 est.)
+
+Rwanda
+  2.8% (2007 est.)
+
+Saint Helena, Ascension, and Tristan da Cunha
+  NA
+
+Saint Kitts and Nevis
+  NA
+
+Saint Lucia
+  NA
+
+Saint Pierre and Miquelon
+  NA
+
+Saint Vincent and the Grenadines
+  NA
+
+Samoa
+  NA
+
+San Marino
+  NA
+
+Sao Tome and Principe
+  NA
+
+Saudi Arabia
+  0.01% (2001 est.)
+
+Senegal
+  1% (2007 est.)
+
+Serbia
+  0.1% (2009 est.)
+
+Seychelles
+  NA
+
+Sierra Leone
+  1.7% (2007 est.)
+
+Singapore
+  0.2% (2007 est.)
+
+Sint Maarten
+  NA
+
+Slovakia
+  less than 0.1% (2007 est.)
+
+Slovenia
+  less than 0.1% (2007 est.)
+
+Solomon Islands
+  NA
+
+Somalia
+  0.5% (2007 est.)
+
+South Africa
+  18.1% (2007 est.)
+
+Spain
+  0.5% (2007 est.)
+
+Sri Lanka
+  less than 0.1% (2001 est.)
+
+Sudan
+  1.4% (2007 est.)
+
+Suriname
+  2.4% (2007 est.)
+
+Svalbard
+  0% (2001)
+
+Swaziland
+  26.1% (2007 est.)
+
+Sweden
+  0.1% (2007 est.)
+
+Switzerland
+  0.6% (2007 est.)
+
+Syria
+  less than 0.1% (2001 est.)
+
+Taiwan
+  NA
+
+Tajikistan
+  less than 0.3% (2007 est.)
+
+Tanzania
+  6.2% (2007 est.)
+
+Thailand
+  1.4% (2007 est.)
+
+Timor-Leste
+  NA
+
+Togo
+  3.3% (2007 est.)
+
+Tokelau
+  NA
+
+Tonga
+  NA
+
+Trinidad and Tobago
+  1.5% (2007 est.)
+
+Tunisia
+  less than 0.1% (2007 est.)
+
+Turkey
+  less than 0.1%; note - no country specific models provided
+  (2001 est.)
+
+Turkmenistan
+  less than 0.1% (2007 est.)
+
+Turks and Caicos Islands
+  NA
+
+Tuvalu
+  NA
+
+Uganda
+  5.4% (2007 est.)
+
+Ukraine
+  1.6% (2007 est.)
+
+United Arab Emirates
+  0.2% (2001 est.)
+
+United Kingdom
+  0.2% (2007 est.)
+
+United States
+  0.6% (2007 est.)
+
+Uruguay
+  0.6% (2007 est.)
+
+Uzbekistan
+  less than 0.1% (2007 est.)
+
+Vanuatu
+  NA
+
+Venezuela
+  0.7%; note - no country specific models provided (2001
+  est.)
+
+Vietnam
+  0.5% (2007 est.)
+
+Virgin Islands
+  NA
+
+Wallis and Futuna
+  NA
+
+West Bank
+  NA
+
+Western Sahara
+  NA
+
+World
+  0.8% (2007 est.)
+
+Yemen
+  0.1% (2001 est.)
+
+Zambia
+  15.2% (2007 est.)
+
+Zimbabwe
+  15.3% (2007 est.)
+
+
+
+
+======================================================================
+
+
+
+
+

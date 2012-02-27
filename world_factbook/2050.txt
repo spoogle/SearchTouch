@@ -1,0 +1,745 @@
+2050
+
+
+Field Listing :: Exports - partners
+
+  This entry provides a rank ordering of trading partners starting
+  with the most important; it sometimes includes the percent of total
+  dollar value.
+  Country
+
+
+  Exports - partners(%)
+
+Afghanistan
+  US 26.47%, India 23.09%, Pakistan 17.36%, Tajikistan
+  12.51% (2009)
+
+Albania
+  Italy 58.75%, Greece 9.69%, Austria 6.73%, China 5.68% (2009)
+
+Algeria
+  US 23.2%, Italy 17.23%, Spain 10.83%, France 7.97%, Canada
+  7.65%, Netherlands 5.19%, Turkey 4.22% (2009)
+
+Angola
+  China 35.65%, US 25.98%, France 8.83%, South Africa 4.13%
+  (2009)
+
+Argentina
+  Brazil 18.78%, China 9.26%, Chile 7.11%, US 6.38% (2009)
+
+Armenia
+  Germany 16.47%, Russia 15.45%, US 9.64%, Bulgaria 8.6%,
+  Georgia 7.57%, Netherlands 7.48%, Belgium 6.71%, Canada 4.91% (2009)
+
+Aruba
+  Panama 23.84%, Netherlands Antilles 20.49%, Colombia 17.48%,
+  Venezuela 12.61%, US 9.12%, Netherlands 7.5% (2009)
+
+Australia
+  China 21.81%, Japan 19.19%, South Korea 7.88%, India
+  7.51%, US 4.95%, UK 4.37%, NZ 4.1% (2009)
+
+Austria
+  Germany 30.96%, Italy 8.17%, Switzerland 4.99%, US 3.99%
+  (2009)
+
+Azerbaijan
+  Italy 20.69%, India 10.67%, US 9.24%, France 8.15%,
+  Germany 7.62%, Indonesia 6.63%, Canada 5.13% (2009)
+
+Bahamas, The
+  US 35.99%, Singapore 18.64%, Poland 12.1%, Germany
+  6.24% (2009)
+
+Bahrain
+  India 4.2%, Saudi Arabia 2.78% (2009)
+
+Bangladesh
+  US 22.5%, Germany 14.2%, UK 9.6%, France 7%, Netherlands
+  6.4% (2009)
+
+Barbados
+  Trinidad and Tobago 17.48%, Jamaica 15.63%, US 8.93%, Saint
+  Lucia 8.13%, UK 5.36%, Saint Vincent and the Grenadines 5.04%,
+  Antigua and Barbuda 4.12% (2009)
+
+Belarus
+  Russia 33.6%, Netherlands 13.78%, Ukraine 8.68%, Latvia
+  6.32%, Poland 4.19%, Germany 4.17% (2009)
+
+Belgium
+  Germany 19.58%, France 17.71%, Netherlands 11.84%, UK 7.21%,
+  US 5.37%, Italy 4.77% (2009)
+
+Belize
+  US 30.7%, UK 29.77%, Nigeria 4.9%, Cote d'Ivoire 4.45% (2009)
+
+Benin
+  India 19.72%, China 13.18%, Niger 6.94%, Nigeria 6.56%,
+  Indonesia 5.73%, Togo 5.63%, Namibia 4.17% (2009)
+
+Bermuda
+  Spain 16.91%, India 10.15%, Brazil 9.55%, Germany 7.4% (2009)
+
+Bhutan
+  India 86.3%, Bangladesh 8.1%, Italy 1.5% (2008)
+
+Bolivia
+  Brazil 41.38%, US 13.87%, Japan 5.62%, Colombia 5.32%, South
+  Korea 4.7%, Peru 4.16% (2009)
+
+Bosnia and Herzegovina
+  Croatia 19.07%, Slovenia 18.58%, Italy
+  16.87%, Germany 13.38%, Austria 10.25% (2009)
+
+Brazil
+  China 12.49%, US 10.5%, Argentina 8.4%, Netherlands 5.39%,
+  Germany 4.05% (2009)
+
+Brunei
+  Japan 38.04%, Indonesia 25.95%, South Korea 14.17%, Australia
+  7.24% (2009)
+
+Bulgaria
+  Germany 11.21%, Greece 9.43%, Italy 9.24%, Romania 8.52%,
+  Turkey 7.33%, Belgium 5.61%, France 4.44% (2009)
+
+Burkina Faso
+  Singapore 16.76%, Belgium 12.78%, China 7.59%, Ghana
+  6.89%, India 6.36%, Denmark 5.76%, Niger 5.13%, Thailand 4.52% (2009)
+
+Burma
+  Thailand 46.57%, India 12.99%, China 9.01%, Japan 5.65% (2009)
+
+Burundi
+  Germany 21.6%, Switzerland 14.86%, Belgium 9.32%, Sweden
+  8.94%, Pakistan 5.82% (2009)
+
+Cambodia
+  US 45.32%, Singapore 9.46%, Germany 7.52%, UK 7.07%, Canada
+  6.31%, Vietnam 4.15% (2009)
+
+Cameroon
+  Netherlands 13.99%, Spain 12.25%, Italy 11.84%, China
+  9.14%, US 6.16%, France 5.51%, South Korea 4.66%, Belgium 4.33%, UK
+  4% (2009)
+
+Canada
+  US 75.02%, UK 3.37%, China 3.09% (2009)
+
+Cape Verde
+  Spain 53.98%, Portugal 22.23%, Morocco 7.13% (2009)
+
+Central African Republic
+  Belgium 32.57%, China 10.49%, Indonesia
+  10.36%, Morocco 10.24%, Democratic Republic of the Congo 6.87%,
+  France 5.79% (2009)
+
+Chad
+  US 90.06%, France 4.81%, China 1.6% (2009)
+
+Chile
+  China 16.46%, US 11.31%, Japan 9.06%, South Korea 6.49%,
+  Brazil 4.64%, Mexico 4.09% (2009)
+
+China
+  US 20.03%, Hong Kong 12.03%, Japan 8.32%, South Korea 4.55%,
+  Germany 4.27% (2009)
+
+Colombia
+  US 39%, Venezuela 12%, Netherlands 4% (2009)
+
+Comoros
+  Turkey 25.2%, France 20.44%, Singapore 17.44%, Algeria
+  8.02%, Italy 6.09%, Saudi Arabia 5% (2009)
+
+Congo, Democratic Republic of the
+  China 46.75%, US 15.35%, Belgium
+  10.68%, Zambia 5.78%, Finland 4.38% (2009)
+
+Congo, Republic of the
+  US 40.08%, China 30.18%, France 8.17%, Taiwan
+  6.4%, India 4.2% (2009)
+
+Costa Rica
+  US 32.61%, Netherlands 12.82%, China 11.81%, Mexico 4.2%
+  (2009)
+
+Cote d'Ivoire
+  Netherlands 13.92%, France 10.75%, US 7.79%, Germany
+  7.2%, Nigeria 6.99%, Ghana 5.56% (2009)
+
+Croatia
+  Italy 19.1%, Bosnia and Herzegovina 12.98%, Germany 11.06%,
+  Slovenia 7.47%, Austria 5.44%, Serbia 5.41% (2009)
+
+Cuba
+  China 25.68%, Canada 20.31%, Spain 6.79%, Netherlands 4.53%
+  (2009)
+
+Curacao
+  US 13.1%, Guatemala 10.8%, Singapore 10.7%, Dominican
+  Republic 9.6%, Haiti 7.6%, The Bahamas 6.1%, Honduras 4.5%, Mexico
+  4.2% (2009 est.)
+
+Cyprus
+  Greece 23.83%, Germany 9.2%, UK 8.78% (2009)
+
+Czech Republic
+  Germany 32.25%, Slovakia 9.02%, Poland 5.8%, France
+  5.62%, UK 4.93%, Austria 4.71%, Italy 4.38% (2009)
+
+Denmark
+  Germany 17.53%, Sweden 12.68%, UK 8.49%, US 6.05%, Norway
+  6.01%, Netherlands 4.84%, France 4.57% (2009)
+
+Djibouti
+  Somalia 76.68%, France 4.89%, UAE 4.22% (2009)
+
+Dominica
+  Japan 28.62%, UK 19.81%, Antigua and Barbuda 7.7%, Guyana
+  6.52%, Jamaica 5.4%, Trinidad and Tobago 4.2% (2009)
+
+Dominican Republic
+  US 54.08%, Haiti 9.78% (2009)
+
+Ecuador
+  US 33.5%, Peru 6.8%, Chile 6.5%, Columbia 4.9%, Colombia
+  4.58%, Russia 4.11% (2009)
+
+Egypt
+  US 7.95%, Italy 7.26%, Spain 6.78%, India 6.69%, Saudi Arabia
+  5.53%, Syria 5.3%, France 4.39%, South Korea 4.27% (2009)
+
+El Salvador
+  US 43.86%, Guatemala 13.92%, Honduras 13.22%, Nicaragua
+  5.65% (2009)
+
+Equatorial Guinea
+  US 30.31%, China 12.54%, Japan 9.21%, Spain 7.5%,
+  South Korea 7.01%, Taiwan 5.63%, Italy 5.38%, Netherlands 4.09%
+  (2009)
+
+Eritrea
+  India 25.3%, Italy 20.7%, Sudan 14.1%, China 12.9%, France
+  5.5%, Saudi Arabia 5.4% (2008)
+
+Estonia
+  Finland 18.57%, Sweden 12.52%, Latvia 9.51%, Russia 9.33%,
+  Germany 6.09%, Lithuania 4.76%, US 4.26% (2009)
+
+Ethiopia
+  China 10.87%, Germany 9.75%, Saudi Arabia 7.39%, US 7.21%,
+  Netherlands 6.38%, Switzerland 5.33%, Sudan 4.35%, Belgium 4% (2009)
+
+Faroe Islands
+  Hungary 36.26%, Denmark 21.36%, UK 12.21%, Nigeria
+  7.72%, US 6.49%, Norway 5.46% (2009)
+
+Fiji
+  US 15.21%, Australia 12.11%, UK 11.23%, Samoa 5.39%, Tonga
+  4.74%, Japan 4.44% (2009)
+
+Finland
+  Germany 10.32%, Sweden 9.79%, Russia 9%, US 7.85%,
+  Netherlands 5.9%, UK 5.24%, China 4.1% (2009)
+
+France
+  Germany 15.88%, Italy 8.16%, Spain 7.8%, Belgium 7.44%, UK
+  7.04%, US 5.65%, Netherlands 3.99% (2009)
+
+Gabon
+  Russia 30.62%, US 16.56%, China 15.87%, France 4.28% (2009)
+
+Gambia, The
+  India 42.06%, France 15.34%, UK 9.03%, China 7.38%, Hong
+  Kong 4.55%, Belgium 3.97% (2009)
+
+Georgia
+  Turkey 17.87%, Azerbaijan 12.3%, Bulgaria 9.6%, Canada
+  8.78%, UK 7.49%, Ukraine 6.82%, Spain 5.27%, US 4.99% (2009)
+
+Germany
+  France 10.2%, US 6.7%, Netherlands 6.7%, UK 6.6%, Italy
+  6.3%, Austria 6%, China 4.5%, Switzerland 4.4% (2009)
+
+Ghana
+  Netherlands 13.45%, UK 7.87%, France 5.85%, Ukraine 5.84%,
+  Malaysia 3.97% (2009)
+
+Greece
+  Germany 11.11%, Italy 11.05%, Cyprus 7.28%, Bulgaria 6.74%,
+  US 4.95%, UK 4.4%, Turkey 4.23% (2009)
+
+Greenland
+  Denmark 61.13%, Japan 13.69%, China 6.15%, Sweden 5.21%
+  (2009)
+
+Grenada
+  Saint Lucia 19.73%, Antigua and Barbuda 13.41%, US 12.21%,
+  Saint Kitts and Nevis 12.03%, Dominica 12% (2009)
+
+Guatemala
+  US 40.41%, El Salvador 11.2%, Honduras 8.48%, Mexico 5.86%
+  (2009)
+
+Guinea
+  India 19.68%, Spain 13.18%, Russia 7.24%, Germany 6.86%,
+  Ireland 5.87%, US 5.71%, Ukraine 5.6% (2009)
+
+Guinea-Bissau
+  India 62.21%, Nigeria 31.28%, Portugal 1.48% (2009)
+
+Guyana
+  Canada 27.52%, US 16.93%, UK 10.84%, Ukraine 5.54%,
+  Netherlands 5%, Trinidad and Tobago 4.33%, Jamaica 4.12% (2009)
+
+Haiti
+  US 79.76%, Dominican Republic 7.24%, Canada 2.96% (2009)
+
+Honduras
+  US 59.6%, El Salvador 5.61%, Guatemala 5.28%, Mexico 4.19%,
+  Germany 4.04% (2009)
+
+Hong Kong
+  China 51.2%, US 11.6%, Japan 4.4% (2009 est.)
+
+Hungary
+  Germany 25.54%, Italy 5.67%, UK 5.41%, France 5.37%, Romania
+  5.28%, Slovakia 4.97%, Austria 4.52% (2009)
+
+Iceland
+  Netherlands 30.71%, UK 12.73%, Germany 11.21%, Norway 5.75%,
+  Spain 4.82% (2009)
+
+India
+  UAE 12.87%, US 12.59%, China 5.59% (2009)
+
+Indonesia
+  Japan 17.28%, Singapore 11.29%, US 10.81%, China 7.62%,
+  South Korea 5.53%, India 4.35%, Taiwan 4.11%, Malaysia 4.07% (2009)
+
+Iran
+  China 16.58%, Japan 11.9%, India 10.54%, South Korea 7.54%,
+  Turkey 4.36% (2009)
+
+Iraq
+  US 27.62%, India 14.45%, Italy 10.14%, South Korea 8.62%,
+  Taiwan 5.61%, China 4.23%, Netherlands 4.13%, Japan 3.99% (2009)
+
+Ireland
+  US 20.52%, Belgium 17.78%, UK 16.31%, Germany 5.66%, France
+  5.56%, Spain 4.19% (2009)
+
+Israel
+  US 35.05%, Hong Kong 6.02%, Belgium 4.95% (2009)
+
+Italy
+  Germany 12.6%, France 11.57%, US 5.92%, Spain 5.69%, UK 5.13%,
+  Switzerland 4.69% (2009)
+
+Jamaica
+  US 38.19%, Canada 12.2%, UK 10.79%, Norway 4.89%,
+  Netherlands 4.69% (2009)
+
+Japan
+  China 18.88%, US 16.42%, South Korea 8.13%, Taiwan 6.27%, Hong
+  Kong 5.49% (2009)
+
+Jordan
+  US 17.13%, Iraq 17%, India 13.59%, Saudi Arabia 10.56%, Syria
+  4.18%, UAE 4.09% (2009)
+
+Kazakhstan
+  China 16.34%, France 9.23%, Germany 8.32%, Russia 6.9%,
+  Ukraine 5.52%, Romania 5.25%, Italy 5.12%, US 4.34% (2009)
+
+Kenya
+  UK 11.31%, Netherlands 9.81%, Uganda 9.07%, Tanzania 8.83%, US
+  5.93%, Pakistan 5.63% (2009)
+
+Korea, North
+  China 42%, South Korea 38%, India 5% (2008)
+
+Korea, South
+  China 21.5%, US 10.9%, Japan 6.6%, Hong Kong 4.6% (2008)
+
+Kuwait
+  Japan 17.9%, South Korea 17.31%, India 12.43%, Taiwan 9.07%,
+  US 7.9%, China 7.55%, Singapore 5.48% (2009)
+
+Kyrgyzstan
+  Switzerland 25.96%, Russia 25.88%, Uzbekistan 15.72%,
+  Kazakhstan 12.47% (2009)
+
+Laos
+  Thailand 29.18%, China 15.04%, Vietnam 14.96%, UK 4.29% (2009)
+
+Latvia
+  Lithuania 15.19%, Estonia 13.57%, Russia 13.17%, Germany
+  8.13%, Sweden 5.7% (2009)
+
+Lebanon
+  Switzerland 22%, UAE 10%, Iraq 8%, Saudi Arabia 7% (2009)
+
+Lesotho
+  US 58.9%, Belgium 37%, Madagascar 1.2% (2008)
+
+Liberia
+  Germany 27.92%, Poland 17.12%, South Africa 15.83%, India
+  10.48%, Greece 7.09%, US 6.23%, Norway 5.24% (2009)
+
+Libya
+  Italy 37.65%, Germany 10.11%, France 8.44%, Spain 7.94%,
+  Switzerland 5.93%, US 5.27% (2009)
+
+Lithuania
+  Russia 13.2%, Latvia 10%, Germany 9.6%, Poland 7.1%,
+  Estonia 7.1%, Belarus 4.7%, UK 4.3% (2009)
+
+Luxembourg
+  Germany 19.78%, France 15.87%, Belgium 11.07%, UK 7.96%,
+  Italy 7.49%, Netherlands 4.31% (2009)
+
+Macau
+  Hong Kong 38.7%, US 17.9%, China 14.4%, Germany 4% (2009)
+
+Macedonia
+  Germany 20.31%, Greece 13.09%, Italy 11.08%, Bulgaria
+  10.61%, Croatia 7.74% (2009)
+
+Madagascar
+  France 28.9%, US 20.49%, Germany 5.89%, China 4.36% (2009)
+
+Malawi
+  Germany 12.37%, Egypt 8.52%, South Africa 7.67%, Zimbabwe
+  7.55%, US 7.4%, Russia 6.79%, Netherlands 6.64%, Japan 4.1% (2009)
+
+Malaysia
+  Singapore 13.9%, China 12.2%, US 10.9%, Japan 9.8%,
+  Thailand 5.4%, Hong Kong 5.2% (2009)
+
+Maldives
+  France 17.01%, Thailand 15.16%, Italy 13.49%, UK 13.13%,
+  Sri Lanka 12.38% (2009)
+
+Mali
+  China 14.61%, Thailand 8.28%, Pakistan 6.74%, Morocco 6.48%,
+  Burkina Faso 4.67%, France 4.6%, India 4.45% (2009)
+
+Malta
+  Germany 13.3%, Singapore 12.5%, France 11.4%, US 9.4%, Hong
+  Kong 6.5%, UK 5.9%, Italy 4.8% (2009)
+
+Mauritania
+  China 42.06%, Italy 9.71%, Japan 7.57%, Cote d'Ivoire
+  6.16%, Spain 5.63%, Netherlands 4.32% (2009)
+
+Mauritius
+  UK 25.55%, France 16.89%, US 9.51%, Italy 5.68%, UAE
+  5.47%, Belgium 4.93%, Madagascar 4.11% (2009)
+
+Mexico
+  US 80.5%, Canada 3.6%, Germany 1.4% (2009)
+
+Moldova
+  Russia 23.77%, Italy 14.11%, Romania 12.74%, Germany 6.92%,
+  Turkey 6.08%, Belarus 5.38% (2009)
+
+Mongolia
+  China 78.52%, Canada 9.46%, Russia 3.02% (2009)
+
+Montenegro
+  Italy 29.52%, Greece 22.65%, Slovenia 11.83%, Hungary
+  8.96%, US 7.93% (2009)
+
+Morocco
+  Spain 22.02%, France 20.22%, India 4.91%, Italy 4% (2009)
+
+Mozambique
+  Netherlands 47.62%, South Africa 11.6% (2009)
+
+Nepal
+  India 65.6%, US 8%, Bangladesh 6.04%, Germany 5% (2009)
+
+Netherlands
+  Germany 25.54%, Belgium 12.49%, France 9.27%, UK 8.17%,
+  Italy 5.07%, US 3.97% (2009)
+
+New Caledonia
+  France 27.52%, Japan 14.87%, Taiwan 10.51%, Spain
+  7.74%, China 7.31%, Australia 6.64%, Belgium 5.13%, South Korea 4.2%
+  (2009)
+
+New Zealand
+  Australia 23.36%, US 9.64%, China 9.21%, Japan 7.1%, UK
+  4.21% (2009)
+
+Nicaragua
+  US 61.98%, El Salvador 7.74%, Costa Rica 3.67% (2009)
+
+Niger
+  France 52.63%, Nigeria 22.43%, US 18.24% (2009)
+
+Nigeria
+  US 35.08%, India 10.43%, Brazil 9.32%, Spain 7.19%, France
+  4.65% (2009)
+
+Norway
+  UK 24.28%, Germany 13.4%, Netherlands 10.87%, France 8.55%,
+  Sweden 5.76%, US 4.82% (2009)
+
+Oman
+  China 26.98%, South Korea 17.19%, Japan 12.12%, UAE 11.23%,
+  Thailand 7.64% (2009)
+
+Pakistan
+  US 15.87%, UAE 12.35%, Afghanistan 8.48%, UK 4.7%, China
+  4.44% (2009)
+
+Panama
+  Greece 21.03%, US 17.63%, Japan 9.87%, Germany 4.28%, Italy
+  4.27% (2009)
+
+Papua New Guinea
+  Australia 30.05%, Japan 7.48% (2009)
+
+Paraguay
+  Brazil 21%, Uruguay 17%, Chile 12%, Argentina 11%, Russia
+  4% (2009)
+
+Peru
+  US 17.86%, China 15.96%, Canada 11.35%, Japan 6.75%, Chile
+  5.42%, Germany 4.25% (2009)
+
+Philippines
+  US 17.6%, Japan 16.2%, Netherlands 9.8%, Hong Kong 8.6%,
+  China 7.7%, Germany 6.5%, Singapore 6.2% (2009)
+
+Poland
+  Germany 26.06%, Italy 6.84%, France 6.78%, UK 6.38%, Czech
+  Republic 5.85%, Netherlands 4.14% (2009)
+
+Portugal
+  Spain 26.25%, Germany 12.99%, France 12.04%, Angola 7.21%,
+  UK 5.54% (2009)
+
+Qatar
+  Japan 34.68%, South Korea 22.44%, Singapore 10.03%, India
+  4.86% (2009)
+
+Romania
+  Germany 18.76%, Italy 15.42%, France 8.2%, Turkey 4.99%,
+  Hungary 4.33% (2009)
+
+Russia
+  Netherlands 10.62%, Italy 6.46%, Germany 6.24%, China 5.69%,
+  Turkey 4.3%, Ukraine 4.01% (2009)
+
+Rwanda
+  Kenya 33.88%, Democratic Republic of the Congo 13.56%,
+  Thailand 6.22%, China 5.49%, US 5.47%, Swaziland 5.43%, Belgium
+  5.19% (2009)
+
+Saint Kitts and Nevis
+  US 62.3%, Canada 7.93%, Azerbaijan 6.72% (2009)
+
+Saint Lucia
+  Spain 29.41%, UK 15.28%, South Korea 10.54%, US 9.75%,
+  India 9.52% (2009)
+
+Saint Vincent and the Grenadines
+  Greece 40.04%, Poland 11.78%,
+  France 9.05%, China 8.53%, India 4.71% (2009)
+
+Samoa
+  American Samoa 41.12%, Australia 24.74%, Taiwan 6.24%, China
+  5.61%, US 4.07% (2009)
+
+Sao Tome and Principe
+  UK 32.99%, Netherlands 26.93%, Belgium 21.04%,
+  Portugal 4.31% (2009)
+
+Saudi Arabia
+  Japan 15.33%, South Korea 12.71%, US 12.2%, China
+  10.38%, India 7.12%, Taiwan 4.54%, Singapore 4.25% (2009)
+
+Senegal
+  Mali 20.12%, India 9.84%, Gambia 5.58%, France 5.02%, Italy
+  4.23% (2009)
+
+Serbia
+  Bosnia and Herzegovina 13.12%, Italy 10.96%, Germany 9.9%,
+  Serbia and Montenegro 7%, Austria 5.4%, Slovenia 5.38%, Macedonia
+  5.26%, Russia 4.39%, Hungary 4.36% (2009)
+
+Seychelles
+  UK 24.84%, France 18.53%, Italy 9.45%, Mauritius 9.03%,
+  Japan 6.98%, Spain 4.92% (2009)
+
+Sierra Leone
+  Belgium 26.56%, US 11.87%, Netherlands 7.91%, UK 7.4%,
+  India 6.67%, Cote d'Ivoire 6.13%, Greece 4.05% (2009)
+
+Singapore
+  Hong Kong 11.6%, Malaysia 11.5%, US 11.2%, Indonesia 9.7%,
+  China 9.7%, Japan 4.6%, Hong Kong 11.6% (2009)
+
+Sint Maarten
+  China 23.49%, US 10.91%, Japan 5.92% (2009)
+
+Slovakia
+  Germany 20.1%, Czech Republic 12.9%, France 7.8%, Poland
+  7.2%, Hungary 6.3%, Italy 6.1%, Austria 5.8%, UK 4.8% (2009)
+
+Slovenia
+  Germany 19.36%, Italy 11.31%, Croatia 7.75%, Austria 7.42%,
+  France 7.35% (2009)
+
+Solomon Islands
+  China 54.07%, South Korea 6.19%, Philippines 6.04%,
+  Spain 4.87% (2009)
+
+Somalia
+  UAE 58.27%, Yemen 20.32%, Saudi Arabia 3.78% (2009)
+
+South Africa
+  China 10.34%, US 9.19%, Japan 7.59%, Germany 7.01%, UK
+  5.54%, Switzerland 4.72% (2009)
+
+Spain
+  France 19.27%, Germany 11.11%, Portugal 9.21%, Italy 8.24%, UK
+  6.18% (2009)
+
+Sri Lanka
+  US 20.59%, UK 12.87%, Italy 5.51%, Germany 5.29%, India
+  4.54%, Belgium 4.43% (2009)
+
+Sudan
+  China 58.29%, Japan 14.7%, Indonesia 8.83%, India 4.86% (2009)
+
+Suriname
+  Canada 35.47%, Belgium 14.92%, US 10.15%, UAE 9.87%, Norway
+  4.92%, Netherlands 4.7%, France 4.47% (2009)
+
+Sweden
+  Norway 10.61%, Germany 10.2%, UK 7.45%, Denmark 7.35%,
+  Finland 6.44%, US 6.36%, France 5.05%, Netherlands 4.67% (2009)
+
+Switzerland
+  Germany 20.98%, US 9.09%, France 8.62%, Italy 8.08%,
+  Austria 5.38% (2009)
+
+Syria
+  Iraq 30.22%, Lebanon 12.21%, Germany 8.89%, Egypt 6.8%, Saudi
+  Arabia 5.04%, Italy 4.55% (2009)
+
+Taiwan
+  China 26.6%, Hong Kong 14.4%, US 11.6%, Japan 7.2%, Singapore
+  4.2% (2009)
+
+Tajikistan
+  Russia 19.16%, China 18.38%, Turkey 12.09%, Iran 11.11%,
+  Uzbekistan 7.92%, Norway 6.17%, Greece 4.32% (2009)
+
+Tanzania
+  India 8.51%, China 7.55%, Japan 7.12%, Netherlands 6.21%,
+  UAE 5.71%, Germany 5.17% (2009)
+
+Thailand
+  US 10.9%, China 10.6%, Japan 10.3%, Hong Kong 6.2%,
+  Australia 5.6%, Malaysia 5%, Singapore 4.97% (2009)
+
+Togo
+  Germany 17.57%, Ghana 12.74%, Burkina Faso 11.02%, India
+  10.22%, Belgium 7.1%, Benin 6.92%, Netherlands 5.94%, Mali 4.41%
+  (2009)
+
+Tonga
+  Hong Kong 25.42%, US 22.65%, Japan 12.21%, NZ 7.31%, Fiji
+  7.2%, Samoa 6.06%, South Korea 4.48% (2009)
+
+Trinidad and Tobago
+  US 38.53%, Jamaica 8.86%, Spain 6.88%, Mexico
+  6.23% (2009)
+
+Tunisia
+  France 29.6%, Italy 21%, Germany 8.8%, Libya 5.8%, Spain 5%,
+  UK 4.8% (2009)
+
+Turkey
+  Germany 9.6%, France 6.1%, UK 5.8%, Italy 5.8%, Iraq 5% (2009)
+
+Turkmenistan
+  Ukraine 22.3%, Turkey 10.27%, Hungary 6.75%, UAE 6.25%,
+  Poland 6.16%, Afghanistan 5.79%, Iran 5.17% (2009)
+
+Uganda
+  Sudan 13.47%, Kenya 8.98%, UAE 7.52%, Rwanda 7.5%,
+  Switzerland 7.42%, Democratic Republic of the Congo 6.85%,
+  Netherlands 5.67%, Belgium 5.66%, Germany 5.18%, Italy 4.33% (2009)
+
+Ukraine
+  Russia 21.1%, Turkey 5.3%, China 3.8% (2009)
+
+United Arab Emirates
+  Japan 17.27%, South Korea 10.49%, India 9.96%,
+  Iran 6.82%, Thailand 5.11% (2009)
+
+United Kingdom
+  US 14.71%, Germany 11.06%, France 8%, Netherlands
+  7.79%, Ireland 6.89%, Belgium 4.65%, Spain 4% (2009)
+
+United States
+  Canada 19.37%, Mexico 12.21%, China 6.58%, Japan
+  4.84%, UK 4.33%, Germany 4.1% (2009)
+
+Uruguay
+  Brazil 21.05%, China 9.45%, Argentina 7.36%, Germany 5.16%,
+  Mexico 4.88%, Netherlands 4.13%, US 3.96% (2009)
+
+Uzbekistan
+  Ukraine 29.91%, Russia 13.94%, Turkey 7.53%, Kazakhstan
+  7.26%, Bangladesh 6.83%, China 5.69%, South Korea 4.19% (2009)
+
+Vanuatu
+  Thailand 53.15%, Japan 12.22%, Poland 11.78% (2009)
+
+Venezuela
+  US 35.18%, Netherlands Antilles 8.56%
+  note: excludes oil exports; Venezuela last published petroleum
+  figures by country in 2008 (2009)
+
+Vietnam
+  US 21.43%, Japan 11.44%, China 7.27%, Australia 4.43%,
+  Germany 4.27% (2009)
+
+World
+  US 12.7%, Germany 7.2%, China 6.4%, France 4.5%, Japan 4.3%,
+  UK 4.2% (2008 est.)
+
+Yemen
+  China 36%, Thailand 17.63%, India 13.54%, South Africa 6.16%,
+  Japan 5.49%, UAE 4.99% (2009)
+
+Zambia
+  China 21.37%, Saudi Arabia 8.93%, Democratic Republic of the
+  Congo 8.55%, South Korea 8.32%, Egypt 8.08%, South Africa 6.96%,
+  India 5% (2009)
+
+Zimbabwe
+  Democratic Republic of the Congo 14.82%, South Africa
+  13.39%, Botswana 13.23%, China 7.82%, Zambia 7.3%, Netherlands
+  5.39%, UK 4.93% (2009)
+
+
+
+
+======================================================================
+
+
+
+
+

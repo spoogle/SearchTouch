@@ -1,0 +1,734 @@
+2054
+
+
+Field Listing :: Birth rate
+
+  This entry gives the average annual number of births during a year
+  per 1,000 persons in the population at midyear; also known as crude
+  birth rate. The birth rate is usually the dominant factor in
+  determining the rate of population growth. It depends on both the
+  level of fertility and the age structure of the population.
+  Country Comparison to the World
+  Country
+
+
+  Birth rate(births/1,000 population)
+
+Afghanistan
+  38.11 births/1,000 population (2010 est.)
+
+Albania
+  11.88 births/1,000 population (2010 est.)
+
+Algeria
+  16.71 births/1,000 population (2010 est.)
+
+American Samoa
+  23.05 births/1,000 population (2010 est.)
+
+Andorra
+  10.03 births/1,000 population (2010 est.)
+
+Angola
+  43.33 births/1,000 population (2010 est.)
+
+Anguilla
+  13 births/1,000 population (2010 est.)
+
+Antigua and Barbuda
+  16.43 births/1,000 population (2010 est.)
+
+Argentina
+  17.75 births/1,000 population (2010 est.)
+
+Armenia
+  12.74 births/1,000 population (2010 est.)
+
+Aruba
+  12.77 births/1,000 population (2010 est.)
+
+Australia
+  12.39 births/1,000 population (2010 est.)
+
+Austria
+  8.65 births/1,000 population (2010 est.)
+
+Azerbaijan
+  17.75 births/1,000 population (2010 est.)
+
+Bahamas, The
+  16.25 births/1,000 population (2010 est.)
+
+Bahrain
+  16.81 births/1,000 population (2010 est.)
+
+Bangladesh
+  23.43 births/1,000 population (2010 est.)
+
+Barbados
+  12.43 births/1,000 population (2010 est.)
+
+Belarus
+  9.76 births/1,000 population (2010 est.)
+
+Belgium
+  10.1 births/1,000 population (2010 est.)
+
+Belize
+  26.84 births/1,000 population (2010 est.)
+
+Benin
+  38.67 births/1,000 population (2010 est.)
+
+Bermuda
+  11.47 births/1,000 population (2010 est.)
+
+Bhutan
+  19.62 births/1,000 population (2010 est.)
+
+Bolivia
+  25.16 births/1,000 population (2010 est.)
+
+Bosnia and Herzegovina
+  8.87 births/1,000 population (2010 est.)
+
+Botswana
+  22.54 births/1,000 population (2010 est.)
+
+Brazil
+  18.11 births/1,000 population (2010 est.)
+
+British Virgin Islands
+  14.52 births/1,000 population (2010 est.)
+
+Brunei
+  18 births/1,000 population (2010 est.)
+
+Bulgaria
+  9.43 births/1,000 population (2010 est.)
+
+Burkina Faso
+  43.98 births/1,000 population (2010 est.)
+
+Burma
+  19.49 births/1,000 population (2010 est.)
+
+Burundi
+  41.43 births/1,000 population (2010 est.)
+
+Cambodia
+  25.58 births/1,000 population (2010 est.)
+
+Cameroon
+  33.58 births/1,000 population (2010 est.)
+
+Canada
+  10.28 births/1,000 population (2010 est.)
+
+Cape Verde
+  21.67 births/1,000 population (2010 est.)
+
+Cayman Islands
+  12.29 births/1,000 population (2010 est.)
+
+Central African Republic
+  36.79 births/1,000 population (2010 est.)
+
+Chad
+  40.12 births/1,000 population (2010 est.)
+
+Chile
+  14.46 births/1,000 population (2010 est.)
+
+China
+  12.17 births/1,000 population (2010 est.)
+
+Christmas Island
+  NA
+
+Cocos (Keeling) Islands
+  NA
+
+Colombia
+  17.76 births/1,000 population (2010 est.)
+
+Comoros
+  34.71 births/1,000 population (2010 est.)
+
+Congo, Democratic Republic of the
+  42.26 births/1,000 population
+  (2010 est.)
+
+Congo, Republic of the
+  41.01 births/1,000 population (2010 est.)
+
+Cook Islands
+  15.67 births/1,000 population (2010 est.)
+
+Costa Rica
+  16.65 births/1,000 population (2010 est.)
+
+Cote d'Ivoire
+  31.48 births/1,000 population (2010 est.)
+
+Croatia
+  9.63 births/1,000 population (2010 est.)
+
+Cuba
+  11.02 births/1,000 population (2010 est.)
+
+Curacao
+  NA
+
+Cyprus
+  11.38 births/1,000 population (2010 est.)
+
+Czech Republic
+  8.76 births/1,000 population (2010 est.)
+
+Denmark
+  10.4 births/1,000 population (2010 est.)
+
+Djibouti
+  25.58 births/1,000 population (2010 est.)
+
+Dominica
+  15.68 births/1,000 population (2010 est.)
+
+Dominican Republic
+  19.9 births/1,000 population (2010 est.)
+
+Ecuador
+  20.32 births/1,000 population (2010 est.)
+
+Egypt
+  25.02 births/1,000 population (2010 est.)
+
+El Salvador
+  18.06 births/1,000 population (2010 est.)
+
+Equatorial Guinea
+  36 births/1,000 population (2010 est.)
+
+Eritrea
+  33.48 births/1,000 population (2010 est.)
+
+Estonia
+  10.42 births/1,000 population (2010 est.)
+
+Ethiopia
+  43.34 births/1,000 population (2010 est.)
+
+European Union
+  9.83 births/1,000 population (2010 est.)
+
+Falkland Islands (Islas Malvinas)
+  NA
+
+Faroe Islands
+  12.9 births/1,000 population (2010 est.)
+
+Fiji
+  21.52 births/1,000 population (2010 est.)
+
+Finland
+  10.37 births/1,000 population (2010 est.)
+
+France
+  12.43 births/1,000 population (2010 est.)
+
+French Polynesia
+  15.67 births/1,000 population (2010 est.)
+
+Gabon
+  35.39 births/1,000 population (2010 est.)
+
+Gambia, The
+  37.31 births/1,000 population (2010 est.)
+
+Gaza Strip
+  36.26 births/1,000 population (2010 est.)
+
+Georgia
+  10.7 births/1,000 population (2010 est.)
+
+Germany
+  8.21 births/1,000 population (2010 est.)
+
+Ghana
+  28.09 births/1,000 population (2010 est.)
+
+Gibraltar
+  14.2 births/1,000 population (2010 est.)
+
+Greece
+  9.34 births/1,000 population (2010 est.)
+
+Greenland
+  14.68 births/1,000 population (2010 est.)
+
+Grenada
+  17.2 births/1,000 population (2010 est.)
+
+Guam
+  18.1 births/1,000 population (2010 est.)
+
+Guatemala
+  27.4 births/1,000 population (2010 est.)
+
+Guernsey
+  10.25 births/1,000 population (2010 est.)
+
+Guinea
+  37.21 births/1,000 population (2010 est.)
+
+Guinea-Bissau
+  35.56 births/1,000 population (2010 est.)
+
+Guyana
+  17.61 births/1,000 population (2010 est.)
+
+Haiti
+  24.4 births/1,000 population (2011 est.)
+
+Honduras
+  25.61 births/1,000 population (2010 est.)
+
+Hong Kong
+  7.45 births/1,000 population (2010 est.)
+
+Hungary
+  9.7 births/1,000 population (2010 est.)
+
+Iceland
+  13.36 births/1,000 population (2010 est.)
+
+India
+  21.34 births/1,000 population (2010 est.)
+
+Indonesia
+  18.45 births/1,000 population (2010 est.)
+
+Iran
+  18.52 births/1,000 population (2010 est.)
+
+Iraq
+  29.41 births/1,000 population (2010 est.)
+
+Ireland
+  16.37 births/1,000 population (2010 est.)
+
+Isle of Man
+  11.54 births/1,000 population (2010 est.)
+
+Israel
+  19.51 births/1,000 population (2010 est.)
+
+Italy
+  8.01 births/1,000 population (2010 est.)
+
+Jamaica
+  19.47 births/1,000 population (2010 est.)
+
+Japan
+  7.41 births/1,000 population (2010 est.)
+
+Jersey
+  10.73 births/1,000 population (2010 est.)
+
+Jordan
+  27.06 births/1,000 population (2010 est.)
+
+Kazakhstan
+  16.66 births/1,000 population (2010 est.)
+
+Kenya
+  35.14 births/1,000 population (2010 est.)
+
+Kiribati
+  23.06 births/1,000 population (2010 est.)
+
+Korea, North
+  14.58 births/1,000 population (2010 est.)
+
+Korea, South
+  8.72 births/1,000 population (2010 est.)
+
+Kuwait
+  21.64 births/1,000 population (2010 est.)
+
+Kyrgyzstan
+  23.58 births/1,000 population (2010 est.)
+
+Laos
+  26.57 births/1,000 population (2010 est.)
+
+Latvia
+  9.9 births/1,000 population (2010 est.)
+
+Lebanon
+  15.1 births/1,000 population (2010 est.)
+
+Lesotho
+  27.17 births/1,000 population (2010 est.)
+
+Liberia
+  38.14 births/1,000 population (2010 est.)
+
+Libya
+  24.58 births/1,000 population (2010 est.)
+
+Liechtenstein
+  9.69 births/1,000 population (2010 est.)
+
+Lithuania
+  9.21 births/1,000 population (2010 est.)
+
+Luxembourg
+  11.7 births/1,000 population (2010 est.)
+
+Macau
+  8.98 births/1,000 population (2010 est.)
+
+Macedonia
+  11.92 births/1,000 population (2010 est.)
+
+Madagascar
+  37.89 births/1,000 population (2010 est.)
+
+Malawi
+  41.28 births/1,000 population (2010 est.)
+
+Malaysia
+  21.41 births/1,000 population (2010 est.)
+
+Maldives
+  14.5 births/1,000 population (2010 est.)
+
+Mali
+  46.09 births/1,000 population (2010 est.)
+
+Malta
+  10.38 births/1,000 population (2010 est.)
+
+Marshall Islands
+  29.94 births/1,000 population (2010 est.)
+
+Mauritania
+  33.67 births/1,000 population (2010 est.)
+
+Mauritius
+  14.17 births/1,000 population (2010 est.)
+
+Mayotte
+  38.76 births/1,000 population (2010 est.)
+
+Mexico
+  19.39 births/1,000 population (2010 est.)
+
+Micronesia, Federated States of
+  22.57 births/1,000 population (2010
+  est.)
+
+Moldova
+  11.16 births/1,000 population (2010 est.)
+
+Monaco
+  7.03 births/1,000 population (2010 est.)
+
+Mongolia
+  21.03 births/1,000 population (2010 est.)
+
+Montenegro
+  11.09 births/1,000 population (2010 est.)
+
+Montserrat
+  11.72 births/1,000 population (2010 est.)
+
+Morocco
+  19.4 births/1,000 population (2010 est.)
+
+Mozambique
+  37.8 births/1,000 population (2010 est.)
+
+Namibia
+  21.82 births/1,000 population (2010 est.)
+
+Nauru
+  28.16 births/1,000 population (2010 est.)
+
+Nepal
+  22.43 births/1,000 population (2010 est.)
+
+Netherlands
+  10.3 births/1,000 population (2010 est.)
+
+New Caledonia
+  16.52 births/1,000 population (2010 est.)
+
+New Zealand
+  13.81 births/1,000 population (2010 est.)
+
+Nicaragua
+  22.77 births/1,000 population (2010 est.)
+
+Niger
+  51.08 births/1,000 population (2010 est.)
+
+Nigeria
+  36.07 births/1,000 population (2010 est.)
+
+Niue
+  NA
+
+Norfolk Island
+  NA
+
+Northern Mariana Islands
+  21.05 births/1,000 population (2010 est.)
+
+Norway
+  10.9 births/1,000 population (2010 est.)
+
+Oman
+  23.9 births/1,000 population (2010 est.)
+
+Pakistan
+  25.3 births/1,000 population (2010 est.)
+
+Palau
+  10.68 births/1,000 population (2010 est.)
+
+Panama
+  19.71 births/1,000 population (2010 est.)
+
+Papua New Guinea
+  26.95 births/1,000 population (2010 est.)
+
+Paraguay
+  17.73 births/1,000 population (2010 est.)
+
+Peru
+  19 births/1,000 population (2010 est.)
+
+Philippines
+  25.68 births/1,000 population (2010 est.)
+
+Pitcairn Islands
+  NA
+
+Poland
+  10.04 births/1,000 population (2010 est.)
+
+Portugal
+  10.12 births/1,000 population (2010 est.)
+
+Puerto Rico
+  11.42 births/1,000 population (2010 est.)
+
+Qatar
+  15.54 births/1,000 population (2010 est.)
+
+Romania
+  9.58 births/1,000 population (2010 est.)
+
+Russia
+  11.11 births/1,000 population (2010 est.)
+
+Rwanda
+  37.26 births/1,000 population (2010 est.)
+
+Saint Helena, Ascension, and Tristan da Cunha
+  10.95 births/1,000
+  population (2010 est.)
+
+Saint Kitts and Nevis
+  14.23 births/1,000 population (2010 est.)
+
+Saint Lucia
+  14.81 births/1,000 population (2010 est.)
+
+Saint Pierre and Miquelon
+  8.58 births/1,000 population (2010 est.)
+
+Saint Vincent and the Grenadines
+  14.89 births/1,000 population (2010
+  est.)
+
+Samoa
+  22.92 births/1,000 population (2010 est.)
+
+San Marino
+  9.18 births/1,000 population (2010 est.)
+
+Sao Tome and Principe
+  39.09 births/1,000 population (2010 est.)
+
+Saudi Arabia
+  19.43 births/1,000 population (2010 est.)
+
+Senegal
+  37.27 births/1,000 population (2010 est.)
+
+Serbia
+  9.2 births/1,000 population (2010 est.)
+
+Seychelles
+  15.53 births/1,000 population (2010 est.)
+
+Sierra Leone
+  38.79 births/1,000 population (2010 est.)
+
+Singapore
+  8.65 births/1,000 population (2010 est.)
+
+Sint Maarten
+  NA
+
+Slovakia
+  10.55 births/1,000 population (2010 est.)
+
+Slovenia
+  8.92 births/1,000 population (2010 est.)
+
+Solomon Islands
+  28.6 births/1,000 population (2010 est.)
+
+Somalia
+  43.33 births/1,000 population (2010 est.)
+
+South Africa
+  19.61 births/1,000 population (2010 est.)
+
+Spain
+  10.91 births/1,000 population (2010 est.)
+
+Sri Lanka
+  15.88 births/1,000 population (2010 est.)
+
+Sudan
+  36.58 births/1,000 population (2010 est.)
+
+Suriname
+  16.61 births/1,000 population (2010 est.)
+
+Svalbard
+  NA
+
+Swaziland
+  27.12 births/1,000 population (2010 est.)
+
+Sweden
+  10.14 births/1,000 population (2010 est.)
+
+Switzerland
+  9.56 births/1,000 population (2010 est.)
+
+Syria
+  24.44 births/1,000 population (2010 est.)
+
+Taiwan
+  8.97 births/1,000 population (2010 est.)
+
+Tajikistan
+  26.49 births/1,000 population (2010 est.)
+
+Tanzania
+  33.44 births/1,000 population (2010 est.)
+
+Thailand
+  13.01 births/1,000 population (2010 est.)
+
+Timor-Leste
+  25.93 births/1,000 population (2010 est.)
+
+Togo
+  35.88 births/1,000 population (2010 est.)
+
+Tokelau
+  NA
+
+Tonga
+  17.78 births/1,000 population (2010 est.)
+
+Trinidad and Tobago
+  14.37 births/1,000 population (2010 est.)
+
+Tunisia
+  15.31 births/1,000 population (2010 est.)
+
+Turkey
+  18.28 births/1,000 population (2010 est.)
+
+Turkmenistan
+  19.62 births/1,000 population (2010 est.)
+
+Turks and Caicos Islands
+  20.44 births/1,000 population (2010 est.)
+
+Tuvalu
+  23.01 births/1,000 population (2010 est.)
+
+Uganda
+  47.55 births/1,000 population (2010 est.)
+
+Ukraine
+  9.62 births/1,000 population (2010 est.)
+
+United Arab Emirates
+  15.98 births/1,000 population (2010 est.)
+
+United Kingdom
+  12.34 births/1,000 population (2010 est.)
+
+United States
+  13.83 births/1,000 population (2010 est.)
+
+Uruguay
+  13.67 births/1,000 population (2010 est.)
+
+Uzbekistan
+  17.51 births/1,000 population (2010 est.)
+
+Vanuatu
+  21.08 births/1,000 population (2010 est.)
+
+Venezuela
+  20.29 births/1,000 population (2010 est.)
+
+Vietnam
+  17.29 births/1,000 population (2010 est.)
+
+Virgin Islands
+  11.51 births/1,000 population (2010 est.)
+
+Wallis and Futuna
+  14.08 births/1,000 population NA
+
+West Bank
+  24.91 births/1,000 population (2010 est.)
+
+Western Sahara
+  32.56 births/1,000 population (2010 est.)
+
+World
+  19.86 births/1,000 population (2009 est.)
+
+Yemen
+  34.37 births/1,000 population (2010 est.)
+
+Zambia
+  44.63 births/1,000 population (2010 est.)
+
+Zimbabwe
+  31.57 births/1,000 population (2010 est.)
+
+
+
+
+======================================================================
+
+
+
+
+

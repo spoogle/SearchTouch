@@ -1,0 +1,923 @@
+2026
+
+  Field Listing :: Manpower reaching militarily significant age
+
+annually
+
+  This entry gives the number of males and females entering the
+  military manpower pool (i.e., reaching age 16) in any given year and
+  is a measure of the availability of military-age young adults.
+  Country
+
+
+  Manpower reaching militarily significant age annually
+
+Afghanistan
+  male: 378,996
+  female: 357,822 (2010 est.)
+
+Albania
+  male: 35,249
+  female: 31,855 (2010 est.)
+
+Algeria
+  male: 365,503
+  female: 352,009 (2010 est.)
+
+American Samoa
+  male: 810
+  female: 796 (2010 est.)
+
+Andorra
+  male: 396
+  female: 350 (2010 est.)
+
+Angola
+  male: 151,237
+  female: 147,919 (2010 est.)
+
+Anguilla
+  male: 111
+  female: 111 (2010 est.)
+
+Antigua and Barbuda
+  male: 763
+  female: 758 (2010 est.)
+
+Argentina
+  male: 340,570
+  female: 323,953 (2010 est.)
+
+Armenia
+  male: 24,611
+  female: 22,682 (2010 est.)
+
+Aruba
+  male: 738
+  female: 715 (2010 est.)
+
+Australia
+  male: 144,232
+  female: 136,525 (2010 est.)
+
+Austria
+  male: 49,455
+  female: 47,046 (2010 est.)
+
+Azerbaijan
+  male: 84,441
+  female: 78,905 (2010 est.)
+
+Bahamas, The
+  male: 2,840
+  female: 2,758 (2010 est.)
+
+Bahrain
+  male: 6,590
+  female: 6,475 (2010 est.)
+
+Bangladesh
+  male: 1,550,385
+  female: 1,676,137 (2010 est.)
+
+Barbados
+  male: 1,897
+  female: 1,884 (2010 est.)
+
+Belarus
+  male: 55,758
+  female: 52,572 (2010 est.)
+
+Belgium
+  male: 60,726
+  female: 57,882 (2010 est.)
+
+Belize
+  male: 3,678
+  female: 3,543 (2010 est.)
+
+Benin
+  male: 105,468
+  female: 101,603 (2010 est.)
+
+Bermuda
+  male: 436
+  female: 397 (2010 est.)
+
+Bhutan
+  male: 7,432
+  female: 7,153 (2010 est.)
+
+Bolivia
+  male: 108,336
+  female: 104,934 (2010 est.)
+
+Bosnia and Herzegovina
+  male: 26,134
+  female: 24,518 (2010 est.)
+
+Botswana
+  male: 23,496
+  female: 22,944 (2010 est.)
+
+Brazil
+  male: 1,712,427
+  female: 1,652,491 (2010 est.)
+
+British Virgin Islands
+  male: 174
+  female: 167 (2010 est.)
+
+Brunei
+  male: 3,509
+  female: 3,427 (2010 est.)
+
+Bulgaria
+  male: 35,604
+  female: 34,199 (2010 est.)
+
+Burkina Faso
+  male: 188,394
+  female: 185,975 (2010 est.)
+
+Burma
+  male: 526,557
+  female: 510,538 (2010 est.)
+
+Burundi
+  male: 111,829
+  female: 111,802 (2010 est.)
+
+Cambodia
+  male: 168,519
+  female: 166,418 (2010 est.)
+
+Cameroon
+  male: 213,538
+  female: 209,549 (2010 est.)
+
+Canada
+  male: 220,538
+  female: 208,033 (2010 est.)
+
+Cape Verde
+  male: 6,077
+  female: 6,075 (2010 est.)
+
+Cayman Islands
+  male: 326
+  female: 347 (2010 est.)
+
+Central African Republic
+  male: 54,024
+  female: 53,203 (2010 est.)
+
+Chad
+  male: 125,073
+  female: 125,069 (2010 est.)
+
+Chile
+  male: 143,778
+  female: 138,058 (2010 est.)
+
+China
+  male: 10,699,186
+  female: 9,460,217 (2010 est.)
+
+Colombia
+  male: 432,280
+  female: 416,051 (2010 est.)
+
+Comoros
+  male: 8,519
+  female: 8,498 (2010 est.)
+
+Congo, Democratic Republic of the
+  male: 842,020
+  female: 839,044 (2010 est.)
+
+Congo, Republic of the
+  male: 48,365
+  female: 47,874 (2010 est.)
+
+Cook Islands
+  male: 136
+  female: 115 (2010 est.)
+
+Costa Rica
+  male: 42,486
+  female: 40,745 (2010 est.)
+
+Cote d'Ivoire
+  male: 240,989
+  female: 237,180 (2010 est.)
+
+Croatia
+  male: 27,670
+  female: 26,503 (2010 est.)
+
+Cuba
+  male: 74,084
+  female: 70,445 (2010 est.)
+
+Cyprus
+  male: 8,317
+  female: 7,542 (2010 est.)
+
+Czech Republic
+  male: 55,139
+  female: 52,440 (2010 est.)
+
+Denmark
+  male: 37,831
+  female: 35,930 (2010 est.)
+
+Djibouti
+  male: 8,260
+  female: 8,503 (2010 est.)
+
+Dominica
+  male: 729
+  female: 688 (2010 est.)
+
+Dominican Republic
+  male: 98,394
+  female: 94,576 (2010 est.)
+
+Ecuador
+  male: 150,296
+  female: 145,184 (2010 est.)
+
+Egypt
+  male: 799,377
+  female: 764,602 (2010 est.)
+
+El Salvador
+  male: 71,292
+  female: 68,821 (2010 est.)
+
+Equatorial Guinea
+  male: 7,186
+  female: 6,920 (2010 est.)
+
+Eritrea
+  male: 64,489
+  female: 64,476 (2010 est.)
+
+Estonia
+  male: 6,945
+  female: 6,564 (2010 est.)
+
+Ethiopia
+  male: 934,523
+  female: 947,103 (2010 est.)
+
+Faroe Islands
+  male: 379
+  female: 368 (2010 est.)
+
+Fiji
+  male: 9,131
+  female: 8,776 (2010 est.)
+
+Finland
+  male: 33,297
+  female: 32,233 (2010 est.)
+
+France
+  male: 389,956
+  female: 372,312 (2010 est.)
+
+French Polynesia
+  male: 2,592
+  female: 2,481 (2010 est.)
+
+Gabon
+  male: 17,283
+  female: 17,276 (2010 est.)
+
+Gambia, The
+  male: 20,858
+  female: 20,762 (2010 est.)
+
+Gaza Strip
+  male: 18,931
+  female: 18,010 (2010 est.)
+
+Georgia
+  male: 30,314
+  female: 28,299 (2010 est.)
+
+Germany
+  male: 421,227
+  female: 398,809 (2010 est.)
+
+Ghana
+  male: 270,993
+  female: 263,961 (2010 est.)
+
+Gibraltar
+  male: 250
+  female: 233 (2010 est.)
+
+Greece
+  male: 53,222
+  female: 49,828 (2010 est.)
+
+Greenland
+  male: 511
+  female: 484 (2010 est.)
+
+Grenada
+  male: 987
+  female: 1,026 (2010 est.)
+
+Guam
+  male: 1,687
+  female: 1,597 (2010 est.)
+
+Guatemala
+  male: 168,959
+  female: 166,414 (2010 est.)
+
+Guernsey
+  male: 347
+  female: 350 (2010 est.)
+
+Guinea
+  male: 114,353
+  female: 111,873 (2010 est.)
+
+Guinea-Bissau
+  male: 17,300
+  female: 17,523 (2010 est.)
+
+Guyana
+  male: 8,842
+  female: 8,452 (2010 est.)
+
+Haiti
+  male: 110,514
+  female: 108,208 (2010 est.)
+
+Honduras
+  male: 94,501
+  female: 90,757 (2010 est.)
+
+Hong Kong
+  male: 41,717
+  female: 38,240 (2010 est.)
+
+Hungary
+  male: 58,894
+  female: 55,922 (2010 est.)
+
+Iceland
+  male: 2,318
+  female: 2,263 (2010 est.)
+
+India
+  male: 12,011,217
+  female: 10,639,158 (2010 est.)
+
+Indonesia
+  male: 2,227,993
+  female: 2,156,427 (2010 est.)
+
+Iran
+  male: 636,558
+  female: 604,658 (2010 est.)
+
+Iraq
+  male: 323,328
+  female: 313,360 (2010 est.)
+
+Ireland
+  male: 27,987
+  female: 26,240 (2010 est.)
+
+Isle of Man
+  male: 469
+  female: 449 (2010 est.)
+
+Israel
+  male: 61,613
+  female: 58,679 (2010 est.)
+
+Italy
+  male: 280,255
+  female: 263,336 (2010 est.)
+
+Jamaica
+  male: 32,723
+  female: 32,098 (2010 est.)
+
+Japan
+  male: 626,115
+  female: 593,905 (2010 est.)
+
+Jersey
+  male: 594
+  female: 555 (2010 est.)
+
+Jordan
+  male: 73,554
+  female: 69,359 (2010 est.)
+
+Kazakhstan
+  male: 133,884
+  female: 127,415 (2010 est.)
+
+Kenya
+  male: 417,061
+  female: 412,438 (2010 est.)
+
+Kiribati
+  male: 1,107
+  female: 1,083 (2010 est.)
+
+Korea, North
+  male: 184,631
+  female: 178,565 (2010 est.)
+
+Korea, South
+  male: 370,645
+  female: 321,765 (2010 est.)
+
+Kuwait
+  male: 19,038
+  female: 19,787 (2010 est.)
+
+Kyrgyzstan
+  male: 56,269
+  female: 54,004 (2010 est.)
+
+Laos
+  male: 77,910
+  female: 77,761 (2010 est.)
+
+Latvia
+  male: 11,536
+  female: 11,058 (2010 est.)
+
+Lebanon
+  male: 37,856
+  female: 36,072 (2010 est.)
+
+Lesotho
+  male: 19,435
+  female: 20,400 (2010 est.)
+
+Liberia
+  male: 33,411
+  female: 35,264 (2010 est.)
+
+Libya
+  male: 59,842
+  female: 57,357 (2010 est.)
+
+Liechtenstein
+  male: 209
+  female: 208 (2010 est.)
+
+Lithuania
+  male: 21,606
+  female: 20,536 (2010 est.)
+
+Luxembourg
+  male: 3,211
+  female: 3,057 (2010 est.)
+
+Macau
+  male: 4,488
+  female: 3,900 (2010 est.)
+
+Macedonia
+  male: 15,338
+  female: 14,445 (2010 est.)
+
+Madagascar
+  male: 242,334
+  female: 241,359 (2010 est.)
+
+Malawi
+  male: 177,376
+  female: 176,905 (2010 est.)
+
+Malaysia
+  male: 267,646
+  female: 253,529 (2010 est.)
+
+Maldives
+  male: 4,369
+  female: 3,765 (2010 est.)
+
+Mali
+  male: 153,198
+  female: 154,762 (2010 est.)
+
+Malta
+  male: 2,570
+  female: 2,410 (2010 est.)
+
+Marshall Islands
+  male: 602
+  female: 580 (2010 est.)
+
+Mauritania
+  male: 35,322
+  female: 36,035 (2010 est.)
+
+Mauritius
+  male: 10,565
+  female: 10,447 (2010 est.)
+
+Mayotte
+  male: 2,627
+  female: 2,619 (2010 est.)
+
+Mexico
+  male: 1,108,032
+  female: 1,069,885 (2010 est.)
+
+Micronesia, Federated States of
+  male: 1,270
+  female: 1,221 (2010 est.)
+
+Moldova
+  male: 30,012
+  female: 28,450 (2010 est.)
+
+Monaco
+  male: 147
+  female: 133 (2010 est.)
+
+Mongolia
+  male: 29,240
+  female: 28,156 (2010 est.)
+
+Montenegro
+  male: 3,407
+  female: 3,741 (2010 est.)
+
+Montserrat
+  male: 38
+  female: 36 (2010 est.)
+
+Morocco
+  male: 300,262
+  female: 298,227 (2010 est.)
+
+Mozambique
+  male: 272,922
+  female: 272,062 (2010 est.)
+
+Namibia
+  male: 26,152
+  female: 25,790 (2010 est.)
+
+Nauru
+  male: 174
+  female: 168 (2010 est.)
+
+Nepal
+  male: 374,882
+  female: 361,848 (2010 est.)
+
+Netherlands
+  male: 104,694
+  female: 99,874 (2010 est.)
+
+New Caledonia
+  male: 2,138
+  female: 2,061 (2010 est.)
+
+New Zealand
+  male: 30,956
+  female: 29,236 (2010 est.)
+
+Nicaragua
+  male: 71,171
+  female: 68,948 (2010 est.)
+
+Niger
+  male: 177,985
+  female: 172,180 (2010 est.)
+
+Nigeria
+  male: 1,731,734
+  female: 1,652,632 (2010 est.)
+
+Northern Mariana Islands
+  male: 430
+  female: 346 (2010 est.)
+
+Norway
+  male: 32,045
+  female: 30,610 (2010 est.)
+
+Oman
+  male: 31,827
+  female: 30,148 (2010 est.)
+
+Pakistan
+  male: 2,144,574
+  female: 2,000,479 (2010 est.)
+
+Palau
+  male: 212
+  female: 218 (2010 est.)
+
+Panama
+  male: 31,398
+  female: 30,182 (2010 est.)
+
+Papua New Guinea
+  male: 66,139
+  female: 64,244 (2010 est.)
+
+Paraguay
+  male: 72,455
+  female: 70,910 (2010 est.)
+
+Peru
+  male: 312,375
+  female: 302,452 (2010 est.)
+
+Philippines
+  male: 1,039,679
+  female: 1,001,448 (2010 est.)
+
+Poland
+  male: 235,248
+  female: 224,801 (2010 est.)
+
+Portugal
+  male: 62,628
+  female: 55,737 (2010 est.)
+
+Puerto Rico
+  male: 30,616
+  female: 29,196 (2010 est.)
+
+Qatar
+  male: 6,403
+  female: 5,144 (2010 est.)
+
+Romania
+  male: 121,391
+  female: 115,258 (2010 est.)
+
+Russia
+  male: 712,838
+  female: 678,623 (2010 est.)
+
+Rwanda
+  male: 98,164
+  female: 97,839 (2010 est.)
+
+Saint Barthelemy
+  male: 21
+  female: 21 (2010 est.)
+
+Saint Helena, Ascension, and Tristan da Cunha
+  male: 48
+  female: 47 (2010 est.)
+
+Saint Kitts and Nevis
+  male: 402
+  female: 430 (2010 est.)
+
+Saint Lucia
+  male: 1,627
+  female: 1,521 (2010 est.)
+
+Saint Martin
+  male: 172
+  female: 165 (2010 est.)
+
+Saint Pierre and Miquelon
+  male: 36
+  female: 34 (2010 est.)
+
+Saint Vincent and the Grenadines
+  male: 990
+  female: 979 (2010 est.)
+
+Samoa
+  male: 2,219
+  female: 2,058 (2010 est.)
+
+San Marino
+  male: 176
+  female: 164 (2010 est.)
+
+Sao Tome and Principe
+  male: 1,997
+  female: 1,922 (2010 est.)
+
+Saudi Arabia
+  male: 280,041
+  female: 269,580 (2010 est.)
+
+Senegal
+  male: 157,468
+  female: 156,689 (2010 est.)
+
+Serbia
+  male: 43,925
+  female: 41,342 (2010 est.)
+
+Seychelles
+  male: 704
+  female: 672 (2010 est.)
+
+Sierra Leone
+  male: 53,349
+  female: 56,307 (2010 est.)
+
+Singapore
+  male: 27,430
+  female: 25,918 (2010 est.)
+
+Slovakia
+  male: 33,915
+  female: 32,448 (2010 est.)
+
+Slovenia
+  male: 9,979
+  female: 9,610 (2010 est.)
+
+Solomon Islands
+  male: 7,256
+  female: 6,995 (2010 est.)
+
+Somalia
+  male: 99,919
+  female: 99,771 (2010 est.)
+
+South Africa
+  male: 492,743
+  female: 496,374 (2010 est.)
+
+Spain
+  male: 193,038
+  female: 181,703 (2010 est.)
+
+Sri Lanka
+  male: 172,081
+  female: 166,358 (2010 est.)
+
+Sudan
+  male: 506,742
+  female: 487,434 (2010 est.)
+
+Suriname
+  male: 4,046
+  female: 4,056 (2010 est.)
+
+Swaziland
+  male: 16,024
+  female: 15,630 (2010 est.)
+
+Sweden
+  male: 58,937
+  female: 56,225 (2010 est.)
+
+Switzerland
+  male: 47,043
+  female: 43,033 (2010 est.)
+
+Syria
+  male: 253,578
+  female: 241,777 (2010 est.)
+
+Taiwan
+  male: 166,141
+  female: 155,070 (2010 est.)
+
+Tajikistan
+  male: 77,585
+  female: 75,201 (2010 est.)
+
+Tanzania
+  male: 498,815
+  female: 500,941 (2010 est.)
+
+Thailand
+  male: 535,884
+  female: 511,444 (2010 est.)
+
+Timor-Leste
+  male: 12,795
+  female: 12,443 (2010 est.)
+
+Togo
+  male: 71,081
+  female: 69,969 (2010 est.)
+
+Tonga
+  male: 1,448
+  female: 1,392 (2010 est.)
+
+Trinidad and Tobago
+  male: 8,572
+  female: 7,966 (2010 est.)
+
+Tunisia
+  male: 96,697
+  female: 90,599 (2010 est.)
+
+Turkey
+  male: 695,326
+  female: 666,026 (2010 est.)
+
+Turkmenistan
+  male: 55,805
+  female: 54,908 (2010 est.)
+
+Turks and Caicos Islands
+  male: 229
+  female: 223 (2010 est.)
+
+Tuvalu
+  male: 120
+  female: 110 (2010 est.)
+
+Uganda
+  male: 412,640
+  female: 408,521 (2010 est.)
+
+Ukraine
+  male: 256,196
+  female: 244,473 (2010 est.)
+
+United Arab Emirates
+  male: 27,256
+  female: 24,305 (2010 est.)
+
+United Kingdom
+  male: 386,492
+  female: 369,185 (2010 est.)
+
+United States
+  male: 2,174,260
+  female: 2,065,595 (2010 est.)
+
+Uruguay
+  male: 27,631
+  female: 26,703 (2010 est.)
+
+Uzbekistan
+  male: 306,743
+  female: 299,264 (2010 est.)
+
+Vanuatu
+  male: 2,346
+  female: 2,249 (2010 est.)
+
+Venezuela
+  male: 276,612
+  female: 273,819 (2010 est.)
+
+Vietnam
+  male: 877,075
+  female: 816,076 (2010 est.)
+
+Virgin Islands
+  male: 805
+  female: 849 (2010 est.)
+
+Wallis and Futuna
+  male: 178
+  female: 153 (2010 est.)
+
+West Bank
+  male: 30,547
+  female: 29,062 (2010 est.)
+
+Western Sahara
+  male: 5,376
+  female: 5,280 (2010 est.)
+
+Yemen
+  male: 279,283
+  female: 269,824 (2010 est.)
+
+Zambia
+  male: 151,586
+  female: 150,839 (2010 est.)
+
+Zimbabwe
+  male: 155,117
+  female: 152,875 (2010 est.)
+
+
+
+
+======================================================================
+
+
+
+
+

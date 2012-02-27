@@ -1,0 +1,1203 @@
+2102
+
+
+Field Listing :: Life expectancy at birth
+
+  This entry contains the average number of years to be lived by a
+  group of people born in the same year, if mortality at each age
+  remains constant in the future. The entry includes total population
+  as well as the male and female components. Life expectancy at birth
+  is also a measure of overall quality of life in a country and
+  summarizes the mortality at all ages. It can also be thought of as
+  indicating the potential return on investment in human capital and
+  is necessary for the calculation of various actuarial measures.
+  Country Comparison to the World
+  Country
+
+
+  Life expectancy at birth(years)
+
+Afghanistan
+  total population: 44.65 years
+  male: 44.45 years
+  female: 44.87 years (2010 est.)
+
+Albania
+  total population: 77.22 years
+  male: 74.65 years
+  female: 80.11 years (2010 est.)
+
+Algeria
+  total population: 74.26 years
+  male: 72.57 years
+  female: 76.04 years (2010 est.)
+
+American Samoa
+  total population: 73.97 years
+  male: 71.04 years
+  female: 77.08 years (2010 est.)
+
+Andorra
+  total population: 82.36 years
+  male: 80.3 years
+  female: 84.55 years (2010 est.)
+
+Angola
+  total population: 38.48 years
+  male: 37.48 years
+  female: 39.52 years (2010 est.)
+
+Anguilla
+  total population: 80.77 years
+  male: 78.22 years
+  female: 83.39 years (2010 est.)
+
+Antigua and Barbuda
+  total population: 75.26 years
+  male: 73.27 years
+  female: 77.35 years (2010 est.)
+
+Argentina
+  total population: 76.76 years
+  male: 73.52 years
+  female: 80.17 years (2010 est.)
+
+Armenia
+  total population: 72.96 years
+  male: 69.33 years
+  female: 77.07 years (2010 est.)
+
+Aruba
+  total population: 75.51 years
+  male: 72.47 years
+  female: 78.61 years (2010 est.)
+
+Australia
+  total population: 81.72 years
+  male: 79.33 years
+  female: 84.25 years (2010 est.)
+
+Austria
+  total population: 79.65 years
+  male: 76.74 years
+  female: 82.71 years (2010 est.)
+
+Azerbaijan
+  total population: 67.01 years
+  male: 62.86 years
+  female: 71.67 years (2010 est.)
+
+Bahamas, The
+  total population: 70.84 years
+  male: 68.48 years
+  female: 73.27 years (2010 est.)
+
+Bahrain
+  total population: 75.4 years
+  male: 72.87 years
+  female: 78.01 years (2010 est.)
+
+Bangladesh
+  total population: 69.44 years
+  male: 67.64 years
+  female: 71.3 years (2010 est.)
+
+Barbados
+  total population: 74.14 years
+  male: 71.88 years
+  female: 76.42 years (2010 est.)
+
+Belarus
+  total population: 70.92 years
+  male: 65.26 years
+  female: 76.93 years (2010 est.)
+
+Belgium
+  total population: 79.37 years
+  male: 76.21 years
+  female: 82.68 years (2010 est.)
+
+Belize
+  total population: 68.23 years
+  male: 66.54 years
+  female: 70 years (2010 est.)
+
+Benin
+  total population: 59.42 years
+  male: 58.21 years
+  female: 60.68 years (2010 est.)
+
+Bermuda
+  total population: 80.6 years
+  male: 77.37 years
+  female: 83.88 years (2010 est.)
+
+Bhutan
+  total population: 66.71 years
+  male: 65.89 years
+  female: 67.57 years (2010 est.)
+
+Bolivia
+  total population: 67.23 years
+  male: 64.52 years
+  female: 70.07 years (2010 est.)
+
+Bosnia and Herzegovina
+  total population: 78.66 years
+  male: 75.09 years
+  female: 82.49 years (2010 est.)
+
+Botswana
+  total population: 60.93 years
+  male: 61.11 years
+  female: 60.75 years (2010 est.)
+
+Brazil
+  total population: 72.26 years
+  male: 68.7 years
+  female: 76 years (2010 est.)
+
+British Virgin Islands
+  total population: 77.45 years
+  male: 76.18 years
+  female: 78.78 years (2010 est.)
+
+Brunei
+  total population: 75.96 years
+  male: 73.72 years
+  female: 78.31 years (2010 est.)
+
+Bulgaria
+  total population: 73.35 years
+  male: 69.74 years
+  female: 77.17 years (2010 est.)
+
+Burkina Faso
+  total population: 53.32 years
+  male: 51.39 years
+  female: 55.31 years (2010 est.)
+
+Burma
+  total population: 64.52 years
+  male: 62.23 years
+  female: 66.94 years (2010 est.)
+
+Burundi
+  total population: 58.29 years
+  male: 56.65 years
+  female: 59.98 years (2010 est.)
+
+Cambodia
+  total population: 62.28 years
+  male: 59.95 years
+  female: 64.72 years (2010 est.)
+
+Cameroon
+  total population: 54.04 years
+  male: 53.21 years
+  female: 54.9 years (2010 est.)
+
+Canada
+  total population: 81.29 years
+  male: 78.72 years
+  female: 84 years (2010 est.)
+
+Cape Verde
+  total population: 70.41 years
+  male: 68.24 years
+  female: 72.64 years (2010 est.)
+
+Cayman Islands
+  total population: 80.57 years
+  male: 77.91 years
+  female: 83.27 years (2010 est.)
+
+Central African Republic
+  total population: 49.68 years
+  male: 48.45 years
+  female: 50.95 years (2010 est.)
+
+Chad
+  total population: 47.99 years
+  male: 46.95 years
+  female: 49.07 years (2010 est.)
+
+Chile
+  total population: 77.53 years
+  male: 74.26 years
+  female: 80.96 years (2010 est.)
+
+China
+  total population: 74.51 years
+  male: 72.54 years
+  female: 76.77 years (2010 est.)
+
+Christmas Island
+  total population: NA
+  male: NA
+  female: NA
+
+Cocos (Keeling) Islands
+  total population: NA
+  male: NA
+  female: NA
+
+Colombia
+  total population: 74.31 years
+  male: 70.98 years
+  female: 77.84 years (2010 est.)
+
+Comoros
+  total population: 63.83 years
+  male: 61.41 years
+  female: 66.32 years (2010 est.)
+
+Congo, Democratic Republic of the
+  total population: 54.73 years
+  male: 52.93 years
+  female: 56.59 years (2010 est.)
+
+Congo, Republic of the
+  total population: 54.54 years
+  male: 53.27 years
+  female: 55.84 years (2010 est.)
+
+Cook Islands
+  total population: 74.47 years
+  male: 71.69 years
+  female: 77.38 years (2010 est.)
+
+Costa Rica
+  total population: 77.54 years
+  male: 74.93 years
+  female: 80.28 years (2010 est.)
+
+Cote d'Ivoire
+  total population: 56.19 years
+  male: 55.27 years
+  female: 57.13 years (2010 est.)
+
+Croatia
+  total population: 75.58 years
+  male: 71.95 years
+  female: 79.4 years (2010 est.)
+
+Cuba
+  total population: 77.64 years
+  male: 75.36 years
+  female: 80.05 years (2010 est.)
+
+Curacao
+  total: NA
+  males: 72.4 years
+  females: 80.1 years (2009)
+
+Cyprus
+  total population: 77.66 years
+  male: 74.88 years
+  female: 80.57 years (2010 est.)
+
+Czech Republic
+  total population: 77.01 years
+  male: 73.74 years
+  female: 80.48 years (2010 est.)
+
+Denmark
+  total population: 78.47 years
+  male: 76.11 years
+  female: 80.97 years (2010 est.)
+
+Djibouti
+  total population: 60.73 years
+  male: 58.31 years
+  female: 63.22 years (2010 est.)
+
+Dominica
+  total population: 75.77 years
+  male: 72.82 years
+  female: 78.87 years (2010 est.)
+
+Dominican Republic
+  total population: 77.15 years
+  male: 75.01 years
+  female: 79.38 years (2010 est.)
+
+Ecuador
+  total population: 75.52 years
+  male: 72.58 years
+  female: 78.6 years (2010 est.)
+
+Egypt
+  total population: 72.4 years
+  male: 69.82 years
+  female: 75.1 years (2010 est.)
+
+El Salvador
+  total population: 73.18 years
+  male: 69.91 years
+  female: 76.62 years (2010 est.)
+
+Equatorial Guinea
+  total population: 61.98 years
+  male: 61.05 years
+  female: 62.94 years (2010 est.)
+
+Eritrea
+  total population: 62.15 years
+  male: 60.06 years
+  female: 64.3 years (2010 est.)
+
+Estonia
+  total population: 73.08 years
+  male: 67.74 years
+  female: 78.76 years (2010 est.)
+
+Ethiopia
+  total population: 55.8 years
+  male: 53.28 years
+  female: 58.39 years (2010 est.)
+
+European Union
+  total population: 78.82 years
+  male: 75.7 years
+  female: 82.13 years (2010 est.)
+
+Falkland Islands (Islas Malvinas)
+  total population: NA
+  male: NA
+  female: NA
+
+Faroe Islands
+  total population: 79.58 years
+  male: 77.13 years
+  female: 82.21 years (2010 est.)
+
+Fiji
+  total population: 71.03 years
+  male: 68.46 years
+  female: 73.73 years (2010 est.)
+
+Finland
+  total population: 79.13 years
+  male: 75.64 years
+  female: 82.76 years (2010 est.)
+
+France
+  total population: 81.09 years
+  male: 77.91 years
+  female: 84.44 years (2010 est.)
+
+French Polynesia
+  total population: 76.91 years
+  male: 74.44 years
+  female: 79.5 years (2010 est.)
+
+Gabon
+  total population: 52.75 years
+  male: 51.96 years
+  female: 53.58 years (2010 est.)
+
+Gambia, The
+  total population: 54.07 years
+  male: 52.32 years
+  female: 55.86 years (2010 est.)
+
+Gaza Strip
+  total population: 73.68 years
+  male: 72.05 years
+  female: 75.4 years (2010 est.)
+
+Georgia
+  total population: 76.93 years
+  male: 73.61 years
+  female: 80.64 years (2010 est.)
+
+Germany
+  total population: 79.41 years
+  male: 76.41 years
+  female: 82.57 years (2010 est.)
+
+Ghana
+  total population: 60.55 years
+  male: 59.36 years
+  female: 61.78 years (2010 est.)
+
+Gibraltar
+  total population: 78.53 years
+  male: 75.69 years
+  female: 81.56 years (2010 est.)
+
+Greece
+  total population: 79.8 years
+  male: 77.24 years
+  female: 82.52 years (2010 est.)
+
+Greenland
+  total population: 70.67 years
+  male: 68.05 years
+  female: 73.43 years (2010 est.)
+
+Grenada
+  total population: 72.79 years
+  male: 70.27 years
+  female: 75.55 years (2010 est.)
+
+Guam
+  total population: 78.18 years
+  male: 75.14 years
+  female: 81.41 years (2010 est.)
+
+Guatemala
+  total population: 70.59 years
+  male: 68.76 years
+  female: 72.51 years (2010 est.)
+
+Guernsey
+  total population: 82.08 years
+  male: 79.43 years
+  female: 84.87 years (2010 est.)
+
+Guinea
+  total population: 57.6 years
+  male: 56.13 years
+  female: 59.12 years (2010 est.)
+
+Guinea-Bissau
+  total population: 48.3 years
+  male: 46.44 years
+  female: 50.22 years (2010 est.)
+
+Guyana
+  total population: 66.74 years
+  male: 62.93 years
+  female: 70.74 years (2010 est.)
+
+Haiti
+  total population: 62.17 years
+  male: 60.84 years
+  female: 63.53 years
+  note: the preliminary 2011 numbers differ significantly from those
+  of 2010, which were strongly influenced by the demographic effect of
+  the January 2010 earthquake; the latest figures more closely
+  correspond to those of 2009 (2011 est.)
+
+Honduras
+  total population: 70.51 years
+  male: 68.82 years
+  female: 72.28 years (2010 est.)
+
+Hong Kong
+  total population: 81.96 years
+  male: 79.24 years
+  female: 84.88 years (2010 est.)
+
+Hungary
+  total population: 74.57 years
+  male: 70.8 years
+  female: 78.55 years (2010 est.)
+
+Iceland
+  total population: 80.79 years
+  male: 78.63 years
+  female: 83.04 years (2010 est.)
+
+India
+  total population: 66.46 years
+  male: 65.46 years
+  female: 67.57 years (2010 est.)
+
+Indonesia
+  total population: 71.05 years
+  male: 68.53 years
+  female: 73.69 years (2010 est.)
+
+Iran
+  total population: 69.77 years
+  male: 68.32 years
+  female: 71.29 years (2010 est.)
+
+Iraq
+  total population: 70.25 years
+  male: 68.88 years
+  female: 71.69 years (2010 est.)
+
+Ireland
+  total population: 80.07 years
+  male: 77.86 years
+  female: 82.41 years (2010 est.)
+
+Isle of Man
+  total population: 80.53 years
+  male: 79.01 years
+  female: 82.18 years (2010 est.)
+
+Israel
+  total population: 80.86 years
+  male: 78.7 years
+  female: 83.12 years (2010 est.)
+
+Italy
+  total population: 80.33 years
+  male: 77.39 years
+  female: 83.46 years (2010 est.)
+
+Jamaica
+  total population: 73.48 years
+  male: 71.8 years
+  female: 75.25 years (2010 est.)
+
+Japan
+  total population: 82.17 years
+  male: 78.87 years
+  female: 85.66 years (2010 est.)
+
+Jersey
+  total population: 81.28 years
+  male: 78.88 years
+  female: 83.83 years (2010 est.)
+
+Jordan
+  total population: 79.92 years
+  male: 78.64 years
+  female: 81.28 years (2010 est.)
+
+Kazakhstan
+  total population: 68.19 years
+  male: 62.91 years
+  female: 73.78 years (2010 est.)
+
+Kenya
+  total population: 58.82 years
+  male: 58.33 years
+  female: 59.32 years (2010 est.)
+
+Kiribati
+  total population: 64.03 years
+  male: 61.68 years
+  female: 66.49 years (2010 est.)
+
+Korea, North
+  total population: 64.13 years
+  male: 61.53 years
+  female: 66.89 years (2010 est.)
+
+Korea, South
+  total population: 78.81 years
+  male: 75.56 years
+  female: 82.28 years (2010 est.)
+
+Kuwait
+  total population: 77.89 years
+  male: 76.64 years
+  female: 79.18 years (2010 est.)
+
+Kyrgyzstan
+  total population: 69.74 years
+  male: 65.74 years
+  female: 73.94 years (2010 est.)
+
+Laos
+  total population: 62 years
+  male: 60.14 years
+  female: 63.94 years (2010 est.)
+
+Latvia
+  total population: 72.42 years
+  male: 67.27 years
+  female: 77.84 years (2010 est.)
+
+Lebanon
+  total population: 74.79 years
+  male: 73.28 years
+  female: 76.36 years (2010 est.)
+
+Lesotho
+  total population: 50.67 years
+  male: 50.58 years
+  female: 50.76 years (2010 est.)
+
+Liberia
+  total population: 56.58 years
+  male: 55.05 years
+  female: 58.14 years (2010 est.)
+
+Libya
+  total population: 77.47 years
+  male: 75.18 years
+  female: 79.88 years (2010 est.)
+
+Liechtenstein
+  total population: 80.19 years
+  male: 76.73 years
+  female: 83.66 years (2010 est.)
+
+Lithuania
+  total population: 75.12 years
+  male: 70.23 years
+  female: 80.29 years (2010 est.)
+
+Luxembourg
+  total population: 79.48 years
+  male: 76.22 years
+  female: 82.95 years (2010 est.)
+
+Macau
+  total population: 84.38 years
+  male: 81.42 years
+  female: 87.49 years (2010 est.)
+
+Macedonia
+  total population: 74.92 years
+  male: 72.4 years
+  female: 77.64 years (2010 est.)
+
+Madagascar
+  total population: 63.26 years
+  male: 61.27 years
+  female: 65.3 years (2010 est.)
+
+Malawi
+  total population: 50.92 years
+  male: 50.22 years
+  female: 51.64 years (2010 est.)
+
+Malaysia
+  total population: 73.55 years
+  male: 70.81 years
+  female: 76.48 years (2010 est.)
+
+Maldives
+  total population: 74.21 years
+  male: 72 years
+  female: 76.54 years (2010 est.)
+
+Mali
+  total population: 52.17 years
+  male: 50.59 years
+  female: 53.8 years (2010 est.)
+
+Malta
+  total population: 79.59 years
+  male: 77.34 years
+  female: 81.97 years (2010 est.)
+
+Marshall Islands
+  total population: 71.48 years
+  male: 69.41 years
+  female: 73.65 years (2010 est.)
+
+Mauritania
+  total population: 60.75 years
+  male: 58.57 years
+  female: 62.99 years (2010 est.)
+
+Mauritius
+  total population: 74.25 years
+  male: 70.77 years
+  female: 77.89 years (2010 est.)
+
+Mayotte
+  total population: 63.28 years
+  male: 60.99 years
+  female: 65.63 years (2010 est.)
+
+Mexico
+  total population: 76.26 years
+  male: 73.45 years
+  female: 79.22 years (2010 est.)
+
+Micronesia, Federated States of
+  total population: 71.23 years
+  male: 69.32 years
+  female: 73.24 years (2010 est.)
+
+Moldova
+  total population: 71.09 years
+  male: 67.39 years
+  female: 75 years (2010 est.)
+
+Monaco
+  total population: 89.78 years
+  male: 85.81 years
+  female: 93.9 years (2010 est.)
+
+Mongolia
+  total population: 67.98 years
+  male: 65.54 years
+  female: 70.54 years (2010 est.)
+
+Montserrat
+  total population: 72.91 years
+  male: 74.82 years
+  female: 70.91 years (2010 est.)
+
+Morocco
+  total population: 75.69 years
+  male: 72.63 years
+  female: 78.9 years (2010 est.)
+
+Mozambique
+  total population: 41.37 years
+  male: 42.05 years
+  female: 40.68 years (2010 est.)
+
+Namibia
+  total population: 51.95 years
+  male: 52.25 years
+  female: 51.64 years (2010 est.)
+
+Nauru
+  total population: 64.99 years
+  male: 60.93 years
+  female: 68.39 years (2010 est.)
+
+Nepal
+  total population: 65.81 years
+  male: 64.62 years
+  female: 67.05 years (2010 est.)
+
+Netherlands
+  total population: 79.55 years
+  male: 76.94 years
+  female: 82.3 years (2010 est.)
+
+New Caledonia
+  total population: 76.56 years
+  male: 72.46 years
+  female: 80.86 years (2010 est.)
+
+New Zealand
+  total population: 80.48 years
+  male: 78.52 years
+  female: 82.53 years (2010 est.)
+
+Nicaragua
+  total population: 71.78 years
+  male: 69.61 years
+  female: 74.05 years (2010 est.)
+
+Niger
+  total population: 52.99 years
+  male: 51.75 years
+  female: 54.26 years (2010 est.)
+
+Nigeria
+  total population: 47.24 years
+  male: 46.46 years
+  female: 48.08 years (2010 est.)
+
+Niue
+  total population: NA
+  male: NA
+  female: NA
+
+Norfolk Island
+  total population: NA
+  male: NA
+  female: NA
+
+Northern Mariana Islands
+  total population: 76.9 years
+  male: 74.27 years
+  female: 79.68 years (2010 est.)
+
+Norway
+  total population: 80.08 years
+  male: 77.42 years
+  female: 82.89 years (2010 est.)
+
+Oman
+  total population: 73.97 years
+  male: 72.15 years
+  female: 75.88 years (2010 est.)
+
+Pakistan
+  total population: 65.63 years
+  male: 63.84 years
+  female: 67.5 years (2010 est.)
+
+Palau
+  total population: 71.51 years
+  male: 68.36 years
+  female: 74.84 years (2010 est.)
+
+Panama
+  total population: 77.61 years
+  male: 74.85 years
+  female: 80.5 years (2010 est.)
+
+Papua New Guinea
+  total population: 65.99 years
+  male: 63.78 years
+  female: 68.31 years (2010 est.)
+
+Paraguay
+  total population: 75.99 years
+  male: 73.39 years
+  female: 78.71 years (2010 est.)
+
+Peru
+  total population: 71.03 years
+  male: 69.14 years
+  female: 73 years (2010 est.)
+
+Philippines
+  total population: 71.38 years
+  male: 68.45 years
+  female: 74.45 years (2010 est.)
+
+Pitcairn Islands
+  total population: NA
+  male: NA
+  female: NA
+
+Poland
+  total population: 75.85 years
+  male: 71.88 years
+  female: 80.06 years (2010 est.)
+
+Portugal
+  total population: 78.38 years
+  male: 75.12 years
+  female: 81.86 years (2010 est.)
+
+Puerto Rico
+  total population: 78.77 years
+  male: 75.15 years
+  female: 82.57 years (2010 est.)
+
+Qatar
+  total population: 75.51 years
+  male: 73.78 years
+  female: 77.33 years (2010 est.)
+
+Romania
+  total population: 73.74 years
+  male: 70.26 years
+  female: 77.42 years (2010 est.)
+
+Russia
+  total population: 66.16 years
+  male: 59.54 years
+  female: 73.17 years (2010 est.)
+
+Rwanda
+  total population: 57.46 years
+  male: 56.06 years
+  female: 58.91 years (2010 est.)
+
+Saint Helena, Ascension, and Tristan da Cunha
+  total population: 78.6
+  years
+  male: 75.68 years
+  female: 81.67 years (2010 est.)
+
+Saint Kitts and Nevis
+  total population: 74.37 years
+  male: 72.03 years
+  female: 76.75 years (2010 est.)
+
+Saint Lucia
+  total population: 76.65 years
+  male: 73.97 years
+  female: 79.48 years (2010 est.)
+
+Saint Pierre and Miquelon
+  total population: 79.74 years
+  male: 77.49 years
+  female: 82.12 years (2010 est.)
+
+Saint Vincent and the Grenadines
+  total population: 73.9 years
+  male: 72.04 years
+  female: 75.82 years (2010 est.)
+
+Samoa
+  total population: 72.13 years
+  male: 69.28 years
+  female: 75.13 years (2010 est.)
+
+San Marino
+  total population: 82.95 years
+  male: 80.45 years
+  female: 85.68 years (2010 est.)
+
+Sao Tome and Principe
+  total population: 62.73 years
+  male: 61.58 years
+  female: 63.91 years (2010 est.)
+
+Saudi Arabia
+  total population: 73.87 years
+  male: 71.93 years
+  female: 75.9 years (2010 est.)
+
+Senegal
+  total population: 59.38 years
+  male: 57.48 years
+  female: 61.34 years (2010 est.)
+
+Serbia
+  total population: 74.09 years
+  male: 71.26 years
+  female: 77.1 years (2010 est.)
+
+Seychelles
+  total population: 73.28 years
+  male: 68.6 years
+  female: 78.09 years (2010 est.)
+
+Sierra Leone
+  total population: 55.69 years
+  male: 53.27 years
+  female: 58.18 years (2010 est.)
+
+Singapore
+  total population: 82.06 years
+  male: 79.45 years
+  female: 84.87 years (2010 est.)
+
+Sint Maarten
+  total population: NA
+  male: 73.1 years
+  female: 78.2 years (2009)
+
+Slovakia
+  total population: 75.62 years
+  male: 71.7 years
+  female: 79.74 years (2010 est.)
+
+Slovenia
+  total population: 77.12 years
+  male: 73.45 years
+  female: 81.03 years (2010 est.)
+
+Solomon Islands
+  total population: 73.94 years
+  male: 71.37 years
+  female: 76.63 years (2010 est.)
+
+Somalia
+  total population: 50 years
+  male: 48.12 years
+  female: 51.94 years (2010 est.)
+
+South Africa
+  total population: 49.2 years
+  male: 50.08 years
+  female: 48.29 years (2010 est.)
+
+Spain
+  total population: 81.07 years
+  male: 78.06 years
+  female: 84.27 years (2010 est.)
+
+Sri Lanka
+  total population: 75.3 years
+  male: 73.22 years
+  female: 77.47 years (2010 est.)
+
+Sudan
+  total population: 54.21 years
+  male: 53.04 years
+  female: 55.44 years (2010 est.)
+
+Suriname
+  total population: 73.98 years
+  male: 71.24 years
+  female: 76.91 years (2010 est.)
+
+Svalbard
+  total population: NA
+  male: NA
+  female: NA
+
+Swaziland
+  total population: 47.97 years
+  male: 48.14 years
+  female: 47.8 years (2010 est.)
+
+Sweden
+  total population: 80.97 years
+  male: 78.69 years
+  female: 83.4 years (2010 est.)
+
+Switzerland
+  total population: 80.97 years
+  male: 78.14 years
+  female: 83.95 years (2010 est.)
+
+Syria
+  total population: 74.46 years
+  male: 72.1 years
+  female: 76.96 years (2010 est.)
+
+Taiwan
+  total population: 78.15 years
+  male: 75.34 years
+  female: 81.2 years (2010 est.)
+
+Tajikistan
+  total population: 65.68 years
+  male: 62.63 years
+  female: 68.88 years (2010 est.)
+
+Tanzania
+  total population: 52.49 years
+  male: 50.99 years
+  female: 54.03 years (2010 est.)
+
+Thailand
+  total population: 75.02 years
+  male: 72.94 years
+  female: 77.21 years (2010 est.)
+
+Timor-Leste
+  total population: 67.61 years
+  male: 65.23 years
+  female: 70.11 years (2010 est.)
+
+Togo
+  total population: 62.25 years
+  male: 59.74 years
+  female: 64.83 years (2010 est.)
+
+Tokelau
+  total population: NA
+  male: NA
+  female: NA
+
+Tonga
+  total population: 71.03 years
+  male: 68.46 years
+  female: 73.73 years (2010 est.)
+
+Trinidad and Tobago
+  total population: 71.09 years
+  male: 68.23 years
+  female: 74.02 years (2010 est.)
+
+Tunisia
+  total population: 75.99 years
+  male: 74.17 years
+  female: 77.94 years (2010 est.)
+
+Turkey
+  total population: 72.23 years
+  male: 70.37 years
+  female: 74.19 years (2010 est.)
+
+Turkmenistan
+  total population: 68.2 years
+  male: 65.25 years
+  female: 71.29 years (2010 est.)
+
+Turks and Caicos Islands
+  total population: 75.64 years
+  male: 73.32 years
+  female: 78.07 years (2010 est.)
+
+Tuvalu
+  total population: 64.39 years
+  male: 62.36 years
+  female: 66.51 years (2010 est.)
+
+Uganda
+  total population: 52.98 years
+  male: 51.92 years
+  female: 54.07 years (2010 est.)
+
+Ukraine
+  total population: 68.46 years
+  male: 62.56 years
+  female: 74.74 years (2010 est.)
+
+United Arab Emirates
+  total population: 76.32 years
+  male: 73.75 years
+  female: 79.01 years (2010 est.)
+
+United Kingdom
+  total population: 79.92 years
+  male: 77.84 years
+  female: 82.11 years (2010 est.)
+
+United States
+  total population: 78.24 years
+  male: 75.78 years
+  female: 80.81 years (2010 est.)
+
+Uruguay
+  total population: 76.55 years
+  male: 73.3 years
+  female: 79.92 years (2010 est.)
+
+Uzbekistan
+  total population: 72.24 years
+  male: 69.22 years
+  female: 75.44 years (2010 est.)
+
+Vanuatu
+  total population: 64.33 years
+  male: 62.7 years
+  female: 66.04 years (2010 est.)
+
+Venezuela
+  total population: 73.77 years
+  male: 70.69 years
+  female: 77 years (2010 est.)
+
+Vietnam
+  total population: 71.94 years
+  male: 69.48 years
+  female: 74.69 years (2010 est.)
+
+Virgin Islands
+  total population: 79.19 years
+  male: 76.14 years
+  female: 82.41 years (2010 est.)
+
+Wallis and Futuna
+  total population: 78.83 years
+  male: 75.85 years
+  female: 81.96 years (2010 est.)
+
+West Bank
+  total population: 74.78 years
+  male: 72.76 years
+  female: 76.92 years (2010 est.)
+
+Western Sahara
+  total population: 60.74 years
+  male: 58.57 years
+  female: 62.99 years (2010 est.)
+
+World
+  total population: 66.12 years
+  male: 64.29 years
+  female: 68.07 years (2009 est.)
+
+Yemen
+  total population: 63.36 years
+  male: 61.35 years
+  female: 65.47 years (2010 est.)
+
+Zambia
+  total population: 52.03 years
+  male: 50.81 years
+  female: 53.28 years (2010 est.)
+
+Zimbabwe
+  total population: 47.55 years
+  male: 47.98 years
+  female: 47.11 years (2010 est.)
+
+
+
+
+======================================================================
+
+
+
+
+

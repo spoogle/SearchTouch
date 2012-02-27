@@ -1,0 +1,745 @@
+2066
+
+
+Field Listing :: Death rate
+
+  This entry gives the average annual number of deaths during a year
+  per 1,000 population at midyear; also known as crude death rate. The
+  death rate, while only a rough indicator of the mortality situation
+  in a country, accurately indicates the current mortality impact on
+  population growth. This indicator is significantly affected by age
+  distribution, and most countries will eventually show a rise in the
+  overall death rate, in spite of continued decline in mortality at
+  all ages, as declining fertility results in an aging population.
+  Country Comparison to the World
+  Country
+
+
+  Death rate(deaths/1,000 population)
+
+Afghanistan
+  17.65 deaths/1,000 population (July 2010 est.)
+
+Albania
+  6.04 deaths/1,000 population (July 2010 est.)
+
+Algeria
+  4.66 deaths/1,000 population (July 2010 est.)
+
+American Samoa
+  4.09 deaths/1,000 population (July 2010 est.)
+
+Andorra
+  6.21 deaths/1,000 population (July 2010 est.)
+
+Angola
+  23.74 deaths/1,000 population (July 2010 est.)
+
+Anguilla
+  4.4 deaths/1,000 population (July 2010 est.)
+
+Antigua and Barbuda
+  5.77 deaths/1,000 population (July 2010 est.)
+
+Argentina
+  7.39 deaths/1,000 population (July 2010 est.)
+
+Armenia
+  8.42 deaths/1,000 population (July 2010 est.)
+
+Aruba
+  7.76 deaths/1,000 population (July 2010 est.)
+
+Australia
+  6.81 deaths/1,000 population (July 2010 est.)
+
+Austria
+  10.05 deaths/1,000 population (July 2010 est.)
+
+Azerbaijan
+  8.28 deaths/1,000 population (July 2010 est.)
+
+Bahamas, The
+  6.89 deaths/1,000 population (July 2010 est.)
+
+Bahrain
+  4.37 deaths/1,000 population (July 2010 est.)
+
+Bangladesh
+  5.81 deaths/1,000 population (July 2010 est.)
+
+Barbados
+  8.39 deaths/1,000 population (July 2010 est.)
+
+Belarus
+  13.81 deaths/1,000 population (July 2010 est.)
+
+Belgium
+  10.5 deaths/1,000 population (July 2010 est.)
+
+Belize
+  5.82 deaths/1,000 population (July 2010 est.)
+
+Benin
+  9.23 deaths/1,000 population (July 2010 est.)
+
+Bermuda
+  7.43 deaths/1,000 population (July 2010 est.)
+
+Bhutan
+  7.25 deaths/1,000 population (July 2010 est.)
+
+Bolivia
+  6.95 deaths/1,000 population (July 2010 est.)
+
+Bosnia and Herzegovina
+  8.71 deaths/1,000 population (July 2010 est.)
+
+Botswana
+  9.02 deaths/1,000 population (July 2010 est.)
+
+Brazil
+  6.35 deaths/1,000 population (July 2010 est.)
+
+British Virgin Islands
+  4.41 deaths/1,000 population (July 2010 est.)
+
+Brunei
+  3.32 deaths/1,000 population (July 2010 est.)
+
+Bulgaria
+  14.31 deaths/1,000 population (July 2010 est.)
+
+Burkina Faso
+  13.02 deaths/1,000 population (July 2010 est.)
+
+Burma
+  8.23 deaths/1,000 population (July 2010 est.)
+
+Burundi
+  9.87 deaths/1,000 population (July 2010 est.)
+
+Cambodia
+  8.19 deaths/1,000 population (July 2010 est.)
+
+Cameroon
+  12.01 deaths/1,000 population (July 2010 est.)
+
+Canada
+  7.87 deaths/1,000 population (July 2010 est.)
+
+Cape Verde
+  6.41 deaths/1,000 population (July 2010 est.)
+
+Cayman Islands
+  5 deaths/1,000 population (July 2010 est.)
+
+Central African Republic
+  15.3 deaths/1,000 population (July 2010
+  est.)
+
+Chad
+  15.79 deaths/1,000 population (July 2010 est.)
+
+Chile
+  5.9 deaths/1,000 population (July 2010 est.)
+
+China
+  6.89 deaths/1,000 population (July 2010 est.)
+
+Christmas Island
+  NA
+
+Cocos (Keeling) Islands
+  NA
+
+Colombia
+  5.24 deaths/1,000 population (July 2010 est.)
+
+Comoros
+  7.4 deaths/1,000 population (July 2010 est.)
+
+Congo, Democratic Republic of the
+  11.39 deaths/1,000 population
+  (July 2010 est.)
+
+Congo, Republic of the
+  11.75 deaths/1,000 population (July 2010 est.)
+
+Cook Islands
+  7.22 deaths/1,000 population NA
+
+Costa Rica
+  4.29 deaths/1,000 population (July 2010 est.)
+
+Cote d'Ivoire
+  10.43 deaths/1,000 population (July 2010 est.)
+
+Croatia
+  11.83 deaths/1,000 population (July 2010 est.)
+
+Cuba
+  7.29 deaths/1,000 population (July 2010 est.)
+
+Curacao
+  8 deaths/1,000 population (2009)
+
+Cyprus
+  6.42 deaths/1,000 population (July 2010 est.)
+
+Czech Republic
+  10.79 deaths/1,000 population (July 2010 est.)
+
+Denmark
+  10.19 deaths/1,000 population (July 2010 est.)
+
+Djibouti
+  8.37 deaths/1,000 population (July 2010 est.)
+
+Dominica
+  8.12 deaths/1,000 population (July 2010 est.)
+
+Dominican Republic
+  4.3 deaths/1,000 population (July 2010 est.)
+
+Ecuador
+  5 deaths/1,000 population (July 2010 est.)
+
+Egypt
+  4.85 deaths/1,000 population (July 2010 est.)
+
+El Salvador
+  5.61 deaths/1,000 population (July 2010 est.)
+
+Equatorial Guinea
+  9.26 deaths/1,000 population (July 2010 est.)
+
+Eritrea
+  8.25 deaths/1,000 population (July 2010 est.)
+
+Estonia
+  13.48 deaths/1,000 population (July 2010 est.)
+
+Ethiopia
+  11.29 deaths/1,000 population (July 2010 est.)
+
+European Union
+  10.33 deaths/1,000 population (July 2010 est.)
+
+Falkland Islands (Islas Malvinas)
+  NA
+
+Faroe Islands
+  8.66 deaths/1,000 population (July 2010 est.)
+
+Fiji
+  5.88 deaths/1,000 population (July 2010 est.)
+
+Finland
+  10.15 deaths/1,000 population (July 2010 est.)
+
+France
+  8.65 deaths/1,000 population (July 2010 est.)
+
+French Polynesia
+  4.8 deaths/1,000 population (July 2010 est.)
+
+Gabon
+  12.9 deaths/1,000 population (July 2010 est.)
+
+Gambia, The
+  12.03 deaths/1,000 population (July 2010 est.)
+
+Gaza Strip
+  3.36 deaths/1,000 population (July 2010 est.)
+
+Georgia
+  9.79 deaths/1,000 population (July 2010 est.)
+
+Germany
+  11 deaths/1,000 population (July 2010 est.)
+
+Ghana
+  8.93 deaths/1,000 population (July 2010 est.)
+
+Gibraltar
+  8.17 deaths/1,000 population (July 2010 est.)
+
+Greece
+  10.6 deaths/1,000 population (July 2010 est.)
+
+Greenland
+  8.05 deaths/1,000 population (July 2010 est.)
+
+Grenada
+  7.9 deaths/1,000 population (July 2010 est.)
+
+Guam
+  4.64 deaths/1,000 population (July 2010 est.)
+
+Guatemala
+  5.04 deaths/1,000 population (July 2010 est.)
+
+Guernsey
+  8.35 deaths/1,000 population (July 2010 est.)
+
+Guinea
+  10.72 deaths/1,000 population (July 2010 est.)
+
+Guinea-Bissau
+  15.52 deaths/1,000 population (July 2010 est.)
+
+Guyana
+  7.24 deaths/1,000 population (July 2010 est.)
+
+Haiti
+  8.21 deaths/1,000 population
+  note: the preliminary 2011 numbers differ significantly from those
+  of 2010, which were strongly influenced by the demographic effect of
+  the January 2010 earthquake; the latest figures more closely
+  correspond to those of 2009 (2011 est.)
+
+Honduras
+  4.99 deaths/1,000 population (July 2010 est.)
+
+Hong Kong
+  6.91 deaths/1,000 population (July 2010 est.)
+
+Hungary
+  12.67 deaths/1,000 population (July 2010 est.)
+
+Iceland
+  6.9 deaths/1,000 population (July 2010 est.)
+
+India
+  7.53 deaths/1,000 population (July 2010 est.)
+
+Indonesia
+  6.25 deaths/1,000 population (July 2010 est.)
+
+Iran
+  5.94 deaths/1,000 population (July 2010 est.)
+
+Iraq
+  4.92 deaths/1,000 population (July 2010 est.)
+
+Ireland
+  6.3 deaths/1,000 population (July 2010 est.)
+
+Isle of Man
+  9.87 deaths/1,000 population (July 2010 est.)
+
+Israel
+  5.45 deaths/1,000 population (July 2010 est.)
+
+Italy
+  10.83 deaths/1,000 population (July 2010 est.)
+
+Jamaica
+  6.48 deaths/1,000 population (July 2010 est.)
+
+Japan
+  9.83 deaths/1,000 population (July 2010 est.)
+
+Jersey
+  7.49 deaths/1,000 population (July 2010 est.)
+
+Jordan
+  2.66 deaths/1,000 population (July 2010 est.)
+
+Kazakhstan
+  9.39 deaths/1,000 population (July 2010 est.)
+
+Kenya
+  9.26 deaths/1,000 population (July 2010 est.)
+
+Kiribati
+  7.48 deaths/1,000 population (July 2010 est.)
+
+Korea, North
+  10.6 deaths/1,000 population (July 2010 est.)
+
+Korea, South
+  6.15 deaths/1,000 population (July 2010 est.)
+
+Kuwait
+  2.29 deaths/1,000 population (July 2010 est.)
+
+Kyrgyzstan
+  6.85 deaths/1,000 population (July 2010 est.)
+
+Laos
+  8.28 deaths/1,000 population (July 2010 est.)
+
+Latvia
+  13.6 deaths/1,000 population (July 2010 est.)
+
+Lebanon
+  6.46 deaths/1,000 population (July 2010 est.)
+
+Lesotho
+  15.71 deaths/1,000 population (July 2010 est.)
+
+Liberia
+  10.88 deaths/1,000 population (July 2010 est.)
+
+Libya
+  3.4 deaths/1,000 population (July 2010 est.)
+
+Liechtenstein
+  7.49 deaths/1,000 population (July 2010 est.)
+
+Lithuania
+  11.25 deaths/1,000 population (July 2010 est.)
+
+Luxembourg
+  8.46 deaths/1,000 population (July 2010 est.)
+
+Macau
+  3.6 deaths/1,000 population (July 2010 est.)
+
+Macedonia
+  8.87 deaths/1,000 population (July 2010 est.)
+
+Madagascar
+  7.97 deaths/1,000 population (July 2010 est.)
+
+Malawi
+  13.69 deaths/1,000 population (July 2010 est.)
+
+Malaysia
+  4.92 deaths/1,000 population (July 2010 est.)
+
+Maldives
+  3.68 deaths/1,000 population (July 2010 est.)
+
+Mali
+  14.64 deaths/1,000 population (July 2010 est.)
+
+Malta
+  8.49 deaths/1,000 population (July 2010 est.)
+
+Marshall Islands
+  4.42 deaths/1,000 population (July 2010 est.)
+
+Mauritania
+  9 deaths/1,000 population (July 2010 est.)
+
+Mauritius
+  6.63 deaths/1,000 population (July 2010 est.)
+
+Mayotte
+  7.05 deaths/1,000 population (July 2010 est.)
+
+Mexico
+  4.83 deaths/1,000 population (July 2010 est.)
+
+Micronesia, Federated States of
+  4.4 deaths/1,000 population (July
+  2010 est.)
+
+Moldova
+  10.76 deaths/1,000 population (July 2010 est.)
+
+Monaco
+  8.01 deaths/1,000 population (July 2010 est.)
+
+Mongolia
+  6.08 deaths/1,000 population (July 2010 est.)
+
+Montenegro
+  8.76 deaths/1,000 population (July 2010 est.)
+
+Montserrat
+  7.82 deaths/1,000 population (July 2010 est.)
+
+Morocco
+  4.74 deaths/1,000 population (July 2010 est.)
+
+Mozambique
+  19.83 deaths/1,000 population (July 2010 est.)
+
+Namibia
+  12.97 deaths/1,000 population (July 2010 est.)
+
+Nauru
+  6.15 deaths/1,000 population (July 2010 est.)
+
+Nepal
+  6.89 deaths/1,000 population (July 2010 est.)
+
+Netherlands
+  8.78 deaths/1,000 population (July 2010 est.)
+
+New Caledonia
+  5.23 deaths/1,000 population (July 2010 est.)
+
+New Zealand
+  7.1 deaths/1,000 population (July 2010 est.)
+
+Nicaragua
+  4.28 deaths/1,000 population (July 2010 est.)
+
+Niger
+  14.47 deaths/1,000 population (July 2010 est.)
+
+Nigeria
+  16.31 deaths/1,000 population (July 2010 est.)
+
+Niue
+  NA
+
+Norfolk Island
+  NA
+
+Northern Mariana Islands
+  3.17 deaths/1,000 population (July 2010
+  est.)
+
+Norway
+  9.26 deaths/1,000 population (July 2010 est.)
+
+Oman
+  3.47 deaths/1,000 population (July 2010 est.)
+
+Pakistan
+  7.06 deaths/1,000 population (July 2010 est.)
+
+Palau
+  7.81 deaths/1,000 population (July 2010 est.)
+
+Panama
+  4.62 deaths/1,000 population (July 2010 est.)
+
+Papua New Guinea
+  6.62 deaths/1,000 population (July 2010 est.)
+
+Paraguay
+  4.55 deaths/1,000 population (July 2010 est.)
+
+Peru
+  6.13 deaths/1,000 population (July 2010 est.)
+
+Philippines
+  5.06 deaths/1,000 population (July 2010 est.)
+
+Pitcairn Islands
+  NA
+
+Poland
+  10.1 deaths/1,000 population (July 2010 est.)
+
+Portugal
+  10.74 deaths/1,000 population (July 2010 est.)
+
+Puerto Rico
+  7.82 deaths/1,000 population (July 2010 est.)
+
+Qatar
+  2.44 deaths/1,000 population (July 2010 est.)
+
+Romania
+  11.78 deaths/1,000 population (July 2010 est.)
+
+Russia
+  16.04 deaths/1,000 population (July 2010 est.)
+
+Rwanda
+  10.19 deaths/1,000 population (July 2010 est.)
+
+Saint Helena, Ascension, and Tristan da Cunha
+  6.91 deaths/1,000
+  population (July 2010 est.)
+
+Saint Kitts and Nevis
+  7.11 deaths/1,000 population (July 2010 est.)
+
+Saint Lucia
+  6.9 deaths/1,000 population (July 2010 est.)
+
+Saint Pierre and Miquelon
+  8.41 deaths/1,000 population (July 2010
+  est.)
+
+Saint Vincent and the Grenadines
+  6.94 deaths/1,000 population (July
+  2010 est.)
+
+Samoa
+  5.36 deaths/1,000 population (July 2010 est.)
+
+San Marino
+  7.75 deaths/1,000 population (July 2010 est.)
+
+Sao Tome and Principe
+  8.45 deaths/1,000 population (July 2010 est.)
+
+Saudi Arabia
+  3.34 deaths/1,000 population (July 2010 est.)
+
+Senegal
+  9.49 deaths/1,000 population (July 2010 est.)
+
+Serbia
+  13.89 deaths/1,000 population (July 2010 est.)
+
+Seychelles
+  6.92 deaths/1,000 population (July 2010 est.)
+
+Sierra Leone
+  11.97 deaths/1,000 population (July 2010 est.)
+
+Singapore
+  4.8 deaths/1,000 population (July 2010 est.)
+
+Sint Maarten
+  3 deaths/1,000 population (2009)
+
+Slovakia
+  9.56 deaths/1,000 population (July 2010 est.)
+
+Slovenia
+  10.74 deaths/1,000 population (July 2010 est.)
+
+Solomon Islands
+  3.96 deaths/1,000 population (July 2010 est.)
+
+Somalia
+  15.24 deaths/1,000 population (July 2010 est.)
+
+South Africa
+  16.99 deaths/1,000 population (July 2010 est.)
+
+Spain
+  8.72 deaths/1,000 population (July 2010 est.)
+
+Sri Lanka
+  6.2 deaths/1,000 population (July 2010 est.)
+
+Sudan
+  11.66 deaths/1,000 population (July 2010 est.)
+
+Suriname
+  5.53 deaths/1,000 population (July 2010 est.)
+
+Svalbard
+  NA
+
+Swaziland
+  14.99 deaths/1,000 population (July 2010 est.)
+
+Sweden
+  10.2 deaths/1,000 population (July 2010 est.)
+
+Switzerland
+  8.65 deaths/1,000 population (July 2010 est.)
+
+Syria
+  3.7 deaths/1,000 population (July 2010 est.)
+
+Taiwan
+  6.87 deaths/1,000 population (July 2010 est.)
+
+Tajikistan
+  6.72 deaths/1,000 population (July 2010 est.)
+
+Tanzania
+  12.31 deaths/1,000 population (July 2010 est.)
+
+Thailand
+  6.47 deaths/1,000 population (July 2010 est.)
+
+Timor-Leste
+  5.93 deaths/1,000 population (July 2010 est.)
+
+Togo
+  8.15 deaths/1,000 population (July 2010 est.)
+
+Tokelau
+  NA
+
+Tonga
+  4.95 deaths/1,000 population (July 2010 est.)
+
+Trinidad and Tobago
+  8.21 deaths/1,000 population (July 2010 est.)
+
+Tunisia
+  5.24 deaths/1,000 population (July 2010 est.)
+
+Turkey
+  6.1 deaths/1,000 population (July 2010 est.)
+
+Turkmenistan
+  6.27 deaths/1,000 population (July 2010 est.)
+
+Turks and Caicos Islands
+  4.17 deaths/1,000 population (July 2010
+  est.)
+
+Tuvalu
+  9.36 deaths/1,000 population (July 2010 est.)
+
+Uganda
+  11.9 deaths/1,000 population (July 2010 est.)
+
+Ukraine
+  15.7 deaths/1,000 population (July 2010 est.)
+
+United Arab Emirates
+  2.08 deaths/1,000 population (July 2010 est.)
+
+United Kingdom
+  9.33 deaths/1,000 population (July 2010 est.)
+
+United States
+  8.38 deaths/1,000 population (July 2010 est.)
+
+Uruguay
+  9.06 deaths/1,000 population (July 2010 est.)
+
+Uzbekistan
+  5.29 deaths/1,000 population (July 2010 est.)
+
+Vanuatu
+  7.49 deaths/1,000 population (July 2010 est.)
+
+Venezuela
+  5.14 deaths/1,000 population (July 2010 est.)
+
+Vietnam
+  5.97 deaths/1,000 population (July 2010 est.)
+
+Virgin Islands
+  6.96 deaths/1,000 population (July 2010 est.)
+
+Wallis and Futuna
+  4.56 deaths/1,000 population NA
+
+West Bank
+  3.62 deaths/1,000 population (July 2010 est.)
+
+Western Sahara
+  9.13 deaths/1,000 population (July 2010 est.)
+
+World
+  8.37 deaths/1,000 population (2009 est.)
+
+Yemen
+  7.24 deaths/1,000 population (July 2010 est.)
+
+Zambia
+  12.84 deaths/1,000 population (July 2010 est.)
+
+Zimbabwe
+  14.9 deaths/1,000 population (July 2010 est.)
+
+
+
+
+======================================================================
+
+
+
+
+

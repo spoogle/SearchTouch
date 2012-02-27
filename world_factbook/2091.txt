@@ -1,0 +1,1190 @@
+2091
+
+
+Field Listing :: Infant mortality rate
+
+  This entry gives the number of deaths of infants under one year old
+  in a given year per 1,000 live births in the same year; included is
+  the total death rate, and deaths by sex, male and female. This rate
+  is often used as an indicator of the level of health in a country.
+  Country Comparison to the World
+  Country
+
+
+  Infant mortality rate(deaths/1,000 live births)
+
+Afghanistan
+  total: 151.5 deaths/1,000 live births
+  male: 155.15 deaths/1,000 live births
+  female: 147.67 deaths/1,000 live births (2010 est.)
+
+Albania
+  total: 15.11 deaths/1,000 live births
+  male: 16.79 deaths/1,000 live births
+  female: 13.23 deaths/1,000 live births (2010 est.)
+
+Algeria
+  total: 26.75 deaths/1,000 live births
+  male: 29.8 deaths/1,000 live births
+  female: 23.53 deaths/1,000 live births (2010 est.)
+
+American Samoa
+  total: 9.91 deaths/1,000 live births
+  male: 12.91 deaths/1,000 live births
+  female: 6.73 deaths/1,000 live births (2010 est.)
+
+Andorra
+  total: 3.84 deaths/1,000 live births
+  male: 3.79 deaths/1,000 live births
+  female: 3.89 deaths/1,000 live births (2010 est.)
+
+Angola
+  total: 178.13 deaths/1,000 live births
+  male: 190.12 deaths/1,000 live births
+  female: 165.55 deaths/1,000 live births (2010 est.)
+
+Anguilla
+  total: 3.49 deaths/1,000 live births
+  male: 3.94 deaths/1,000 live births
+  female: 3.03 deaths/1,000 live births (2010 est.)
+
+Antigua and Barbuda
+  total: 15.1 deaths/1,000 live births
+  male: 17.41 deaths/1,000 live births
+  female: 12.69 deaths/1,000 live births (2010 est.)
+
+Argentina
+  total: 11.11 deaths/1,000 live births
+  male: 12.4 deaths/1,000 live births
+  female: 9.75 deaths/1,000 live births (2010 est.)
+
+Armenia
+  total: 19.5 deaths/1,000 live births
+  male: 24.16 deaths/1,000 live births
+  female: 14.23 deaths/1,000 live births (2010 est.)
+
+Aruba
+  total: 13.34 deaths/1,000 live births
+  male: 17.65 deaths/1,000 live births
+  female: 8.94 deaths/1,000 live births (2010 est.)
+
+Australia
+  total: 4.67 deaths/1,000 live births
+  male: 5 deaths/1,000 live births
+  female: 4.33 deaths/1,000 live births (2010 est.)
+
+Austria
+  total: 4.37 deaths/1,000 live births
+  male: 5.31 deaths/1,000 live births
+  female: 3.38 deaths/1,000 live births (2010 est.)
+
+Azerbaijan
+  total: 52.84 deaths/1,000 live births
+  male: 58.37 deaths/1,000 live births
+  female: 46.61 deaths/1,000 live births (2010 est.)
+
+Bahamas, The
+  total: 13.68 deaths/1,000 live births
+  male: 13.68 deaths/1,000 live births
+  female: 13.69 deaths/1,000 live births (2010 est.)
+
+Bahrain
+  total: 14.76 deaths/1,000 live births
+  male: 17.01 deaths/1,000 live births
+  female: 12.44 deaths/1,000 live births (2010 est.)
+
+Bangladesh
+  total: 52.54 deaths/1,000 live births
+  male: 55.04 deaths/1,000 live births
+  female: 49.94 deaths/1,000 live births (2010 est.)
+
+Barbados
+  total: 12.09 deaths/1,000 live births
+  male: 13.42 deaths/1,000 live births
+  female: 10.74 deaths/1,000 live births (2010 est.)
+
+Belarus
+  total: 6.34 deaths/1,000 live births
+  male: 7.34 deaths/1,000 live births
+  female: 5.27 deaths/1,000 live births (2010 est.)
+
+Belgium
+  total: 4.38 deaths/1,000 live births
+  male: 4.92 deaths/1,000 live births
+  female: 3.83 deaths/1,000 live births (2010 est.)
+
+Belize
+  total: 22.52 deaths/1,000 live births
+  male: 25.22 deaths/1,000 live births
+  female: 19.68 deaths/1,000 live births (2010 est.)
+
+Benin
+  total: 63.13 deaths/1,000 live births
+  male: 66.51 deaths/1,000 live births
+  female: 59.58 deaths/1,000 live births (2010 est.)
+
+Bermuda
+  total: 2.46 deaths/1,000 live births
+  male: 2.57 deaths/1,000 live births
+  female: 2.36 deaths/1,000 live births (2010 est.)
+
+Bhutan
+  total: 46.92 deaths/1,000 live births
+  male: 47.8 deaths/1,000 live births
+  female: 45.99 deaths/1,000 live births (2010 est.)
+
+Bolivia
+  total: 43.41 deaths/1,000 live births
+  male: 47.26 deaths/1,000 live births
+  female: 39.37 deaths/1,000 live births (2010 est.)
+
+Bosnia and Herzegovina
+  total: 8.88 deaths/1,000 live births
+  male: 10.18 deaths/1,000 live births
+  female: 7.47 deaths/1,000 live births (2010 est.)
+
+Botswana
+  total: 11.79 deaths/1,000 live births
+  male: 12.51 deaths/1,000 live births
+  female: 11.05 deaths/1,000 live births (2010 est.)
+
+Brazil
+  total: 21.86 deaths/1,000 live births
+  male: 25.39 deaths/1,000 live births
+  female: 18.15 deaths/1,000 live births (2010 est.)
+
+British Virgin Islands
+  total: 14.11 deaths/1,000 live births
+  male: 16.01 deaths/1,000 live births
+  female: 12.12 deaths/1,000 live births (2010 est.)
+
+Brunei
+  total: 11.87 deaths/1,000 live births
+  male: 14.19 deaths/1,000 live births
+  female: 9.44 deaths/1,000 live births (2010 est.)
+
+Bulgaria
+  total: 17.26 deaths/1,000 live births
+  male: 20.59 deaths/1,000 live births
+  female: 13.73 deaths/1,000 live births (2010 est.)
+
+Burkina Faso
+  total: 82.98 deaths/1,000 live births
+  male: 90.53 deaths/1,000 live births
+  female: 75.21 deaths/1,000 live births (2010 est.)
+
+Burma
+  total: 50.76 deaths/1,000 live births
+  male: 57.85 deaths/1,000 live births
+  female: 43.24 deaths/1,000 live births (2010 est.)
+
+Burundi
+  total: 63.38 deaths/1,000 live births
+  male: 68.02 deaths/1,000 live births
+  female: 58.6 deaths/1,000 live births (2010 est.)
+
+Cambodia
+  total: 56.94 deaths/1,000 live births
+  male: 64.09 deaths/1,000 live births
+  female: 49.47 deaths/1,000 live births (2010 est.)
+
+Cameroon
+  total: 62.15 deaths/1,000 live births
+  male: 66.8 deaths/1,000 live births
+  female: 57.36 deaths/1,000 live births (2010 est.)
+
+Canada
+  total: 4.99 deaths/1,000 live births
+  male: 5.34 deaths/1,000 live births
+  female: 4.63 deaths/1,000 live births (2010 est.)
+
+Cape Verde
+  total: 27.89 deaths/1,000 live births
+  male: 31.86 deaths/1,000 live births
+  female: 23.79 deaths/1,000 live births (2010 est.)
+
+Cayman Islands
+  total: 6.78 deaths/1,000 live births
+  male: 7.77 deaths/1,000 live births
+  female: 5.76 deaths/1,000 live births (2010 est.)
+
+Central African Republic
+  total: 101.6 deaths/1,000 live births
+  male: 109.65 deaths/1,000 live births
+  female: 93.3 deaths/1,000 live births (2010 est.)
+
+Chad
+  total: 97.05 deaths/1,000 live births
+  male: 103 deaths/1,000 live births
+  female: 90.87 deaths/1,000 live births (2010 est.)
+
+Chile
+  total: 7.52 deaths/1,000 live births
+  male: 8.29 deaths/1,000 live births
+  female: 6.71 deaths/1,000 live births (2010 est.)
+
+China
+  total: 16.51 deaths/1,000 live births
+  male: 15.84 deaths/1,000 live births
+  female: 17.27 deaths/1,000 live births (2010 est.)
+
+Christmas Island
+  total: NA
+  male: NA
+  female: NA
+
+Cocos (Keeling) Islands
+  total: NA
+  male: NA
+  female: NA
+
+Colombia
+  total: 16.87 deaths/1,000 live births
+  male: 20.52 deaths/1,000 live births
+  female: 13.01 deaths/1,000 live births (2010 est.)
+
+Comoros
+  total: 64.61 deaths/1,000 live births
+  male: 72.41 deaths/1,000 live births
+  female: 56.58 deaths/1,000 live births (2010 est.)
+
+Congo, Democratic Republic of the
+  total: 79.36 deaths/1,000 live
+  births
+  male: 87.13 deaths/1,000 live births
+  female: 71.36 deaths/1,000 live births (2010 est.)
+
+Congo, Republic of the
+  total: 77.93 deaths/1,000 live births
+  male: 83.39 deaths/1,000 live births
+  female: 72.31 deaths/1,000 live births (2010 est.)
+
+Cook Islands
+  total: 16.33 deaths/1,000 live births
+  male: 19.88 deaths/1,000 live births
+  female: 12.61 deaths/1,000 live births (2010 est.)
+
+Costa Rica
+  total: 9.72 deaths/1,000 live births
+  male: 10.59 deaths/1,000 live births
+  female: 8.81 deaths/1,000 live births (2010 est.)
+
+Cote d'Ivoire
+  total: 66.43 deaths/1,000 live births
+  male: 73.37 deaths/1,000 live births
+  female: 59.29 deaths/1,000 live births (2010 est.)
+
+Croatia
+  total: 6.26 deaths/1,000 live births
+  male: 6.33 deaths/1,000 live births
+  female: 6.2 deaths/1,000 live births (2010 est.)
+
+Cuba
+  total: 5.72 deaths/1,000 live births
+  male: 6.39 deaths/1,000 live births
+  female: 5 deaths/1,000 live births (2010 est.)
+
+Cyprus
+  total: 9.57 deaths/1,000 live births
+  male: 11.46 deaths/1,000 live births
+  female: 7.58 deaths/1,000 live births (2010 est.)
+
+Czech Republic
+  total: 3.76 deaths/1,000 live births
+  male: 4.1 deaths/1,000 live births
+  female: 3.4 deaths/1,000 live births (2010 est.)
+
+Denmark
+  total: 4.29 deaths/1,000 live births
+  male: 4.34 deaths/1,000 live births
+  female: 4.23 deaths/1,000 live births (2010 est.)
+
+Djibouti
+  total: 56.65 deaths/1,000 live births
+  male: 64.55 deaths/1,000 live births
+  female: 48.52 deaths/1,000 live births (2010 est.)
+
+Dominica
+  total: 13.2 deaths/1,000 live births
+  male: 17.7 deaths/1,000 live births
+  female: 8.46 deaths/1,000 live births (2010 est.)
+
+Dominican Republic
+  total: 23.1 deaths/1,000 live births
+  male: 25.11 deaths/1,000 live births
+  female: 21 deaths/1,000 live births (2010 est.)
+
+Ecuador
+  total: 20.26 deaths/1,000 live births
+  male: 23.7 deaths/1,000 live births
+  female: 16.66 deaths/1,000 live births (2010 est.)
+
+Egypt
+  total: 26.2 deaths/1,000 live births
+  male: 27.84 deaths/1,000 live births
+  female: 24.48 deaths/1,000 live births (2010 est.)
+
+El Salvador
+  total: 20.97 deaths/1,000 live births
+  male: 23.01 deaths/1,000 live births
+  female: 18.82 deaths/1,000 live births (2010 est.)
+
+Equatorial Guinea
+  total: 79.47 deaths/1,000 live births
+  male: 80.55 deaths/1,000 live births
+  female: 78.36 deaths/1,000 live births (2010 est.)
+
+Eritrea
+  total: 42.33 deaths/1,000 live births
+  male: 47.87 deaths/1,000 live births
+  female: 36.63 deaths/1,000 live births (2010 est.)
+
+Estonia
+  total: 7.19 deaths/1,000 live births
+  male: 8.34 deaths/1,000 live births
+  female: 5.96 deaths/1,000 live births (2010 est.)
+
+Ethiopia
+  total: 78.99 deaths/1,000 live births
+  male: 90.08 deaths/1,000 live births
+  female: 67.56 deaths/1,000 live births (2010 est.)
+
+European Union
+  total: 5.61 deaths/1,000 live births
+  male: 6.26 deaths/1,000 live births
+  female: 4.93 deaths/1,000 live births (2010 est.)
+
+Falkland Islands (Islas Malvinas)
+  total: NA
+  male: NA
+  female: NA
+
+Faroe Islands
+  total: 6.18 deaths/1,000 live births
+  male: 6.43 deaths/1,000 live births
+  female: 5.91 deaths/1,000 live births (2010 est.)
+
+Fiji
+  total: 11.28 deaths/1,000 live births
+  male: 12.42 deaths/1,000 live births
+  female: 10.08 deaths/1,000 live births (2010 est.)
+
+Finland
+  total: 3.45 deaths/1,000 live births
+  male: 3.75 deaths/1,000 live births
+  female: 3.13 deaths/1,000 live births (2010 est.)
+
+France
+  total: 3.31 deaths/1,000 live births
+  male: 3.63 deaths/1,000 live births
+  female: 2.98 deaths/1,000 live births (2010 est.)
+
+French Polynesia
+  total: 7.41 deaths/1,000 live births
+  male: 8.51 deaths/1,000 live births
+  female: 6.26 deaths/1,000 live births (2010 est.)
+
+Gabon
+  total: 50.88 deaths/1,000 live births
+  male: 59 deaths/1,000 live births
+  female: 42.51 deaths/1,000 live births (2010 est.)
+
+Gambia, The
+  total: 67.49 deaths/1,000 live births
+  male: 73.52 deaths/1,000 live births
+  female: 61.27 deaths/1,000 live births (2010 est.)
+
+Gaza Strip
+  total: 17.71 deaths/1,000 live births
+  male: 18.87 deaths/1,000 live births
+  female: 16.48 deaths/1,000 live births (2010 est.)
+
+Georgia
+  total: 15.67 deaths/1,000 live births
+  male: 17.64 deaths/1,000 live births
+  female: 13.48 deaths/1,000 live births (2010 est.)
+
+Germany
+  total: 3.95 deaths/1,000 live births
+  male: 4.36 deaths/1,000 live births
+  female: 3.51 deaths/1,000 live births (2010 est.)
+
+Ghana
+  total: 49.89 deaths/1,000 live births
+  male: 53.38 deaths/1,000 live births
+  female: 46.29 deaths/1,000 live births (2010 est.)
+
+Gibraltar
+  total: 6.82 deaths/1,000 live births
+  male: 7.6 deaths/1,000 live births
+  female: 5.99 deaths/1,000 live births (2010 est.)
+
+Greece
+  total: 5.08 deaths/1,000 live births
+  male: 5.58 deaths/1,000 live births
+  female: 4.54 deaths/1,000 live births (2010 est.)
+
+Greenland
+  total: 10.26 deaths/1,000 live births
+  male: 11.71 deaths/1,000 live births
+  female: 8.73 deaths/1,000 live births (2010 est.)
+
+Grenada
+  total: 11.76 deaths/1,000 live births
+  male: 10.8 deaths/1,000 live births
+  female: 12.82 deaths/1,000 live births (2010 est.)
+
+Guam
+  total: 5.93 deaths/1,000 live births
+  male: 6.35 deaths/1,000 live births
+  female: 5.49 deaths/1,000 live births (2010 est.)
+
+Guatemala
+  total: 26.91 deaths/1,000 live births
+  male: 29.22 deaths/1,000 live births
+  female: 24.49 deaths/1,000 live births (2010 est.)
+
+Guernsey
+  total: 3.58 deaths/1,000 live births
+  male: 3.9 deaths/1,000 live births
+  female: 3.24 deaths/1,000 live births (2010 est.)
+
+Guinea
+  total: 63.09 deaths/1,000 live births
+  male: 66.46 deaths/1,000 live births
+  female: 59.62 deaths/1,000 live births (2010 est.)
+
+Guinea-Bissau
+  total: 98.05 deaths/1,000 live births
+  male: 108.03 deaths/1,000 live births
+  female: 87.77 deaths/1,000 live births (2010 est.)
+
+Guyana
+  total: 37.89 deaths/1,000 live births
+  male: 42.3 deaths/1,000 live births
+  female: 33.26 deaths/1,000 live births (2010 est.)
+
+Haiti
+  total: 54.02 deaths/1,000 live births
+  male: 58.16 deaths/1,000 live births
+  female: 49.83 deaths/1,000 live births
+  note: the preliminary 2011 numbers differ significantly from those
+  of 2010, which were strongly influenced by the demographic effect of
+  the January 2010 earthquake; the latest figures more closely
+  correspond to those of 2009 (2011 est.)
+
+Honduras
+  total: 21.04 deaths/1,000 live births
+  male: 23.82 deaths/1,000 live births
+  female: 18.12 deaths/1,000 live births (2010 est.)
+
+Hong Kong
+  total: 2.91 deaths/1,000 live births
+  male: 3.09 deaths/1,000 live births
+  female: 2.72 deaths/1,000 live births (2010 est.)
+
+Hungary
+  total: 5.38 deaths/1,000 live births
+  male: 5.64 deaths/1,000 live births
+  female: 5.12 deaths/1,000 live births (2010 est.)
+
+Iceland
+  total: 3.21 deaths/1,000 live births
+  male: 3.36 deaths/1,000 live births
+  female: 3.07 deaths/1,000 live births (2010 est.)
+
+India
+  total: 49.13 deaths/1,000 live births
+  male: 47.7 deaths/1,000 live births
+  female: 50.73 deaths/1,000 live births (2010 est.)
+
+Indonesia
+  total: 28.94 deaths/1,000 live births
+  male: 33.76 deaths/1,000 live births
+  female: 23.89 deaths/1,000 live births (2010 est.)
+
+Iran
+  total: 43.45 deaths/1,000 live births
+  male: 43.93 deaths/1,000 live births
+  female: 42.95 deaths/1,000 live births (2010 est.)
+
+Iraq
+  total: 43.16 deaths/1,000 live births
+  male: 47.47 deaths/1,000 live births
+  female: 38.62 deaths/1,000 live births (2010 est.)
+
+Ireland
+  total: 3.89 deaths/1,000 live births
+  male: 4.29 deaths/1,000 live births
+  female: 3.47 deaths/1,000 live births (2010 est.)
+
+Isle of Man
+  total: 4.38 deaths/1,000 live births
+  male: 4.3 deaths/1,000 live births
+  female: 4.47 deaths/1,000 live births (2010 est.)
+
+Israel
+  total: 4.17 deaths/1,000 live births
+  male: 4.34 deaths/1,000 live births
+  female: 3.99 deaths/1,000 live births (2010 est.)
+
+Italy
+  total: 5.41 deaths/1,000 live births
+  male: 5.96 deaths/1,000 live births
+  female: 4.82 deaths/1,000 live births (2010 est.)
+
+Jamaica
+  total: 14.91 deaths/1,000 live births
+  male: 15.5 deaths/1,000 live births
+  female: 14.3 deaths/1,000 live births (2010 est.)
+
+Japan
+  total: 2.79 deaths/1,000 live births
+  male: 2.98 deaths/1,000 live births
+  female: 2.58 deaths/1,000 live births (2010 est.)
+
+Jersey
+  total: 4.02 deaths/1,000 live births
+  male: 4.25 deaths/1,000 live births
+  female: 3.79 deaths/1,000 live births (2010 est.)
+
+Jordan
+  total: 17.03 deaths/1,000 live births
+  male: 17.55 deaths/1,000 live births
+  female: 16.48 deaths/1,000 live births (2010 est.)
+
+Kazakhstan
+  total: 24.93 deaths/1,000 live births
+  male: 29.29 deaths/1,000 live births
+  female: 20.32 deaths/1,000 live births (2010 est.)
+
+Kenya
+  total: 53.49 deaths/1,000 live births
+  male: 56.28 deaths/1,000 live births
+  female: 50.63 deaths/1,000 live births (2010 est.)
+
+Kiribati
+  total: 40.13 deaths/1,000 live births
+  male: 41.38 deaths/1,000 live births
+  female: 38.82 deaths/1,000 live births (2010 est.)
+
+Korea, North
+  total: 50.15 deaths/1,000 live births
+  male: 57.39 deaths/1,000 live births
+  female: 42.47 deaths/1,000 live births (2010 est.)
+
+Korea, South
+  total: 4.24 deaths/1,000 live births
+  male: 4.46 deaths/1,000 live births
+  female: 4 deaths/1,000 live births (2010 est.)
+
+Kuwait
+  total: 8.75 deaths/1,000 live births
+  male: 9.35 deaths/1,000 live births
+  female: 8.13 deaths/1,000 live births (2010 est.)
+
+Kyrgyzstan
+  total: 30.25 deaths/1,000 live births
+  male: 35.09 deaths/1,000 live births
+  female: 25.15 deaths/1,000 live births (2010 est.)
+
+Laos
+  total: 61.19 deaths/1,000 live births
+  male: 67.36 deaths/1,000 live births
+  female: 54.78 deaths/1,000 live births (2010 est.)
+
+Latvia
+  total: 8.59 deaths/1,000 live births
+  male: 10.41 deaths/1,000 live births
+  female: 6.67 deaths/1,000 live births (2010 est.)
+
+Lebanon
+  total: 16.4 deaths/1,000 live births
+  male: 16.52 deaths/1,000 live births
+  female: 16.28 deaths/1,000 live births (2010 est.)
+
+Lesotho
+  total: 56.42 deaths/1,000 live births
+  male: 60.78 deaths/1,000 live births
+  female: 51.93 deaths/1,000 live births (2010 est.)
+
+Liberia
+  total: 76.43 deaths/1,000 live births
+  male: 80.92 deaths/1,000 live births
+  female: 71.8 deaths/1,000 live births (2010 est.)
+
+Libya
+  total: 20.87 deaths/1,000 live births
+  male: 22.87 deaths/1,000 live births
+  female: 18.78 deaths/1,000 live births (2010 est.)
+
+Liechtenstein
+  total: 4.2 deaths/1,000 live births
+  male: 5.45 deaths/1,000 live births
+  female: 2.94 deaths/1,000 live births (2010 est.)
+
+Lithuania
+  total: 6.37 deaths/1,000 live births
+  male: 7.61 deaths/1,000 live births
+  female: 5.06 deaths/1,000 live births (2010 est.)
+
+Luxembourg
+  total: 4.49 deaths/1,000 live births
+  male: 4.51 deaths/1,000 live births
+  female: 4.48 deaths/1,000 live births (2010 est.)
+
+Macau
+  total: 3.2 deaths/1,000 live births
+  male: 3.36 deaths/1,000 live births
+  female: 3.04 deaths/1,000 live births (2010 est.)
+
+Macedonia
+  total: 8.76 deaths/1,000 live births
+  male: 8.98 deaths/1,000 live births
+  female: 8.53 deaths/1,000 live births (2010 est.)
+
+Madagascar
+  total: 52.84 deaths/1,000 live births
+  male: 57.69 deaths/1,000 live births
+  female: 47.84 deaths/1,000 live births (2010 est.)
+
+Malawi
+  total: 83.5 deaths/1,000 live births
+  male: 87.6 deaths/1,000 live births
+  female: 79.34 deaths/1,000 live births (2010 est.)
+
+Malaysia
+  total: 15.5 deaths/1,000 live births
+  male: 17.92 deaths/1,000 live births
+  female: 12.91 deaths/1,000 live births (2010 est.)
+
+Maldives
+  total: 28.47 deaths/1,000 live births
+  male: 30.97 deaths/1,000 live births
+  female: 25.85 deaths/1,000 live births (2010 est.)
+
+Mali
+  total: 113.66 deaths/1,000 live births
+  male: 120.5 deaths/1,000 live births
+  female: 106.61 deaths/1,000 live births (2010 est.)
+
+Malta
+  total: 3.72 deaths/1,000 live births
+  male: 4.16 deaths/1,000 live births
+  female: 3.25 deaths/1,000 live births (2010 est.)
+
+Marshall Islands
+  total: 24.57 deaths/1,000 live births
+  male: 27.61 deaths/1,000 live births
+  female: 21.38 deaths/1,000 live births (2010 est.)
+
+Mauritania
+  total: 61.94 deaths/1,000 live births
+  male: 67.13 deaths/1,000 live births
+  female: 56.6 deaths/1,000 live births (2010 est.)
+
+Mauritius
+  total: 11.85 deaths/1,000 live births
+  male: 14.09 deaths/1,000 live births
+  female: 9.49 deaths/1,000 live births (2010 est.)
+
+Mayotte
+  total: 54.75 deaths/1,000 live births
+  male: 60.23 deaths/1,000 live births
+  female: 49.09 deaths/1,000 live births (2010 est.)
+
+Mexico
+  total: 17.84 deaths/1,000 live births
+  male: 19.71 deaths/1,000 live births
+  female: 15.88 deaths/1,000 live births (2010 est.)
+
+Micronesia, Federated States of
+  total: 25.2 deaths/1,000 live births
+  male: 27.82 deaths/1,000 live births
+  female: 22.45 deaths/1,000 live births (2010 est.)
+
+Moldova
+  total: 12.77 deaths/1,000 live births
+  male: 14.2 deaths/1,000 live births
+  female: 11.25 deaths/1,000 live births (2010 est.)
+
+Monaco
+  total: 1.78 deaths/1,000 live births
+  male: 2.03 deaths/1,000 live births
+  female: 1.53 deaths/1,000 live births (2010 est.)
+
+Mongolia
+  total: 38.56 deaths/1,000 live births
+  male: 41.63 deaths/1,000 live births
+  female: 35.35 deaths/1,000 live births (2010 est.)
+
+Montserrat
+  total: 15.8 deaths/1,000 live births
+  male: 11.9 deaths/1,000 live births
+  female: 19.88 deaths/1,000 live births (2010 est.)
+
+Morocco
+  total: 28.61 deaths/1,000 live births
+  male: 33.52 deaths/1,000 live births
+  female: 23.46 deaths/1,000 live births (2010 est.)
+
+Mozambique
+  total: 103.82 deaths/1,000 live births
+  male: 106.53 deaths/1,000 live births
+  female: 101.07 deaths/1,000 live births (2010 est.)
+
+Namibia
+  total: 45.52 deaths/1,000 live births
+  male: 48.89 deaths/1,000 live births
+  female: 42.05 deaths/1,000 live births (2010 est.)
+
+Nauru
+  total: 8.81 deaths/1,000 live births
+  male: 11.36 deaths/1,000 live births
+  female: 6.68 deaths/1,000 live births (2010 est.)
+
+Nepal
+  total: 46 deaths/1,000 live births
+  male: 45.97 deaths/1,000 live births
+  female: 46.04 deaths/1,000 live births (2010 est.)
+
+Netherlands
+  total: 4.66 deaths/1,000 live births
+  male: 5.16 deaths/1,000 live births
+  female: 4.12 deaths/1,000 live births (2010 est.)
+
+New Caledonia
+  total: 5.8 deaths/1,000 live births
+  male: 6.85 deaths/1,000 live births
+  female: 4.69 deaths/1,000 live births (2010 est.)
+
+New Zealand
+  total: 4.85 deaths/1,000 live births
+  male: 5.45 deaths/1,000 live births
+  female: 4.22 deaths/1,000 live births (2010 est.)
+
+Nicaragua
+  total: 24.16 deaths/1,000 live births
+  male: 27.14 deaths/1,000 live births
+  female: 21.03 deaths/1,000 live births (2010 est.)
+
+Niger
+  total: 114.5 deaths/1,000 live births
+  male: 119.52 deaths/1,000 live births
+  female: 109.34 deaths/1,000 live births (2010 est.)
+
+Nigeria
+  total: 92.99 deaths/1,000 live births
+  male: 98.94 deaths/1,000 live births
+  female: 86.69 deaths/1,000 live births (2010 est.)
+
+Niue
+  total: NA
+  male: NA
+  female: NA
+
+Norfolk Island
+  total: NA
+  male: NA
+  female: NA
+
+Northern Mariana Islands
+  total: 5.89 deaths/1,000 live births
+  male: 6.29 deaths/1,000 live births
+  female: 5.47 deaths/1,000 live births (2010 est.)
+
+Norway
+  total: 3.55 deaths/1,000 live births
+  male: 3.88 deaths/1,000 live births
+  female: 3.19 deaths/1,000 live births (2010 est.)
+
+Oman
+  total: 16 deaths/1,000 live births
+  male: 16.28 deaths/1,000 live births
+  female: 15.71 deaths/1,000 live births (2010 est.)
+
+Pakistan
+  total: 65.32 deaths/1,000 live births
+  male: 68.59 deaths/1,000 live births
+  female: 61.89 deaths/1,000 live births (2010 est.)
+
+Palau
+  total: 12.78 deaths/1,000 live births
+  male: 14.43 deaths/1,000 live births
+  female: 11.02 deaths/1,000 live births (2010 est.)
+
+Panama
+  total: 11.97 deaths/1,000 live births
+  male: 12.75 deaths/1,000 live births
+  female: 11.15 deaths/1,000 live births (2010 est.)
+
+Papua New Guinea
+  total: 44.59 deaths/1,000 live births
+  male: 48.47 deaths/1,000 live births
+  female: 40.52 deaths/1,000 live births (2010 est.)
+
+Paraguay
+  total: 23.83 deaths/1,000 live births
+  male: 27.84 deaths/1,000 live births
+  female: 19.62 deaths/1,000 live births (2010 est.)
+
+Peru
+  total: 27.74 deaths/1,000 live births
+  male: 30.15 deaths/1,000 live births
+  female: 25.21 deaths/1,000 live births (2010 est.)
+
+Philippines
+  total: 19.94 deaths/1,000 live births
+  male: 22.49 deaths/1,000 live births
+  female: 17.26 deaths/1,000 live births (2010 est.)
+
+Pitcairn Islands
+  total: NA
+  male: NA
+  female: NA
+
+Poland
+  total: 6.66 deaths/1,000 live births
+  male: 7.38 deaths/1,000 live births
+  female: 5.9 deaths/1,000 live births (2010 est.)
+
+Portugal
+  total: 4.72 deaths/1,000 live births
+  male: 5.17 deaths/1,000 live births
+  female: 4.23 deaths/1,000 live births (2010 est.)
+
+Puerto Rico
+  total: 8.23 deaths/1,000 live births
+  male: 9 deaths/1,000 live births
+  female: 7.43 deaths/1,000 live births (2010 est.)
+
+Qatar
+  total: 12.24 deaths/1,000 live births
+  male: 13.02 deaths/1,000 live births
+  female: 11.41 deaths/1,000 live births (2010 est.)
+
+Romania
+  total: 11.32 deaths/1,000 live births
+  male: 12.76 deaths/1,000 live births
+  female: 9.8 deaths/1,000 live births (2010 est.)
+
+Russia
+  total: 10.32 deaths/1,000 live births
+  male: 11.83 deaths/1,000 live births
+  female: 8.71 deaths/1,000 live births (2010 est.)
+
+Rwanda
+  total: 65.57 deaths/1,000 live births
+  male: 69.21 deaths/1,000 live births
+  female: 61.83 deaths/1,000 live births (2010 est.)
+
+Saint Helena, Ascension, and Tristan da Cunha
+  total: 16.98
+  deaths/1,000 live births
+  male: 19.97 deaths/1,000 live births
+  female: 13.84 deaths/1,000 live births (2010 est.)
+
+Saint Kitts and Nevis
+  total: 9.9 deaths/1,000 live births
+  male: 6.45 deaths/1,000 live births
+  female: 13.41 deaths/1,000 live births (2010 est.)
+
+Saint Lucia
+  total: 13.07 deaths/1,000 live births
+  male: 12.19 deaths/1,000 live births
+  female: 13.99 deaths/1,000 live births (2010 est.)
+
+Saint Pierre and Miquelon
+  total: 7.65 deaths/1,000 live births
+  male: 8.94 deaths/1,000 live births
+  female: 6.29 deaths/1,000 live births (2010 est.)
+
+Saint Vincent and the Grenadines
+  total: 14.7 deaths/1,000 live births
+  male: 16 deaths/1,000 live births
+  female: 13.35 deaths/1,000 live births (2010 est.)
+
+Samoa
+  total: 23.21 deaths/1,000 live births
+  male: 27.42 deaths/1,000 live births
+  female: 18.78 deaths/1,000 live births (2010 est.)
+
+San Marino
+  total: 4.79 deaths/1,000 live births
+  male: 4.97 deaths/1,000 live births
+  female: 4.59 deaths/1,000 live births (2010 est.)
+
+Sao Tome and Principe
+  total: 54.64 deaths/1,000 live births
+  male: 56.75 deaths/1,000 live births
+  female: 52.46 deaths/1,000 live births (2010 est.)
+
+Saudi Arabia
+  total: 16.73 deaths/1,000 live births
+  male: 19.19 deaths/1,000 live births
+  female: 14.14 deaths/1,000 live births (2010 est.)
+
+Senegal
+  total: 57.7 deaths/1,000 live births
+  male: 64.34 deaths/1,000 live births
+  female: 50.86 deaths/1,000 live births (2010 est.)
+
+Serbia
+  total: 6.65 deaths/1,000 live births
+  male: 7.68 deaths/1,000 live births
+  female: 5.56 deaths/1,000 live births (2010 est.)
+
+Seychelles
+  total: 11.97 deaths/1,000 live births
+  male: 15.02 deaths/1,000 live births
+  female: 8.82 deaths/1,000 live births (2010 est.)
+
+Sierra Leone
+  total: 80.16 deaths/1,000 live births
+  male: 89.06 deaths/1,000 live births
+  female: 70.99 deaths/1,000 live births (2010 est.)
+
+Singapore
+  total: 2.32 deaths/1,000 live births
+  male: 2.52 deaths/1,000 live births
+  female: 2.1 deaths/1,000 live births (2010 est.)
+
+Slovakia
+  total: 6.71 deaths/1,000 live births
+  male: 7.83 deaths/1,000 live births
+  female: 5.53 deaths/1,000 live births (2010 est.)
+
+Slovenia
+  total: 4.21 deaths/1,000 live births
+  male: 4.76 deaths/1,000 live births
+  female: 3.62 deaths/1,000 live births (2010 est.)
+
+Solomon Islands
+  total: 18.41 deaths/1,000 live births
+  male: 20.95 deaths/1,000 live births
+  female: 15.74 deaths/1,000 live births (2010 est.)
+
+Somalia
+  total: 107.42 deaths/1,000 live births
+  male: 116.47 deaths/1,000 live births
+  female: 98.11 deaths/1,000 live births (2010 est.)
+
+South Africa
+  total: 43.78 deaths/1,000 live births
+  male: 47.88 deaths/1,000 live births
+  female: 39.59 deaths/1,000 live births (2010 est.)
+
+Spain
+  total: 3.42 deaths/1,000 live births
+  male: 3.77 deaths/1,000 live births
+  female: 3.04 deaths/1,000 live births (2010 est.)
+
+Sri Lanka
+  total: 18.14 deaths/1,000 live births
+  male: 19.9 deaths/1,000 live births
+  female: 16.3 deaths/1,000 live births (2010 est.)
+
+Sudan
+  total: 72.39 deaths/1,000 live births
+  male: 73.08 deaths/1,000 live births
+  female: 71.67 deaths/1,000 live births (2010 est.)
+
+Suriname
+  total: 18.19 deaths/1,000 live births
+  male: 21.48 deaths/1,000 live births
+  female: 14.67 deaths/1,000 live births (2010 est.)
+
+Svalbard
+  total: NA
+  male: NA
+  female: NA
+
+Swaziland
+  total: 66.71 deaths/1,000 live births
+  male: 70.76 deaths/1,000 live births
+  female: 62.54 deaths/1,000 live births (2010 est.)
+
+Sweden
+  total: 2.74 deaths/1,000 live births
+  male: 2.9 deaths/1,000 live births
+  female: 2.57 deaths/1,000 live births (2010 est.)
+
+Switzerland
+  total: 4.12 deaths/1,000 live births
+  male: 4.58 deaths/1,000 live births
+  female: 3.64 deaths/1,000 live births (2010 est.)
+
+Syria
+  total: 16.14 deaths/1,000 live births
+  male: 18.55 deaths/1,000 live births
+  female: 13.57 deaths/1,000 live births (2010 est.)
+
+Taiwan
+  total: 5.26 deaths/1,000 live births
+  male: 5.53 deaths/1,000 live births
+  female: 4.96 deaths/1,000 live births (2010 est.)
+
+Tajikistan
+  total: 39.78 deaths/1,000 live births
+  male: 44.55 deaths/1,000 live births
+  female: 34.77 deaths/1,000 live births (2010 est.)
+
+Tanzania
+  total: 68.13 deaths/1,000 live births
+  male: 75 deaths/1,000 live births
+  female: 61.05 deaths/1,000 live births (2010 est.)
+
+Thailand
+  total: 16.71 deaths/1,000 live births
+  male: 17.7 deaths/1,000 live births
+  female: 15.66 deaths/1,000 live births (2010 est.)
+
+Timor-Leste
+  total: 39.32 deaths/1,000 live births
+  male: 45.19 deaths/1,000 live births
+  female: 33.15 deaths/1,000 live births (2010 est.)
+
+Togo
+  total: 53.23 deaths/1,000 live births
+  male: 60.29 deaths/1,000 live births
+  female: 45.97 deaths/1,000 live births (2010 est.)
+
+Tokelau
+  total: NA
+  male: NA
+  female: NA
+
+Tonga
+  total: 11.28 deaths/1,000 live births
+  male: 12.42 deaths/1,000 live births
+  female: 10.08 deaths/1,000 live births (2010 est.)
+
+Trinidad and Tobago
+  total: 28.9 deaths/1,000 live births
+  male: 30.12 deaths/1,000 live births
+  female: 27.65 deaths/1,000 live births (2010 est.)
+
+Tunisia
+  total: 21.75 deaths/1,000 live births
+  male: 23.94 deaths/1,000 live births
+  female: 19.39 deaths/1,000 live births (2010 est.)
+
+Turkey
+  total: 24.84 deaths/1,000 live births
+  male: 25.89 deaths/1,000 live births
+  female: 23.73 deaths/1,000 live births (2010 est.)
+
+Turkmenistan
+  total: 43.84 deaths/1,000 live births
+  male: 52.13 deaths/1,000 live births
+  female: 35.14 deaths/1,000 live births (2010 est.)
+
+Turks and Caicos Islands
+  total: 13.43 deaths/1,000 live births
+  male: 15.5 deaths/1,000 live births
+  female: 11.26 deaths/1,000 live births (2010 est.)
+
+Tuvalu
+  total: 35.52 deaths/1,000 live births
+  male: 38.66 deaths/1,000 live births
+  female: 32.22 deaths/1,000 live births (2010 est.)
+
+Uganda
+  total: 63.7 deaths/1,000 live births
+  male: 67.31 deaths/1,000 live births
+  female: 59.98 deaths/1,000 live births (2010 est.)
+
+Ukraine
+  total: 8.73 deaths/1,000 live births
+  male: 10.95 deaths/1,000 live births
+  female: 6.38 deaths/1,000 live births (2010 est.)
+
+United Arab Emirates
+  total: 12.3 deaths/1,000 live births
+  male: 14.38 deaths/1,000 live births
+  female: 10.12 deaths/1,000 live births (2010 est.)
+
+United Kingdom
+  total: 4.69 deaths/1,000 live births
+  male: 5.15 deaths/1,000 live births
+  female: 4.2 deaths/1,000 live births (2010 est.)
+
+United States
+  total: 6.14 deaths/1,000 live births
+  male: 6.81 deaths/1,000 live births
+  female: 5.44 deaths/1,000 live births (2010 est.)
+
+Uruguay
+  total: 10.99 deaths/1,000 live births
+  male: 12.37 deaths/1,000 live births
+  female: 9.57 deaths/1,000 live births (2010 est.)
+
+Uzbekistan
+  total: 22.66 deaths/1,000 live births
+  male: 26.81 deaths/1,000 live births
+  female: 18.25 deaths/1,000 live births (2010 est.)
+
+Vanuatu
+  total: 48.17 deaths/1,000 live births
+  male: 50.65 deaths/1,000 live births
+  female: 45.56 deaths/1,000 live births (2010 est.)
+
+Venezuela
+  total: 21.07 deaths/1,000 live births
+  male: 24.6 deaths/1,000 live births
+  female: 17.37 deaths/1,000 live births (2010 est.)
+
+Vietnam
+  total: 21.57 deaths/1,000 live births
+  male: 21.95 deaths/1,000 live births
+  female: 21.15 deaths/1,000 live births (2010 est.)
+
+Virgin Islands
+  total: 7.4 deaths/1,000 live births
+  male: 8.14 deaths/1,000 live births
+  female: 6.63 deaths/1,000 live births (2010 est.)
+
+Wallis and Futuna
+  total: 4.74 deaths/1,000 live births
+  male: 4.98 deaths/1,000 live births
+  female: 4.48 deaths/1,000 live births (2010 est.)
+
+West Bank
+  total: 15.41 deaths/1,000 live births
+  male: 17.29 deaths/1,000 live births
+  female: 13.42 deaths/1,000 live births (2010 est.)
+
+Western Sahara
+  total: 61.97 deaths/1,000 live births
+  male: 67.13 deaths/1,000 live births
+  female: 56.6 deaths/1,000 live births (2010 est.)
+
+World
+  total: 44.13 deaths/1,000 live births
+  male: 46.19 deaths/1,000 live births
+  female: 41.92 deaths/1,000 live births (2009 est.)
+
+Yemen
+  total: 56.77 deaths/1,000 live births
+  male: 61.46 deaths/1,000 live births
+  female: 51.85 deaths/1,000 live births (2010 est.)
+
+Zambia
+  total: 68.4 deaths/1,000 live births
+  male: 73.1 deaths/1,000 live births
+  female: 63.56 deaths/1,000 live births (2010 est.)
+
+Zimbabwe
+  total: 30.9 deaths/1,000 live births
+  male: 33.44 deaths/1,000 live births
+  female: 28.29 deaths/1,000 live births (2010 est.)
+
+
+
+
+======================================================================
+
+
+
+
+

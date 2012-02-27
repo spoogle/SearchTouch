@@ -1,0 +1,750 @@
+2112
+
+
+Field Listing :: Net migration rate
+
+  This entry includes the figure for the difference between the number
+  of persons entering and leaving a country during the year per 1,000
+  persons (based on midyear population). An excess of persons entering
+  the country is referred to as net immigration (e.g., 3.56
+  migrants/1,000 population); an excess of persons leaving the country
+  as net emigration (e.g., -9.26 migrants/1,000 population). The net
+  migration rate indicates the contribution of migration to the
+  overall level of population change. The net migration rate does not
+  distinguish between economic migrants, refugees, and other types of
+  migrants nor does it distinguish between lawful migrants and
+  undocumented migrants.
+  Country Comparison to the World
+  Country
+
+
+  Net migration rate(migrant(s)/1,000 population)
+
+Afghanistan
+  4.24 migrant(s)/1,000 population (2010 est.)
+
+Albania
+  -3.35 migrant(s)/1,000 population (2010 est.)
+
+Algeria
+  -0.28 migrant(s)/1,000 population (2010 est.)
+
+American Samoa
+  -6.83 migrant(s)/1,000 population (2010 est.)
+
+Andorra
+  0 migrant(s)/1,000 population (2010 est.)
+
+Angola
+  1.05 migrant(s)/1,000 population (2010 est.)
+
+Anguilla
+  13.54 migrant(s)/1,000 population (2010 est.)
+
+Antigua and Barbuda
+  2.35 migrant(s)/1,000 population (2010 est.)
+
+Argentina
+  0 migrant(s)/1,000 population (2010 est.)
+
+Armenia
+  -4.16 migrant(s)/1,000 population (2010 est.)
+
+Aruba
+  9.56 migrant(s)/1,000 population (2010 est.)
+
+Australia
+  6.13 migrant(s)/1,000 population (2010 est.)
+
+Austria
+  1.83 migrant(s)/1,000 population (2010 est.)
+
+Azerbaijan
+  -1.42 migrant(s)/1,000 population (2010 est.)
+
+Bahamas, The
+  0 migrant(s)/1,000 population (2010 est.)
+
+Bahrain
+  0 migrant(s)/1,000 population (2010 est.)
+
+Bangladesh
+  -2.12 migrant(s)/1,000 population (2010 est.)
+
+Barbados
+  -0.3 migrant(s)/1,000 population (2010 est.)
+
+Belarus
+  0.38 migrant(s)/1,000 population (2010 est.)
+
+Belgium
+  1.22 migrant(s)/1,000 population (2010 est.)
+
+Belize
+  0 migrant(s)/1,000 population
+
+Benin
+  0 migrant(s)/1,000 population (2010 est.)
+
+Bermuda
+  2.15 migrant(s)/1,000 population (2010 est.)
+
+Bhutan
+  0 migrant(s)/1,000 population
+
+Bolivia
+  -1.01 migrant(s)/1,000 population (2010 est.)
+
+Bosnia and Herzegovina
+  0 migrant(s)/1,000 population (2010 est.)
+
+Botswana
+  4.91 migrant(s)/1,000 population
+  note: there is an increasing flow of Zimbabweans into South Africa
+  and Botswana in search of better economic opportunities (2010 est.)
+
+Brazil
+  -0.09 migrant(s)/1,000 population (2010 est.)
+
+British Virgin Islands
+  7.74 migrant(s)/1,000 population (2010 est.)
+
+Brunei
+  2.64 migrant(s)/1,000 population (2010 est.)
+
+Bulgaria
+  -2.8 migrant(s)/1,000 population (2010 est.)
+
+Burkina Faso
+  0 migrant(s)/1,000 population
+
+Burma
+  -0.31 migrant(s)/1,000 population
+
+Burundi
+  4.06 migrant(s)/1,000 population (2010 est.)
+
+Cambodia
+  -0.35 migrant(s)/1,000 population
+
+Cameroon
+  0 migrant(s)/1,000 population
+
+Canada
+  5.64 migrant(s)/1,000 population (2010 est.)
+
+Cape Verde
+  -0.67 migrant(s)/1,000 population (2010 est.)
+
+Cayman Islands
+  16.09 migrant(s)/1,000 population
+  note: major destination for Cubans trying to migrate to the US (2010
+  est.)
+
+Central African Republic
+  0 migrant(s)/1,000 population
+
+Chad
+  -3.95 migrant(s)/1,000 population (2010 est.)
+
+Chile
+  0 migrant(s)/1,000 population
+
+China
+  -0.34 migrant(s)/1,000 population (2010 est.)
+
+Christmas Island
+  NA
+
+Cocos (Keeling) Islands
+  NA
+
+Colombia
+  -0.68 migrant(s)/1,000 population (2010 est.)
+
+Comoros
+  0 migrant(s)/1,000 population
+
+Congo, Democratic Republic of the
+  0.77 migrant(s)/1,000 population
+  (2010 est.)
+
+Congo, Republic of the
+  -1.2 migrant(s)/1,000 population (2010 est.)
+
+Costa Rica
+  1.11 migrant(s)/1,000 population (2010 est.)
+
+Cote d'Ivoire
+  0 migrant(s)/1,000 population NA
+
+Croatia
+  1.59 migrant(s)/1,000 population (2010 est.)
+
+Cuba
+  -1.56 migrant(s)/1,000 population (2010 est.)
+
+Curacao
+  1.27 migrant(s)/1,000 population (2008)
+
+Cyprus
+  11.68 migrant(s)/1,000 population (2010 est.)
+
+Czech Republic
+  0.97 migrant(s)/1,000 population (2010 est.)
+
+Denmark
+  2.47 migrant(s)/1,000 population (2010 est.)
+
+Djibouti
+  4.6 migrant(s)/1,000 population
+
+Dominica
+  -5.44 migrant(s)/1,000 population (2010 est.)
+
+Dominican Republic
+  -2.04 migrant(s)/1,000 population (2010 est.)
+
+Ecuador
+  -0.66 migrant(s)/1,000 population (2010 est.)
+
+Egypt
+  -0.21 migrant(s)/1,000 population (2010 est.)
+
+El Salvador
+  -9.13 migrant(s)/1,000 population (2010 est.)
+
+Equatorial Guinea
+  0 migrant(s)/1,000 population
+
+Eritrea
+  0 migrant(s)/1,000 population
+
+Estonia
+  -3.29 migrant(s)/1,000 population (2010 est.)
+
+Ethiopia
+  -0.02 migrant(s)/1,000 population
+  note: repatriation of Ethiopian refugees residing in Sudan is
+  expected to continue for several years; some Sudanese, Somali, and
+  Eritrean refugees, who fled to Ethiopia from the fighting or famine
+  in their own countries, continue to return to their homes (2010 est.)
+
+European Union
+  1.48 migrant(s)/1,000 population (2010 est.)
+
+Falkland Islands (Islas Malvinas)
+  NA
+
+Faroe Islands
+  0 migrant(s)/1,000 population (2010 est.)
+
+Fiji
+  -7.37 migrant(s)/1,000 population (2010 est.)
+
+Finland
+  0.62 migrant(s)/1,000 population (2010 est.)
+
+France
+  1.47 migrant(s)/1,000 population (2010 est.)
+
+French Polynesia
+  2.69 migrant(s)/1,000 population (2010 est.)
+
+Gabon
+  -2.24 migrant(s)/1,000 population (2010 est.)
+
+Gambia, The
+  0 migrant(s)/1,000 population (2010 est.)
+
+Gaza Strip
+  0 migrant(s)/1,000 population (2010 est.)
+
+Georgia
+  -4.16 migrant(s)/1,000 population (2010 est.)
+
+Germany
+  2.19 migrant(s)/1,000 population (2010 est.)
+
+Ghana
+  -0.61 migrant(s)/1,000 population (2010 est.)
+
+Gibraltar
+  -3.32 migrant(s)/1,000 population (2010 est.)
+
+Greece
+  2.33 migrant(s)/1,000 population (2010 est.)
+
+Greenland
+  -5.99 migrant(s)/1,000 population (2010 est.)
+
+Grenada
+  -3.67 migrant(s)/1,000 population (2010 est.)
+
+Guam
+  0 migrant(s)/1,000 population
+
+Guatemala
+  -2.17 migrant(s)/1,000 population (2010 est.)
+
+Guernsey
+  2.76 migrant(s)/1,000 population (2010 est.)
+
+Guinea
+  0 migrant(s)/1,000 population (2010 est.)
+
+Guinea-Bissau
+  0 migrant(s)/1,000 population (2010 est.)
+
+Guyana
+  -15.83 migrant(s)/1,000 population (2010 est.)
+
+Haiti
+  -8.32 migrant(s)/1,000 population (2011 est.)
+
+Honduras
+  -1.27 migrant(s)/1,000 population (2010 est.)
+
+Hong Kong
+  4.22 migrant(s)/1,000 population (2010 est.)
+
+Hungary
+  1.4 migrant(s)/1,000 population (2010 est.)
+
+Iceland
+  0.54 migrant(s)/1,000 population (2010 est.)
+
+India
+  -0.05 migrant(s)/1,000 population (2010 est.)
+
+Indonesia
+  -1.23 migrant(s)/1,000 population (2010 est.)
+
+Iran
+  -0.04 migrant(s)/1,000 population (2010 est.)
+
+Iraq
+  0 migrant(s)/1,000 population
+
+Ireland
+  0 migrant(s)/1,000 population (2010 est.)
+
+Isle of Man
+  8.01 migrant(s)/1,000 population (2010 est.)
+
+Israel
+  2.22 migrant(s)/1,000 population (2010 est.)
+
+Italy
+  2.07 migrant(s)/1,000 population (2010 est.)
+
+Jamaica
+  -5.52 migrant(s)/1,000 population (2010 est.)
+
+Japan
+  0 migrant(s)/1,000 population
+
+Jersey
+  5.36 migrant(s)/1,000 population (2010 est.)
+
+Jordan
+  -2.81 migrant(s)/1,000 population (2010 est.)
+
+Kazakhstan
+  -3.28 migrant(s)/1,000 population (2010 est.)
+
+Kenya
+  0 migrant(s)/1,000 population (2010 est.)
+
+Kiribati
+  -2.87 migrant(s)/1,000 population
+
+Korea, North
+  -0.09 migrant(s)/1,000 population (2010 est.)
+
+Korea, South
+  0 migrant(s)/1,000 population (2010 est.)
+
+Kuwait
+  15.65 migrant(s)/1,000 population (2010 est.)
+
+Kyrgyzstan
+  -2.58 migrant(s)/1,000 population (2010 est.)
+
+Laos
+  -1.18 migrant(s)/1,000 population
+
+Latvia
+  -2.32 migrant(s)/1,000 population (2010 est.)
+
+Lebanon
+  -2.43 migrant(s)/1,000 population
+
+Lesotho
+  -8.68 migrant(s)/1,000 population (2010 est.)
+
+Liberia
+  0.56 migrant(s)/1,000 population (2010 est.)
+
+Libya
+  0 migrant(s)/1,000 population
+
+Liechtenstein
+  4.63 migrant(s)/1,000 population (2010 est.)
+
+Lithuania
+  -0.72 migrant(s)/1,000 population (2010 est.)
+
+Luxembourg
+  8.34 migrant(s)/1,000 population (2010 est.)
+
+Macau
+  3.52 migrant(s)/1,000 population (2010 est.)
+
+Macedonia
+  -0.48 migrant(s)/1,000 population (2010 est.)
+
+Madagascar
+  0 migrant(s)/1,000 population
+
+Malawi
+  0 migrant(s)/1,000 population
+
+Malaysia
+  -0.4 migrant(s)/1,000 population
+  note: does not reflect net flow of an unknown number of illegal
+  immigrants from other countries in the region (2009 est.)
+
+Maldives
+  -12.6 migrant(s)/1,000 population (2010 est.)
+
+Mali
+  -5.38 migrant(s)/1,000 population (2010 est.)
+
+Malta
+  2.02 migrant(s)/1,000 population (2010 est.)
+
+Marshall Islands
+  -5.3 migrant(s)/1,000 population (2010 est.)
+
+Mauritania
+  -0.94 migrant(s)/1,000 population (2010 est.)
+
+Mauritius
+  -0.03 migrant(s)/1,000 population (2010 est.)
+
+Mayotte
+  0 migrant(s)/1,000 population (2010 est.)
+
+Mexico
+  -3.38 migrant(s)/1,000 population (2010 est.)
+
+Micronesia, Federated States of
+  -21.01 migrant(s)/1,000 population
+  (2010 est.)
+
+Moldova
+  -1.13 migrant(s)/1,000 population (2010 est.)
+
+Monaco
+  -0.85 migrant(s)/1,000 population (2010 est.)
+
+Mongolia
+  0 migrant(s)/1,000 population
+
+Montserrat
+  0 migrant(s)/1,000 population
+
+Morocco
+  -3.88 migrant(s)/1,000 population (2010 est.)
+
+Mozambique
+  0 migrant(s)/1,000 population
+
+Namibia
+  0.25 migrant(s)/1,000 population (2010 est.)
+
+Nauru
+  -16.08 migrant(s)/1,000 population
+
+Nepal
+  -1.35 migrant(s)/1,000 population (2010 est.)
+
+Netherlands
+  2.38 migrant(s)/1,000 population (2010 est.)
+
+New Caledonia
+  4.31 migrant(s)/1,000 population
+  note: there has been steady emigration from Wallis and Futuna to New
+  Caledonia (2009 est.)
+
+New Zealand
+  2.3 migrant(s)/1,000 population (2010 est.)
+
+Nicaragua
+  -1.09 migrant(s)/1,000 population (2010 est.)
+
+Niger
+  0 migrant(s)/1,000 population (2010 est.)
+
+Nigeria
+  -0.1 migrant(s)/1,000 population (2010 est.)
+
+Niue
+  NA
+
+Norfolk Island
+  NA
+
+Northern Mariana Islands
+  -73.56 migrant(s)/1,000 population (2010
+  est.)
+
+Norway
+  1.7 migrant(s)/1,000 population (2010 est.)
+
+Oman
+  -0.48 migrant(s)/1,000 population (2010 est.)
+
+Pakistan
+  -2.36 migrant(s)/1,000 population (2010 est.)
+
+Palau
+  0.86 migrant(s)/1,000 population (2010 est.)
+
+Panama
+  -0.46 migrant(s)/1,000 population (2010 est.)
+
+Papua New Guinea
+  0 migrant(s)/1,000 population
+
+Paraguay
+  -0.08 migrant(s)/1,000 population (2010 est.)
+
+Peru
+  -0.93 migrant(s)/1,000 population (2010 est.)
+
+Philippines
+  -1.31 migrant(s)/1,000 population (2010 est.)
+
+Pitcairn Islands
+  NA
+
+Poland
+  -0.47 migrant(s)/1,000 population (2010 est.)
+
+Portugal
+  3.06 migrant(s)/1,000 population (2010 est.)
+
+Puerto Rico
+  -0.91 migrant(s)/1,000 population (2010 est.)
+
+Qatar
+  -4.41 migrant(s)/1,000 population (2010 est.)
+
+Romania
+  -0.27 migrant(s)/1,000 population (2010 est.)
+
+Russia
+  0.28 migrant(s)/1,000 population (2010 est.)
+
+Rwanda
+  1.11 migrant(s)/1,000 population (2010 est.)
+
+Saint Helena, Ascension, and Tristan da Cunha
+  0 migrant(s)/1,000
+  population
+
+Saint Kitts and Nevis
+  1.26 migrant(s)/1,000 population (2010 est.)
+
+Saint Lucia
+  -3.93 migrant(s)/1,000 population (2010 est.)
+
+Saint Pierre and Miquelon
+  -9.25 migrant(s)/1,000 population (2010
+  est.)
+
+Saint Vincent and the Grenadines
+  -11.36 migrant(s)/1,000 population
+  (2010 est.)
+
+Samoa
+  -11.52 migrant(s)/1,000 population (2010 est.)
+
+San Marino
+  9.63 migrant(s)/1,000 population (2010 est.)
+
+Sao Tome and Principe
+  -9.52 migrant(s)/1,000 population (2010 est.)
+
+Saudi Arabia
+  -0.61 migrant(s)/1,000 population (2010 est.)
+
+Senegal
+  -1.99 migrant(s)/1,000 population (2010 est.)
+
+Serbia
+  0 migrant(s)/1,000 population (2010 est.)
+
+Seychelles
+  1.04 migrant(s)/1,000 population (2010 est.)
+
+Sierra Leone
+  -4.66 migrant(s)/1,000 population
+  note: refugees currently in surrounding countries are slowly
+  returning (2010 est.)
+
+Singapore
+  4.79 migrant(s)/1,000 population (2010 est.)
+
+Sint Maarten
+  14.24 migrant(s)/1,000 population (2008)
+
+Slovakia
+  0.29 migrant(s)/1,000 population (2010 est.)
+
+Slovenia
+  0.4 migrant(s)/1,000 population (2010 est.)
+
+Solomon Islands
+  -1.94 migrant(s)/1,000 population (2009 est.)
+
+Somalia
+  0 migrant(s)/1,000 population (2010 est.)
+
+South Africa
+  -3.13 migrant(s)/1,000 population
+  note: there is an increasing flow of Zimbabweans into South Africa
+  and Botswana in search of better economic opportunities (2010 est.)
+
+Spain
+  2.73 migrant(s)/1,000 population (2010 est.)
+
+Sri Lanka
+  -1.05 migrant(s)/1,000 population (2010 est.)
+
+Sudan
+  0.05 migrant(s)/1,000 population (2010 est.)
+
+Suriname
+  0 migrant(s)/1,000 population (2010 est.)
+
+Svalbard
+  NA
+
+Swaziland
+  0 migrant(s)/1,000 population
+
+Sweden
+  1.65 migrant(s)/1,000 population (2010 est.)
+
+Switzerland
+  1.31 migrant(s)/1,000 population (2010 est.)
+
+Syria
+  -1.2 migrant(s)/1,000 population
+
+Taiwan
+  0.03 migrant(s)/1,000 population (2010 est.)
+
+Tajikistan
+  -1.26 migrant(s)/1,000 population (2010 est.)
+
+Tanzania
+  -0.81 migrant(s)/1,000 population (2010 est.)
+
+Thailand
+  0 migrant(s)/1,000 population
+
+Timor-Leste
+  0 migrant(s)/1,000 population
+
+Togo
+  0 migrant(s)/1,000 population
+
+Tokelau
+  NA
+
+Tonga
+  0 migrant(s)/1,000 population
+
+Trinidad and Tobago
+  -7.11 migrant(s)/1,000 population (2010 est.)
+
+Tunisia
+  -0.38 migrant(s)/1,000 population (2010 est.)
+
+Turkey
+  0.53 migrant(s)/1,000 population (2010 est.)
+
+Turkmenistan
+  -1.95 migrant(s)/1,000 population (2010 est.)
+
+Turks and Caicos Islands
+  8.63 migrant(s)/1,000 population (2010 est.)
+
+Tuvalu
+  -7.07 migrant(s)/1,000 population
+
+Uganda
+  -0.02 migrant(s)/1,000 population (2010 est.)
+
+Ukraine
+  -0.1 migrant(s)/1,000 population (2010 est.)
+
+United Arab Emirates
+  21.71 migrant(s)/1,000 population (2010 est.)
+
+United Kingdom
+  2.61 migrant(s)/1,000 population (2010 est.)
+
+United States
+  4.25 migrant(s)/1,000 population (2010 est.)
+
+Uruguay
+  -0.14 migrant(s)/1,000 population (2010 est.)
+
+Uzbekistan
+  -2.84 migrant(s)/1,000 population (2010 est.)
+
+Vanuatu
+  0 migrant(s)/1,000 population
+
+Venezuela
+  0 migrant(s)/1,000 population (2010 est.)
+
+Vietnam
+  -0.37 migrant(s)/1,000 population (2010 est.)
+
+Virgin Islands
+  -5.27 migrant(s)/1,000 population (2010 est.)
+
+Wallis and Futuna
+  -5.87 migrant(s)/1,000 population
+  note: there has been steady emigration from Wallis and Futuna to New
+  Caledonia (2010 est.)
+
+West Bank
+  0 migrant(s)/1,000 population (2010 est.)
+
+Yemen
+  0 migrant(s)/1,000 population
+
+Zambia
+  -0.62 migrant(s)/1,000 population (2010 est.)
+
+Zimbabwe
+  12.87 migrant(s)/1,000 population
+  note: there is an increasing flow of Zimbabweans into South Africa
+  and Botswana in search of better economic opportunities (2009 est.)
+
+
+
+
+======================================================================
+
+
+
+
+

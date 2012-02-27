@@ -1,0 +1,742 @@
+2127
+
+
+Field Listing :: Total fertility rate
+
+  This entry gives a figure for the average number of children that
+  would be born per woman if all women lived to the end of their
+  childbearing years and bore children according to a given fertility
+  rate at each age. The total fertility rate (TFR) is a more direct
+  measure of the level of fertility than the crude birth rate, since
+  it refers to births per woman. This indicator shows the potential
+  for population change in the country. A rate of two children per
+  woman is considered the replacement rate for a population, resulting
+  in relative stability in terms of total numbers. Rates above two
+  children indicate populations growing in size and whose median age
+  is declining. Higher rates may also indicate difficulties for
+  families, in some situations, to feed and educate their children and
+  for women to enter the labor force. Rates below two children
+  indicate populations decreasing in size and growing older. Global
+  fertility rates are in general decline and this trend is most
+  pronounced in industrialized countries, especially Western Europe,
+  where populations are projected to decline dramatically over the
+  next 50 years.
+  Country Comparison to the World
+  Country
+
+
+  Total fertility rate(children born/woman)
+
+Afghanistan
+  5.5 children born/woman (2010 est.)
+
+Albania
+  1.47 children born/woman (2010 est.)
+
+Algeria
+  1.76 children born/woman (2010 est.)
+
+American Samoa
+  3.22 children born/woman (2010 est.)
+
+Andorra
+  1.34 children born/woman (2010 est.)
+
+Angola
+  6.05 children born/woman (2010 est.)
+
+Anguilla
+  1.75 children born/woman (2010 est.)
+
+Antigua and Barbuda
+  2.06 children born/woman (2010 est.)
+
+Argentina
+  2.33 children born/woman (2010 est.)
+
+Armenia
+  1.36 children born/woman (2010 est.)
+
+Aruba
+  1.85 children born/woman (2010 est.)
+
+Australia
+  1.78 children born/woman (2010 est.)
+
+Austria
+  1.39 children born/woman (2010 est.)
+
+Azerbaijan
+  2.03 children born/woman (2010 est.)
+
+Bahamas, The
+  2 children born/woman (2010 est.)
+
+Bahrain
+  2.47 children born/woman (2010 est.)
+
+Bangladesh
+  2.65 children born/woman (2010 est.)
+
+Barbados
+  1.68 children born/woman (2010 est.)
+
+Belarus
+  1.25 children born/woman (2010 est.)
+
+Belgium
+  1.65 children born/woman (2010 est.)
+
+Belize
+  3.28 children born/woman (2010 est.)
+
+Benin
+  5.4 children born/woman (2010 est.)
+
+Bermuda
+  1.98 children born/woman (2010 est.)
+
+Bhutan
+  2.29 children born/woman (2010 est.)
+
+Bolivia
+  3.07 children born/woman (2010 est.)
+
+Bosnia and Herzegovina
+  1.26 children born/woman (2010 est.)
+
+Botswana
+  2.54 children born/woman (2010 est.)
+
+Brazil
+  2.19 children born/woman (2010 est.)
+
+British Virgin Islands
+  1.71 children born/woman (2010 est.)
+
+Brunei
+  1.88 children born/woman (2010 est.)
+
+Bulgaria
+  1.41 children born/woman (2010 est.)
+
+Burkina Faso
+  6.21 children born/woman (2010 est.)
+
+Burma
+  2.28 children born/woman (2010 est.)
+
+Burundi
+  6.25 children born/woman (2010 est.)
+
+Cambodia
+  2.9 children born/woman (2010 est.)
+
+Cameroon
+  4.25 children born/woman (2010 est.)
+
+Canada
+  1.58 children born/woman (2010 est.)
+
+Cape Verde
+  2.54 children born/woman (2010 est.)
+
+Cayman Islands
+  1.88 children born/woman (2010 est.)
+
+Central African Republic
+  4.68 children born/woman (2010 est.)
+
+Chad
+  5.18 children born/woman (2010 est.)
+
+Chile
+  1.9 children born/woman (2010 est.)
+
+China
+  1.54 children born/woman (2010 est.)
+
+Christmas Island
+  NA
+
+Cocos (Keeling) Islands
+  NA
+
+Colombia
+  2.18 children born/woman (2010 est.)
+
+Comoros
+  4.78 children born/woman (2010 est.)
+
+Congo, Democratic Republic of the
+  6.11 children born/woman (2010
+  est.)
+
+Congo, Republic of the
+  5.77 children born/woman (2010 est.)
+
+Cook Islands
+  2.43 children born/woman (2010 est.)
+
+Costa Rica
+  1.93 children born/woman (2010 est.)
+
+Cote d'Ivoire
+  4.01 children born/woman (2010 est.)
+
+Croatia
+  1.43 children born/woman (2010 est.)
+
+Cuba
+  1.61 children born/woman (2010 est.)
+
+Curacao
+  2.1 children born/woman (2009)
+
+Cyprus
+  1.45 children born/woman (2010 est.)
+
+Czech Republic
+  1.25 children born/woman (2010 est.)
+
+Denmark
+  1.74 children born/woman (2010 est.)
+
+Djibouti
+  2.79 children born/woman (2010 est.)
+
+Dominica
+  2.08 children born/woman (2010 est.)
+
+Dominican Republic
+  2.47 children born/woman (2010 est.)
+
+Ecuador
+  2.46 children born/woman (2010 est.)
+
+Egypt
+  3.01 children born/woman (2010 est.)
+
+El Salvador
+  2.12 children born/woman (2010 est.)
+
+Equatorial Guinea
+  5 children born/woman (2010 est.)
+
+Eritrea
+  4.6 children born/woman (2010 est.)
+
+Estonia
+  1.43 children born/woman (2010 est.)
+
+Ethiopia
+  6.07 children born/woman (2010 est.)
+
+European Union
+  1.51 children born/woman (2010 est.)
+
+Falkland Islands (Islas Malvinas)
+  NA
+
+Faroe Islands
+  2.43 children born/woman (2010 est.)
+
+Fiji
+  2.65 children born/woman (2010 est.)
+
+Finland
+  1.73 children born/woman (2010 est.)
+
+France
+  1.97 children born/woman (2010 est.)
+
+French Polynesia
+  1.89 children born/woman (2010 est.)
+
+Gabon
+  4.62 children born/woman (2010 est.)
+
+Gambia, The
+  4.96 children born/woman (2010 est.)
+
+Gaza Strip
+  4.9 children born/woman (2010 est.)
+
+Georgia
+  1.44 children born/woman (2010 est.)
+
+Germany
+  1.42 children born/woman (2010 est.)
+
+Ghana
+  3.57 children born/woman (2010 est.)
+
+Gibraltar
+  1.96 children born/woman (2010 est.)
+
+Greece
+  1.37 children born/woman (2010 est.)
+
+Greenland
+  2.16 children born/woman (2010 est.)
+
+Grenada
+  2.21 children born/woman (2010 est.)
+
+Guam
+  2.52 children born/woman (2010 est.)
+
+Guatemala
+  3.36 children born/woman (2010 est.)
+
+Guernsey
+  1.53 children born/woman (2010 est.)
+
+Guinea
+  5.15 children born/woman (2010 est.)
+
+Guinea-Bissau
+  4.58 children born/woman (2010 est.)
+
+Guyana
+  2.4 children born/woman (2010 est.)
+
+Haiti
+  3.07 children born/woman (2011 est.)
+
+Honduras
+  3.17 children born/woman (2010 est.)
+
+Hong Kong
+  1.04 children born/woman (2010 est.)
+
+Hungary
+  1.39 children born/woman (2010 est.)
+
+Iceland
+  1.9 children born/woman (2010 est.)
+
+India
+  2.65 children born/woman (2010 est.)
+
+Indonesia
+  2.28 children born/woman (2010 est.)
+
+Iran
+  1.89 children born/woman (2010 est.)
+
+Iraq
+  3.76 children born/woman (2010 est.)
+
+Ireland
+  2.03 children born/woman (2010 est.)
+
+Isle of Man
+  1.97 children born/woman (2010 est.)
+
+Israel
+  2.72 children born/woman (2010 est.)
+
+Italy
+  1.32 children born/woman (2010 est.)
+
+Jamaica
+  2.21 children born/woman (2010 est.)
+
+Japan
+  1.2 children born/woman (2010 est.)
+
+Jersey
+  1.66 children born/woman (2010 est.)
+
+Jordan
+  3.42 children born/woman (2010 est.)
+
+Kazakhstan
+  1.87 children born/woman (2010 est.)
+
+Kenya
+  4.38 children born/woman (2010 est.)
+
+Kiribati
+  2.86 children born/woman (2010 est.)
+
+Korea, North
+  1.94 children born/woman (2010 est.)
+
+Korea, South
+  1.22 children born/woman (2010 est.)
+
+Kuwait
+  2.7 children born/woman (2010 est.)
+
+Kyrgyzstan
+  2.64 children born/woman (2010 est.)
+
+Laos
+  3.22 children born/woman (2010 est.)
+
+Latvia
+  1.31 children born/woman (2010 est.)
+
+Lebanon
+  1.78 children born/woman (2010 est.)
+
+Lesotho
+  3 children born/woman (2010 est.)
+
+Liberia
+  5.24 children born/woman (2010 est.)
+
+Libya
+  3.01 children born/woman (2010 est.)
+
+Liechtenstein
+  1.53 children born/woman (2010 est.)
+
+Lithuania
+  1.24 children born/woman (2010 est.)
+
+Luxembourg
+  1.78 children born/woman (2010 est.)
+
+Macau
+  0.91 children born/woman (2010 est.)
+
+Macedonia
+  1.58 children born/woman (2010 est.)
+
+Madagascar
+  5.09 children born/woman (2010 est.)
+
+Malawi
+  5.51 children born/woman (2010 est.)
+
+Malaysia
+  2.7 children born/woman (2010 est.)
+
+Maldives
+  1.83 children born/woman (2010 est.)
+
+Mali
+  6.54 children born/woman (2010 est.)
+
+Malta
+  1.52 children born/woman (2010 est.)
+
+Marshall Islands
+  3.51 children born/woman (2010 est.)
+
+Mauritania
+  4.37 children born/woman (2010 est.)
+
+Mauritius
+  1.8 children born/woman (2010 est.)
+
+Mayotte
+  5.4 children born/woman (2010 est.)
+
+Mexico
+  2.31 children born/woman (2010 est.)
+
+Micronesia, Federated States of
+  2.8 children born/woman (2010 est.)
+
+Moldova
+  1.28 children born/woman (2010 est.)
+
+Monaco
+  1.5 children born/woman (2010 est.)
+
+Mongolia
+  2.22 children born/woman (2010 est.)
+
+Montserrat
+  1.25 children born/woman (2010 est.)
+
+Morocco
+  2.23 children born/woman (2010 est.)
+
+Mozambique
+  5.13 children born/woman (2010 est.)
+
+Namibia
+  2.57 children born/woman (2010 est.)
+
+Nauru
+  3.13 children born/woman (2010 est.)
+
+Nepal
+  2.53 children born/woman (2010 est.)
+
+Netherlands
+  1.66 children born/woman (2010 est.)
+
+New Caledonia
+  2.09 children born/woman (2010 est.)
+
+New Zealand
+  2.09 children born/woman (2010 est.)
+
+Nicaragua
+  2.51 children born/woman (2010 est.)
+
+Niger
+  7.68 children born/woman (2010 est.)
+
+Nigeria
+  4.82 children born/woman (2010 est.)
+
+Niue
+  NA
+
+Norfolk Island
+  NA
+
+Northern Mariana Islands
+  2.18 children born/woman (2010 est.)
+
+Norway
+  1.77 children born/woman (2010 est.)
+
+Oman
+  2.87 children born/woman (2010 est.)
+
+Pakistan
+  3.28 children born/woman (2010 est.)
+
+Palau
+  1.73 children born/woman (2010 est.)
+
+Panama
+  2.48 children born/woman (2010 est.)
+
+Papua New Guinea
+  3.54 children born/woman (2010 est.)
+
+Paraguay
+  2.16 children born/woman (2010 est.)
+
+Peru
+  2.32 children born/woman (2010 est.)
+
+Philippines
+  3.23 children born/woman (2010 est.)
+
+Pitcairn Islands
+  NA
+
+Poland
+  1.29 children born/woman (2010 est.)
+
+Portugal
+  1.5 children born/woman (2010 est.)
+
+Puerto Rico
+  1.62 children born/woman (2010 est.)
+
+Qatar
+  2.44 children born/woman (2010 est.)
+
+Romania
+  1.27 children born/woman (2010 est.)
+
+Russia
+  1.41 children born/woman (2010 est.)
+
+Rwanda
+  4.99 children born/woman (2010 est.)
+
+Saint Helena, Ascension, and Tristan da Cunha
+  1.56 children
+  born/woman (2010 est.)
+
+Saint Kitts and Nevis
+  1.79 children born/woman (2010 est.)
+
+Saint Lucia
+  1.82 children born/woman (2010 est.)
+
+Saint Pierre and Miquelon
+  1.54 children born/woman (2010 est.)
+
+Saint Vincent and the Grenadines
+  1.94 children born/woman (2010 est.)
+
+Samoa
+  3.32 children born/woman (2010 est.)
+
+San Marino
+  1.46 children born/woman (2010 est.)
+
+Sao Tome and Principe
+  5.21 children born/woman (2010 est.)
+
+Saudi Arabia
+  2.35 children born/woman (2010 est.)
+
+Senegal
+  4.86 children born/woman (2010 est.)
+
+Serbia
+  1.39 children born/woman (2010 est.)
+
+Seychelles
+  1.92 children born/woman (2010 est.)
+
+Sierra Leone
+  4.97 children born/woman (2010 est.)
+
+Singapore
+  1.1 children born/woman (2010 est.)
+
+Sint Maarten
+  1.7 children born/woman (2009)
+
+Slovakia
+  1.36 children born/woman (2010 est.)
+
+Slovenia
+  1.29 children born/woman (2010 est.)
+
+Solomon Islands
+  3.67 children born/woman (2010 est.)
+
+Somalia
+  6.44 children born/woman (2010 est.)
+
+South Africa
+  2.33 children born/woman (2010 est.)
+
+Spain
+  1.47 children born/woman (2010 est.)
+
+Sri Lanka
+  1.96 children born/woman (2010 est.)
+
+Sudan
+  4.93 children born/woman (2010 est.)
+
+Suriname
+  1.97 children born/woman (2010 est.)
+
+Svalbard
+  NA
+
+Swaziland
+  3.19 children born/woman (2010 est.)
+
+Sweden
+  1.67 children born/woman (2010 est.)
+
+Switzerland
+  1.46 children born/woman (2010 est.)
+
+Syria
+  3.02 children born/woman (2010 est.)
+
+Taiwan
+  1.15 children born/woman (2010 est.)
+
+Tajikistan
+  2.94 children born/woman (2010 est.)
+
+Tanzania
+  4.31 children born/woman (2010 est.)
+
+Thailand
+  1.65 children born/woman (2010 est.)
+
+Timor-Leste
+  3.2 children born/woman (2010 est.)
+
+Togo
+  4.74 children born/woman (2010 est.)
+
+Tokelau
+  NA
+
+Tonga
+  2 children born/woman (2010 est.)
+
+Trinidad and Tobago
+  1.72 children born/woman (2010 est.)
+
+Tunisia
+  1.71 children born/woman (2010 est.)
+
+Turkey
+  2.18 children born/woman (2010 est.)
+
+Turkmenistan
+  2.19 children born/woman (2010 est.)
+
+Turks and Caicos Islands
+  2.92 children born/woman (2010 est.)
+
+Tuvalu
+  3.14 children born/woman (2010 est.)
+
+Uganda
+  6.73 children born/woman (2010 est.)
+
+Ukraine
+  1.27 children born/woman (2010 est.)
+
+United Arab Emirates
+  2.41 children born/woman (2010 est.)
+
+United Kingdom
+  1.92 children born/woman (2010 est.)
+
+United States
+  2.06 children born/woman (2010 est.)
+
+Uruguay
+  1.89 children born/woman (2010 est.)
+
+Uzbekistan
+  1.92 children born/woman (2010 est.)
+
+Vanuatu
+  2.43 children born/woman (2010 est.)
+
+Venezuela
+  2.45 children born/woman (2010 est.)
+
+Vietnam
+  1.93 children born/woman (2010 est.)
+
+Virgin Islands
+  1.81 children born/woman (2010 est.)
+
+Wallis and Futuna
+  1.84 children born/woman (2010 est.)
+
+West Bank
+  3.12 children born/woman (2010 est.)
+
+Western Sahara
+  4.37 children born/woman (2010 est.)
+
+World
+  2.56 children born/woman (2009 est.)
+
+Yemen
+  4.81 children born/woman (2010 est.)
+
+Zambia
+  6.07 children born/woman (2010 est.)
+
+Zimbabwe
+  3.66 children born/woman (2010 est.)
+
+
+
+
+======================================================================
+
+
+
+
+

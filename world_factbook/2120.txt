@@ -1,0 +1,842 @@
+2120
+
+
+Field Listing :: Ports and terminals
+
+  This entry lists major ports and terminals primarily on the basis of
+  the amount of cargo tonnage shipped through the facilities on an
+  annual basis. In some instances, the number of containers handled or
+  ship visits were also considered.
+  Country
+
+
+  Ports and terminals
+
+Afghanistan
+  Kheyrabad, Shir Khan
+
+Albania
+  Durres, Sarande, Shengjin, Vlore
+
+Algeria
+  Algiers, Annaba, Arzew, Bejaia, Djendjene, Jijel,
+  Mostaganem, Oran, Skikda
+
+American Samoa
+  Pago Pago
+
+Angola
+  Cabinda, Lobito, Luanda, Namibe
+
+Anguilla
+  Blowing Point, Road Bay
+
+Antarctica
+  McMurdo Station; most coastal stations have sparse and
+  intermittent offshore anchorages; a few stations have basic wharf
+  facilities
+
+Antigua and Barbuda
+  Saint John's
+
+Arctic Ocean
+  Churchill (Canada), Murmansk (Russia), Prudhoe Bay (US)
+
+Argentina
+  Arroyo Seco, Bahia Blanca, Buenos Aires, La Plata, Punta
+  Colorada, Rosario, San Lorenzo-San Martin
+
+Aruba
+  Barcadera, Oranjestad, Sint Nicolaas
+
+Ashmore and Cartier Islands
+  none; offshore anchorage only
+
+Atlantic Ocean
+  Alexandria (Egypt), Algiers (Algeria), Antwerp
+  (Belgium), Barcelona (Spain), Buenos Aires (Argentina), Casablanca
+  (Morocco), Colon (Panama), Copenhagen (Denmark), Dakar (Senegal),
+  Gdansk (Poland), Hamburg (Germany), Helsinki (Finland), Las Palmas
+  (Canary Islands, Spain), Le Havre (France), Lisbon (Portugal),
+  London (UK), Marseille (France), Montevideo (Uruguay), Montreal
+  (Canada), Naples (Italy), New Orleans (US), New York (US), Oran
+  (Algeria), Oslo (Norway), Peiraiefs or Piraeus (Greece), Rio de
+  Janeiro (Brazil), Rotterdam (Netherlands), Saint Petersburg
+  (Russia), Stockholm (Sweden)
+
+Australia
+  Brisbane, Cairns, Dampier, Darwin, Fremantle, Gladstone,
+  Geelong, Hay Point, Hobart, Jervis Bay, Melbourne, Newcastle, Port
+  Adelaide, Port Dalrymple, Port Hedland, Port Kembla, Port Lincoln,
+  Port Walcott, Sydney
+
+Austria
+  Enns, Krems, Linz, Vienna
+
+Azerbaijan
+  Baku (Baki)
+
+Bahamas, The
+  Freeport, Nassau, South Riding Point
+
+Bahrain
+  Mina' Salman, Sitrah
+
+Bangladesh
+  Chittagong, Mongla Port
+
+Barbados
+  Bridgetown
+
+Belarus
+  Mazyr
+
+Belgium
+  cargo ports (tonnage): Antwerp, Gent, Liege, Zeebrugge
+  container ports (TEUs): Antwerp (8,662,891), Zeebrugge (2,209,715)
+
+Belize
+  Belize City, Big Creek
+
+Benin
+  Cotonou
+
+Bermuda
+  Hamilton, Ireland Island, Saint George
+
+Bolivia
+  Puerto Aguirre (inland port on the Paraguay/Parana waterway
+  at the Bolivia/Brazil border); Bolivia has free port privileges in
+  maritime ports in Argentina, Brazil, Chile, and Paraguay
+
+Bosnia and Herzegovina
+  Bosanska Gradiska, Bosanski Brod, Bosanski
+  Samac, and Brcko (all inland waterway ports on the Sava River),
+  Orasje
+
+Bouvet Island
+  none; offshore anchorage only
+
+Brazil
+  cargo ports (tonnage): Ilha Grande (Gebig), Paranagua, Rio
+  Grande, Santos, Sao Sebastiao, Tubarao
+  container ports (TEUs): Santos (2,677,839), Itajai (693,580)
+
+British Indian Ocean Territory
+  Diego Garcia
+
+British Virgin Islands
+  Road Harbor
+
+Brunei
+  Lumut, Muara, Seria
+
+Bulgaria
+  Burgas, Varna
+
+Burma
+  Moulmein, Rangoon, Sittwe
+
+Burundi
+  Bujumbura
+
+Cambodia
+  Phnom Penh, Kampong Saom (Sihanoukville)
+
+Cameroon
+  Douala, Garoua, Limboh Terminal
+
+Canada
+  Fraser River Port, Halifax, Hamilton, Montreal, Port-Cartier,
+  Quebec City, Saint John (New Brunswick), Sept-Isles, Vancouver
+
+Cape Verde
+  Porto Grande
+
+Cayman Islands
+  Cayman Brac, George Town
+
+Central African Republic
+  Bangui, Nola, Salo, Nzinga
+
+Chile
+  Coronel, Huasco, Lirquen, Puerto Ventanas, San Antonio, San
+  Vicente, Valparaiso
+
+China
+  Dalian, Guangzhou, Ningbo, Qingdao, Qinhuangdao, Shanghai,
+  Shenzhen, Tianjin
+
+Christmas Island
+  Flying Fish Cove
+
+Clipperton Island
+  none; offshore anchorage only
+
+Cocos (Keeling) Islands
+  Port Refuge
+
+Colombia
+  Barranquilla, Buenaventura, Cartagena, Puerto Bolivar,
+  Santa Marta, Turbo
+
+Comoros
+  Mayotte, Mutsamudu
+
+Congo, Democratic Republic of the
+  Banana, Boma, Bukavu, Bumba, Goma,
+  Kalemie, Kindu, Kinshasa, Kisangani, Matadi, Mbandaka
+
+Congo, Republic of the
+  Brazzaville, Djeno, Impfondo, Ouesso, Oyo,
+  Pointe-Noire
+
+Cook Islands
+  Avatiu
+
+Coral Sea Islands
+  none; offshore anchorage only
+
+Costa Rica
+  Caldera, Puerto Limon
+
+Cote d'Ivoire
+  Abidjan, Espoir, San-Pedro
+
+Croatia
+  Omisalj, Ploce, Rijeka, Sibernik, Split, Vukovar (on Danube
+  River)
+
+Cuba
+  Antilla, Cienfuegos, Guantanamo, Havana, Matanzas, Mariel,
+  Nuevitas Bay, Santiago de Cuba, Tanamo
+
+Curacao
+  Bullen Baai, Fuik Bay, Willemstad
+
+Cyprus
+  area under government control: Larnaca, Limassol, Vasilikos;;
+  area administered by Turkish Cypriots: Famagusta, Kyrenia
+
+Czech Republic
+  Decin, Prague, Usti nad Labem
+
+Denmark
+  Aalborg, Aarhus, Copenhagen, Ensted, Esbjerg, Fredericia,
+  Kalundborg
+
+Djibouti
+  Djibouti
+
+Dominica
+  Portsmouth, Roseau
+
+Dominican Republic
+  Andres (Boca Chica), Puerto Haina, Puerto Plata,
+  Santo Domingo
+
+Ecuador
+  Esmeraldas, Guayaquil, Manta, Puerto Bolivar
+
+Egypt
+  Ayn Sukhnah, Alexandria, Damietta, El Dekheila, Port Said,
+  Sidi Kurayr, Suez
+
+El Salvador
+  Acajutla, Puerto Cutuco
+
+Equatorial Guinea
+  Bata, Luba, Malabo (2010)
+
+Eritrea
+  Assab, Massawa
+
+Estonia
+  Kuivastu, Kunda, Muuga, Parnu Reid, Sillamae, Tallinn
+
+Ethiopia
+  Ethiopia is landlocked and uses ports of Djibouti in
+  Djibouti and Berbera in Somalia
+
+European Union
+  Antwerp (Belgium), Barcelona (Spain), Braila
+  (Romania), Bremen (Germany), Burgas (Bulgaria), Constanta (Romania),
+  Copenhagen (Denmark), Galati (Romania), Gdansk (Poland), Hamburg
+  (Germany), Helsinki (Finland), Las Palmas (Canary Islands, Spain),
+  Le Havre (France), Lisbon (Portugal), London (UK), Marseille
+  (France), Naples (Italy), Peiraiefs or Piraeus (Greece), Riga
+  (Latvia), Rotterdam (Netherlands), Stockholm (Sweden), Talinn
+  (Estonia), Tulcea (Romania), Varna (Bulgaria)
+
+Falkland Islands (Islas Malvinas)
+  Stanley
+
+Faroe Islands
+  Fuglafjordur, Torshavn, Vagur
+
+Fiji
+  Lautoka, Levuka, Suva
+
+Finland
+  Helsinki, Kotka, Naantali, Porvoo, Raahe, Rauma
+
+France
+  Calais, Dunkerque, Le Havre, Marseille, Nantes, Paris, Rouen
+
+French Polynesia
+  Papeete
+
+French Southern and Antarctic Lands
+  none; offshore anchorage only
+
+Gabon
+  Gamba, Libreville, Lucinda, Owendo, Port-Gentil
+
+Gambia, The
+  Banjul
+
+Gaza Strip
+  Gaza
+
+Georgia
+  Bat'umi, P'ot'i
+
+Germany
+  Bremen, Bremerhaven, Duisburg, Hamburg, Karlsruhe, Lubeck,
+  Neuss-Dusseldorf, Rostock, Wilhemshaven
+
+Ghana
+  Takoradi, Tema
+
+Gibraltar
+  Gibraltar
+
+Greece
+  Agioi Theodoroi, Aspropyrgos, Pachi, Piraeus, Thessaloniki
+
+Greenland
+  Sisimiut
+
+Grenada
+  Saint George's
+
+Guam
+  Apra Harbor
+
+Guatemala
+  Puerto Quetzal, Santo Tomas de Castilla
+
+Guernsey
+  Braye Bay, Saint Peter Port
+
+Guinea
+  Conakry, Kamsar
+
+Guinea-Bissau
+  Bissau, Buba, Cacheu, Farim
+
+Guyana
+  Georgetown
+
+Haiti
+  Cap-Haitien, Gonaives, Jacmel, Port-au-Prince
+
+Heard Island and McDonald Islands
+  none; offshore anchorage only
+
+Honduras
+  La Ceiba, Puerto Cortes, San Lorenzo, Tela
+
+Hong Kong
+  Hong Kong
+
+Hungary
+  Budapest, Dunaujvaros, Gyor-Gonyu, Csepel, Baja, Mohacs
+
+Iceland
+  Grundartangi, Hafnarfjordur, Reykjavik
+
+India
+  Chennai, Jawaharal Nehru, Kandla, Kolkata (Calcutta), Mumbai
+  (Bombay), Sikka, Vishakhapatnam
+
+Indian Ocean
+  Chennai (Madras; India), Colombo (Sri Lanka), Durban
+  (South Africa), Jakarta (Indonesia), Kolkata (Calcutta; India)
+  Melbourne (Australia), Mumbai (Bombay; India), Richards Bay (South
+  Africa)
+
+Indonesia
+  Banjarmasin, Belawan, Kotabaru, Krueg Geukueh, Palembang,
+  Panjang, Sungai Pakning, Tanjung Perak, Tanjung Priok
+
+Iran
+  Assaluyeh, Bandar Abbas, Bandar-e-Eman Khomeyni
+
+Iraq
+  Al Basrah, Khawr az Zubayr, Umm Qasr
+
+Ireland
+  Cork, Dublin, Shannon Foynes, Waterford
+
+Isle of Man
+  Douglas, Ramsey
+
+Israel
+  Ashdod, Elat (Eilat), Hadera, Haifa
+
+Italy
+  Augusta, Cagliari, Genoa, Livorno, Santa Panagia (Melilli),
+  Taranto, Trieste, Venice
+
+Jamaica
+  Discovery Bay (Port Rhoades), Kingston, Montego Bay, Port
+  Antonio, Port Esquivel, Port Kaiser, Rocky Point
+
+Jan Mayen
+  none; offshore anchorage only
+
+Japan
+  Chiba, Kawasaki, Kobe, Mizushima, Moji, Nagoya, Osaka, Tokyo,
+  Tomakomai, Yokohama
+
+Jersey
+  Gorey, Saint Aubin, Saint Helier
+
+Jordan
+  Al 'Aqabah
+
+Kazakhstan
+  Aqtau (Shevchenko), Atyrau (Gur'yev), Oskemen
+  (Ust-Kamenogorsk), Pavlodar, Semey (Semipalatinsk)
+
+Kenya
+  Kisumu, Mombasa
+
+Kiribati
+  Betio (Tarawa Atoll), Canton Island, English Harbor
+
+Korea, North
+  Ch'ongjin, Haeju, Hungnam (Hamhung), Namp'o, Senbong,
+  Songnim, Sonbong (formerly Unggi), Wonsan
+
+Korea, South
+  Inch'on, P'ohang, Pusan, Ulsan, Yosu
+
+Kuwait
+  Ash Shu'aybah, Ash Shuwaykh, Az Zawr (Mina' Sa'ud), Mina'
+  'Abd Allah, Mina' al Ahmadi
+
+Kyrgyzstan
+  Balykchy (Ysyk-Kol or Rybach'ye)
+
+Latvia
+  Riga, Ventspils
+
+Lebanon
+  Beirut, Tripoli
+
+Liberia
+  Buchanan, Monrovia
+
+Libya
+  Marsa al Burayqah, Ra's Lanuf, Tripoli
+
+Lithuania
+  Butinge, Klaipeda
+
+Luxembourg
+  Mertert
+
+Macau
+  Macau
+
+Madagascar
+  Antsiranana (Diego Suarez), Mahajanga, Toamasina, Toliara
+  (Tulear)
+
+Malawi
+  Chipoka, Monkey Bay, Nkhata Bay, Nkhotakota, Chilumba
+
+Malaysia
+  Bintulu, Johor Bahru, George Town (Penang), Port Kelang
+  (Port Klang), Tanjung Pelepas
+
+Maldives
+  Male
+
+Mali
+  Koulikoro
+
+Malta
+  Marsaxlokk (Malta Freeport), Valletta
+
+Marshall Islands
+  Enitwetak Island, Kwajalein, Majuro
+
+Mauritania
+  Nouadhibou, Nouakchott
+
+Mauritius
+  Port Louis
+
+Mayotte
+  Dzaoudzi
+
+Mexico
+  Altamira, Coatzacoalcos, Lazaro Cardenas, Manzanillo, Salina
+  Cruz, Veracruz
+
+Micronesia, Federated States of
+  Colonia (Tomil Harbor), Lele Harbor,
+  Pohnepi Harbor
+
+Monaco
+  Monaco
+
+Montenegro
+  Bar
+
+Montserrat
+  Little Bay, Plymouth
+
+Morocco
+  Casablanca, Jorf Lasfar, Mohammedia, Safi, Tangier
+
+Mozambique
+  Beira, Maputo, Nacala
+
+Namibia
+  Luderitz, Walvis Bay
+
+Nauru
+  Nauru
+
+Navassa Island
+  none; offshore anchorage only
+
+Netherlands
+  Amsterdam, IJmuiden, Moerdijk, Rotterdam, Terneuzen,
+  Vlissingen
+
+New Caledonia
+  Noumea
+
+New Zealand
+  Auckland, Lyttelton, Manukau Harbor, Marsden Point,
+  Tauranga, Wellington
+
+Nicaragua
+  Bluefields, Corinto
+
+Nigeria
+  Bonny Inshore Terminal, Calabar, Lagos
+
+Niue
+  Alofi
+
+Norfolk Island
+  Kingston
+
+Northern Mariana Islands
+  Saipan, Tinian, Rota
+
+Norway
+  Bergen, Haugesund, Maaloy, Mongstad, Narvik, Sture
+
+Oman
+  Mina' Qabus, Salalah, Suhar
+
+Pacific Ocean
+  Bangkok (Thailand), Hong Kong (China), Kao-hsiung
+  (Taiwan), Los Angeles (US), Manila (Philippines), Pusan (South
+  Korea), San Francisco (US), Seattle (US), Shanghai (China),
+  Singapore, Sydney (Australia), Vladivostok (Russia), Wellington
+  (NZ), Yokohama (Japan)
+
+Pakistan
+  Karachi, Port Muhammad Bin Qasim
+
+Palau
+  Koror
+
+Panama
+  Balboa, Colon, Cristobal
+
+Papua New Guinea
+  Kimbe, Lae, Madang, Rabaul, Wewak
+
+Paracel Islands
+  small Chinese port facilities on Woody Island and
+  Duncan Island
+
+Paraguay
+  Asuncion, Villeta, San Antonio, Encarnacion
+
+Peru
+  Callao, Iquitos, Matarani, Paita, Pucallpa, Yurimaguas; note -
+  Iquitos, Pucallpa, and Yurimaguas are on the upper reaches of the
+  Amazon and its tributaries
+
+Philippines
+  Batangas, Cagayan de Oro, Cebu, Davao, Liman, Manila
+
+Pitcairn Islands
+  Adamstown (on Bounty Bay)
+
+Poland
+  Gdansk, Gdynia, Swinoujscie, Szczecin
+
+Portugal
+  Leixoes, Lisbon, Setubal, Sines
+
+Puerto Rico
+  Ensenada Honda, Mayaguez, Playa de Guayanilla, Playa de
+  Ponce, San Juan
+
+Qatar
+  Doha, Mesaieed (Umaieed), Ra's Laffan
+
+Romania
+  Braila, Constanta, Galati (Galatz), Mancanului (Giurgiu),
+  Midia, Tulcea
+
+Russia
+  Kaliningrad, Kavkaz, Nakhodka, Novorossiysk, Primorsk, Saint
+  Petersburg, Vostochnyy
+
+Rwanda
+  Cyangugu, Gisenyi, Kibuye
+
+Saint Barthelemy
+  Gustavia
+
+Saint Helena, Ascension, and Tristan da Cunha
+  Saint Helena: Jamestown
+  Ascension Island: Georgetown
+  Tristan da Cunha: Calshot Harbor (Edinburgh)
+
+Saint Kitts and Nevis
+  Basseterre, Charlestown
+
+Saint Lucia
+  Castries, Cul-de-Sac, Vieux-Fort
+
+Saint Pierre and Miquelon
+  Saint-Pierre
+
+Saint Vincent and the Grenadines
+  Kingstown
+
+Samoa
+  Apia
+
+Sao Tome and Principe
+  Sao Tome
+
+Saudi Arabia
+  Ad Dammam, Al Jubayl, Jiddah, Yanbu' al Sinaiyah
+
+Senegal
+  Dakar
+
+Seychelles
+  Victoria
+
+Sierra Leone
+  Freetown, Pepel, Sherbro Islands
+
+Singapore
+  Singapore
+
+Sint Maarten
+  Philipsburg
+
+Slovakia
+  Bratislava, Komarno
+
+Slovenia
+  Koper
+
+Solomon Islands
+  Honiara, Malloco Bay, Viru Harbor, Tulaghi
+
+Somalia
+  Berbera, Kismaayo
+
+South Africa
+  Cape Town, Durban, Port Elizabeth, Richards Bay,
+  Saldanha Bay
+
+South Georgia and South Sandwich Islands
+  Grytviken
+
+Southern Ocean
+  McMurdo, Palmer, and offshore anchorages in Antarctica
+  note: few ports or harbors exist on the southern side of the
+  Southern Ocean; ice conditions limit use of most to short periods in
+  midsummer; even then some cannot be entered without icebreaker
+  escort; most Antarctic ports are operated by government research
+  stations and, except in an emergency, are not open to commercial or
+  private vessels
+
+Spain
+  Algeciras, Barcelona, Bilbao, Cartagena, Huelva, Tarragona,
+  Valencia (Spain); Las Palmas, Santa Cruz de Tenerife (Canary Islands)
+
+Spratly Islands
+  none; offshore anchorage only
+
+Sri Lanka
+  Colombo
+
+Sudan
+  Port Sudan
+
+Suriname
+  Paramaribo, Wageningen
+
+Svalbard
+  Barentsburg, Longyearbyen, Ny-Alesund, Pyramiden
+
+Sweden
+  Brofjorden, Goteborg, Helsingborg, Karlshamn, Lulea, Malmo,
+  Stockholm, Trelleborg, Visby
+
+Switzerland
+  Basel
+
+Syria
+  Baniyas, Latakia, Tartus
+
+Taiwan
+  Chilung (Keelung), Kaohsiung, Hualian, Taichung
+
+Tanzania
+  Dar es Salaam, Zanzibar
+
+Thailand
+  Bangkok, Laem Chabang, Map Ta Phut, Prachuap Port, Si Racha
+
+Timor-Leste
+  Dili
+
+Togo
+  Kpeme, Lome
+
+Tokelau
+  none; offshore anchorage only
+
+Tonga
+  Nuku'alofa, Neiafu, Pangai
+
+Trinidad and Tobago
+  Point Fortin, Point Lisas, Port-of-Spain,
+  Scarborough
+
+Tunisia
+  Bizerte, Gabes, Rades, Sfax, Skhira
+
+Turkey
+  Aliaga, Diliskelesi, Eregli, Izmir, Kocaeli (Izmit), Mercin
+  Limani, Yarimca
+
+Turkmenistan
+  Turkmenbasy
+
+Turks and Caicos Islands
+  Cockburn Harbour, Grand Turk, Providenciales
+
+Tuvalu
+  Funafuti
+
+Uganda
+  Entebbe, Jinja, Port Bell
+
+Ukraine
+  Feodosiya (Theodosia), Illichivsk, Mariupol', Mykolayiv,
+  Odesa, Yuzhnyy
+
+United Arab Emirates
+  Al Fujayrah, Mina' Jabal 'Ali (Dubai), Khawr
+  Fakkan (Khor Fakkan), Mubarraz Island, Mina' Rashid (Dubai), Mina'
+  Saqr (Ra's al Khaymah),
+
+United Kingdom
+  Dover, Felixstowe, Immingham, Liverpool, London,
+  Southampton, Teesport (England); Forth Ports, Hound Point
+  (Scotland); Milford Haven (Wales)
+
+United States
+  cargo ports (tonnage): Baton Rouge, Corpus Christi,
+  Houston, Long Beach, Los Angeles, New Orleans, New York,
+  Plaquemines, Tampa, Texas City
+  container ports (TEUs): Los Angeles (7,849,985), Long Beach
+  (6,350,125), New York/New Jersey (5,265,058), Savannah (2,616,126),
+  Oakland (2,236,244), Hampton Roads (2,083,278) (2008)
+  cruise departure ports (passengers): Miami (2,032,000), Port
+  Everglades (1,277,000), Port Canaveral (1,189,000), Seattle
+  (430,000), Long Beach (415,000) (2009)
+
+United States Pacific Island Wildlife Refuges
+  Baker, Howland, and
+  Jarvis Islands, and Kingman Reef: none; offshore anchorage only
+  Johnston Atoll: Johnston Island
+  Midway Islands: Sand Island
+  Palmyra Atoll: West Lagoon
+
+Uruguay
+  Montevideo
+
+Uzbekistan
+  Termiz (Amu Darya)
+
+Vanuatu
+  Forari Bay, Luganville (Santo, Espiritu Santo), Port-Vila
+
+Venezuela
+  La Guaira, Maracaibo, Puerto Cabello, Punta Cardon
+
+Vietnam
+  Cam Pha Port, Da Nang, Hai Phong, Ho Chi Minh City, Phu My,
+  Quy Nhon
+
+Virgin Islands
+  Charlotte Amalie, Christiansted, Cruz Bay,
+  Frederiksted, Limetree Bay
+
+Wake Island
+  none; two offshore anchorages for large ships
+
+Wallis and Futuna
+  Leava, Mata-Utu
+
+Western Sahara
+  Ad Dakhla, Laayoune (El Aaiun)
+
+World
+  top ten container ports as measured by Twenty-Foot Equivalent
+  Units (TEUs) throughput: Singapore - 25,866,400; Shanghai -
+  25,002,000; Hong Kong - 20,983,000; Shenzhen (China) - 18,250,100;
+  Pusan (South Korea) - 11,954,861; Guangzhou (China) - 11,190,000;
+  Dubai (UAE) - 11,124,082; Ningbo (China) - 10,502,800; Qingdao
+  (China) - 10,260,000; - Rotterdam - 9,743,290 (2009)
+
+Yemen
+  Aden, Al Hudaydah, Al Mukalla
+
+Zambia
+  Mpulungu
+
+Zimbabwe
+  Binga, Kariba
+
+
+
+
+======================================================================
+
+
+
+
+

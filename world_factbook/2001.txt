@@ -1,0 +1,1360 @@
+2001
+
+
+Field Listing :: GDP (purchasing power parity)
+
+  This entry gives the gross domestic product (GDP) or value of all
+  final goods and services produced within a nation in a given year. A
+  nation's GDP at purchasing power parity (PPP) exchange rates is the
+  sum value of all goods and services produced in the country valued
+  at prices prevailing in the United States. This is the measure most
+  economists prefer when looking at per-capita welfare and when
+  comparing living conditions or use of resources across countries.
+  The measure is difficult to compute, as a US dollar value has to be
+  assigned to all goods and services in the country regardless of
+  whether these goods and services have a direct equivalent in the
+  United States (for example, the value of an ox-cart or non-US
+  military equipment); as a result, PPP estimates for some countries
+  are based on a small and sometimes different set of goods and
+  services. In addition, many countries do not formally participate in
+  the World Bank's PPP project that calculates these measures, so the
+  resulting GDP estimates for these countries may lack precision. For
+  many developing countries, PPP-based GDP measures are multiples of
+  the official exchange rate (OER) measure. The differences between
+  the OER- and PPP-denominated GDP values for most of the wealthy
+  industrialized countries are generally much smaller.
+  Country Comparison to the World
+  Country
+
+
+  GDP (purchasing power parity)
+
+Afghanistan
+  $29.81 billion (2010 est.)
+  $27.38 billion (2009 est.)
+  $22.34 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Albania
+  $23.95 billion (2010 est.)
+  $23.23 billion (2009 est.)
+  $22.49 billion (2008 est.)
+  note: data are in 2010 US dollars
+  Albania has an informal, and unreported, sector that may be as large
+  as 50% of official GDP
+
+Algeria
+  $254.7 billion (2010 est.)
+  $244.6 billion (2009 est.)
+  $239.4 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+American Samoa
+  $575.3 million (2007 est.)
+  $510.1 million (2003 est.)
+
+Andorra
+  $4.22 billion (2008)
+  $3.66 billion (2007)
+  $3.588 billion (2006)
+
+Angola
+  $114.1 billion (2010 est.)
+  $107.8 billion (2009 est.)
+  $108.7 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Anguilla
+  $175.4 million (2009 est.)
+  $191.7 million (2008 est.)
+  $108.9 million (2004 est.)
+
+Antigua and Barbuda
+  $1.433 billion (2010 est.)
+  $1.494 billion (2009 est.)
+  $1.64 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Argentina
+  $596 billion (2010 est.)
+  $554.5 billion (2009 est.)
+  $571.6 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Armenia
+  $17.27 billion (2010 est.)
+  $16.5 billion (2009 est.)
+  $19.23 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Aruba
+  $2.258 billion (2005 est.)
+  $2.205 billion (2004 est.)
+
+Australia
+  $889.6 billion (2010 est.)
+  $861.1 billion (2009 est.)
+  $850.9 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Austria
+  $332.9 billion (2010 est.)
+  $326.4 billion (2009 est.)
+  $339.3 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Azerbaijan
+  $90.15 billion (2010 est.)
+  $86.93 billion (2009 est.)
+  $79.54 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Bahamas, The
+  $8.878 billion (2010 est.)
+  $8.923 billion (2009 est.)
+  $9.285 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Bahrain
+  $29.82 billion (2010 est.)
+  $28.7 billion (2009 est.)
+  $27.83 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Bangladesh
+  $259.3 billion (2010 est.)
+  $244.6 billion (2009 est.)
+  $231.4 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Barbados
+  $6.196 billion (2010 est.)
+  $6.24 billion (2009 est.)
+  $6.603 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Belarus
+  $128.4 billion (2010 est.)
+  $122.5 billion (2009 est.)
+  $122.3 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Belgium
+  $394.9 billion (2010 est.)
+  $388.7 billion (2009 est.)
+  $399.5 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Belize
+  $2.652 billion (2010 est.)
+  $2.613 billion (2009 est.)
+  $2.613 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Benin
+  $14.2 billion (2010 est.)
+  $13.79 billion (2009 est.)
+  $13.42 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Bermuda
+  $4.5 billion (2004 est.)
+
+Bhutan
+  $3.526 billion (2010 est.)
+  $3.301 billion (2009 est.)
+  $3.123 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Bolivia
+  $47.98 billion (2010 est.)
+  $46.22 billion (2009 est.)
+  $44.7 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Bosnia and Herzegovina
+  $30.56 billion (2010 est.)
+  $30.23 billion (2009 est.)
+  $31.23 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Botswana
+  $26.56 billion (2010 est.)
+  $25.76 billion (2009 est.)
+  $27.23 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Brazil
+  $2.194 trillion (2010 est.)
+  $2.041 trillion (2009 est.)
+  $2.045 trillion (2008 est.)
+  note: data are in 2010 US dollars
+
+British Virgin Islands
+  $853.4 million (2004 est.)
+
+Brunei
+  $19.88 billion (2010 est.)
+  $19.68 billion (2009 est.)
+  $20.04 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Bulgaria
+  $91.83 billion (2010 est.)
+  $91.83 billion (2009 est.)
+  $96.67 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Burkina Faso
+  $20.06 billion (2010 est.)
+  $19.07 billion (2009 est.)
+  $18.48 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Burma
+  $60.07 billion (2010 est.)
+  $58.27 billion (2009 est.)
+  $57.24 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Burundi
+  $3.418 billion (2010 est.)
+  $3.29 billion (2009 est.)
+  $3.178 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Cambodia
+  $29.46 billion (2010 est.)
+  $28.3 billion (2009 est.)
+  $28.73 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Cameroon
+  $44.65 billion (2010 est.)
+  $43.44 billion (2009 est.)
+  $43.05 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Canada
+  $1.335 trillion (2010 est.)
+  $1.297 trillion (2009 est.)
+  $1.33 trillion (2008 est.)
+  note: data are in 2010 US dollars
+
+Cape Verde
+  $1.861 billion (2010 est.)
+  $1.781 billion (2009 est.)
+  $1.749 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Cayman Islands
+  $2.25 billion (2008 est.)
+  $2.23 billion (2003 est.)
+
+Central African Republic
+  $3.468 billion (2010 est.)
+  $3.345 billion (2009 est.)
+  $3.289 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Chad
+  $18.56 billion (2010 est.)
+  $18.2 billion (2009 est.)
+  $18.49 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Chile
+  $260 billion (2010 est.)
+  $246.9 billion (2009 est.)
+  $250.6 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+China
+  $9.872 trillion (2010 est.)
+  $8.95 trillion (2009 est.)
+  $8.204 trillion (2008 est.)
+  note: data are in 2010 US dollars
+
+Christmas Island
+  $NA
+
+Cocos (Keeling) Islands
+  $NA
+
+Colombia
+  $431.9 billion (2010 est.)
+  $413.7 billion (2009 est.)
+  $410.4 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Comoros
+  $789.4 million (2010 est.)
+  $776.2 million (2009 est.)
+  $762.5 million (2008 est.)
+  note: data are in 2010 US dollars
+
+Congo, Democratic Republic of the
+  $22.92 billion (2010 est.)
+  $22.25 billion (2009 est.)
+  $21.64 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Congo, Republic of the
+  $17.45 billion (2010 est.)
+  $15.79 billion (2009 est.)
+  $14.67 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Cook Islands
+  $183.2 million (2005 est.)
+
+Costa Rica
+  $51.3 billion (2010 est.)
+  $49.57 billion (2009 est.)
+  $49.91 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Cote d'Ivoire
+  $37.8 billion (2010 est.)
+  $36.48 billion (2009 est.)
+  $35.01 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Croatia
+  $78.52 billion (2010 est.)
+  $79.64 billion (2009 est.)
+  $84.54 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Cuba
+  $114.1 billion (2010 est.)
+  $112.4 billion (2009 est.)
+  $110.8 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Curacao
+  $2.838 billion (2008 est.)
+  $2.606 billion (2007 est.)
+  $2.452 billion (2006 est.)
+  note: data are in 2008 US dollars
+
+Cyprus
+  $23.18 billion (2010 est.)
+  $23.04 billion (2009 est.)
+  $23.45 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Czech Republic
+  $261.5 billion (2010 est.)
+  $256.9 billion (2009 est.)
+  $267.9 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Denmark
+  $204.1 billion (2010 est.)
+  $200.5 billion (2009 est.)
+  $210.4 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Djibouti
+  $2.099 billion (2010 est.)
+  $2.003 billion (2009 est.)
+  $1.908 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Dominica
+  $765.4 million (2010 est.)
+  $754.8 million (2009 est.)
+  $757.1 million (2008 est.)
+  note: data are in 2010 US dollars
+
+Dominican Republic
+  $84.94 billion (2010 est.)
+  $81.52 billion (2009 est.)
+  $78.76 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Ecuador
+  $114.7 billion (2010 est.)
+  $112 billion (2009 est.)
+  $111.6 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Egypt
+  $500.9 billion (2010 est.)
+  $475.7 billion (2009 est.)
+  $454.8 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+El Salvador
+  $43.98 billion (2010 est.)
+  $43.46 billion (2009 est.)
+  $45.04 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Equatorial Guinea
+  $24.66 billion (2010 est.)
+  $24.18 billion (2009 est.)
+  $22.96 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Eritrea
+  $4.178 billion (2010 est.)
+  $4.017 billion (2009 est.)
+  $3.877 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Estonia
+  $24.53 billion (2010 est.)
+  $24.07 billion (2009 est.)
+  $27.96 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Ethiopia
+  $84.02 billion (2010 est.)
+  $78.52 billion (2009 est.)
+  $72.24 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+European Union
+  $14.89 trillion (2010 est.)
+  $14.64 trillion (2009 est.)
+  $15.27 trillion (2008 est.)
+  note: data are in 2010 US dollars
+
+Falkland Islands (Islas Malvinas)
+  $105.1 million (2002 est.)
+
+Faroe Islands
+  $1.642 billion (2008 est.)
+
+Fiji
+  $3.792 billion (2010 est.)
+  $3.725 billion (2009 est.)
+  $3.821 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Finland
+  $185.4 billion (2010 est.)
+  $181.6 billion (2009 est.)
+  $197.6 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+France
+  $2.16 trillion (2010 est.)
+  $2.126 trillion (2009 est.)
+  $2.18 trillion (2008 est.)
+  note: data are in 2010 US dollars
+
+French Polynesia
+  $4.718 billion (2004 est.)
+  $4.58 billion (2003 est.)
+
+Gabon
+  $22.54 billion (2010 est.)
+  $21.39 billion (2009 est.)
+  $21.69 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Gambia, The
+  $3.406 billion (2010 est.)
+  $3.244 billion (2009 est.)
+  $3.073 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Gaza Strip
+  see entry for West Bank
+
+Georgia
+  $22.32 billion (2010 est.)
+  $21.16 billion (2009 est.)
+  $22.02 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Germany
+  $2.951 trillion (2010 est.)
+  $2.857 trillion (2009 est.)
+  $2.998 trillion (2008 est.)
+  note: data are in 2010 US dollars
+
+Ghana
+  $38.24 billion (2010 est.)
+  $36.53 billion (2009 est.)
+  $35.09 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Gibraltar
+  $1.106 billion (2006 est.)
+  $1.066 billion (2005 est.)
+  $769 million (2000 est.)
+
+Greece
+  $321.7 billion (2010 est.)
+  $337.9 billion (2009 est.)
+  $344.8 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Greenland
+  $2.03 billion (2008 est.)
+
+Grenada
+  $1.127 billion (2010 est.)
+  $1.118 billion (2009 est.)
+  $1.211 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Guam
+  $2.5 billion (2005 est.)
+
+Guatemala
+  $70.31 billion (2010 est.)
+  $68.8 billion (2009 est.)
+  $68.39 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Guernsey
+  $2.742 billion (2005)
+
+Guinea
+  $10.6 billion (2010 est.)
+  $10.3 billion (2009 est.)
+  $10.67 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Guinea-Bissau
+  $1.769 billion (2010 est.)
+  $1.738 billion (2009 est.)
+  $1.687 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Guyana
+  $5.069 billion (2010 est.)
+  $4.946 billion (2009 est.)
+  $4.834 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Haiti
+  $11.18 billion (2010 est.)
+  $12.15 billion (2009 est.)
+  $11.81 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Holy See (Vatican City)
+  $NA
+
+Honduras
+  $33.77 billion (2010 est.)
+  $32.94 billion (2009 est.)
+  $33.65 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Hong Kong
+  $323.3 billion (2010 est.)
+  $305.9 billion (2009 est.)
+  $314.7 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Hungary
+  $190 billion (2010 est.)
+  $188.5 billion (2009 est.)
+  $201.2 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Iceland
+  $11.86 billion (2010 est.)
+  $12.28 billion (2009 est.)
+  $13.17 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+India
+  $4.046 trillion (2010 est.)
+  $3.736 trillion (2009 est.)
+  $3.478 trillion (2008 est.)
+  note: data are in 2010 US dollars
+
+Indonesia
+  $1.033 trillion (2010 est.)
+  $974.6 billion (2009 est.)
+  $932.6 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Iran
+  $863.5 billion (2010 est.)
+  $838.3 billion (2009 est.)
+  $825.9 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Iraq
+  $117.7 billion (2010 est.)
+  $111.5 billion (2009 est.)
+  $106.7 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Ireland
+  $174 billion (2010 est.)
+  $175.1 billion (2009 est.)
+  $189.5 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Isle of Man
+  $2.719 billion (2005 est.)
+
+Israel
+  $217.1 billion (2010 est.)
+  $210 billion (2009 est.)
+  $209.6 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Italy
+  $1.782 trillion (2010 est.)
+  $1.763 trillion (2009 est.)
+  $1.857 trillion (2008 est.)
+  note: data are in 2010 US dollars
+
+Jamaica
+  $23.93 billion (2010 est.)
+  $24.12 billion (2009 est.)
+  $24.81 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Japan
+  $4.338 trillion (2010 est.)
+  $4.211 trillion (2009 est.)
+  $4.442 trillion (2008 est.)
+  note: data are in 2010 US dollars
+
+Jersey
+  $5.1 billion (2005 est.)
+
+Jordan
+  $33.79 billion (2010 est.)
+  $32.74 billion (2009 est.)
+  $31.98 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Kazakhstan
+  $193.8 billion (2010 est.)
+  $184.8 billion (2009 est.)
+  $182.6 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Kenya
+  $65.95 billion (2010 est.)
+  $63.42 billion (2009 est.)
+  $61.78 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Kiribati
+  $619.5 million (2010 est.)
+  $610.4 million (2009 est.)
+  $614.7 million (2008 est.)
+  note: data are in 2010 US dollars
+
+Korea, North
+  $40 billion (2009 est.)
+  $40 billion (2008 est.)
+  note: data are in 2010 US dollars;
+  North Korea does not publish reliable National Income Accounts data;
+  the data shown here are derived from purchasing power parity (PPP)
+  GDP estimates for North Korea that were made by Angus MADDISON in a
+  study conducted for the OECD; his figure for 1999 was extrapolated
+  to 2009 using estimated real growth rates for North Korea's GDP and
+  an inflation factor based on the US GDP deflator; the results were
+  rounded to the nearest $10 billion.
+
+Korea, South
+  $1.467 trillion (2010 est.)
+  $1.383 trillion (2009 est.)
+  $1.38 trillion (2008 est.)
+  note: data are in 2010 US dollars
+
+Kosovo
+  $5.3 billion (2008); $4.7 billion
+
+Kuwait
+  $144.3 billion (2010 est.)
+  $139.8 billion (2009 est.)
+  $146.5 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Kyrgyzstan
+  $11.85 billion (2010 est.)
+  $12.28 billion (2009 est.)
+  $12 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Laos
+  $15.42 billion (2010 est.)
+  $14.41 billion (2009 est.)
+  $13.53 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Latvia
+  $32.2 billion (2010 est.)
+  $32.79 billion (2009 est.)
+  $39.99 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Lebanon
+  $58.65 billion (2010 est.)
+  $54.71 billion (2009 est.)
+  $51.18 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Lesotho
+  $3.31 billion (2010 est.)
+  $3.198 billion (2009 est.)
+  $3.148 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Liberia
+  $1.76 billion (2010 est.)
+  $1.66 billion (2009 est.)
+  $1.587 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Libya
+  $89.03 billion (2010 est.)
+  $86.19 billion (2009 est.)
+  $86.77 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Liechtenstein
+  $4.16 billion (2007)
+  $4.035 billion (2006 est.)
+
+Lithuania
+  $56.22 billion (2010 est.)
+  $55.99 billion (2009 est.)
+  $65.72 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Luxembourg
+  $40.81 billion (2010 est.)
+  $39.55 billion (2009 est.)
+  $41.07 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Macau
+  $18.47 billion (2009 est.)
+  $18.14 billion (2008 est.)
+  $14.4 billion (2006)
+  note: data are in 2010 US dollars
+
+Macedonia
+  $19.46 billion (2010 est.)
+  $19.18 billion (2009 est.)
+  $19.31 billion (2008 est.)
+  note: data are in 2010 US dollars; Macedonia has a large informal
+  sector
+
+Madagascar
+  $20.73 billion (2010 est.)
+  $20.42 billion (2009 est.)
+  $20.63 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Malawi
+  $13.51 billion (2010 est.)
+  $12.69 billion (2009 est.)
+  $11.79 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Malaysia
+  $416.4 billion (2010 est.)
+  $388.8 billion (2009 est.)
+  $395.5 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Maldives
+  $1.767 billion (2010 est.)
+  $1.708 billion (2009 est.)
+  $1.763 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Mali
+  $16.74 billion (2010 est.)
+  $15.91 billion (2009 est.)
+  $15.24 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Malta
+  $10.21 billion (2010 est.)
+  $10.01 billion (2009 est.)
+  $10.13 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Marshall Islands
+  $133.5 million (2008 est.)
+  $115 million (2001 est.)
+  note: data are in 2010 US dollars
+
+Mauritania
+  $6.8 billion (2010 est.)
+  $6.476 billion (2009 est.)
+  $6.542 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Mauritius
+  $17.49 billion (2010 est.)
+  $16.88 billion (2009 est.)
+  $16.37 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Mayotte
+  $953.6 million (2005 est.)
+
+Mexico
+  $1.56 trillion (2010 est.)
+  $1.485 trillion (2009 est.)
+  $1.589 trillion (2008 est.)
+  note: data are in 2010 US dollars
+
+Micronesia, Federated States of
+  $238.1 million (2008 est.)
+  $277 million (2002 est.)
+  note: data are in 2008 US dollars
+  GDP supplemented by grant aid, averaging perhaps $100 million
+  annually
+
+Moldova
+  $10.6 billion (2010 est.)
+  $10.28 billion (2009 est.)
+  $10.99 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Monaco
+  $976.3 million (2006 est.)
+  note: data are in 2010 US dollars
+
+Mongolia
+  $10.16 billion (2010 est.)
+  $9.5 billion (2009 est.)
+  $9.654 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Montenegro
+  $6.569 billion (2010 est.)
+  $6.689 billion (2009 est.)
+  $7.093 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Montserrat
+  $29 million (2002 est.)
+
+Morocco
+  $153.8 billion (2010 est.)
+  $147.6 billion (2009 est.)
+  $140.6 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Mozambique
+  $22.19 billion (2010 est.)
+  $20.49 billion (2009 est.)
+  $19.28 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Namibia
+  $14.64 billion (2010 est.)
+  $14.06 billion (2009 est.)
+  $14.17 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Nauru
+  $60 million (2005 est.)
+
+Nepal
+  $35.31 billion (2010 est.)
+  $34.11 billion (2009 est.)
+  $32.58 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Netherlands
+  $680.4 billion (2010 est.)
+  $669 billion (2009 est.)
+  $696.1 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+New Caledonia
+  $3.158 billion (2003 est.)
+
+New Zealand
+  $119.2 billion (2010 est.)
+  $116.8 billion (2009 est.)
+  $118.8 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Nicaragua
+  $17.34 billion (2010 est.)
+  $16.87 billion (2009 est.)
+  $17.12 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Niger
+  $10.58 billion (2010 est.)
+  $10.22 billion (2009 est.)
+  $10.35 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Nigeria
+  $369.8 billion (2010 est.)
+  $346.2 billion (2009 est.)
+  $327.9 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Niue
+  $10.01 million (2003 est.)
+
+Norfolk Island
+  $NA
+
+Northern Mariana Islands
+  $900 million (2000 est.)
+  note: GDP estimate includes US subsidy
+
+Norway
+  $276.4 billion (2010 est.)
+  $272.3 billion (2009 est.)
+  $276.2 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Oman
+  $76.53 billion (2010 est.)
+  $73.87 billion (2009 est.)
+  $72.42 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Pakistan
+  $451.2 billion (2010 est.)
+  $439.4 billion (2009 est.)
+  $421.2 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Palau
+  $164 million (2008 est.)
+  $124.5 million (2004 est.)
+  note: data are in 2010 US dollars
+  GDP estimate includes US subsidy
+
+Panama
+  $43.48 billion (2010 est.)
+  $41.37 billion (2009 est.)
+  $40.4 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Papua New Guinea
+  $14.93 billion (2010 est.)
+  $14.06 billion (2009 est.)
+  $13.33 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Paraguay
+  $30.94 billion (2010 est.)
+  $29.06 billion (2009 est.)
+  $30.2 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Peru
+  $274.7 billion (2010 est.)
+  $254.8 billion (2009 est.)
+  $252.5 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Philippines
+  $351.2 billion (2010 est.)
+  $329.2 billion (2009 est.)
+  $325.6 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Pitcairn Islands
+  $NA
+
+Poland
+  $721.7 billion (2010 est.)
+  $698.6 billion (2009 est.)
+  $687 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Portugal
+  $247 billion (2010 est.)
+  $244.5 billion (2009 est.)
+  $251 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Puerto Rico
+  $64.84 billion (2010 est.)
+  $68.84 billion (2009 est.)
+  $71.51 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Qatar
+  $122.2 billion (2010 est.)
+  $102.3 billion (2009 est.)
+  $93.44 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Romania
+  $253.3 billion (2010 est.)
+  $258.2 billion (2009 est.)
+  $277.9 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Russia
+  $2.229 trillion (2010 est.)
+  $2.147 trillion (2009 est.)
+  $2.331 trillion (2008 est.)
+  note: data are in 2010 US dollars
+
+Rwanda
+  $11.84 billion (2010 est.)
+  $11.17 billion (2009 est.)
+  $10.69 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Saint Helena, Ascension, and Tristan da Cunha
+  $18 million (1998 est.)
+
+Saint Kitts and Nevis
+  $719.5 million (2010 est.)
+  $730.5 million (2009 est.)
+  $772.7 million (2008 est.)
+  note: data are in 2010 US dollars
+
+Saint Lucia
+  $1.789 billion (2010 est.)
+  $1.769 billion (2009 est.)
+  $1.866 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Saint Pierre and Miquelon
+  $48.3 million (2003 est.)
+  note: supplemented by annual payments from France of about $60
+  million
+
+Saint Vincent and the Grenadines
+  $1.107 billion (2010 est.)
+  $1.102 billion (2009 est.)
+  $1.112 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Samoa
+  $1.002 billion (2010 est.)
+  $1.022 billion (2009 est.)
+  $1.059 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+San Marino
+  $1.662 billion (2007)
+  $850 million (2004 est.)
+
+Sao Tome and Principe
+  $316.9 million (2010 est.)
+  $299 million (2009 est.)
+  $287.5 million (2008 est.)
+  note: data are in 2010 US dollars
+
+Saudi Arabia
+  $622.5 billion (2010 est.)
+  $599.7 billion (2009 est.)
+  $599.1 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Senegal
+  $23.86 billion (2010 est.)
+  $22.96 billion (2009 est.)
+  $22.56 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Serbia
+  $80.65 billion (2010 est.)
+  $79.22 billion (2009 est.)
+  $81.67 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Seychelles
+  $1.908 billion (2010 est.)
+  $1.843 billion (2009 est.)
+  $1.83 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Sierra Leone
+  $4.812 billion (2010 est.)
+  $4.574 billion (2009 est.)
+  $4.382 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Singapore
+  $292.2 billion (2010 est.)
+  $255 billion (2009 est.)
+  $258.3 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Sint Maarten
+  $794.7 million (2008 est.)
+  $748.9 million (2007 est.)
+  $703.2 million (2006 est.)
+  note: data are in 2008 US dollars
+
+Slovakia
+  $121.3 billion (2010 est.)
+  $116.7 billion (2009 est.)
+  $122.4 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Slovenia
+  $56.81 billion (2010 est.)
+  $56.24 billion (2009 est.)
+  $61.2 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Solomon Islands
+  $1.559 billion (2010 est.)
+  $1.517 billion (2009 est.)
+  $1.553 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Somalia
+  $5.896 billion (2010 est.)
+  $5.75 billion (2009 est.)
+  $5.607 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+South Africa
+  $527.5 billion (2010 est.)
+  $512.2 billion (2009 est.)
+  $521.6 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Spain
+  $1.374 trillion (2010 est.)
+  $1.379 trillion (2009 est.)
+  $1.432 trillion (2008 est.)
+  note: data are in 2010 US dollars
+
+Sri Lanka
+  $104.7 billion (2010 est.)
+  $97.91 billion (2009 est.)
+  $94.6 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Sudan
+  $98.79 billion (2010 est.)
+  $93.91 billion (2009 est.)
+  $90.12 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Suriname
+  $4.794 billion (2010 est.)
+  $4.632 billion (2009 est.)
+  $4.541 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Svalbard
+  $NA
+
+Swaziland
+  $6.055 billion (2010 est.)
+  $5.937 billion (2009 est.)
+  $5.913 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Sweden
+  $354 billion (2010 est.)
+  $340.1 billion (2009 est.)
+  $358.4 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Switzerland
+  $326.9 billion (2010 est.)
+  $318 billion (2009 est.)
+  $324.1 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Syria
+  $106.4 billion (2010 est.)
+  $102.4 billion (2009 est.)
+  $97.48 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Taiwan
+  $807.2 billion (2010 est.)
+  $745.4 billion (2009 est.)
+  $759.8 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Tajikistan
+  $14.61 billion (2010 est.)
+  $13.85 billion (2009 est.)
+  $13.4 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Tanzania
+  $62.22 billion (2010 est.)
+  $58.48 billion (2009 est.)
+  $55.17 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Thailand
+  $580.3 billion (2010 est.)
+  $539.3 billion (2009 est.)
+  $551.5 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Timor-Leste
+  $3.004 billion (2010 est.)
+  $2.782 billion (2009 est.)
+  $2.588 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Togo
+  $5.927 billion (2010 est.)
+  $5.738 billion (2009 est.)
+  $5.565 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Tokelau
+  $1.5 million (1993 est.)
+
+Tonga
+  $767 million (2010 est.)
+  $770.9 million (2009 est.)
+  $774.7 million (2008 est.)
+  note: data are in 2010 US dollars
+
+Trinidad and Tobago
+  $27.1 billion (2010 est.)
+  $26.54 billion (2009 est.)
+  $27.42 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Tunisia
+  $100.3 billion (2010 est.)
+  $97.03 billion (2009 est.)
+  $94.22 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Turkey
+  $958.3 billion (2010 est.)
+  $893.1 billion (2009 est.)
+  $937.1 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Turkmenistan
+  $36.64 billion (2010 est.)
+  $33.01 billion (2009 est.)
+  $31.11 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Turks and Caicos Islands
+  $216 million (2002 est.)
+
+Tuvalu
+  $14.94 million (2002 est.)
+
+Uganda
+  $41.7 billion (2010 est.)
+  $39.41 billion (2009 est.)
+  $36.76 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Ukraine
+  $306.3 billion (2010 est.)
+  $293.7 billion (2009 est.)
+  $345.9 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+United Arab Emirates
+  $199.8 billion (2010 est.)
+  $194.7 billion (2009 est.)
+  $200.1 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+United Kingdom
+  $2.189 trillion (2010 est.)
+  $2.154 trillion (2009 est.)
+  $2.268 trillion (2008 est.)
+  note: data are in 2010 US dollars
+
+United States
+  $14.72 trillion (2010 est.)
+  $14.33 trillion (2009 est.)
+  $14.72 trillion (2008 est.)
+  note: data are in 2010 US dollars
+
+Uruguay
+  $47.8 billion (2010 est.)
+  $44.63 billion (2009 est.)
+  $43.38 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Uzbekistan
+  $86.07 billion (2010 est.)
+  $79.55 billion (2009 est.)
+  $73.59 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Vanuatu
+  $1.216 billion (2010 est.)
+  $1.168 billion (2009 est.)
+  $1.126 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Venezuela
+  $344.2 billion (2010 est.)
+  $354.1 billion (2009 est.)
+  $366.2 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Vietnam
+  $278.1 billion (2010 est.)
+  $260.3 billion (2009 est.)
+  $247.2 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Virgin Islands
+  $1.577 billion (2004 est.)
+
+Wallis and Futuna
+  $60 million (2004 est.)
+
+West Bank
+  $12.79 billion (2009 est.)
+  $11.95 billion (2008)
+  note: data are in 2010 US dollars
+
+Western Sahara
+  $900 million (2007 est.)
+
+World
+  $74.43 trillion (2010 est.)
+  $71.17 trillion (2009 est.)
+  $71.67 trillion (2008 est.)
+  note: data are in 2010 US dollars
+
+Yemen
+  $61.88 billion (2010 est.)
+  $58.82 billion (2009 est.)
+  $56.67 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Zambia
+  $20.03 billion (2010 est.)
+  $18.72 billion (2009 est.)
+  $17.61 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+Zimbabwe
+  $4.395 billion (2010 est.)
+  $4.223 billion (2009 est.)
+  $4.279 billion (2008 est.)
+  note: data are in 2010 US dollars
+
+
+
+
+======================================================================
+
+
+
+
+

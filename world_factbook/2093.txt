@@ -1,0 +1,509 @@
+2093
+
+
+Field Listing :: Waterways
+
+  This entry gives the total length of navigable rivers, canals, and
+  other inland bodies of water.
+  Country Comparison to the World
+  Country
+
+
+  Waterways(km)
+
+Afghanistan
+  1,200 km; (chiefly Amu Darya, which handles vessels up
+  to 500 DWT) (2008)
+
+Albania
+  43 km (on the Bojana River) (2010)
+
+Angola
+  1,300 km (2010)
+
+Argentina
+  11,000 km (2007)
+
+Australia
+  2,000 km (mainly used for recreation on Murray and
+  Murray-Darling river systems) (2006)
+
+Austria
+  358 km (2007)
+
+Bangladesh
+  8,370 km
+  note: includes up to 3,060 km main cargo routes; network reduced to
+  5,200 km in dry season (2007)
+
+Belarus
+  2,500 km (use limited by location on perimeter of country
+  and by shallowness) (2003)
+
+Belgium
+  2,043 km (1,528 km in regular commercial use) (2008)
+
+Belize
+  825 km (navigable only by small craft) (2010)
+
+Benin
+  150 km (on River Niger along northern border) (2007)
+
+Bolivia
+  10,000 km (commercially navigable almost exclusively in the
+  northern and eastern parts of the country) (2010)
+
+Bosnia and Herzegovina
+  Sava River (northern border) open to shipping
+  but use limited (2009)
+
+Brazil
+  50,000 km (most in areas remote from industry and population)
+  (2010)
+
+Brunei
+  209 km (navigable by craft drawing less than 1.2 m; the
+  Belait, Brunei, and Tutong rivers are major transport links) (2011)
+
+Bulgaria
+  470 km (2009)
+
+Burma
+  12,800 km (2008)
+
+Burundi
+  mainly on Lake Tanganyika between Bujumbura, Burundi's
+  principal port, and lake ports in Tanzania, Zambia, and the
+  Democratic Republic of Congo (2010)
+
+Cambodia
+  2,400 km (mainly on Mekong River) (2010)
+
+Cameroon
+  major rivers in the south, such as the Wouri and the
+  Sanaga, are largely non-navigable; in the north, the Benue, which
+  connects through Nigeria to the Niger River, is navigable in the
+  rainy season only to the port of Garoua (2010)
+
+Canada
+  636 km
+  note: Saint Lawrence Seaway of 3,769 km, including the Saint
+  Lawrence River of 3,058 km, shared with United States (2008)
+
+Central African Republic
+  2,800 km (the primary navigable river is
+  the Ubangi, which joins the River Congo; it was the traditional
+  route for the export of products because it connected with the
+  Congo-Ocean railway at Brazzaville; because of the warfare on both
+  sides of the River Congo from 1997, however, routes through Cameroon
+  became preferred by importers and exporters) (2010)
+
+Chad
+  Chari and Legone rivers are navigable only in wet season (2010)
+
+China
+  110,000 km navigable (2010)
+
+Colombia
+  18,000 km (2010)
+
+Congo, Democratic Republic of the
+  15,000 km (including the Congo,
+  its tributaries, and unconnected lakes) (2009)
+
+Congo, Republic of the
+  1,120 km (commercially navigable on Congo and
+  Oubanqui rivers above Brazzaville; there are many ferries across the
+  river to Kinshasa; the Congo south of Brazzaville-Kinshasa to the
+  coast is not navigable because of rapids, thereby necessitating a
+  rail connection to Pointe Noire; other rivers are used for local
+  traffic only) (2010)
+
+Costa Rica
+  730 km (seasonally navigable by small craft) (2010)
+
+Cote d'Ivoire
+  980 km (navigable rivers, canals, and numerous coastal
+  lagoons) (2008)
+
+Croatia
+  785 km (2009)
+
+Cuba
+  240 km (almost all navigable inland waterways are near the
+  mouths of rivers) (2010)
+
+Czech Republic
+  664 km (principally on Elbe, Vltava, Oder, and other
+  navigable rivers, lakes, and canals) (2010)
+
+Denmark
+  400 km (2008)
+
+Ecuador
+  1,500 km (most inaccessible) (2010)
+
+Egypt
+  3,500 km
+  note: includes Nile River, Lake Nasser, Alexandria-Cairo Waterway,
+  and numerous smaller canals in delta; Suez Canal (193.5 km including
+  approaches) navigable by oceangoing vessels drawing up to 17.68 m
+  (2010)
+
+El Salvador
+  Rio Lempa is partially navigable for small craft (2010)
+
+Estonia
+  520 km (320 km are navigable year round) (2010)
+
+European Union
+  52,332 km (2006)
+
+Fiji
+  203 km
+  note: 122 km navigable by motorized craft and 200-metric-ton barges
+  (2008)
+
+Finland
+  7,842 km (includes Saimaa Canal system of 3,577 km; southern
+  part leased from Russia; water transport is used frequently in the
+  summer and is widely replaced with sledges on the ice in winter;
+  there are 187,888 lakes in Finland that cover 31,500 km) (2010)
+
+France
+  metropolitan France: 8,501 km (1,621 km accessible to craft
+  of 3,000 metric tons)
+  French Guiana: 3,760 km (460 km navigable by small oceangoing
+  vessels and coastal and river steamers, 3,300 km by native craft)
+  (2008)
+
+Gabon
+  1,600 km (310 km on Ogooue River) (2010)
+
+Gambia, The
+  390 km (on River Gambia; small ocean-going vessels can
+  reach 190 km) (2008)
+
+Germany
+  7,467 km
+  note: Rhine River carries most goods; Main-Danube Canal links North
+  Sea and Black Sea (2008)
+
+Ghana
+  1,293 km
+  note: 168 km for launches and lighters on Volta, Ankobra, and Tano
+  rivers; 1,125 km of arterial and feeder waterways on Lake Volta
+  (2008)
+
+Greece
+  6 km
+  note: Corinth Canal (6 km) crosses the Isthmus of Corinth; shortens
+  sea voyage by 325 km (2010)
+
+Guatemala
+  990 km (260 km navigable year round; additional 730 km
+  navigable during high-water season) (2010)
+
+Guinea
+  1,300 km (navigable by shallow-draft native craft) (2008)
+
+Guinea-Bissau
+  rivers are navigable for some distance; many inlets
+  and creeks give shallow-water access to much of interior (2008)
+
+Guyana
+  330 km
+  note: Berbice, Demerara, and Essequibo rivers are navigable by
+  oceangoing vessels for 150 km, 100 km, and 80 km respectively (2010)
+
+Honduras
+  465 km (most navigable only by small craft) (2010)
+
+Hungary
+  1,622 km (most on Danube River) (2010)
+
+India
+  14,500 km
+  note: 5,200 km on major rivers and 485 km on canals suitable for
+  mechanized vessels (2008)
+
+Indonesia
+  21,579 km (2011)
+
+Iran
+  850 km (on Karun River; some navigation on Lake Urmia) (2009)
+
+Iraq
+  5,279 km
+  note: Euphrates River (2,815 km), Tigris River (1,899 km), and Third
+  River (565 km) are principal waterways (2008)
+
+Ireland
+  956 km (pleasure craft only) (2008)
+
+Italy
+  2,400 km
+  note: used for commercial traffic; of limited overall value compared
+  to road and rail (2008)
+
+Japan
+  1,770 km (seagoing vessels use inland seas) (2010)
+
+Kazakhstan
+  4,000 km; on the Ertis (Irtysh) River (80%) and Syr Darya
+  (Syrdariya) River (2008)
+
+Kenya
+  the only significant inland waterway in the country is the
+  part of Lake Victoria within the boundaries of Kenya; Kisumu is the
+  main port and has ferry connections to Uganda and Tanzania (2010)
+
+Kiribati
+  5 km (small network of canals in Line Islands) (2007)
+
+Korea, North
+  2,250 km; (most navigable only by small craft) (2010)
+
+Korea, South
+  1,608 km; (most navigable only by small craft) (2010)
+
+Kyrgyzstan
+  600 km (2010)
+
+Laos
+  4,600 km
+  note: primarily Mekong and tributaries; 2,900 additional km are
+  intermittently navigable by craft drawing less than 0.5 m (2010)
+
+Latvia
+  300 km (navigable year round) (2010)
+
+Liechtenstein
+  28 km (2008)
+
+Lithuania
+  441 km (navigable year round) (2007)
+
+Luxembourg
+  37 km (on Moselle River) (2008)
+
+Madagascar
+  600 km
+  note: 432 km navigable (2008)
+
+Malawi
+  700 km; (on Lake Nyasa (Lake Malawi) and Shire River) (2010)
+
+Malaysia
+  7,200 km
+  note: Peninsular Malaysia 3,200 km; Sabah 1,500 km; Sarawak 2,500 km
+  (2011)
+
+Mali
+  1,800 km (downstream of Koulikoro; low water levels on the
+  River Niger cause problems in dry years; in the months before the
+  rainy season the river is not navigable by commercial vessels) (2010)
+
+Mauritania
+  some navigation possible on Senegal River (2010)
+
+Mexico
+  2,900 km (navigable rivers and coastal canals mostly
+  connected with ports on the country's east coast) (2010)
+
+Moldova
+  558 km (in public use on Danube, Dniester and Prut rivers)
+  (2008)
+
+Mongolia
+  580 km
+  note: only waterway in operation is Lake Hovsgol (135 km); Selenge
+  River (270 km) and Orhon River (175 km) are navigable but carry
+  little traffic; lakes and rivers freeze in winter, are open from May
+  to September (2010)
+
+Mozambique
+  460 km (Zambezi River navigable to Tete and along Cahora
+  Bassa Lake) (2010)
+
+Netherlands
+  6,215 km (navigable for ships of 50 tons) (2007)
+
+Nicaragua
+  2,220 km (navigable waterways as well as the use of the
+  large Lake Managua and Lake Nicaragua; rivers serve only the
+  sparsely populated eastern part of the country) (2010)
+
+Niger
+  300 km; (the Niger, the only major river, is navigable to Gaya
+  between September and March) (2008)
+
+Nigeria
+  8,600 km (Niger and Benue rivers and smaller rivers and
+  creeks) (2009)
+
+Norway
+  1,577 km (2008)
+
+Panama
+  800 km (includes the 82-km Panama Canal that is being
+  widened) (2010)
+
+Papua New Guinea
+  11,000 km (2006)
+
+Paraguay
+  3,100 km (primarily on the Paraguay and Parana river
+  systems) (2010)
+
+Peru
+  8,808 km
+  note: 8,600 km of navigable tributaries on Amazon system and 208 km
+  on Lago Titicaca (2010)
+
+Philippines
+  3,219 km; (limited to vessels with draft less than 1.5
+  m) (2011)
+
+Poland
+  3,997 km (navigable rivers and canals) (2009)
+
+Portugal
+  210 km (on Douro River from Porto) (2008)
+
+Romania
+  1,731 km
+  note: includes 1,075 km on Danube River, 524 km on secondary
+  branches, and 132 km on canals (2006)
+
+Russia
+  102,000 km (including 48,000 km with guaranteed depth)
+  note: 72,000 km system in European Russia links Baltic Sea, White
+  Sea, Caspian Sea, Sea of Azov, and Black Sea (2009)
+
+Rwanda
+  Lac Kivu navigable by shallow-draft barges and native craft
+  (2009)
+
+Senegal
+  1,000 km (primarily on Senegal, Saloum, and Casamance
+  rivers) (2008)
+
+Serbia
+  587 km (primarily on Danube and Sava rivers) (2009)
+
+Sierra Leone
+  800 km (600 km year round) (2007)
+
+Slovakia
+  172 km (on Danube River) (2009)
+
+Slovenia
+  some transport on Drava River (2010)
+
+Spain
+  1,000 km (2008)
+
+Sri Lanka
+  160 km (primarily on rivers in southwest) (2008)
+
+Sudan
+  4,068 km (1,723 km open year round on White and Blue Nile
+  rivers) (2008)
+
+Suriname
+  1,200 km (most navigable by ships with drafts up to 7 m)
+  (2010)
+
+Sweden
+  2,052 km (2010)
+
+Switzerland
+  65 km; (Rhine River between Basel-Rheinfelden and
+  Schaffhausen-Bodensee) (2008)
+
+Syria
+  900 km (navigable not economically significant) (2010)
+
+Tajikistan
+  200 km (along Vakhsh River) (2010)
+
+Tanzania
+  Lake Tanganyika, Lake Victoria, and Lake Nyasa are
+  principal avenues of commerce with neighboring countries; rivers are
+  not navigable (2009)
+
+Thailand
+  4,000 km
+  note: 3,701 km navigable by boats with drafts up to 0.9 m (2010)
+
+Togo
+  50 km (seasonally on Mono River depending on rainfall) (2008)
+
+Turkey
+  1,200 km (2008)
+
+Turkmenistan
+  1,300 km (Amu Darya and Kara Kum canal are important
+  inland waterways) (2008)
+
+Uganda
+  there are no long navigable stretches of river in Uganda;
+  parts of the Albert Nile that flow out of Lake Albert in the
+  northwestern part of the country are navigable; several lakes
+  including Lake Victoria and Lake Kyoga have substantial traffic;
+  Lake Albert is navigable along a 200 km stretch from its northern
+  tip to its southern shores (2009)
+
+Ukraine
+  2,150 km (most on Dnieper River) (2009)
+
+United Kingdom
+  3,200 km (620 km used for commerce) (2008)
+
+United States
+  41,009 km (19,312 km used for commerce)
+  note: Saint Lawrence Seaway of 3,769 km, including the Saint
+  Lawrence River of 3,058 km, shared with Canada (2008)
+
+Uruguay
+  1,600 km (2010)
+
+Uzbekistan
+  1,100 km (2009)
+
+Venezuela
+  7,100 km
+  note: Orinoco River (400 km) and Lake de Maracaibo navigable by
+  oceangoing vessels (2010)
+
+Vietnam
+  17,702 km (5,000 km navigable by vessels up to 1.8 m draft)
+  (2011)
+
+World
+  671,886 km (2004)
+  top ten longest rivers: Nile (Africa) 6,693 km; Amazon (South
+  America) 6,436 km; Mississippi-Missouri (North America) 6,238 km;
+  Yenisey-Angara (Asia) 5,981 km; Ob-Irtysh (Asia) 5,569 km; Yangtze
+  (Asia) 5,525 km; Yellow (Asia) 4,671 km; Amur (Asia) 4,352 km; Lena
+  (Asia) 4,345 km; Congo (Africa) 4,344 km
+  note: if measured by volume, the Amazon is the largest river in the
+  world
+
+Zambia
+  2,250 km; (includes Lake Tanganyika and the Zambezi and
+  Luapula rivers) (2010)
+
+Zimbabwe
+  on Lake Kariba (2009)
+
+
+
+
+======================================================================
+
+
+
+
+

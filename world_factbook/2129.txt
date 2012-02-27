@@ -1,0 +1,881 @@
+2129
+
+
+Field Listing :: Unemployment rate
+
+  This entry contains the percent of the labor force that is without
+  jobs. Substantial underemployment might be noted.
+  Country Comparison to the World
+  Country
+
+
+  Unemployment rate(%)
+
+Afghanistan
+  35% (2008 est.)
+  40% (2005 est.)
+
+Albania
+  12.7% (2010 est.)
+  12.8% (2009 est.)
+  note: these are official rates, but actual rates may exceed 30% due
+  to preponderance of near-subsistence farming
+
+Algeria
+  9.9% (2010 est.)
+  10.2% (2009 est.)
+
+American Samoa
+  29.8% (2005)
+
+Andorra
+  7% (2008)
+  0% (2007)
+
+Angola
+  NA
+
+Anguilla
+  8% (2002)
+
+Antigua and Barbuda
+  11% (2001 est.)
+
+Argentina
+  7.9% (2010 est.)
+  8.7% (2009 est.)
+  note: based on official data, which may understate unemployment
+
+Armenia
+  7.1% (2007 est.)
+
+Aruba
+  6.9% (2005 est.)
+
+Australia
+  5.1% (2010 est.)
+  5.6% (2009 est.)
+
+Austria
+  4.6% (2010 est.)
+  4.8% (2009 est.)
+
+Azerbaijan
+  0.9% (2010 est.)
+  6% (2009 est.)
+
+Bahamas, The
+  7.6% (2006 est.)
+
+Bahrain
+  15% (2005 est.)
+
+Bangladesh
+  5.1% (2010 est.)
+  5.1% (2009 est.)
+  note: about 40% of the population is underemployed; many
+  participants in the labor force work only a few hours a week, at low
+  wages
+
+Barbados
+  10.7% (2003 est.)
+
+Belarus
+  1% (2009 est.)
+  1.6% (2005)
+  note: official registered unemployed; large number of underemployed
+  workers
+
+Belgium
+  8.1% (2010 est.)
+  7.9% (2009 est.)
+
+Belize
+  13.1% (2009)
+  8.2% (2008)
+
+Benin
+  NA%
+
+Bermuda
+  2.1% (2004 est.)
+
+Bhutan
+  4% (2009)
+  2.5% (2004)
+
+Bolivia
+  8.3% (2010 est.)
+  7.7% (2009 est.)
+  note: data are for urban areas; widespread underemployment
+
+Bosnia and Herzegovina
+  27.2% (2010 est.)
+  24.1% (2009 est.)
+  note: official rate
+
+Botswana
+  7.5% (2007 est.)
+
+Brazil
+  7% (2010 est.)
+  8.1% (2009 est.)
+
+British Virgin Islands
+  3.6% (1997)
+
+Brunei
+  3.7% (2008)
+  4% (2006)
+
+Bulgaria
+  9.5% (2010 est.)
+  6.3% (2008 est.)
+
+Burkina Faso
+  77% (2004)
+
+Burma
+  5.7% (2010 est.)
+  4.9% (2009 est.)
+
+Burundi
+  NA%
+
+Cambodia
+  3.5% (2007 est.)
+  2.5% (2000 est.)
+
+Cameroon
+  30% (2001 est.)
+
+Canada
+  8% (2010 est.)
+  8.3% (2009 est.)
+
+Cape Verde
+  21% (2000 est.)
+
+Cayman Islands
+  4% (2008)
+  4.4% (2004)
+
+Central African Republic
+  8% (2001 est.)
+  note: 23% unemployment for Bangui
+
+Chad
+  NA% est.)
+
+Chile
+  8.7% (2010 est.)
+  9.6% (2009 est.)
+
+China
+  4.3% (September 2009 est.)
+  4.2% (December 2008 est.)
+  note: official data for urban areas only; including migrants may
+  boost total unemployment to 9%; substantial unemployment and
+  underemployment in rural areas
+
+Cocos (Keeling) Islands
+  60% (2000 est.)
+
+Colombia
+  11.2% (2010 est.)
+  12% (2009 est.)
+
+Comoros
+  20% (1996 est.)
+
+Congo, Democratic Republic of the
+  NA%
+
+Congo, Republic of the
+  NA%
+
+Cook Islands
+  13.1% (2005)
+
+Costa Rica
+  6.6% (2010 est.)
+  7.8% (2009 est.)
+
+Cote d'Ivoire
+  NA
+  note: unemployment may have climbed to 40-50% as a result of the
+  civil war
+
+Croatia
+  17.6% (2010 est.)
+  16.1% (2009 est.)
+
+Cuba
+  2% (2010 est.)
+  1.7% (2009 est.)
+
+Curacao
+  10.3% (2008 est.)
+
+Cyprus
+  6% (2010 est.)
+  5.3% (2009 est.)
+
+Czech Republic
+  9.3% (2010 est.)
+  8.1% (2009 est.)
+
+Denmark
+  4.2% (2010 est.)
+  4.3% (2009 est.)
+
+Djibouti
+  59% (2007 est.)
+  note: data are for urban areas, 83% in rural areas
+
+Dominica
+  23% (2000 est.)
+
+Dominican Republic
+  14.2% (2010 est.)
+  14.9% (2009 est.)
+
+Ecuador
+  7.6% (2010 est.)
+  8.5% (2009 est.)
+
+Egypt
+  9.7% (2010 est.)
+  9.4% (2009 est.)
+
+El Salvador
+  7% (2010 est.)
+  7.2% (2009 est.)
+  note: data are official rates; but the economy has much
+  underemployment
+
+Equatorial Guinea
+  30% (1998 est.)
+
+Eritrea
+  NA%
+
+Estonia
+  13.5% (2010 est.)
+  13.8% (2009 est.)
+
+Ethiopia
+  NA%
+
+European Union
+  9.5% (2010 est.)
+  9% (2009 est.)
+
+Falkland Islands (Islas Malvinas)
+  NA%
+
+Faroe Islands
+  3.9% (2009)
+  1.2% (2008)
+
+Fiji
+  7.6% (1999)
+
+Finland
+  7.9% (2010 est.)
+  8.2% (2009 est.)
+
+France
+  9.5% (2010 est.)
+  9.1% (2009 est.)
+
+French Polynesia
+  11.7% (2005)
+
+Gabon
+  21% (2006 est.); NA%
+
+Gambia, The
+  NA%
+
+Gaza Strip
+  40% (2010 est.)
+  40% (2009 est.)
+
+Georgia
+  16.4% (2009 est.)
+  13.6% (2006 est.)
+
+Germany
+  7.1% (2010 est.)
+  7.5% (2009 est.)
+  note: this is the International Labor Organization's estimated rate
+  for international comparisons; Germany's Federal Employment Office
+  estimated a seasonally adjusted rate of 10.8%
+
+Ghana
+  11% (2000 est.)
+
+Gibraltar
+  3% (2005 est.)
+
+Greece
+  12% (2010 est.)
+  9.4% (2009 est.)
+
+Greenland
+  6.8% (2007 est.)
+  7.3% (2006 est.)
+
+Grenada
+  12.5% (2000)
+
+Guam
+  11.4% (2002 est.)
+
+Guatemala
+  3.2% (2005 est.)
+
+Guernsey
+  0.9% (March 2006 est.)
+
+Guinea
+  NA% est.)
+
+Guinea-Bissau
+  NA%
+
+Guyana
+  11% (2007)
+
+Haiti
+  NA% est.)
+  note: widespread unemployment and underemployment; more than
+  two-thirds of the labor force do not have formal jobs
+
+Honduras
+  5.1% (2010 est.)
+  3.2% (2009 est.)
+  note: about 36% are unemployed or underemployed
+
+Hong Kong
+  4.6% (2010 est.)
+  5.2% (2009 est.)
+
+Hungary
+  11.5% (2010 est.)
+  10% (2009 est.)
+
+Iceland
+  8.6% (2010 est.)
+  8% (2009 est.)
+
+India
+  10.8% (2010 est.)
+  10.7% (2009 est.)
+
+Indonesia
+  7.1% (2010 est.)
+  8.1% (2009 est.)
+
+Iran
+  14.6% (2010 est.)
+  10.3% (2008 est.)
+  note: data are according to the Iranian Government
+
+Iraq
+  15.3% (2009 est.)
+  15.2% (2008 est.)
+
+Ireland
+  13.7% (2010 est.)
+  11.8% (2009 est.)
+
+Isle of Man
+  1.8% (October 2010 est.)
+  1.5% (December 2006 est.)
+
+Israel
+  6.4% (2010 est.)
+  7.6% (2009 est.)
+
+Italy
+  8.4% (2010 est.)
+  7.8% (2009 est.)
+
+Jamaica
+  12.9% (2010 est.)
+  11.4% (2009 est.)
+
+Japan
+  5.2% (2010 est.)
+  5.1% (2009 est.)
+
+Jersey
+  2.2% (2006 est.)
+
+Jordan
+  13.4% (2010 est.)
+  12.9% (2009 est.)
+  note: official rate; unofficial rate is approximately 30%
+
+Kazakhstan
+  5.5% (2010 est.)
+  6.3% (2009 est.)
+
+Kenya
+  40% (2008 est.)
+  40% (2001 est.)
+
+Kiribati
+  2% (1992 est.)
+
+Korea, North
+  NA%
+
+Korea, South
+  3.7% (2010 est.)
+  3.7% (2009 est.)
+
+Kosovo
+  16.6% (2009 est.); 14%
+
+Kuwait
+  2.2% (2004 est.)
+
+Kyrgyzstan
+  18% (2004 est.)
+
+Laos
+  2.5% (2009 est.)
+  2.4% (2005 est.)
+
+Latvia
+  19.1% (2010 est.)
+  17.1% (2009 est.)
+
+Lebanon
+  NA%
+
+Lesotho
+  45% (2002)
+
+Liberia
+  85% (2003 est.)
+
+Libya
+  30% (2004 est.)
+
+Liechtenstein
+  1.5% (31 December 2007)
+  1.3% (September 2002)
+
+Lithuania
+  16% (2010 est.)
+  13.7% (2009 est.)
+
+Luxembourg
+  5.5% (2010 est.)
+  5.7% (2009 est.)
+
+Macau
+  3.6% (2009)
+  3% (2008)
+
+Macedonia
+  33.1% (2010 est.)
+  32.2% (2009 est.)
+
+Malawi
+  NA%
+
+Malaysia
+  3.5% (2010 est.)
+  3.7% (2009 est.)
+
+Maldives
+  14.4% (2006 est.)
+
+Mali
+  30% (2004 est.)
+
+Malta
+  7% (2009 est.)
+  6% (2008 est.)
+
+Marshall Islands
+  36% (2006 est.)
+  30.9% (2000 est.)
+
+Mauritania
+  30% (2008 est.)
+  20% (2004 est.)
+
+Mauritius
+  7.5% (2010 est.)
+  7.3% (2009 est.)
+
+Mayotte
+  25.4% (2005)
+
+Mexico
+  5.6% (2010 est.)
+  5.5% (2009 est.)
+  note: underemployment may be as high as 25%
+
+Micronesia, Federated States of
+  22% (2000 est.)
+
+Moldova
+  3.4% (2010 est.)
+  3.1% (2009 est.)
+
+Monaco
+  0% (2005)
+
+Mongolia
+  2.8% (2008)
+  3% (2007)
+
+Montenegro
+  14.7% (2007 est.)
+
+Montserrat
+  6% (1998 est.)
+
+Morocco
+  9.8% (2010 est.)
+  9.1% (2009 est.)
+
+Mozambique
+  21% (1997 est.)
+
+Namibia
+  51.2% (2008 est.)
+  36.7% (2004 est.)
+
+Nauru
+  90% (2004 est.)
+
+Nepal
+  46% (2008 est.)
+  42% (2004 est.)
+
+Netherlands
+  5.5% (2010 est.)
+  4.8% (2009 est.)
+
+New Caledonia
+  17.1% (2004)
+
+New Zealand
+  6.5% (2010 est.)
+  6.2% (2009 est.)
+
+Nicaragua
+  8% (2010 est.)
+  8.2% (2009 est.)
+  note: underemployment was 46.5% in 2008
+
+Niger
+  NA%
+
+Nigeria
+  4.9% (2007 est.)
+
+Niue
+  12% (2001)
+
+Northern Mariana Islands
+  8% (2005 est.)
+  3.9% (2001)
+
+Norway
+  3.7% (2010 est.)
+  3.2% (2009 est.)
+
+Oman
+  15% (2004 est.)
+
+Pakistan
+  15% (2010 est.)
+  14% (2009 est.)
+  note: substantial underemployment exists
+
+Palau
+  4.2% (2005 est.)
+
+Panama
+  4.4% (2010 est.)
+  6.7% (2009 est.)
+
+Papua New Guinea
+  1.8% (2004)
+
+Paraguay
+  6.9% (2010 est.)
+  7.9% (2009 est.)
+
+Peru
+  6.7% (2010 est.)
+  8.1% (2009 est.)
+  note: data are for metropolitan Lima; widespread underemployment
+
+Philippines
+  7.5% (2010 est.)
+  7.5% (2009 est.)
+
+Poland
+  11.8% (2010 est.)
+  11% (2009 est.)
+
+Portugal
+  10.7% (2010 est.)
+  9.5% (2009 est.)
+
+Puerto Rico
+  12% (2002)
+
+Qatar
+  0.5% (2010 est.)
+  0.5% (2009 est.)
+
+Romania
+  8.2% (2010 est.)
+  7.8% (2009 est.)
+
+Russia
+  7.6% (2010 est.)
+  8.4% (2009)
+
+Rwanda
+  NA%
+
+Saint Helena, Ascension, and Tristan da Cunha
+  14% (1998 est.)
+
+Saint Kitts and Nevis
+  4.5% (1997)
+
+Saint Lucia
+  20% (2003 est.)
+
+Saint Pierre and Miquelon
+  10.3% (1999)
+
+Saint Vincent and the Grenadines
+  15% (2001 est.)
+
+Samoa
+  NA%
+
+San Marino
+  3.1% (2008)
+
+Sao Tome and Principe
+  NA%
+
+Saudi Arabia
+  10.8% (2010 est.)
+  10.5% (2009 est.)
+  note: data are for Saudi males only (local bank estimates; some
+  estimates range as high as 25%)
+
+Senegal
+  48% (2007 est.)
+
+Serbia
+  17.2% (2010 est.); 16.6% (2009 est.)
+
+Seychelles
+  2% (2006 est.)
+
+Sierra Leone
+  NA%
+
+Singapore
+  2.3% (2010 est.)
+  3% (2009 est.)
+
+Sint Maarten
+  10.6% (2008 est.)
+
+Slovakia
+  12.5% (2010 est.)
+  11.4% (2009 est.)
+
+Slovenia
+  10.6% (2010 est.)
+  9.2% (2009 est.)
+
+Solomon Islands
+  NA%
+
+Somalia
+  NA%
+
+South Africa
+  23.3% (2010 est.)
+  24% (2009 est.)
+
+Spain
+  20% (2010 est.)
+  18.1% (2009 est.)
+
+Sri Lanka
+  5.4% (2010 est.)
+  5.9% (2009 est.)
+
+Sudan
+  18.7% (2002 est.)
+
+Suriname
+  9.5% (2004)
+
+Swaziland
+  40% (2006 est.)
+
+Sweden
+  8.3% (2010 est.)
+  8.3% (2009 est.)
+
+Switzerland
+  3.9% (2010 est.)
+  3.7% (2009 est.)
+
+Syria
+  8.3% (2010 est.)
+  8.5% (2009 est.)
+
+Taiwan
+  5.2% (2010 est.)
+  5.9% (2009 est.)
+
+Tajikistan
+  2.2% (2009 est.)
+  2.3% (2008 est.)
+  note: official rates; actual unemployment is higher
+
+Tanzania
+  NA%
+
+Thailand
+  1.2% (2010 est.)
+  1.5% (2009)
+
+Timor-Leste
+  20% (2006 est.)
+  note: data are for rural areas, unemployment rises to more than 40%
+  among urban youth
+
+Togo
+  NA%
+
+Tokelau
+  NA%
+
+Tonga
+  13% (FY03/04 est.)
+
+Trinidad and Tobago
+  6.4% (2010 est.)
+  5.8% (2009 est.)
+
+Tunisia
+  14% (2010 est.)
+  13.3% (2009 est.)
+
+Turkey
+  12.4% (2010 est.)
+  14.1% (2009 est.)
+  note: underemployment amounted to 4% in 2008
+
+Turkmenistan
+  60% (2004 est.)
+
+Turks and Caicos Islands
+  10% (1997 est.)
+
+Tuvalu
+  NA%
+
+Uganda
+  NA%
+
+Ukraine
+  8.4% (2010 est.)
+  8.8% (2009 est.)
+  note: officially registered; large number of unregistered or
+  underemployed workers
+
+United Arab Emirates
+  2.4% (2001)
+
+United Kingdom
+  7.9% (2010 est.)
+  7.6% (2009 est.)
+
+United States
+  9.6% (2010 est.)
+  9.3% (2009 est.)
+
+Uruguay
+  7.4% (2010 est.)
+  7.6% (2009 est.)
+
+Uzbekistan
+  1.1% (2010 est.)
+  1.1% (2009 est.)
+  note: officially measured by the Ministry of Labor, plus another 20%
+  underemployed
+
+Vanuatu
+  1.7% (1999)
+
+Venezuela
+  12.1% (2010 est.)
+  7.9% (2009 est.)
+
+Vietnam
+  6.4% (2010 est.)
+  6.5% (2009 est.)
+
+Virgin Islands
+  6.2% (2004)
+
+Wallis and Futuna
+  15.2% (2003)
+
+West Bank
+  16.5% (2010 est.)
+  19% (2009 est.)
+
+Western Sahara
+  NA%
+
+World
+  8.8% (2010 est.)
+  8.2% (2009 est.)
+  note: 30% (2007 est.) combined unemployment and underemployment in
+  many non-industrialized countries; developed countries typically
+  4%-12% unemployment
+
+Yemen
+  35% (2003 est.)
+
+Zambia
+  50% (2000 est.)
+
+Zimbabwe
+  95% (2009 est.)
+  80% (2005 est.)
+
+
+
+
+======================================================================
+
+
+
+
+

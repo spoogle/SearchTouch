@@ -1,0 +1,798 @@
+2105
+
+
+Field Listing :: Manpower available for military service
+
+  This entry gives the number of males and females falling in the
+  military age range for a country (defined as being ages 16-49) and
+  assumes that every individual is fit to serve.
+  Country
+
+
+  Manpower available for military service
+
+Afghanistan
+  males age 16-49: 6,800,888
+  females age 16-49: 6,413,647 (2010 est.)
+
+Albania
+  males age 16-49: 947,446
+  females age 16-49: 910,145 (2010 est.)
+
+Algeria
+  males age 16-49: 10,113,472
+  females age 16-49: 9,959,693 (2010 est.)
+
+Andorra
+  males age 16-49: 22,776 (2010 est.)
+
+Angola
+  males age 16-49: 2,991,424
+  females age 16-49: 2,893,898 (2010 est.)
+
+Anguilla
+  males age 16-49: 3,611 (2010 est.)
+
+Antigua and Barbuda
+  males age 16-49: 20,909
+  females age 16-49: 23,815 (2010 est.)
+
+Argentina
+  males age 16-49: 9,934,765
+  females age 16-49: 9,868,008 (2010 est.)
+
+Armenia
+  males age 16-49: 809,293
+  females age 16-49: 862,679 (2010 est.)
+
+Aruba
+  males age 16-49: 24,779
+  females age 16-49: 26,090 (2010 est.)
+
+Australia
+  males age 16-49: 5,275,667
+  females age 16-49: 5,082,543 (2010 est.)
+
+Austria
+  males age 16-49: 1,960,781
+  females age 16-49: 1,926,134 (2010 est.)
+
+Azerbaijan
+  males age 16-49: 2,336,611
+  females age 16-49: 2,329,275 (2010 est.)
+
+Bahamas, The
+  males age 16-49: 84,903 (2010 est.)
+
+Bahrain
+  males age 16-49: 208,365
+  females age 16-49: 174,375 (2010 est.)
+
+Bangladesh
+  males age 16-49: 36,560,110 (2010 est.)
+
+Barbados
+  males age 16-49: 74,418
+  females age 16-49: 74,450 (2010 est.)
+
+Belarus
+  males age 16-49: 2,435,318
+  females age 16-49: 2,466,762 (2010 est.)
+
+Belgium
+  males age 16-49: 2,377,191
+  females age 16-49: 2,309,941 (2010 est.)
+
+Belize
+  males age 16-49: 79,088
+  females age 16-49: 77,147 (2010 est.)
+
+Benin
+  males age 16-49: 2,023,449
+  females age 16-49: 1,971,788 (2010 est.)
+
+Bermuda
+  males age 16-49: 15,217 (2010 est.)
+
+Bhutan
+  males age 16-49: 198,553
+  females age 16-49: 176,226 (2010 est.)
+
+Bolivia
+  males age 16-49: 2,415,712
+  females age 16-49: 2,482,359 (2010 est.)
+
+Bosnia and Herzegovina
+  males age 16-49: 1,194,832
+  females age 16-49: 1,156,698 (2010 est.)
+
+Botswana
+  males age 16-49: 543,097
+  females age 16-49: 520,896 (2010 est.)
+
+Brazil
+  males age 16-49: 52,942,805
+  females age 16-49: 53,038,688 (2010 est.)
+
+British Virgin Islands
+  males age 16-49: 7,230 (2010 est.)
+
+Brunei
+  males age 16-49: 111,166
+  females age 16-49: 115,071 (2010 est.)
+
+Bulgaria
+  males age 16-49: 1,660,930
+  females age 16-49: 1,646,170 (2010 est.)
+
+Burkina Faso
+  males age 16-49: 3,608,963 (2010 est.)
+
+Burma
+  males age 16-49: 14,558,921
+  females age 16-49: 14,539,703 (2010 est.)
+
+Burundi
+  males age 16-49: 2,099,541
+  females age 16-49: 2,118,918 (2010 est.)
+
+Cambodia
+  males age 16-49: 3,980,995
+  females age 16-49: 3,970,244 (2010 est.)
+
+Cameroon
+  males age 16-49: 4,553,576
+  females age 16-49: 4,443,217 (2010 est.)
+
+Canada
+  males age 16-49: 8,051,656
+  females age 16-49: 7,780,644 (2010 est.)
+
+Cape Verde
+  males age 16-49: 128,858
+  females age 16-49: 133,581 (2010 est.)
+
+Cayman Islands
+  males age 16-49: 12,108 (2010 est.)
+
+Central African Republic
+  males age 16-49: 1,121,548
+  females age 16-49: 1,118,432 (2010 est.)
+
+Chad
+  males age 16-49: 2,025,929
+  females age 16-49: 2,377,898 (2010 est.)
+
+Chile
+  males age 16-49: 4,301,900
+  females age 16-49: 4,232,956 (2010 est.)
+
+China
+  males age 16-49: 381,747,145
+  females age 16-49: 360,385,629 (2010 est.)
+
+Colombia
+  males age 16-49: 11,556,939
+  females age 16-49: 11,609,122 (2010 est.)
+
+Comoros
+  males age 16-49: 178,670
+  females age 16-49: 177,811 (2010 est.)
+
+Congo, Democratic Republic of the
+  males age 16-49: 15,192,858 (2010
+  est.)
+
+Congo, Republic of the
+  males age 16-49: 898,850
+  females age 16-49: 886,063 (2010 est.)
+
+Costa Rica
+  males age 16-49: 1,241,183
+  females age 16-49: 1,217,037 (2010 est.)
+
+Cote d'Ivoire
+  males age 16-49: 5,094,762
+  females age 16-49: 4,895,446 (2010 est.)
+
+Croatia
+  males age 16-49: 1,021,904
+  females age 16-49: 1,023,465 (2010 est.)
+
+Cuba
+  males age 16-49: 3,078,049
+  females age 16-49: 3,004,713 (2010 est.)
+
+Cyprus
+  Greek Cypriot National Guard (GCNG):
+  males age 16-49: 322,807
+  females age 16-49: 284,386 (2010 est.)
+
+Czech Republic
+  males age 16-49: 2,517,268
+  females age 16-49: 2,418,163 (2010 est.)
+
+Denmark
+  males age 16-49: 1,235,947
+  females age 16-49: 1,221,386 (2010 est.)
+
+Djibouti
+  males age 16-49: 165,000
+  females age 16-49: 213,894 (2010 est.)
+
+Dominica
+  males age 16-49: 18,975 (2010 est.)
+
+Dominican Republic
+  males age 16-49: 2,514,160
+  females age 16-49: 2,395,804 (2010 est.)
+
+Ecuador
+  males age 16-49: 3,662,176
+  females age 16-49: 3,781,102 (2010 est.)
+
+Egypt
+  males age 16-49: 20,619,887
+  females age 16-49: 19,785,004 (2010 est.)
+
+El Salvador
+  males age 16-49: 1,426,142
+  females age 16-49: 1,590,778 (2010 est.)
+
+Equatorial Guinea
+  males age 16-49: 146,241
+  females age 16-49: 146,138 (2010 est.)
+
+Eritrea
+  males age 16-49: 1,307,012
+  females age 16-49: 1,319,682 (2010 est.)
+
+Estonia
+  males age 16-49: 297,096
+  females age 16-49: 308,229 (2010 est.)
+
+Ethiopia
+  males age 16-49: 18,485,269
+  females age 16-49: 19,145,307 (2010 est.)
+
+Faroe Islands
+  males age 16-49: 11,788 (2010 est.)
+
+Fiji
+  males age 16-49: 248,020
+  females age 16-49: 243,468 (2010 est.)
+
+Finland
+  males age 16-49: 1,160,812
+  females age 16-49: 1,111,743 (2010 est.)
+
+France
+  males age 16-49: 14,591,656
+  females age 16-49: 14,285,551 (2010 est.)
+
+French Polynesia
+  males age 16-49: 81,794 (2010 est.)
+
+Gabon
+  males age 16-49: 344,147
+  females age 16-49: 345,292 (2010 est.)
+
+Gambia, The
+  males age 16-49: 402,073
+  females age 16-49: 406,100 (2010 est.)
+
+Gaza Strip
+  males age 16-49: 372,843 (2010 est.)
+
+Georgia
+  males age 16-49: 1,094,390
+  females age 16-49: 1,140,758 (2010 est.)
+
+Germany
+  males age 16-49: 19,195,804
+  females age 16-49: 18,159,851 (2010 est.)
+
+Ghana
+  males age 16-49: 6,126,707
+  females age 16-49: 6,058,958 (2010 est.)
+
+Gibraltar
+  males age 16-49: 6,949 (2010 est.)
+
+Greece
+  males age 16-49: 2,502,268
+  females age 16-49: 2,486,171 (2010 est.)
+
+Greenland
+  males age 16-49: 15,474 (2010 est.)
+
+Grenada
+  males age 16-49: 27,453 (2010 est.)
+
+Guatemala
+  males age 16-49: 3,062,027
+  females age 16-49: 3,266,655 (2010 est.)
+
+Guinea
+  males age 16-49: 2,292,338
+  females age 16-49: 2,264,589 (2010 est.)
+
+Guinea-Bissau
+  males age 16-49: 361,785
+  females age 16-49: 363,488 (2010 est.)
+
+Guyana
+  males age 16-49: 189,456 (2010 est.)
+
+Haiti
+  males age 16-49: 2,283,915
+  females age 16-49: 2,250,220 (2010 est.)
+
+Honduras
+  males age 16-49: 1,989,556
+  females age 16-49: 1,939,462 (2010 est.)
+
+Hong Kong
+  males age 16-49: 1,729,179
+  females age 16-49: 1,899,296 (2010 est.)
+
+Hungary
+  males age 16-49: 2,380,381
+  females age 16-49: 2,319,142 (2010 est.)
+
+Iceland
+  males age 16-49: 75,259 (2010 est.)
+
+India
+  males age 16-49: 313,905,989
+  females age 16-49: 291,755,100 (2010 est.)
+
+Indonesia
+  males age 16-49: 65,166,986
+  females age 16-49: 62,715,534 (2010 est.)
+
+Iran
+  males age 16-49: 20,763,890
+  females age 16-49: 20,157,570 (2010 est.)
+
+Iraq
+  males age 16-49: 7,541,723
+  females age 16-49: 7,238,553 (2010 est.)
+
+Ireland
+  males age 16-49: 1,031,985
+  females age 16-49: 1,030,606 (2010 est.)
+
+Israel
+  males age 16-49: 1,771,661
+  females age 16-49: 1,687,698 (2010 est.)
+
+Italy
+  males age 16-49: 13,705,846
+  females age 16-49: 12,929,946 (2010 est.)
+
+Jamaica
+  males age 16-49: 712,627
+  females age 16-49: 730,845 (2010 est.)
+
+Japan
+  males age 16-49: 27,461,338
+  females age 16-49: 26,478,466 (2010 est.)
+
+Jordan
+  males age 16-49: 1,646,215
+  females age 16-49: 1,579,268 (2010 est.)
+
+Kazakhstan
+  males age 16-49: 4,176,999
+  females age 16-49: 4,202,422 (2010 est.)
+
+Kenya
+  males age 16-49: 9,525,556
+  females age 16-49: 9,242,381 (2010 est.)
+
+Kiribati
+  males age 16-49: 24,734 (2010 est.)
+
+Korea, North
+  males age 16-49: 6,132,987
+  females age 16-49: 6,119,405 (2010 est.)
+
+Korea, South
+  males age 16-49: 13,274,442
+  females age 16-49: 12,542,699 (2010 est.)
+
+Kuwait
+  males age 16-49: 1,131,529
+  females age 16-49: 612,126 (2010 est.)
+
+Kyrgyzstan
+  males age 16-49: 1,439,750
+  females age 16-49: 1,455,806 (2010 est.)
+
+Laos
+  males age 16-49: 1,633,725
+  females age 16-49: 1,654,235 (2010 est.)
+
+Latvia
+  males age 16-49: 554,943
+  females age 16-49: 550,700 (2010 est.)
+
+Lebanon
+  males age 16-49: 1,075,503
+  females age 16-49: 1,112,139 (2010 est.)
+
+Lesotho
+  males age 16-49: 469,509
+  females age 16-49: 505,707 (2010 est.)
+
+Liberia
+  males age 16-49: 797,084
+  females age 16-49: 808,017 (2010 est.)
+
+Libya
+  males age 16-49: 1,746,512
+  females age 16-49: 1,683,390 (2010 est.)
+
+Liechtenstein
+  males age 16-49: 8,041 (2010 est.)
+
+Lithuania
+  males age 16-49: 900,746
+  females age 16-49: 887,843 (2010 est.)
+
+Luxembourg
+  males age 16-49: 117,892
+  females age 16-49: 116,517 (2010 est.)
+
+Macau
+  males age 16-49: 150,712 (2010 est.)
+
+Macedonia
+  males age 16-49: 530,966
+  females age 16-49: 511,534 (2010 est.)
+
+Madagascar
+  males age 16-49: 4,745,274
+  females age 16-49: 4,750,188 (2010 est.)
+
+Malawi
+  males age 16-49: 3,402,724 (2010 est.)
+
+Malaysia
+  males age 16-49: 6,692,438
+  females age 16-49: 6,494,413 (2010 est.)
+
+Maldives
+  males age 16-49: 158,307
+  females age 16-49: 97,166 (2010 est.)
+
+Mali
+  males age 16-49: 2,759,648
+  females age 16-49: 2,894,776 (2010 est.)
+
+Malta
+  males age 16-49: 95,899
+  females age 16-49: 91,412 (2010 est.)
+
+Marshall Islands
+  males age 16-49: 16,138 (2010 est.)
+
+Mauritania
+  males age 16-49: 699,028
+  females age 16-49: 783,108 (2010 est.)
+
+Mauritius
+  males age 16-49: 343,279 (2010 est.)
+
+Mexico
+  males age 16-49: 28,475,126
+  females age 16-49: 30,048,077 (2010 est.)
+
+Micronesia, Federated States of
+  males age 16-49: 26,687 (2010 est.)
+
+Moldova
+  males age 16-49: 1,150,585
+  females age 16-49: 1,168,169 (2010 est.)
+
+Monaco
+  males age 16-49: 5,814 (2010 est.)
+
+Mongolia
+  males age 16-49: 887,059
+  females age 16-49: 880,788 (2010 est.)
+
+Montserrat
+  males age 16-49: 1,339 (2010 est.)
+
+Morocco
+  males age 16-49: 8,167,760
+  females age 16-49: 8,599,418 (2010 est.)
+
+Mozambique
+  males age 16-49: 4,787,832 (2010 est.)
+
+Namibia
+  males age 16-49: 554,531 (2010 est.)
+
+Nauru
+  males age 16-49: 3,682 (2010 est.)
+
+Nepal
+  males age 16-49: 6,699,614
+  females age 16-49: 7,388,240 (2010 est.)
+
+Netherlands
+  males age 16-49: 3,927,311
+  females age 16-49: 3,831,110 (2010 est.)
+
+New Caledonia
+  males age 16-49: 59,612 (2010 est.)
+
+New Zealand
+  males age 16-49: 1,017,575
+  females age 16-49: 1,003,087 (2010 est.)
+
+Nicaragua
+  males age 16-49: 1,605,398
+  females age 16-49: 1,594,270 (2010 est.)
+
+Niger
+  males age 16-49: 3,202,237
+  females age 16-49: 3,151,521 (2010 est.)
+
+Nigeria
+  males age 16-49: 36,203,921
+  females age 16-49: 34,409,821 (2010 est.)
+
+Norway
+  males age 16-49: 1,078,562
+  females age 16-49: 1,049,529 (2010 est.)
+
+Oman
+  males age 16-49: 964,200
+  females age 16-49: 714,421 (2010 est.)
+
+Pakistan
+  males age 16-49: 45,829,360
+  females age 16-49: 41,716,682 (2010 est.)
+
+Palau
+  males age 16-49: 6,955 (2010 est.)
+
+Panama
+  males age 16-49: 878,281 (2010 est.)
+
+Papua New Guinea
+  males age 16-49: 1,532,378
+  females age 16-49: 1,440,528 (2010 est.)
+
+Paraguay
+  males age 16-49: 1,640,761
+  females age 16-49: 1,637,460 (2010 est.)
+
+Peru
+  males age 16-49: 7,920,056
+  females age 16-49: 7,795,130 (2010 est.)
+
+Philippines
+  males age 16-49: 25,079,262
+  females age 16-49: 24,556,912 (2010 est.)
+
+Poland
+  males age 16-49: 9,597,047
+  females age 16-49: 9,364,939 (2010 est.)
+
+Portugal
+  males age 16-49: 2,572,007
+  females age 16-49: 2,474,719 (2010 est.)
+
+Qatar
+  males age 16-49: 387,399
+  females age 16-49: 163,652 (2010 est.)
+
+Romania
+  males age 16-49: 5,617,144
+  females age 16-49: 5,487,510 (2010 est.)
+
+Russia
+  males age 16-49: 34,850,217
+  females age 16-49: 35,693,977 (2010 est.)
+
+Rwanda
+  males age 16-49: 2,573,834
+  females age 16-49: 2,553,707 (2010 est.)
+
+Saint Kitts and Nevis
+  males age 16-49: 13,510
+  females age 16-49: 13,075 (2010 est.)
+
+Saint Lucia
+  males age 16-49: 41,177 (2010 est.)
+
+Saint Vincent and the Grenadines
+  males age 16-49: 27,940 (2010 est.)
+
+Samoa
+  males age 16-49: 47,423 (2010 est.)
+
+San Marino
+  males age 16-49: 6,893 (2010 est.)
+
+Sao Tome and Principe
+  males age 16-49: 38,211
+  females age 16-49: 38,929 (2010 est.)
+
+Saudi Arabia
+  males age 16-49: 8,752,167
+  females age 16-49: 6,680,315 (2010 est.)
+
+Senegal
+  males age 16-49: 3,211,279
+  females age 16-49: 3,250,128 (2010 est.)
+
+Seychelles
+  males age 16-49: 26,040
+  females age 16-49: 23,961 (2010 est.)
+
+Sierra Leone
+  males age 16-49: 1,156,724 (2010 est.)
+
+Singapore
+  males age 16-49: 1,266,426 (2010 est.)
+
+Slovakia
+  males age 16-49: 1,413,079
+  females age 16-49: 1,377,754 (2010 est.)
+
+Slovenia
+  males age 16-49: 483,488
+  females age 16-49: 470,325 (2010 est.)
+
+Solomon Islands
+  males age 16-49: 150,987 (2010 est.)
+
+Somalia
+  males age 16-49: 2,261,704
+  females age 16-49: 2,217,584 (2010 est.)
+
+South Africa
+  males age 16-49: 13,508,255
+  females age 16-49: 12,541,371 (2010 est.)
+
+Spain
+  males age 16-49: 9,851,306
+  females age 16-49: 9,574,929 (2010 est.)
+
+Sri Lanka
+  males age 16-49: 5,493,050
+  females age 16-49: 5,622,632 (2010 est.)
+
+Sudan
+  males age 16-49: 10,264,087
+  females age 16-49: 9,894,457 (2010 est.)
+
+Suriname
+  males age 16-49: 133,417
+  females age 16-49: 133,487 (2010 est.)
+
+Swaziland
+  males age 16-49: 336,436 (2010 est.)
+
+Sweden
+  males age 16-49: 2,065,782
+  females age 16-49: 1,995,451 (2010 est.)
+
+Switzerland
+  males age 16-49: 1,839,382
+  females age 16-49: 1,797,317 (2010 est.)
+
+Syria
+  males age 16-49: 5,766,853
+  females age 16-49: 5,540,828 (2010 est.)
+
+Taiwan
+  males age 16-49: 6,218,009
+  females age 16-49: 6,038,964 (2010 est.)
+
+Tajikistan
+  males age 16-49: 1,980,012
+  females age 16-49: 1,990,084 (2010 est.)
+
+Tanzania
+  males age 16-49: 9,683,768 (2010 est.)
+
+Thailand
+  males age 16-49: 17,650,648
+  females age 16-49: 17,762,077 (2010 est.)
+
+Timor-Leste
+  males age 16-49: 299,008
+  females age 16-49: 286,465 (2010 est.)
+
+Togo
+  males age 16-49: 1,462,206
+  females age 16-49: 1,463,189 (2010 est.)
+
+Tonga
+  males age 16-49: 34,254
+  females age 16-49: 32,974 (2010 est.)
+
+Trinidad and Tobago
+  males age 16-49: 347,044
+  females age 16-49: 323,847 (2010 est.)
+
+Tunisia
+  males age 16-49: 3,065,431
+  females age 16-49: 2,974,060 (2010 est.)
+
+Turkey
+  males age 16-49: 20,832,658
+  females age 16-49: 20,337,037 (2010 est.)
+
+Turkmenistan
+  males age 16-49: 1,360,898
+  females age 16-49: 1,368,265 (2010 est.)
+
+Uganda
+  males age 16-49: 6,972,134
+  females age 16-49: 6,752,005 (2010 est.)
+
+Ukraine
+  males age 16-49: 11,149,646
+  females age 16-49: 11,437,891 (2010 est.)
+
+United Arab Emirates
+  males age 16-49: 2,589,714 (includes
+  non-nationals)
+  females age 16-49: 950,460 (2010 est.)
+
+United Kingdom
+  males age 16-49: 14,732,445
+  females age 16-49: 14,118,320 (2010 est.)
+
+United States
+  males age 16-49: 73,145,586
+  females age 16-49: 71,880,788 (2010 est.)
+
+Uruguay
+  males age 16-49: 849,358
+  females age 16-49: 832,774 (2010 est.)
+
+Uzbekistan
+  males age 16-49: 7,776,645
+  females age 16-49: 7,783,901 (2010 est.)
+
+Vanuatu
+  males age 16-49: 61,178 (2010 est.)
+
+Venezuela
+  males age 16-49: 6,891,648
+  females age 16-49: 7,047,565 (2010 est.)
+
+Vietnam
+  males age 16-49: 25,402,395
+  females age 16-49: 24,834,928 (2010 est.)
+
+Yemen
+  males age 16-49: 5,458,642
+  females age 16-49: 5,205,387 (2010 est.)
+
+Zambia
+  males age 16-49: 2,824,372
+  females age 16-49: 2,685,883 (2010 est.)
+
+Zimbabwe
+  males age 16-49: 2,366,038
+  females age 16-49: 2,742,036 (2010 est.)
+
+
+
+
+======================================================================
+
+
+
+
+

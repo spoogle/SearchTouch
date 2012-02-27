@@ -1,0 +1,824 @@
+2141
+
+
+Field Listing :: Group
+
+  Country
+
+
+  Group
+
+Afghanistan
+  All, NESA, Near East/South Asia, South Asia
+
+Akrotiri
+  All, Europe, Europe/French Dependencies, Europe
+
+Albania
+  All, OREA, Europe/French Dependencies, Europe
+
+Algeria
+  All, NESA, Near East/South Asia, Africa
+
+American Samoa
+  All, APLAA, Caribbean/Oceania, Australia - Oceania
+
+Andorra
+  All, OREA, Europe/French Dependencies, Europe
+
+Angola
+  All, APLAA, Sub-Saharan Africa, Africa
+
+Anguilla
+  All, APLAA, North America/Caribbean, Central America
+
+Antarctica
+  All, APLAA, South America/Global, Antarctica
+
+Antigua and Barbuda
+  All, APLAA, North America/Caribbean, Central
+  America
+
+Arctic Ocean
+  All, APLAA, South America/Global, Oceans
+
+Argentina
+  All, APLAA, South America/Global, South America
+
+Armenia
+  All, OREA, Russia/Eurasia, Middle East
+
+Aruba
+  All, APLAA, North America/Caribbean, Central America
+
+Ashmore and Cartier Islands
+  All, APLAA, Caribbean/Oceania, Australia
+  - Oceania
+
+Atlantic Ocean
+  All, APLAA, South America/Global, Oceans
+
+Australia
+  All, APLAA, Caribbean/Oceania, Australia - Oceania
+
+Austria
+  All, OREA, Europe/French Dependencies, European Union, Europe
+
+Azerbaijan
+  All, OREA, Russia/Eurasia, Middle East
+
+Bahamas, The
+  All, APLAA, North America/Caribbean, Central America
+
+Bahrain
+  All, NESA, Near East/South Asia, Middle East
+
+Bangladesh
+  All, NESA, Near East/South Asia, South Asia
+
+Barbados
+  All, APLAA, North America/Caribbean, Central America
+
+Belarus
+  All, OREA, Russia/Eurasia, Europe
+
+Belgium
+  All, OREA, Europe/French Dependencies, European Union, Europe
+
+Belize
+  All, APLAA, South America/Meso America, Central America
+
+Benin
+  All, APLAA, Sub-Saharan Africa, Africa
+
+Bermuda
+  All, APLAA, North America/Caribbean, North America
+
+Bhutan
+  All, NESA, Near East/South Asia, South Asia
+
+Bolivia
+  All, APLAA, South America/Global, South America
+
+Bosnia and Herzegovina
+  All, OREA, Europe/French Dependencies, Europe
+
+Botswana
+  All, APLAA, Sub-Saharan Africa, Africa
+
+Bouvet Island
+  All, OREA, Europe/French Dependencies, Antarctica
+
+Brazil
+  All, APLAA, South America/Global, South America
+
+British Indian Ocean Territory
+  All, APLAA, Sub-Saharan Africa, South
+  Asia
+
+British Virgin Islands
+  All, APLAA, North America/Caribbean, Central
+  America
+
+Brunei
+  All, APLAA, East Asia/Southeast Asia, Southeast Asia
+
+Bulgaria
+  All, OREA, Russia/Eurasia, European Union, Europe
+
+Burkina Faso
+  All, APLAA, Sahel Region Africa, Africa
+
+Burma
+  All, APLAA, East Asia/Southeast Asia, Southeast Asia
+
+Burundi
+  All, APLAA, Sub-Saharan Africa, Africa
+
+Cambodia
+  All, APLAA, East Asia/Southeast Asia, Southeast Asia
+
+Cameroon
+  All, APLAA, Sub-Saharan Africa, Africa
+
+Canada
+  All, APLAA, Eurasia/North America, North America
+
+Cape Verde
+  All, APLAA, Sahel Region Africa, Africa
+
+Cayman Islands
+  All, APLAA, North America/Caribbean, Central America
+
+Central African Republic
+  All, APLAA, Sub-Saharan Africa, Africa
+
+Chad
+  All, APLAA, Sahel Region Africa, Africa
+
+Chile
+  All, APLAA, South America/Global, South America
+
+China
+  All, APLAA, East Asia/Southeast Asia, Southeast Asia
+
+Christmas Island
+  All, APLAA, Caribbean/Oceania, Australia - Oceania
+
+Clipperton Island
+  All, OREA, Europe/French Dependencies, North
+  America
+
+Cocos (Keeling) Islands
+  All, APLAA, Caribbean/Oceania, Australia -
+  Oceania
+
+Colombia
+  All, APLAA, South America/Global, South America
+
+Comoros
+  All, APLAA, Sub-Saharan Africa, Africa
+
+Congo, Democratic Republic of the
+  All, APLAA, Sub-Saharan Africa,
+  Africa
+
+Congo, Republic of the
+  All, APLAA, Sub-Saharan Africa, Africa
+
+Cook Islands
+  All, APLAA, Caribbean/Oceania, Australia - Oceania
+
+Coral Sea Islands
+  All, APLAA, Caribbean/Oceania, Australia - Oceania
+
+Costa Rica
+  All, APLAA, South America/Meso America, Central America
+
+Cote d'Ivoire
+  All, APLAA, Sub-Saharan Africa, Africa
+
+Croatia
+  All, OREA, Europe/French Dependencies, Europe
+
+Cuba
+  All, APLAA, North America/Caribbean, Central America
+
+Cyprus
+  All, OREA, Europe/French Dependencies, European Union, Europe
+
+Czech Republic
+  All, OREA, Russia/Eurasia, European Union, Europe
+
+Denmark
+  All, OREA, Europe/French Dependencies, European Union, Europe
+
+Dhekelia
+  All, Europe, Europe/French Dependencies, Europe
+
+Djibouti
+  All, APLAA, Sahel Region Africa, Africa
+
+Dominica
+  All, APLAA, North America/Caribbean, Central America
+
+Dominican Republic
+  All, APLAA, North America/Caribbean, Central
+  America
+
+Ecuador
+  All, APLAA, South America/Global, South America
+
+Egypt
+  All, NESA, Near East/South Asia, Africa
+
+El Salvador
+  All, APLAA, North America/Caribbean, Central America
+
+Equatorial Guinea
+  All, APLAA, Sub-Saharan Africa, Africa
+
+Eritrea
+  All, APLAA, Sahel Region Africa, Africa
+
+Estonia
+  All, OREA, Russia/Eurasia, European Union, Europe
+
+Ethiopia
+  All, APLAA, Sahel Region Africa, Africa
+
+European Union
+  All, Europe, Europe
+
+Falkland Islands (Islas Malvinas)
+  All, APLAA, South America/Global,
+  South America
+
+Faroe Islands
+  All, OREA, Europe/French Dependencies, Europe
+
+Fiji
+  All, APLAA, Caribbean/Oceania, Australia - Oceania
+
+Finland
+  All, OREA, Europe/French Dependencies, European Union, Europe
+
+France
+  All, OREA, Europe/French Dependencies, European Union, Europe
+
+French Polynesia
+  All, OREA, Europe/French Dependencies, Australia -
+  Oceania
+
+French Southern and Antarctic Lands
+  All, OREA, Europe/French
+  Dependencies, Antarctica
+
+Gabon
+  All, APLAA, Sub-Saharan Africa, Africa
+
+Gambia, The
+  All, APLAA, Sahel Region Africa, Africa
+
+Gaza Strip
+  All, NESA, Near East/South Asia, Middle East
+
+Georgia
+  All, OREA, Russia/Eurasia, Middle East
+
+Germany
+  All, OREA, Europe/French Dependencies, European Union, Europe
+
+Ghana
+  All, APLAA, Sub-Saharan Africa, Africa
+
+Gibraltar
+  All, OREA, Europe/French Dependencies, Europe
+
+Greece
+  All, OREA, Europe/French Dependencies, European Union, Europe
+
+Greenland
+  All, OREA, Europe/French Dependencies, North America
+
+Grenada
+  All, APLAA, North America/Caribbean, Central America
+
+Guam
+  All, APLAA, Caribbean/Oceania, Australia - Oceania
+
+Guatemala
+  All, APLAA, South America/Meso America, Central America
+
+Guernsey
+  All, OREA, Europe/French Dependencies, Europe
+
+Guinea
+  All, APLAA, Sahel Region Africa, Africa
+
+Guinea-Bissau
+  All, APLAA, Sahel Region Africa, Africa
+
+Guyana
+  All, APLAA, South America/Global, South America
+
+Haiti
+  All, APLAA, North America/Caribbean, Central America
+
+Heard Island and McDonald Islands
+  All, APLAA, Caribbean/Oceania,
+  Antarctica
+
+Holy See (Vatican City)
+  All, OREA, Europe/French Dependencies, Europe
+
+Honduras
+  All, APLAA, North America/Caribbean, Central America
+
+Hong Kong
+  All, APLAA, East Asia/Southeast Asia, Southeast Asia
+
+Hungary
+  All, OREA, Russia/Eurasia, European Union, Europe
+
+Iceland
+  All, OREA, Europe/French Dependencies, Europe
+
+India
+  All, NESA, Near East/South Asia, South Asia
+
+Indian Ocean
+  All, APLAA, South America/Global, Oceans
+
+Indonesia
+  All, APLAA, East Asia/Southeast Asia, Southeast Asia
+
+Iran
+  All, NESA, Near East/South Asia, Middle East
+
+Iraq
+  All, NESA, Near East/South Asia, Middle East
+
+Ireland
+  All, OREA, Europe/French Dependencies, European Union, Europe
+
+Isle of Man
+  All, OREA, Europe/French Dependencies, Europe
+
+Israel
+  All, NESA, Near East/South Asia, Middle East
+
+Italy
+  All, OREA, Europe/French Dependencies, European Union, Europe
+
+Jamaica
+  All, APLAA, North America/Caribbean, Central America
+
+Jan Mayen
+  All, OREA, Europe/French Dependencies, Europe
+
+Japan
+  All, APLAA, East Asia/Southeast Asia, Southeast Asia
+
+Jersey
+  All, OREA, Europe/French Dependencies, Europe
+
+Jordan
+  All, NESA, Near East/South Asia, Middle East
+
+Kazakhstan
+  All, OREA, Russia/Eurasia, Central Asia
+
+Kenya
+  All, APLAA, Sub-Saharan Africa, Africa
+
+Kiribati
+  All, APLAA, Caribbean/Oceania, Australia - Oceania
+
+Korea, North
+  All, APLAA, East Asia/Southeast Asia, Southeast Asia
+
+Korea, South
+  All, APLAA, East Asia/Southeast Asia, Southeast Asia
+
+Kosovo
+  All, Europe
+
+Kuwait
+  All, NESA, Near East/South Asia, Middle East
+
+Kyrgyzstan
+  All, OREA, Russia/Eurasia, Central Asia
+
+Laos
+  All, APLAA, East Asia/Southeast Asia, Southeast Asia
+
+Latvia
+  All, OREA, Russia/Eurasia, European Union, Europe
+
+Lebanon
+  All, NESA, Near East/South Asia, Middle East
+
+Lesotho
+  All, APLAA, Sub-Saharan Africa, Africa
+
+Liberia
+  All, APLAA, Sub-Saharan Africa, Africa
+
+Libya
+  All, NESA, Near East/South Asia, Africa
+
+Liechtenstein
+  All, OREA, Europe/French Dependencies, Europe
+
+Lithuania
+  All, OREA, Russia/Eurasia, European Union, Europe
+
+Luxembourg
+  All, OREA, Europe/French Dependencies, European Union,
+  Europe
+
+Macau
+  All, APLAA, East Asia/Southeast Asia, Southeast Asia
+
+Macedonia
+  All, OREA, Europe/French Dependencies, Europe
+
+Madagascar
+  All, APLAA, Sub-Saharan Africa, Africa
+
+Malawi
+  All, APLAA, Sub-Saharan Africa, Africa
+
+Malaysia
+  All, APLAA, East Asia/Southeast Asia, Southeast Asia
+
+Maldives
+  All, NESA, Near East/South Asia, South Asia
+
+Mali
+  All, APLAA, Sub-Saharan Africa, Africa
+
+Malta
+  All, OREA, Europe/French Dependencies, European Union, Europe
+
+Marshall Islands
+  All, APLAA, Caribbean/Oceania, Australia - Oceania
+
+Mauritania
+  All, NESA, Sahel Region Africa, Africa
+
+Mauritius
+  All, APLAA, Sub-Saharan Africa, Africa
+
+Mayotte
+  All, OREA, Europe/French Dependencies, Africa
+
+Mexico
+  All, APLAA, South America/Meso America, North America
+
+Micronesia, Federated States of
+  All, APLAA, Caribbean/Oceania,
+  Australia - Oceania
+
+Moldova
+  All, OREA, Russia/Eurasia, Europe
+
+Monaco
+  All, OREA, Europe/French Dependencies, Europe
+
+Mongolia
+  All, APLAA, East Asia/Southeast Asia, Southeast Asia
+
+Montenegro
+  All, Europe/French Dependencies, Europe
+
+Montserrat
+  All, APLAA, North America/Caribbean, Central America
+
+Morocco
+  All, NESA, Near East/South Asia, Africa
+
+Mozambique
+  All, APLAA, Sub-Saharan Africa, Africa
+
+Namibia
+  All, APLAA, Sub-Saharan Africa, Africa
+
+Nauru
+  All, APLAA, Caribbean/Oceania, Australia - Oceania
+
+Navassa Island
+  All, APLAA, North America/Caribbean, Central America
+
+Nepal
+  All, NESA, Near East/South Asia, South Asia
+
+Netherlands
+  All, OREA, Europe/French Dependencies, European Union,
+  Europe
+
+New Caledonia
+  All, OREA, Europe/French Dependencies, Australia -
+  Oceania
+
+New Zealand
+  All, APLAA, Caribbean/Oceania, Australia - Oceania
+
+Nicaragua
+  All, APLAA, South America/Meso America, Central America
+
+Niger
+  All, APLAA, Sahel Region Africa, Africa
+
+Nigeria
+  All, APLAA, Sub-Saharan Africa, Africa
+
+Niue
+  All, APLAA, Caribbean/Oceania, Australia - Oceania
+
+Norfolk Island
+  All, APLAA, Caribbean/Oceania, Australia - Oceania
+
+Northern Mariana Islands
+  All, APLAA, Caribbean/Oceania, Australia -
+  Oceania
+
+Norway
+  All, OREA, Europe/French Dependencies, Europe
+
+Oman
+  All, NESA, Near East/South Asia, Middle East
+
+Pacific Ocean
+  All, APLAA, South America/Global, Oceans
+
+Pakistan
+  All, NESA, Near East/South Asia, South Asia
+
+Palau
+  All, APLAA, Caribbean/Oceania, Australia - Oceania
+
+Panama
+  All, APLAA, South America/Meso America, Central America
+
+Papua New Guinea
+  All, APLAA, East Asia/Southeast Asia, Southeast Asia
+
+Paracel Islands
+  All, APLAA, East Asia/Southeast Asia, Southeast Asia
+
+Paraguay
+  All, APLAA, South America/Global, South America
+
+Peru
+  All, APLAA, South America/Global, South America
+
+Philippines
+  All, APLAA, East Asia/Southeast Asia, Southeast Asia
+
+Pitcairn Islands
+  All, APLAA, Caribbean/Oceania, Australia - Oceania
+
+Poland
+  All, OREA, Russia/Eurasia, European Union, Europe
+
+Portugal
+  All, OREA, Europe/French Dependencies, European Union,
+  Europe
+
+Puerto Rico
+  All, APLAA, North America/Caribbean, Central America
+
+Qatar
+  All, NESA, Near East/South Asia, Middle East
+
+Romania
+  All, OREA, Russia/Eurasia, European Union, Europe
+
+Russia
+  All, OREA, Russia/Eurasia, Central Asia
+
+Rwanda
+  All, APLAA, Sub-Saharan Africa, Africa
+
+Saint Barthelemy
+  All, Central America
+
+Saint Helena, Ascension, and Tristan da Cunha
+  All, APLAA,
+  Sub-Saharan Africa, Africa
+
+Saint Kitts and Nevis
+  All, APLAA, North America/Caribbean, Central
+  America
+
+Saint Lucia
+  All, APLAA, North America/Caribbean, Central America
+
+Saint Martin
+  All, Central America
+
+Saint Pierre and Miquelon
+  All, OREA, Europe/French Dependencies,
+  North America
+
+Saint Vincent and the Grenadines
+  All, APLAA, North
+  America/Caribbean, Central America
+
+Samoa
+  All, APLAA, Caribbean/Oceania, Australia - Oceania
+
+San Marino
+  All, OREA, Europe/French Dependencies, Europe
+
+Sao Tome and Principe
+  All, APLAA, Sub-Saharan Africa, Africa
+
+Saudi Arabia
+  All, NESA, Near East/South Asia, Middle East
+
+Senegal
+  All, APLAA, Sahel Region Africa, Africa
+
+Serbia
+  All, Europe/French Dependencies, Europe
+
+Seychelles
+  All, APLAA, Sub-Saharan Africa, Africa
+
+Sierra Leone
+  All, APLAA, Sub-Saharan Africa, Africa
+
+Singapore
+  All, APLAA, East Asia/Southeast Asia, Southeast Asia
+
+Slovakia
+  All, OREA, Russia/Eurasia, European Union, Europe
+
+Slovenia
+  All, OREA, Russia/Eurasia, European Union, Europe
+
+Solomon Islands
+  All, APLAA, Caribbean/Oceania, Australia - Oceania
+
+Somalia
+  All, APLAA, Sahel Region Africa, Africa
+
+South Africa
+  All, APLAA, Sub-Saharan Africa, Africa
+
+South Georgia and South Sandwich Islands
+  All, APLAA, South
+  America/Global
+
+Southern Ocean
+  All, APLAA, South America/Global, Oceans
+
+Spain
+  All, OREA, Europe/French Dependencies, European Union, Europe
+
+Spratly Islands
+  All, APLAA, East Asia/Southeast Asia, Southeast Asia
+
+Sri Lanka
+  All, NESA, Near East/South Asia, South Asia
+
+Sudan
+  All, NESA, Sahel Region Africa, Africa
+
+Suriname
+  All, APLAA, South America/Global, South America
+
+Svalbard
+  All, OREA, Europe/French Dependencies, Europe
+
+Swaziland
+  All, APLAA, Sub-Saharan Africa, Africa
+
+Sweden
+  All, OREA, Europe/French Dependencies, European Union, Europe
+
+Switzerland
+  All, OREA, Europe/French Dependencies, Europe
+
+Syria
+  All, NESA, Near East/South Asia, Middle East
+
+Taiwan
+  All, APLAA, East Asia/Southeast Asia, Southeast Asia
+
+Tajikistan
+  All, OREA, Russia/Eurasia, Central Asia
+
+Tanzania
+  All, APLAA, Sub-Saharan Africa, Africa
+
+Thailand
+  All, APLAA, East Asia/Southeast Asia, Southeast Asia
+
+Timor-Leste
+  All, APLAA, East Asia/Southeast Asia, Southeast Asia
+
+Togo
+  All, APLAA, Sub-Saharan Africa, Africa
+
+Tokelau
+  All, APLAA, Caribbean/Oceania, Australia - Oceania
+
+Tonga
+  All, APLAA, Caribbean/Oceania, Australia - Oceania
+
+Trinidad and Tobago
+  All, APLAA, North America/Caribbean, Central
+  America
+
+Tunisia
+  All, NESA, Near East/South Asia, Africa
+
+Turkey
+  All, OREA, Europe/French Dependencies, Middle East
+
+Turkmenistan
+  All, OREA, Russia/Eurasia, Central Asia
+
+Turks and Caicos Islands
+  All, APLAA, North America/Caribbean,
+  Central America
+
+Tuvalu
+  All, APLAA, Caribbean/Oceania, Australia - Oceania
+
+Uganda
+  All, APLAA, Sub-Saharan Africa, Africa
+
+Ukraine
+  All, OREA, Russia/Eurasia, Europe
+
+United Arab Emirates
+  All, NESA, Near East/South Asia, Middle East
+
+United Kingdom
+  All, OREA, Europe/French Dependencies, European
+  Union, Europe
+
+United States
+  All, APLAA, Eurasia/North America, North America
+
+United States Pacific Island Wildlife Refuges
+  All, Australia -
+  Oceania
+
+Uruguay
+  All, APLAA, South America/Global, South America
+
+Uzbekistan
+  All, OREA, Russia/Eurasia, Central Asia
+
+Vanuatu
+  All, APLAA, Caribbean/Oceania, Australia - Oceania
+
+Venezuela
+  All, APLAA, South America/Global, South America
+
+Vietnam
+  All, APLAA, East Asia/Southeast Asia, Southeast Asia
+
+Virgin Islands
+  All, APLAA, North America/Caribbean, Central America
+
+Wake Island
+  All, APLAA, Caribbean/Oceania, Australia - Oceania
+
+Wallis and Futuna
+  All, OREA, Europe/French Dependencies, Australia -
+  Oceania
+
+West Bank
+  All, NESA, Near East/South Asia, Middle East
+
+Western Sahara
+  All, NESA, Near East/South Asia, Africa
+
+World
+  All, APLAA, South America/Global, Oceans
+
+Yemen
+  All, NESA, Near East/South Asia, Middle East
+
+Zambia
+  All, APLAA, Sub-Saharan Africa, Africa
+
+Zimbabwe
+  All, APLAA, Sub-Saharan Africa, Africa
+
+
+
+
+======================================================================
+
+
+
+
+

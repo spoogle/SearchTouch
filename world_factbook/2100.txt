@@ -1,0 +1,1430 @@
+2100
+
+
+Field Listing :: Legal system
+
+  This entry provides the description of a country's legal system; it
+  also includes information on acceptance of International Court of
+  Justice (ICJ) jurisdiction. The legal systems of nearly all
+  countries are generally modeled upon elements of five main types:
+  civil law (including French law, the Napoleonic Code, Roman law,
+  Roman-Dutch law, and Spanish law); common law (including United
+  State law); customary law; mixed or pluralistic law; and religious
+  law (including Islamic law). An additional type of legal system -
+  international law, which governs the conduct of independent nations
+  in their relationships with one another - is also addressed below.
+  The following list describes these legal systems, the countries or
+  world regions where these systems are enforced, and a brief
+  statement on the origins and major features of each.
+  Civil Law - The most widespread type of legal system in the world,
+  applied in various forms in approximately 150 countries. Also
+  referred to as European continental law, the civil law system is
+  derived mainly from the Roman Corpus Juris Civilus, (Body of Civil
+  Law), a collection of laws and legal interpretations compiled under
+  the East Roman (Byzantine) Emperor Justinian I between A.D. 528 and
+  565. The major feature of civil law systems is that the laws are
+  organized into systematic written codes. In civil law the sources
+  recognized as authoritative are principally legislation - especially
+  codifications in constitutions or statutes enacted by governments -
+  and secondarily, custom. The civil law systems in some countries are
+  based on more than one code.
+  Common Law - A type of legal system, often synonymous with "English
+  common law," which is the system of England and Wales in the UK, and
+  is also in force in approximately 80 countries formerly part of or
+  influenced by the former British Empire. English common law reflects
+  Biblical influences as well as remnants of law systems imposed by
+  early conquerors including the Romans, Anglo-Saxons, and Normans.
+  Some legal scholars attribute the formation of the English common
+  law system to King Henry II (r.1154-1189). Until the time of his
+  reign, laws customary among England's various manorial and
+  ecclesiastical (church) jurisdictions were administered locally.
+  Henry II established the king's court and designated that laws were
+  "common" to the entire English realm. The foundation of English
+  common law is "legal precedent" - referred to as stare decisis,
+  meaning "to stand by things decided." In the English common law
+  system, court judges are bound in their decisions in large part by
+  the rules and other doctrines developed - and supplemented over time
+  - by the judges of earlier English courts.
+  Customary Law - A type of legal system that serves as the basis of,
+  or has influenced, the present-day laws in approximately 40
+  countries - mostly in Africa, but some in the Pacific islands,
+  Europe, and the Near East. Customary law is also referred to as
+  "primitive law," "unwritten law," "indigenous law," and "folk law."
+  There is no single history of customary law such as that found in
+  Roman civil law, English common law, Islamic law, or the Napoleonic
+  Civil Code. The earliest systems of law in human society were
+  customary, and usually developed in small agrarian and
+  hunter-gatherer communities. As the term implies, customary law is
+  based upon the customs of a community. Common attributes of
+  customary legal systems are that they are seldom written down, they
+  embody an organized set of rules regulating social relations, and
+  they are agreed upon by members of the community. Although such law
+  systems include sanctions for law infractions, resolution tends to
+  be reconciliatory rather than punitive. A number of African states
+  practiced customary law many centuries prior to colonial influences.
+  Following colonization, such laws were written down and incorporated
+  to varying extents into the legal systems imposed by their colonial
+  powers.
+  European Union Law - A sub-discipline of international law known as
+  "supranational law" in which the rights of sovereign nations are
+  limited in relation to one another. Also referred to as the Law of
+  the European Union or Community Law, it is the unique and complex
+  legal system that operates in tandem with the laws of the 27 member
+  states of the European Union (EU). Similar to federal states, the EU
+  legal system ensures compliance from the member states because of
+  the Union's decentralized political nature. The European Court of
+  Justice (ECJ), established in 1952 by the Treaty of Paris, has been
+  largely responsible for the development of EU law. Fundamental
+  principles of European Union law include: subsidiarity - the notion
+  that issues be handled by the smallest, lowest, or least centralized
+  competent authority; proportionality - the EU may only act to the
+  extent needed to achieve its objectives; conferral - the EU is a
+  union of member states, and all its authorities are voluntarily
+  granted by its members; legal certainty - requires that legal rules
+  be clear and precise; and precautionary principle - a moral and
+  political principle stating that if an action or policy might cause
+  severe or irreversible harm to the public or to the environment, in
+  the absence of a scientific consensus that harm would not ensue, the
+  burden of proof falls on those who would advocate taking the action.
+  French Law - A type of civil law that is the legal system of France.
+  The French system also serves as the basis for, or is mixed with,
+  other legal systems in approximately 50 countries, notably in North
+  Africa, the Near East, and the French territories and dependencies.
+  French law is primarily codified or systematic written civil law.
+  Prior to the French Revolution (1789-1799), France had no single
+  national legal system. Laws in the northern areas of present-day
+  France were mostly local customs based on privileges and exemptions
+  granted by kings and feudal lords, while in the southern areas Roman
+  law predominated. The introduction of the Napoleonic Civil Code
+  during the reign of Napoleon I in the first decade of the 19th
+  century brought major reforms to the French legal system, many of
+  which remain part of France's current legal structure, though all
+  have been extensively amended or redrafted to address a modern
+  nation. French law distinguishes between "public law" and "private
+  law." Public law relates to government, the French Constitution,
+  public administration, and criminal law. Private law covers issues
+  between private citizens or corporations. The most recent changes to
+  the French legal system - introduced in the 1980s - were the
+  decentralization laws, which transferred authority from centrally
+  appointed government representatives to locally elected
+  representatives of the people.
+  International Law - The law of the international community, or the
+  body of customary rules and treaty rules accepted as legally binding
+  by states in their relations with each other. International law
+  differs from other legal systems in that it primarily concerns
+  sovereign political entities. There are three separate disciplines
+  of international law: public international law, which governs the
+  relationship between provinces and international entities and
+  includes treaty law, law of the sea, international criminal law, and
+  international humanitarian law; private international law, which
+  addresses legal jurisdiction; and supranational law - a legal
+  framework wherein countries are bound by regional agreements in
+  which the laws of the member countries are held inapplicable when in
+  conflict with supranational laws. At present the European Union is
+  the only entity under a supranational legal system. The term
+  "international law" was coined by Jeremy Bentham in 1780 in his
+  Principles of Morals and Legislation, though laws governing
+  relations between states have been recognized from very early times
+  (many centuries B.C.). Modern international law developed alongside
+  the emergence and growth of the European nation-states beginning in
+  the early 16th century. Other factors that influenced the
+  development of international law included the revival of legal
+  studies, the growth of international trade, and the practice of
+  exchanging emissaries and establishing legations. The sources of
+  International law are set out in Article 38-1 of the Statute of the
+  International Court of Justice within the UN Charter.
+  Islamic Law - The most widespread type of religious law, it is the
+  legal system enforced in over 30 countries, particularly in the Near
+  East, but also in Central and South Asia, Africa, and Indonesia. In
+  many countries Islamic law operates in tandem with a civil law
+  system. Islamic law is embodied in the sharia, an Arabic word
+  meaning "the right path." Sharia covers all aspects of public and
+  private life and organizes them into five categories: obligatory,
+  recommended, permitted, disliked, and forbidden. The primary sources
+  of sharia law are the Qur'an, believed by Muslims to be the word of
+  God revealed to the Prophet Muhammad by the angel Gabriel, and the
+  Sunnah, the teachings of the Prophet and his works. In addition to
+  these two primary sources, traditional Sunni Muslims recognize the
+  consensus of Muhammad's companions and Islamic jurists on certain
+  issues, called ijmas, and various forms of reasoning, including
+  analogy by legal scholars, referred to as qiyas. Shia Muslims reject
+  ijmas and qiyas as sources of sharia law.
+  Mixed Law - Also referred to as pluralistic law, mixed law consists
+  of elements of some or all of the other main types of legal systems
+  - civil, common, customary, and religious. The mixed legal systems
+  of a number of countries came about when colonial powers overlaid
+  their own legal systems upon colonized regions but retained elements
+  of the colonies' existing legal systems.
+  Napoleonic Civil Code - A type of civil law, referred to as the
+  Civil Code or Code Civil des Francais, forms part of the legal
+  system of France, and underpins the legal systems of Bolivia, Egypt,
+  Lebanon, Poland, and the US state of Louisiana. The Civil Code was
+  established under Napoleon I, enacted in 1804, and officially
+  designated the Code Napoleon in 1807. This legal system combined the
+  Teutonic civil law tradition of the northern provinces of France
+  with the Roman law tradition of the southern and eastern regions of
+  the country. The Civil Code bears similarities in its arrangement to
+  the Roman Body of Civil Law (see Civil Law above). As enacted in
+  1804, the Code addressed personal status, property, and the
+  acquisition of property. Codes added over the following six years
+  included civil procedures, commercial law, criminal law and
+  procedures, and a penal code.
+  Religious Law - A legal system which stems from the sacred texts of
+  religious traditions and in most cases professes to cover all
+  aspects of life as a seamless part of devotional obligations to a
+  transcendent, imminent, or deep philosophical reality. Implied as
+  the basis of religious law is the concept of unalterability, because
+  the word of God cannot be amended or legislated against by judges or
+  governments. However, a detailed legal system generally requires
+  human elaboration. The main types of religious law are sharia in
+  Islam, halakha in Judaism, and canon law in some Christian groups.
+  Sharia is the most widespread religious legal system (see Islamic
+  Law), and is the sole system of law for countries including Iran,
+  the Maldives, and Saudi Arabia. No country is fully governed by
+  halakha, but Jewish people may decide to settle disputes through
+  Jewish courts and be bound by their rulings. Canon law is not a
+  divine law as such because it is not found in revelation. It is
+  viewed instead as human law inspired by the word of God and applying
+  the demands of that revelation to the actual situation of the
+  church. Canon law regulates the internal ordering of the Roman
+  Catholic Church, the Eastern Orthodox Church, and the Anglican
+  Communion.
+  Roman Law - A type of civil law developed in ancient Rome and
+  practiced from the time of the city's founding (traditionally 753
+  B.C.) until the fall of the Western Empire in the 5th century A.D.
+  Roman law remained the legal system of the Byzantine (Eastern
+  Empire) until the fall of Constantinople in 1453. Preserved
+  fragments of the first legal text, known as the Law of the Twelve
+  Tables, dating from the 5th century B.C., contained specific
+  provisions designed to change the prevailing customary law. Early
+  Roman law was drawn from custom and statutes; later, during the time
+  of the empire, emperors asserted their authority as the ultimate
+  source of law. The basis for Roman laws was the idea that the exact
+  form - not the intention - of words or of actions produced legal
+  consequences. It was only in the late 6th century A.D. that a
+  comprehensive Roman code of laws was published (see Civil Law
+  above). Roman law served as the basis of law systems developed in a
+  number of continental European countries.
+  Roman-Dutch Law - A type of civil law based on Roman law as applied
+  in the Netherlands. Roman-Dutch law serves as the basis for legal
+  systems in seven African countries, as well as Guyana, Indonesia,
+  and Sri Lanka. This law system, which originated in the province of
+  Holland and expanded throughout the Netherlands (to be replaced by
+  the French Civil Code in 1809), was instituted in a number of
+  sub-Saharan African countries during the Dutch colonial period. The
+  Dutch jurist/philosopher Hugo Grotius was the first to attempt to
+  reduce Roman-Dutch civil law into a system in his Jurisprudence of
+  Holland (written 1619-20, commentary published 1621). The Dutch
+  historian/lawyer Simon van Leeuwen coined the term "Roman-Dutch law"
+  in 1652.
+  Spanish Law - A type of civil law, often referred to as the Spanish
+  Civil Code, it is the present legal system of Spain and is the basis
+  of legal systems in 12 countries mostly in Central and South
+  America, but also in southwestern Europe, northern and western
+  Africa, and southeastern Asia. The Spanish Civil Code reflects a
+  complex mixture of customary, Roman, Napoleonic, local, and modern
+  codified law. The laws of the Visigoth invaders of Spain in the 5th
+  to 7th centuries had the earliest major influence on Spanish legal
+  system development. The Christian Reconquest of Spain in the 11th
+  through 15th centuries witnessed the development of customary law,
+  which combined canon (religious) and Roman law. During several
+  centuries of Hapsburg and Bourbon rule, systematic recompilations of
+  the existing national legal system were attempted, but these often
+  conflicted with local and regional customary civil laws. Legal
+  system development for most of the 19th century concentrated on
+  formulating a national civil law system, which was finally enacted
+  in 1889 as the Spanish Civil Code. Several sections of the code have
+  been revised, the most recent of which are the penal code in 1989
+  and the judiciary code in 2001. The Spanish Civil Code separates
+  public and private law. Public law includes constitutional law,
+  administrative law, criminal law, process law, financial and tax
+  law, and international public law. Private law includes civil law,
+  commercial law, labor law, and international private law.
+  United States Law - A type of common law, which is the basis of the
+  legal system of the United States and that of its island possessions
+  in the Caribbean and the Pacific. This legal system has several
+  layers, more possibly than in most other countries, and is due in
+  part to the division between federal and state law. The United
+  States was founded not as one nation but as a union of 13 colonies,
+  each claiming independence from the British Crown. The US
+  Constitution, implemented in 1789, began shifting power away from
+  the states and toward the federal government, though the states
+  today retain substantial legal authority. US law draws its authority
+  from four sources: constitutional law, statutory law, administrative
+  regulations, and case law. Constitutional law is based on the US
+  Constitution and serves as the supreme federal law. Taken together
+  with those of the state constitutions, these documents outline the
+  general structure of the federal and state governments and provide
+  the rules and limits of power. US statutory law is legislation
+  enacted by the US Congress and is codified in the United States
+  Code. The 50 state legislatures have similar authority to enact
+  state statutes. Administrative law is the authority delegated to
+  federal and state executive agencies. Case law, also referred to as
+  common law, covers areas where constitutional or statutory law is
+  lacking. Case law is a collection of judicial decisions, customs,
+  and general principles that began in England centuries ago, that
+  were adopted in America at the time of the Revolution, and that
+  continue to develop today.
+  Country
+
+
+  Legal system
+
+Afghanistan
+  based on mixed civil and sharia law; has not accepted
+  compulsory ICJ jurisdiction
+
+Akrotiri
+  the Sovereign Base Area Administration has its own court
+  system to deal with civil and criminal matters; laws applicable to
+  the Cypriot population are, as far as possible, the same as the laws
+  of the Republic of Cyprus
+
+Albania
+  has a civil law system; has not accepted compulsory ICJ
+  jurisdiction; has accepted jurisdiction of the International
+  Criminal Court for its citizens
+
+Algeria
+  socialist, based on French and Islamic law; judicial review
+  of legislative acts in ad hoc Constitutional Council composed of
+  various public officials including several Supreme Court justices;
+  has not accepted compulsory ICJ jurisdiction
+
+American Samoa
+  NA
+
+Andorra
+  based on French and Spanish civil codes; no judicial review
+  of legislative acts; has not accepted compulsory ICJ jurisdiction
+
+Angola
+  based on Portuguese civil law system and customary law;
+  modified to accommodate political pluralism and increased use of
+  free markets; has not accepted compulsory ICJ jurisdiction
+
+Anguilla
+  based on English common law
+
+Antarctica
+  Antarctica is administered through annual meetings -
+  known as Antarctic Treaty Consultative Meetings - which include
+  consultative member nations, non-consultative member nations,
+  observer organizations, and expert organizations; decisions from
+  these meetings are carried out by these member nations (with respect
+  to their own nationals and operations) in accordance with their own
+  national laws; more generally, access to the Antarctic Treaty area,
+  that is to all areas between 60 and 90 degrees south latitude, is
+  subject to a number of relevant legal instruments and authorization
+  procedures adopted by the states party to the Antarctic Treaty; note
+  - US law, including certain criminal offenses by or against US
+  nationals, such as murder, may apply extraterritorially; some US
+  laws directly apply to Antarctica; for example, the Antarctic
+  Conservation Act, 16 U.S.C. section 2401 et seq., provides civil and
+  criminal penalties for the following activities unless authorized by
+  regulation of statute: the taking of native mammals or birds; the
+  introduction of nonindigenous plants and animals; entry into
+  specially protected areas; the discharge or disposal of pollutants;
+  and the importation into the US of certain items from Antarctica;
+  violation of the Antarctic Conservation Act carries penalties of up
+  to $10,000 in fines and one year in prison; the National Science
+  Foundation and Department of Justice share enforcement
+  responsibilities; Public Law 95-541, the US Antarctic Conservation
+  Act of 1978, as amended in 1996, requires expeditions from the US to
+  Antarctica to notify, in advance, the Office of Oceans, Room 5805,
+  Department of State, Washington, DC 20520, which reports such plans
+  to other nations as required by the Antarctic Treaty; for more
+  information, contact Permit Office, Office of Polar Programs,
+  National Science Foundation, Arlington, Virginia 22230; telephone:
+  (703) 292-8030, or visit its website at www.nsf.gov
+
+Antigua and Barbuda
+  based on English common law
+
+Argentina
+  mixture of US and West European legal systems; has not
+  accepted compulsory ICJ jurisdiction
+
+Armenia
+  based on civil law system; has not accepted compulsory ICJ
+  jurisdiction
+
+Aruba
+  based on Dutch civil law system with some English common law
+  influence
+
+Ashmore and Cartier Islands
+  the laws of the Commonwealth of
+  Australia and the laws of the Northern Territory of Australia where
+  applicable apply
+
+Australia
+  based on English common law; accepts compulsory ICJ
+  jurisdiction with reservations; accepts International Criminal Court
+  jurisdiction with conditions
+
+Austria
+  civil law system with Roman law origin; judicial review of
+  legislative acts by the Constitutional Court; separate
+  administrative and civil/penal supreme courts; accepts compulsory
+  ICJ jurisdiction
+
+Azerbaijan
+  based on civil law system; has not accepted compulsory
+  ICJ jurisdiction
+
+Bahamas, The
+  based on English common law; has not accepted
+  compulsory ICJ jurisdiction
+
+Bahrain
+  based on Islamic law and English common law; has not
+  accepted compulsory ICJ jurisdiction
+
+Bangladesh
+  based on English common law; has not accepted compulsory
+  ICJ jurisdiction
+
+Barbados
+  English common law; no judicial review of legislative acts;
+  accepts compulsory ICJ jurisdiction with reservations
+
+Belarus
+  based on civil law system; has not accepted compulsory ICJ
+  jurisdiction
+
+Belgium
+  based on civil law system influenced by English
+  constitutional theory; judicial review of legislative acts; accepts
+  compulsory ICJ jurisdiction with reservations
+
+Belize
+  English law; has not accepted compulsory ICJ jurisdiction
+
+Benin
+  based on French civil law and customary law; has not accepted
+  compulsory ICJ jurisdiction
+
+Bermuda
+  English law
+
+Bhutan
+  based on Indian law and English common law; has not accepted
+  compulsory ICJ jurisdiction
+
+Bolivia
+  based on Spanish law and Napoleonic Code; has not accepted
+  compulsory ICJ jurisdiction; the 2009 Constitution incorporates
+  indigenous community justice into Bolivia's judicial system
+
+Bosnia and Herzegovina
+  based on civil law system; has not accepted
+  compulsory ICJ jurisdiction
+
+Botswana
+  based on Roman-Dutch law and local customary law; judicial
+  review limited to matters of interpretation; accepts compulsory ICJ
+  jurisdiction with reservations
+
+Bouvet Island
+  the laws of Norway where applicable apply
+
+Brazil
+  based on Roman codes; has not accepted compulsory ICJ
+  jurisdiction
+
+British Indian Ocean Territory
+  the laws of the UK where applicable
+  apply
+
+British Virgin Islands
+  English law
+
+Brunei
+  based on English common law; for Muslims, Islamic sharia law
+  supersedes civil law concerning Muslim marriages and inheritance;
+  has not accepted compulsory ICJ jurisdiction
+
+Bulgaria
+  civil and criminal law based on Roman law; accepts
+  compulsory ICJ jurisdiction with reservations
+
+Burkina Faso
+  based on French civil law system and customary law; has
+  not accepted compulsory ICJ jurisdiction
+
+Burma
+  based on English common law; has not accepted compulsory ICJ
+  jurisdiction
+
+Burundi
+  based on German and Belgian civil codes and customary law;
+  has not accepted compulsory ICJ jurisdiction
+
+Cambodia
+  primarily a civil law mixture of French-influenced codes
+  from the United Nations Transitional Authority in Cambodia (UNTAC)
+  period, royal decrees, and acts of the legislature with influences
+  of customary law and remnants of communist legal theory; increasing
+  influence of common law; accepts compulsory ICJ jurisdiction with
+  reservations
+
+Cameroon
+  based on French civil law system with common law influence;
+  accepts compulsory ICJ jurisdiction
+
+Canada
+  based on English common law, except in Quebec, where civil
+  law system based on French law prevails; accepts compulsory ICJ
+  jurisdiction with reservations
+
+Cape Verde
+  based on the legal system of Portugal; has not accepted
+  compulsory ICJ jurisdiction
+
+Cayman Islands
+  British common law and local statutes
+
+Central African Republic
+  based on French law; has not accepted
+  compulsory ICJ jurisdiction
+
+Chad
+  based on French civil law system and Chadian customary law; has
+  not accepted compulsory ICJ jurisdiction
+
+Chile
+  based on Code of 1857 derived from Spanish law and subsequent
+  codes influenced by French and Austrian law; judicial review of
+  legislative acts in the Supreme Court; has not accepted compulsory
+  ICJ jurisdiction; note - in June 2005, Chile completed overhaul of
+  its criminal justice system to a US-style adversarial system
+
+China
+  based on civil law system; derived from Soviet and continental
+  civil code legal principles; legislature retains power to interpret
+  statutes; constitution ambiguous on judicial review of legislation;
+  party organs exercise authority over judiciary; has not accepted
+  compulsory ICJ jurisdiction
+
+Christmas Island
+  under the authority of the governor general of
+  Australia and Australian law
+
+Clipperton Island
+  the laws of France where applicable apply
+
+Cocos (Keeling) Islands
+  based upon the laws of Australia and local
+  laws
+
+Colombia
+  based on Spanish law; a new criminal code modeled after US
+  procedures was enacted into law in 2004 and reached full
+  implementation in January 2008; judicial review of executive and
+  legislative acts; has not accepted compulsory ICJ jurisdiction
+
+Comoros
+  French and Islamic law in a new consolidated code; has not
+  accepted compulsory ICJ jurisdiction
+
+Congo, Democratic Republic of the
+  civil law based on Belgian law
+  with Napoleonic Civil Code influence; accepts compulsory ICJ
+  jurisdiction with reservations
+
+Congo, Republic of the
+  based on French civil law system and
+  customary law; has not accepted compulsory ICJ jurisdiction
+
+Cook Islands
+  based on New Zealand law and English common law
+
+Coral Sea Islands
+  the laws of Australia where applicable apply
+
+Costa Rica
+  based on Spanish civil law system; judicial review of
+  legislative acts in the Supreme Court; accepts compulsory ICJ
+  jurisdiction
+
+Cote d'Ivoire
+  based on French civil law system and customary law;
+  judicial review in the Constitutional Chamber of the Supreme Court;
+  accepts compulsory ICJ jurisdiction with reservations
+
+Croatia
+  based on Austro-Hungarian law system with Communist law
+  influences; has not accepted compulsory ICJ jurisdiction
+
+Cuba
+  based on Spanish civil law and influenced by American legal
+  concepts with large elements of Communist legal theory; has not
+  accepted compulsory ICJ jurisdiction
+
+Curacao
+  based on Dutch civil law system with some English common law
+  influence
+
+Cyprus
+  based on English common law with civil law modifications;
+  accepts compulsory ICJ jurisdiction with reservations
+
+Czech Republic
+  civil law system based on Austro-Hungarian codes;
+  legal code modified to bring it in line with European Union
+  obligations and to expunge Marxist-Leninist legal theory; has not
+  accepted compulsory ICJ jurisdiction
+
+Denmark
+  civil law system; judicial review of legislative acts;
+  accepts compulsory ICJ jurisdiction with reservations
+
+Dhekelia
+  the Sovereign Base Area Administration has its own court
+  system to deal with civil and criminal matters; laws applicable to
+  the Cypriot population are, as far as possible, the same as the laws
+  of the Republic of Cyprus
+
+Djibouti
+  based on French civil law system, traditional practices,
+  and Islamic law; accepts ICJ compulsory jurisdiction with
+  reservations
+
+Dominica
+  based on English common law; accepts compulsory ICJ
+  jurisdiction
+
+Dominican Republic
+  based on French civil codes; Criminal Procedures
+  Code modified in 2004 to include important elements of an accusatory
+  system; accepts compulsory ICJ jurisdiction
+
+Ecuador
+  based on civil law system; has not accepted compulsory ICJ
+  jurisdiction
+
+Egypt
+  based on Islamic and civil law (particularly Napoleonic
+  codes); judicial review by Supreme Court and Council of State
+  (oversees validity of administrative decisions); accepts compulsory
+  ICJ jurisdiction with reservations
+
+El Salvador
+  based on civil and Roman law with traces of common law;
+  judicial review of legislative acts in the Supreme Court; has not
+  accepted compulsory ICJ jurisdiction
+
+Equatorial Guinea
+  partly based on Spanish civil law and tribal
+  custom; has not accepted compulsory ICJ jurisdiction
+
+Eritrea
+  primary basis is the Ethiopian legal code of 1957 with
+  revisions; new civil, commercial, and penal codes have not yet been
+  promulgated; government also issues unilateral proclamations setting
+  laws and policies; also relies on customary and
+  post-independence-enacted laws and, for civil cases involving
+  Muslims, Islamic law; has not accepted compulsory ICJ jurisdiction
+
+Estonia
+  based on civil law system; accepts compulsory ICJ
+  jurisdiction with reservations
+
+Ethiopia
+  based on civil law; currently transitional mix of national
+  and regional courts; has not accepted compulsory ICJ jurisdiction
+
+European Union
+  comparable to the legal systems of member states;
+  first supranational law system
+
+Falkland Islands (Islas Malvinas)
+  English common law
+
+Faroe Islands
+  the laws of Denmark where applicable apply
+
+Fiji
+  based on British system; has not accepted compulsory ICJ
+  jurisdiction
+
+Finland
+  civil law system based on Swedish law; the president may
+  request the Supreme Court to review laws; accepts compulsory ICJ
+  jurisdiction with reservations
+
+France
+  civil law system with indigenous concepts; review of
+  administrative but not legislative acts; has not accepted compulsory
+  ICJ jurisdiction
+
+French Polynesia
+  the laws of France where applicable apply
+
+French Southern and Antarctic Lands
+  the laws of France where
+  applicable apply
+
+Gabon
+  based on French civil law system and customary law; judicial
+  review of legislative acts in Constitutional Chamber of the Supreme
+  Court; has not accepted compulsory ICJ jurisdiction
+
+Gambia, The
+  based on a composite of English common law, Islamic law,
+  and customary law; accepts compulsory ICJ jurisdiction with
+  reservations
+
+Georgia
+  based on civil law system; accepts compulsory ICJ
+  jurisdiction
+
+Germany
+  civil law system with indigenous concepts; judicial review
+  of legislative acts in the Federal Constitutional Court; accepts
+  compulsory ICJ jurisdiction with reservations
+
+Ghana
+  based on English common law and customary law; has not
+  accepted compulsory ICJ jurisdiction
+
+Gibraltar
+  the laws of the UK where applicable apply
+
+Greece
+  based on codified Roman law; judiciary divided into civil,
+  criminal, and administrative courts; accepts compulsory ICJ
+  jurisdiction with reservations
+
+Greenland
+  the laws of Denmark where applicable apply
+
+Grenada
+  based on English common law; has not accepted compulsory ICJ
+  jurisdiction
+
+Guam
+  modeled on US; US federal laws apply
+
+Guatemala
+  civil law system; judicial review of legislative acts; has
+  not accepted compulsory ICJ jurisdiction
+
+Guernsey
+  the laws of the UK where applicable apply; justice is
+  administered by the Royal Court
+
+Guinea
+  based on French civil law system, customary law, and decree;
+  accepts compulsory ICJ jurisdiction with reservations
+
+Guinea-Bissau
+  based on French civil law; accepts compulsory ICJ
+  jurisdiction
+
+Guyana
+  based on English common law with certain admixtures of
+  Roman-Dutch law; has not accepted compulsory ICJ jurisdiction
+
+Haiti
+  based on Roman civil law system; accepts compulsory ICJ
+  jurisdiction
+
+Heard Island and McDonald Islands
+  the laws of Australia where
+  applicable apply
+
+Holy See (Vatican City)
+  based on Code of Canon Law and revisions to
+  it; has not accepted compulsory ICJ jurisdiction
+
+Honduras
+  rooted in Roman and Spanish civil law with increasing
+  influence of English common law; recent judicial reforms include
+  abandoning Napoleonic legal codes in favor of the oral adversarial
+  system; accepts ICJ jurisdiction with reservations
+
+Hong Kong
+  based on English common law
+
+Hungary
+  based on the German-Austrian legal system; accepts
+  compulsory ICJ jurisdiction with reservations
+
+Iceland
+  civil law system based on Danish law; has not accepted
+  compulsory ICJ jurisdiction
+
+India
+  based on English common law; judicial review of legislative
+  acts; accepts compulsory ICJ jurisdiction with reservations;
+  separate personal law codes apply to Christians, Hindus, and Muslims
+
+Indonesia
+  based on Roman-Dutch law, substantially modified by
+  indigenous concepts and by new criminal procedures and election
+  codes; has not accepted compulsory ICJ jurisdiction
+
+Iran
+  based on sharia law system; has not accepted compulsory ICJ
+  jurisdiction
+
+Iraq
+  based on European civil and Islamic law under the framework
+  outlined in the Iraqi Constitution; has not accepted compulsory ICJ
+  jurisdiction
+
+Ireland
+  based on English common law substantially modified by
+  indigenous concepts; judicial review of legislative acts in Supreme
+  Court; has not accepted compulsory ICJ jurisdiction
+
+Isle of Man
+  the laws of the UK where applicable apply and Manx
+  statutes
+
+Israel
+  mixture of English common law, British Mandate regulations,
+  and in personal matters Jewish, Christian, and Muslim legal systems;
+  has not accepted compulsory ICJ jurisdiction
+
+Italy
+  based on civil law system; appeals treated as new trials;
+  judicial review under certain conditions in Constitutional Court;
+  has not accepted compulsory ICJ jurisdiction
+
+Jamaica
+  based on English common law; has not accepted compulsory ICJ
+  jurisdiction
+
+Jan Mayen
+  the laws of Norway where applicable apply
+
+Japan
+  modeled after European civil law systems with English-American
+  influence; judicial review of legislative acts in the Supreme Court;
+  accepts compulsory ICJ jurisdiction with reservations
+
+Jersey
+  the laws of the UK where applicable apply and local statutes;
+  justice is administered by the Royal Court
+
+Jordan
+  based on Islamic law and French codes; judicial review of
+  legislative acts in a specially provided High Tribunal; has not
+  accepted compulsory ICJ jurisdiction
+
+Kazakhstan
+  based on Islamic law and Roman law; has not accepted
+  compulsory ICJ jurisdiction
+
+Kenya
+  based on Kenyan statutory law, Kenyan and English common law,
+  tribal law, and Islamic law; judicial review in High Court; accepts
+  compulsory ICJ jurisdiction with reservations; constitutional
+  amendment of 1982 making Kenya a de jure one-party state repealed in
+  1991
+
+Kiribati
+  English common law supplemented by local, customary law;
+  has not accepted compulsory ICJ jurisdiction
+
+Korea, North
+  based on Prussian civil law system with Japanese
+  influences and Communist legal theory; no judicial review of
+  legislative acts; has not accepted compulsory ICJ jurisdiction
+
+Korea, South
+  combines elements of continental European civil law
+  systems, Anglo-American law, and Chinese classical thought; has not
+  accepted compulsory ICJ jurisdiction
+
+Kosovo
+  evolving legal system based on terms of former UN Special
+  Envoy Martti AHTISAARI's Plan for Kosovo's supervised independence;
+  has not accepted compulsory ICJ jurisdiction
+
+Kuwait
+  civil law system with Islamic law significant in personal
+  matters; has not accepted compulsory ICJ jurisdiction
+
+Kyrgyzstan
+  based on French and Russian laws; has not accepted
+  compulsory ICJ jurisdiction
+
+Laos
+  based on traditional customs, French legal norms and
+  procedures, and socialist practice; has not accepted compulsory ICJ
+  jurisdiction
+
+Latvia
+  based on civil law system with traces of Socialist legal
+  traditions and practices; has not accepted compulsory ICJ
+  jurisdiction
+
+Lebanon
+  mixture of Ottoman law, canon law, Napoleonic code, and
+  civil law; the constitutional court reviews laws only after they
+  have been passed; has not accepted compulsory ICJ jurisdiction
+
+Lesotho
+  based on English common law and Roman-Dutch law; judicial
+  review of legislative acts in High Court and Court of Appeal;
+  accepts compulsory ICJ jurisdiction with reservations
+
+Liberia
+  dual system of statutory law based on Anglo-American common
+  law for the modern sector and customary law based on unwritten
+  tribal practices for indigenous sector; accepts compulsory ICJ
+  jurisdiction with reservations
+
+Libya
+  based on Italian and French civil law systems and Islamic law;
+  separate religious courts; no constitutional provision for judicial
+  review of legislative acts; has not accepted compulsory ICJ
+  jurisdiction
+
+Liechtenstein
+  local civil and penal codes based on civil law system;
+  accepts compulsory ICJ jurisdiction with reservations
+
+Lithuania
+  based on civil law system; legislative acts can be
+  appealed to the constitutional court; has not accepted compulsory
+  ICJ jurisdiction
+
+Luxembourg
+  based on civil law system; accepts compulsory ICJ
+  jurisdiction
+
+Macau
+  based on Portuguese civil law system
+
+Macedonia
+  based on civil law system; judicial review of legislative
+  acts; has not accepted compulsory ICJ jurisdiction
+
+Madagascar
+  based on French civil law system and traditional Malagasy
+  law; accepts compulsory ICJ jurisdiction with reservations
+
+Malawi
+  based on English common law and customary law; judicial
+  review of legislative acts in the Supreme Court of Appeal; accepts
+  compulsory ICJ jurisdiction with reservations
+
+Malaysia
+  based on English common law; judicial review of legislative
+  acts in the Supreme Court at request of supreme head of the
+  federation; Islamic law is applied to Muslims in matters of family
+  law and religion; has not accepted compulsory ICJ jurisdiction
+
+Maldives
+  based on Islamic law with admixtures of English common law
+  primarily in commercial matters; has not accepted compulsory ICJ
+  jurisdiction
+
+Mali
+  based on French civil law system and customary law; judicial
+  review of legislative acts in Constitutional Court; has not accepted
+  compulsory ICJ jurisdiction
+
+Malta
+  based on English common law and Roman civil law; accepts
+  compulsory ICJ jurisdiction with reservations
+
+Marshall Islands
+  based on adapted Trust Territory laws, acts of the
+  legislature, municipal, common, and customary laws; has not accepted
+  compulsory ICJ jurisdiction
+
+Mauritania
+  a combination of Islamic law and French civil law; has
+  not accepted compulsory ICJ jurisdiction
+
+Mauritius
+  based on French civil law system with elements of English
+  common law in certain areas; accepts compulsory ICJ jurisdiction
+  with reservations
+
+Mayotte
+  the laws of France where applicable apply
+
+Mexico
+  mixture of US constitutional theory and civil law system;
+  judicial review of legislative acts; accepts compulsory ICJ
+  jurisdiction with reservations
+
+Micronesia, Federated States of
+  based on adapted Trust Territory
+  laws, acts of the legislature, municipal, common, and customary
+  laws; has not accepted compulsory ICJ jurisdiction
+
+Moldova
+  based on civil law system; Constitutional Court reviews
+  legality of legislative acts and governmental decisions of
+  resolution; accepts many UN and Organization for Security and
+  Cooperation in Europe (OSCE) documents; has not accepted compulsory
+  ICJ jurisdiction
+
+Monaco
+  based on French law; has not accepted compulsory ICJ
+  jurisdiction
+
+Mongolia
+  blend of Soviet and German systems that employ
+  "continental" or "civil" code; case-precedent may be used to inform
+  judges, but all decisions must refer to the law as written;
+  constitution ambiguous on judicial review of legislative acts; has
+  not accepted compulsory ICJ jurisdiction
+
+Montenegro
+  based on civil law system; has not accepted compulsory
+  ICJ jurisdiction
+
+Montserrat
+  English common law and statutory law
+
+Morocco
+  based on Islamic law and French and Spanish civil law
+  systems; judicial review of legislative acts in Constitutional
+  Chamber of Supreme Court; has not accepted compulsory ICJ
+  jurisdiction
+
+Mozambique
+  based on Portuguese civil law system and customary law;
+  has not accepted compulsory ICJ jurisdiction
+
+Namibia
+  based on Roman-Dutch law and 1990 constitution; has not
+  accepted compulsory ICJ jurisdiction
+
+Nauru
+  acts of the Nauru Parliament and British common law; has not
+  accepted compulsory ICJ jurisdiction
+
+Navassa Island
+  the laws of the US where applicable apply
+
+Nepal
+  based on Hindu legal concepts and English common law; has not
+  accepted compulsory ICJ jurisdiction
+
+Netherlands
+  based on civil law system incorporating French penal
+  theory; constitution does not permit judicial review of acts of the
+  States General; accepts compulsory ICJ jurisdiction with reservations
+
+New Caledonia
+  based on French civil law; the 1988 Matignon Accords
+  grant substantial autonomy to the islands
+
+New Zealand
+  based on English law, with special land legislation and
+  land courts for the Maori; accepts compulsory ICJ jurisdiction with
+  reservations
+
+Nicaragua
+  civil law system; Supreme Court may review administrative
+  acts; accepts compulsory ICJ jurisdiction with reservations
+
+Niger
+  based on French civil law system and customary law; has not
+  accepted compulsory ICJ jurisdiction
+
+Nigeria
+  based on English common law, Islamic law (in 12 northern
+  states), and traditional law; accepts compulsory ICJ jurisdiction
+  with reservations
+
+Niue
+  English common law; note - Niue is self-governing with the
+  power to make its laws
+
+Norfolk Island
+  based on the laws of Australia, local ordinances and
+  acts; English common law applies in matters not covered by either
+  Australian or Norfolk Island law
+
+Northern Mariana Islands
+  based on US system except for customs,
+  wages, immigration laws, and taxation
+
+Norway
+  mixture of customary law, civil law system, and common law
+  traditions; Supreme Court renders advisory opinions to legislature
+  when asked; accepts compulsory ICJ jurisdiction with reservations
+
+Oman
+  based on English common law and Islamic law; ultimate appeal to
+  the monarch; has not accepted compulsory ICJ jurisdiction
+
+Pakistan
+  based on English common law with provisions to accommodate
+  Pakistan's status as an Islamic state; accepts compulsory ICJ
+  jurisdiction with reservations
+
+Palau
+  based on Trust Territory laws, acts of the legislature,
+  municipal, common, and customary laws; has not accepted compulsory
+  ICJ jurisdiction
+
+Panama
+  based on civil law system; judicial review of legislative
+  acts in the Supreme Court of Justice; accepts compulsory ICJ
+  jurisdiction with reservations
+
+Papua New Guinea
+  based on English common law; has not accepted
+  compulsory ICJ jurisdiction
+
+Paraguay
+  based on Argentine codes, Roman law, and French codes;
+  judicial review of legislative acts in Supreme Court of Justice;
+  accepts compulsory ICJ jurisdiction
+
+Peru
+  based on civil law system; accepts compulsory ICJ jurisdiction
+  with reservations
+
+Philippines
+  based on Spanish and Anglo-American law; accepts
+  compulsory ICJ jurisdiction with reservations
+
+Pitcairn Islands
+  local island by-laws
+
+Poland
+  based on a mixture of Continental (Napoleonic) civil law and
+  holdover Communist legal theory; changes being gradually introduced
+  as part of broader democratization process; limited judicial review
+  of legislative acts, but rulings of the Constitutional Tribunal are
+  final; court decisions can be appealed to the European Court of
+  Justice in Strasbourg; accepts compulsory ICJ jurisdiction with
+  reservations
+
+Portugal
+  based on civil law system; the Constitutional Tribunal
+  reviews the constitutionality of legislation; accepts compulsory ICJ
+  jurisdiction with reservations
+
+Puerto Rico
+  based on Spanish civil code and within the US Federal
+  system of justice
+
+Qatar
+  based on Islamic and civil law codes; discretionary system of
+  law controlled by the Amir, although civil codes are being
+  implemented; Islamic law dominates family and personal matters; has
+  not accepted compulsory ICJ jurisdiction
+
+Romania
+  based on civil law system; has not accepted compulsory ICJ
+  jurisdiction
+
+Russia
+  based on civil law system; judicial review of legislative
+  acts; has not accepted compulsory ICJ jurisdiction
+
+Rwanda
+  based on German and Belgian civil law systems and customary
+  law; judicial review of legislative acts in the Supreme Court; has
+  not accepted compulsory ICJ jurisdiction
+
+Saint Barthelemy
+  the laws of France, where applicable, apply
+
+Saint Helena, Ascension, and Tristan da Cunha
+  English common law and
+  statutes supplemented by local statutes
+
+Saint Kitts and Nevis
+  based on English common law; has not accepted
+  compulsory ICJ jurisdiction
+
+Saint Lucia
+  based on English common law; has not accepted compulsory
+  ICJ jurisdiction
+
+Saint Martin
+  the laws of France where applicable apply
+
+Saint Pierre and Miquelon
+  the laws of France where applicable apply
+
+Saint Vincent and the Grenadines
+  based on English common law; has
+  not accepted compulsory ICJ jurisdiction
+
+Samoa
+  based on English common law and local customs; judicial review
+  of legislative acts with respect to fundamental rights of the
+  citizen; has not accepted compulsory ICJ jurisdiction
+
+San Marino
+  based on civil law system with Italian law influences;
+  has not accepted compulsory ICJ jurisdiction
+
+Sao Tome and Principe
+  based on Portuguese legal system and customary
+  law; has not accepted compulsory ICJ jurisdiction
+
+Saudi Arabia
+  based on sharia law, several secular codes have been
+  introduced; commercial disputes handled by special committees; has
+  not accepted compulsory ICJ jurisdiction
+
+Senegal
+  based on French civil law system; judicial review of
+  legislative acts in Constitutional Court; the Council of State
+  audits the government's accounting office; accepts compulsory ICJ
+  jurisdiction with reservations
+
+Serbia
+  based on civil law system; accepts compulsory ICJ
+  jurisdiction with reservations; note - Serbia is working to reform
+  its justice sector and harmonize its judicial systems with EU
+  standards
+
+Seychelles
+  based on English common law, French civil law, and
+  customary law; has not accepted compulsory ICJ jurisdiction
+
+Sierra Leone
+  based on English law and customary laws indigenous to
+  local tribes; has not accepted compulsory ICJ jurisdiction
+
+Singapore
+  based on English common law; has not accepted compulsory
+  ICJ jurisdiction
+
+Sint Maarten
+  based on Dutch civil law system with some English
+  common law influence
+
+Slovakia
+  civil law system based on Austro-Hungarian codes; accepts
+  compulsory ICJ jurisdiction with reservations; legal code modified
+  to comply with the obligations of Organization on Security and
+  Cooperation in Europe (OSCE) and to expunge Marxist-Leninist legal
+  theory
+
+Slovenia
+  based on civil law system; has not accepted compulsory ICJ
+  jurisdiction
+
+Solomon Islands
+  English common law, which is widely disregarded; has
+  not accepted compulsory ICJ jurisdiction
+
+Somalia
+  no national system; a mixture of English common law, Italian
+  law, Islamic sharia, and Somali customary law; accepts compulsory
+  ICJ jurisdiction with reservations
+
+South Africa
+  based on Roman-Dutch law and English common law; has
+  not accepted compulsory ICJ jurisdiction
+
+South Georgia and South Sandwich Islands
+  the laws of the UK where
+  applicable apply; the senior magistrate from the Falkland Islands
+  presides over the Magistrates Court
+
+Spain
+  civil law system with regional applications; accepts
+  compulsory ICJ jurisdiction with reservations
+
+Sri Lanka
+  a highly complex mixture of English common law,
+  Roman-Dutch, Kandyan, and Jaffna Tamil law; has not accepted
+  compulsory ICJ jurisdiction
+
+Sudan
+  based on English common law and Islamic law; as of 20 January
+  1991, the now defunct Revolutionary Command Council imposed Islamic
+  law in the northern states; Islamic law applies to all residents of
+  the northern states regardless of their religion; however, the CPA
+  establishes some protections for non-Muslims in Khartoum; some
+  separate religious courts; accepts compulsory ICJ jurisdiction with
+  reservations; the southern legal system is still developing under
+  the CPA following the civil war; Islamic law will not apply to the
+  southern states
+
+Suriname
+  based on Dutch legal system incorporating French penal
+  theory; accepts compulsory ICJ jurisdiction with reservations
+
+Svalbard
+  the laws of Norway where applicable apply
+
+Swaziland
+  based on South African Roman-Dutch law in statutory courts
+  and Swazi traditional law and custom in traditional courts; accepts
+  compulsory ICJ jurisdiction with reservations
+
+Sweden
+  civil law system influenced by customary law; accepts
+  compulsory ICJ jurisdiction with reservations
+
+Switzerland
+  civil law system influenced by customary law; judicial
+  review of legislative acts, except with respect to federal decrees
+  of general obligatory character; accepts compulsory ICJ jurisdiction
+  with reservations
+
+Syria
+  based on a combination of French and Ottoman civil law;
+  Islamic law is used in the family court system; has not accepted
+  compulsory ICJ jurisdiction
+
+Taiwan
+  based on civil law system; has not accepted compulsory ICJ
+  jurisdiction
+
+Tajikistan
+  based on civil law system; no judicial review of
+  legislative acts; has not accepted compulsory ICJ jurisdiction
+
+Tanzania
+  based on English common law; judicial review of legislative
+  acts limited to matters of interpretation; has not accepted
+  compulsory ICJ jurisdiction
+
+Thailand
+  based on civil law system with influences of common law;
+  has not accepted compulsory ICJ jurisdiction
+
+Timor-Leste
+  On 29 March 2009 the president promulgated the
+  Timor-Leste penal code; UN-drafted legal system based on Indonesian
+  law remains in place for civil codes but is to be replaced by civil
+  codes based on Portuguese law; these have passed but have not been
+  promulgated; has not accepted compulsory ICJ jurisdiction
+
+Togo
+  French-based court system; accepts compulsory ICJ jurisdiction
+  with reservations
+
+Tokelau
+  New Zealand and local statutes
+
+Tonga
+  based on English common law; has not accepted compulsory ICJ
+  jurisdiction
+
+Trinidad and Tobago
+  based on English common law; judicial review of
+  legislative acts in the Supreme Court; has not accepted compulsory
+  ICJ jurisdiction
+
+Tunisia
+  based on French civil law system and Islamic law; some
+  judicial review of legislative acts in the Supreme Court in joint
+  session; has not accepted compulsory ICJ jurisdiction
+
+Turkey
+  civil law system derived from various European continental
+  legal systems; note - member of the European Court of Human Rights
+  (ECHR), although Turkey claims limited derogations on the ratified
+  European Convention on Human Rights; has not accepted compulsory ICJ
+  jurisdiction
+
+Turkmenistan
+  transitioning to civil law system and influenced by
+  Islamic law tradition; has not accepted compulsory ICJ jurisdiction
+
+Turks and Caicos Islands
+  based on laws of England and Wales with a
+  few adopted from Jamaica and The Bahamas
+
+Tuvalu
+  English common law supplemented by local customary law; has
+  not accepted compulsory ICJ jurisdiction
+
+Uganda
+  based on English common law and customary law; accepts
+  compulsory ICJ jurisdiction with reservations
+
+Ukraine
+  based on civil law system; judicial review of legislative
+  acts; has not accepted compulsory ICJ jurisdiction
+
+United Arab Emirates
+  based on a dual system of sharia and civil
+  courts; has not accepted compulsory ICJ jurisdiction
+
+United Kingdom
+  based on common law tradition with early Roman and
+  modern continental influences; has nonbinding judicial review of
+  Acts of Parliament under the Human Rights Act of 1998; accepts
+  compulsory ICJ jurisdiction with reservations
+
+United States
+  federal court system based on English common law; each
+  state has its own unique legal system of which all but one
+  (Louisiana, which is still influenced by the Napoleonic Code) is
+  based on English common law; judicial review of legislative acts;
+  has not accepted compulsory ICJ jurisdiction
+
+United States Pacific Island Wildlife Refuges
+  the laws of the US
+  where applicable apply
+
+Uruguay
+  based on Spanish civil law system; accepts compulsory ICJ
+  jurisdiction
+
+Uzbekistan
+  based on civil law system; has not accepted compulsory
+  ICJ jurisdiction
+
+Vanuatu
+  unified system being created from former dual French and
+  British systems; has not accepted compulsory ICJ jurisdiction
+
+Venezuela
+  open, adversarial court system; has not accepted
+  compulsory ICJ jurisdiction
+
+Vietnam
+  based on communist legal theory and French civil law system;
+  has not accepted compulsory ICJ jurisdiction
+
+Virgin Islands
+  based on US laws
+
+Wake Island
+  the laws of the US where applicable apply
+
+Wallis and Futuna
+  the laws of France where applicable apply
+
+World
+  all members of the UN are parties to the statute that
+  established the International Court of Justice (ICJ) or World Court
+
+Yemen
+  based on Islamic law, Turkish law, English common law, and
+  local tribal customary law; has not accepted compulsory ICJ
+  jurisdiction
+
+Zambia
+  based on English common law and customary law; judicial
+  review of legislative acts in an ad hoc constitutional council; has
+  not accepted compulsory ICJ jurisdiction
+
+Zimbabwe
+  mixture of Roman-Dutch and English common law; has not
+  accepted compulsory ICJ jurisdiction
+
+
+
+
+======================================================================
+
+
+
+
+

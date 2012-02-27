@@ -1,0 +1,567 @@
+2186
+
+
+Field Listing :: Public debt
+
+  This entry records the cumulative total of all government borrowings
+  less repayments that are denominated in a country's home currency.
+  Public debt should not be confused with external debt, which
+  reflects the foreign currency liabilities of both the private and
+  public sector and must be financed out of foreign exchange earnings.
+  Country Comparison to the World
+  Country
+
+
+  Public debt(% of GDP)
+
+Albania
+  59.3% of GDP (2010 est.)
+  58.1% of GDP (2009 est.)
+
+Algeria
+  25.7% of GDP (2010 est.)
+  20% of GDP (2009 est.)
+
+Angola
+  20.3% of GDP (2010 est.)
+  21.7% of GDP (2009 est.)
+
+Argentina
+  50.3% of GDP (2010 est.)
+  48.6% of GDP (2009 est.)
+
+Aruba
+  46.3% of GDP (2005)
+
+Australia
+  22.4% of GDP (2010 est.)
+  22.1% of GDP (2009 est.)
+
+Austria
+  68.6% of GDP (2010 est.)
+  66.4% of GDP (2009 est.)
+
+Azerbaijan
+  4.6% of GDP (2010 est.)
+  6.7% of GDP (2009 est.)
+
+Bahrain
+  59.2% of GDP (2010 est.)
+  38.5% of GDP (2009 est.)
+
+Bangladesh
+  39.3% of GDP (2010 est.)
+  39.7% of GDP (2009 est.)
+
+Barbados
+  NA (2009)
+
+Belgium
+  102.5% of GDP (2010 est.)
+  101% of GDP (2009 est.)
+
+Bhutan
+  57.8% of GDP (2009)
+  81.4% of GDP (2004)
+
+Bolivia
+  40.3% of GDP (2010 est.)
+  40.3% of GDP (2009 est.)
+
+Bosnia and Herzegovina
+  39% of GDP (2010 est.)
+  35% of GDP (2009 est.)
+
+Botswana
+  22.6% of GDP (2010 est.)
+  18.6% of GDP (2009 est.)
+
+Brazil
+  60.8% of GDP (2010 est.)
+  59.5% of GDP (2009 est.)
+
+Bulgaria
+  16.2% of GDP (2010 est.)
+  14.8% of GDP (2009 est.)
+
+Cameroon
+  16.8% of GDP (2010 est.)
+  16.3% of GDP (2009 est.)
+
+Canada
+  82.9% of GDP (2010 est.)
+  82.5% of GDP (2009 est.)
+
+Chile
+  6.2% of GDP (2010 est.)
+  6.1% of GDP (2009 est.)
+
+China
+  17.5% of GDP (2010 est.)
+  16.9% of GDP (2009 est.)
+
+Colombia
+  44.8% of GDP (2010 est.)
+  45.3% of GDP (2009 est.)
+
+Costa Rica
+  44.1% of GDP (2010 est.)
+  42% of GDP (2009 est.)
+
+Cote d'Ivoire
+  63.3% of GDP (2010 est.)
+  66.5% of GDP (2009 est.)
+
+Croatia
+  55% of GDP (2010 est.)
+  46.4% of GDP (2009 est.)
+
+Cuba
+  34.4% of GDP (2010 est.)
+  34.7% of GDP (2009 est.)
+
+Cyprus
+  61.1% of GDP (2010 est.)
+  56.2% of GDP (2009 est.)
+
+Czech Republic
+  40% of GDP (2010 est.)
+  34% of GDP (2009 est.)
+
+Denmark
+  46.6% of GDP (2010 est.)
+  41.5% of GDP (2009 est.)
+
+Dominica
+  78% of GDP (2009 est.)
+  85% of GDP (2006 est.) (2006 est.)
+
+Dominican Republic
+  41.7% of GDP (2010 est.)
+  40.8% of GDP (2009 est.)
+
+Ecuador
+  23.1% of GDP (2010 est.)
+  19.7% of GDP (2009 est.)
+
+Egypt
+  80.5% of GDP (2010 est.)
+  80.9% of GDP (2009 est.)
+
+El Salvador
+  55% of GDP (2010 est.)
+  52.3% of GDP (2009 est.)
+
+Equatorial Guinea
+  4.1% of GDP (2010 est.)
+  5.4% of GDP (2009 est.)
+
+Estonia
+  7.7% of GDP (2010 est.)
+  7.1% of GDP (2009 est.)
+
+Ethiopia
+  39.3% of GDP (2010 est.)
+  35.4% of GDP (2009 est.)
+
+Finland
+  45.4% of GDP (2010 est.)
+  40.3% of GDP (2009 est.)
+
+France
+  83.5% of GDP (2010 est.)
+  77.6% of GDP (2009 est.)
+
+Gabon
+  25.8% of GDP (2010 est.)
+  27.6% of GDP (2009 est.)
+
+Germany
+  74.8% of GDP (2010 est.)
+  73.2% of GDP (2009 est.)
+
+Ghana
+  59.9% of GDP (2010 est.)
+  55.2% of GDP (2009 est.)
+
+Gibraltar
+  15.5% of GDP (2006)
+  15.7% of GDP (2005 est.)
+
+Greece
+  144% of GDP (2010 est.)
+  126.8% of GDP (2009 est.)
+
+Guatemala
+  29.6% of GDP (2010 est.)
+  27.9% of GDP (2009 est.)
+
+Guyana
+  57% of GDP (2010 est.)
+
+Honduras
+  26.1% of GDP (2010 est.)
+  23.7% of GDP (2009 est.)
+
+Hong Kong
+  18.2% of GDP (2010 est.)
+  37.4% of GDP (2009 est.)
+
+Hungary
+  72.1% of GDP (2010 est.)
+  78% of GDP (2009 est.)
+
+Iceland
+  123.8% of GDP (2010 est.)
+  113.9% of GDP (2009 est.)
+
+India
+  55.9% of GDP (2010 est.)
+  57.3% of GDP (2009 est.)
+
+Indonesia
+  26.4% of GDP (2010 est.)
+  27.4% of GDP (2009 est.)
+
+Iran
+  16.2% of GDP (2010 est.)
+  16.8% of GDP (2009 est.)
+
+Ireland
+  98.5% of GDP (2010 est.)
+  64.8% of GDP (2009 est.)
+
+Israel
+  77.3% of GDP (2010 est.)
+  77.7% of GDP (2009 est.)
+
+Italy
+  118.1% of GDP (2010 est.)
+  115.8% of GDP (2009 est.)
+
+Jamaica
+  123.2% of GDP (2010 est.)
+  124.4% of GDP (2009 est.)
+
+Japan
+  196.4% of GDP (2010 est.)
+  192.9% of GDP (2009 est.)
+
+Jordan
+  61.4% of GDP (2010 est.)
+  64.7% of GDP (2009 est.)
+
+Kazakhstan
+  15.9% of GDP (2010 est.)
+  14.2% of GDP (2009 est.)
+
+Kenya
+  50.9% of GDP (2010 est.)
+  46.3% of GDP (2009 est.)
+
+Korea, South
+  23.7% of GDP (2010 est.)
+  23.5% of GDP (2009 est.)
+
+Kosovo
+  NA% of GDP
+
+Kuwait
+  12.6% of GDP (2010 est.)
+  13.1% of GDP (2009 est.)
+
+Latvia
+  46.2% of GDP (2010 est.)
+  36.6% of GDP (2009 est.)
+
+Lebanon
+  150.7% of GDP (2010 est.)
+  154.8% of GDP (2009 est.)
+
+Libya
+  3.3% of GDP (2010 est.)
+  3.9% of GDP (2009 est.)
+
+Lithuania
+  36.7% of GDP (2010 est.)
+  29.5% of GDP (2009 est.)
+
+Luxembourg
+  16.2% of GDP (2010 est.)
+  14.6% of GDP (2009 est.)
+
+Macedonia
+  25.7% of GDP (2010 est.)
+  32.4% of GDP (2009 est.)
+
+Malawi
+  40.4% of GDP (2010 est.)
+  44.6% of GDP (2009 est.)
+
+Malaysia
+  52.6% of GDP (2010 est.)
+  53.3% of GDP (2009 est.)
+
+Malta
+  72.6% of GDP (2010 est.)
+  69% of GDP (2009 est.)
+
+Mauritius
+  60.5% of GDP (2010 est.)
+  62.4% of GDP (2009 est.)
+
+Mexico
+  41.5% of GDP (2010 est.)
+  39.1% of GDP (2009 est.)
+
+Moldova
+  25% of GDP (2010 est.)
+  25.7% of GDP (2009 est.)
+
+Montenegro
+  38% of GDP (2006)
+
+Morocco
+  58.2% of GDP (2010 est.)
+  56.9% of GDP (2009 est.)
+
+Mozambique
+  40.8% of GDP (2010 est.)
+  33.4% of GDP (2009 est.)
+
+Namibia
+  20% of GDP (2010 est.)
+  15.1% of GDP (2009 est.)
+
+Netherlands
+  64.6% of GDP (2010 est.)
+  60.9% of GDP (2009 est.)
+
+New Zealand
+  25.5% of GDP (2010 est.)
+  22.2% of GDP (2009 est.)
+
+Nicaragua
+  78% of GDP (2010 est.)
+  63% of GDP (2009 est.)
+
+Nigeria
+  13.4% of GDP (2010 est.)
+  11.8% of GDP (2009 est.)
+
+Norway
+  47.7% of GDP (2010 est.)
+  49.8% of GDP (2009 est.)
+
+Oman
+  4.4% of GDP (2010 est.)
+  5.5% of GDP (2009 est.)
+
+Pakistan
+  49.9% of GDP (2010 est.)
+  49.3% of GDP (2009 est.)
+
+Panama
+  40.8% of GDP (2010 est.)
+  44.6% of GDP (2009 est.)
+
+Papua New Guinea
+  27.8% of GDP (2010 est.)
+  29.7% of GDP (2009 est.)
+
+Paraguay
+  22.8% of GDP (2010 est.)
+  24% of GDP (2009 est.)
+
+Peru
+  23.6% of GDP (2010 est.)
+  25% of GDP (2009 est.)
+
+Philippines
+  55.2% of GDP (2010 est.)
+  57.3% of GDP (2009 est.)
+
+Poland
+  50.5% of GDP (2010 est.)
+  46.4% of GDP (2009 est.)
+
+Portugal
+  83.2% of GDP (2010 est.)
+  76.8% of GDP (2009 est.)
+
+Qatar
+  10.3% of GDP (2010 est.)
+  14% of GDP (2009 est.)
+
+Romania
+  34.8% of GDP (2010 est.)
+  24% of GDP (2009 est.)
+
+Russia
+  9.5% of GDP (2010 est.)
+  8.3% of GDP (2009 est.)
+
+Saint Kitts and Nevis
+  185% of GDP (2009 est.)
+
+Saudi Arabia
+  16.7% of GDP (2010 est.)
+  22.6% of GDP (2009 est.)
+
+Senegal
+  32.1% of GDP (2010 est.)
+  29.6% of GDP (2009 est.)
+
+Serbia
+  37.8% of GDP (2010 est.)
+  31.3% of GDP (2009 est.)
+
+Seychelles
+  58.8% of GDP (2010 est.)
+  58.7% of GDP (2009 est.)
+
+Singapore
+  102.4% of GDP (2010 est.)
+  110% of GDP (2009 est.)
+  note: for Singapore, public debt consists largely of Singapore
+  Government Securities (SGS) issued to assist the Central Provident
+  Fund (CPF), which administers Singapore's defined contribution
+  pension fund; special issues of SGS are held by the CPF, and are
+  non-tradeable; the government has not borrowed to finance deficit
+  expenditures since the 1980s
+
+Slovakia
+  41% of GDP (2010 est.)
+  35.7% of GDP (2009 est.)
+
+Slovenia
+  35.5% of GDP (2010 est.)
+  31.3% of GDP (2009 est.)
+
+South Africa
+  33.2% of GDP (2010 est.)
+  29.7% of GDP (2009 est.)
+
+Spain
+  63.4% of GDP (2010 est.)
+  53.2% of GDP (2009 est.)
+
+Sri Lanka
+  86.7% of GDP (2010 est.)
+  85.8% of GDP (2009 est.)
+
+Sudan
+  94.2% of GDP (2010 est.)
+  105.1% of GDP (2009 est.)
+
+Sweden
+  40.8% of GDP (2010 est.)
+  41.6% of GDP (2009 est.)
+
+Switzerland
+  39.6% of GDP (2010 est.)
+  40.5% of GDP (2009 est.)
+
+Syria
+  29.8% of GDP (2010 est.)
+  28.1% of GDP (2009 est.)
+
+Taiwan
+  31.4% of GDP (2010 est.)
+  33% of GDP (2009 est.)
+
+Tanzania
+  23.3% of GDP (2010 est.)
+  21.4% of GDP (2009 est.)
+
+Thailand
+  42.3% of GDP (2010 est.)
+  44.9% of GDP (2009)
+
+Trinidad and Tobago
+  26.4% of GDP (2010 est.)
+  29% of GDP (2009 est.)
+
+Tunisia
+  49.5% of GDP (2010 est.)
+  47.1% of GDP (2009 est.)
+
+Turkey
+  48.1% of GDP (2010 est.)
+  46.3% of GDP (2009 est.)
+
+Uganda
+  20.4% of GDP (2010 est.)
+  20.2% of GDP (2009 est.)
+
+Ukraine
+  38.4% of GDP (2010 est.)
+  30% of GDP (2009 est.)
+
+United Arab Emirates
+  44.6% of GDP (2010 est.)
+  48.9% of GDP (2009 est.)
+
+United Kingdom
+  76.5% of GDP (2010 est.)
+  68.2% of GDP (2009 est.)
+
+United States
+  58.9% of GDP (2010 est.)
+  53.5% of GDP (2009 est.)
+  note: data cover only what the United States Treasury denotes as
+  "Debt Held by the Public," which includes all debt instruments
+  issued by the Treasury that are owned by non-US Government entities;
+  the data include Treasury debt held by foreign entities; the data
+  exclude debt issued by individual US states, as well as
+  intra-governmental debt; intra-governmental debt consists of
+  Treasury borrowings from surpluses in the trusts for Federal Social
+  Security, Federal Employees, Hospital Insurance (Medicare and
+  Medicaid), Disability and Unemployment, and several other smaller
+  trusts; if data for intra-government debt were added, "Gross Debt"
+  would increase by about 30% of GDP
+
+Uruguay
+  52.7% of GDP (2010 est.)
+  60% of GDP (2009 est.)
+
+Uzbekistan
+  9% of GDP (2010 est.)
+  9.6% of GDP (2009 est.)
+
+Venezuela
+  25.5% of GDP (2010 est.)
+  18% of GDP (2009 est.)
+
+Vietnam
+  53.5% of GDP (2010 est.)
+  52.4% of GDP (2009 est.)
+
+Wallis and Futuna
+  5.6% of GDP (2004 est.)
+
+World
+  58.3% of GDP (2010 est.)
+  56.2% of GDP (2009 est.)
+
+Yemen
+  39.1% of GDP (2010 est.)
+  36.7% of GDP (2009 est.)
+
+Zambia
+  24.1% of GDP (2010 est.)
+  25.9% of GDP (2009 est.)
+
+Zimbabwe
+  241.6% of GDP (2010 est.)
+  282.6% of GDP (2009 est.)
+
+
+
+
+======================================================================
+
+
+
+
+

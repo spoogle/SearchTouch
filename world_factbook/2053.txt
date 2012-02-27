@@ -1,0 +1,772 @@
+2053
+
+
+Field Listing :: Airports
+
+  This entry gives the total number of airports or airfields
+  recognizable from the air. The runway(s) may be paved (concrete or
+  asphalt surfaces) or unpaved (grass, earth, sand, or gravel
+  surfaces) and may include closed or abandoned installations.
+  Airports or airfields that are no longer recognizable (overgrown, no
+  facilities, etc.) are not included. Note that not all airports have
+  accommodations for refueling, maintenance, or air traffic control.
+  Country Comparison to the World
+  Country
+
+
+  Airports
+
+Afghanistan
+  53 (2010)
+
+Albania
+  5 (2010)
+
+Algeria
+  143 (2010)
+
+American Samoa
+  3 (2010)
+
+Angola
+  193 (2010)
+
+Anguilla
+  3 (2010)
+
+Antarctica
+  26 (2010)
+
+Antigua and Barbuda
+  3 (2010)
+
+Argentina
+  1,141 (2010)
+
+Armenia
+  11 (2010)
+
+Aruba
+  1 (2010)
+
+Australia
+  465 (2010)
+
+Austria
+  55 (2010)
+
+Azerbaijan
+  35 (2010)
+
+Bahamas, The
+  62 (2010)
+
+Bahrain
+  4 (2010)
+
+Bangladesh
+  17 (2010)
+
+Barbados
+  1 (2010)
+
+Belarus
+  67 (2010)
+
+Belgium
+  43 (2010)
+
+Belize
+  45 (2010)
+
+Benin
+  5 (2010)
+
+Bermuda
+  1 (2010)
+
+Bhutan
+  2 (2010)
+
+Bolivia
+  881 (2010)
+
+Bosnia and Herzegovina
+  25 (2010)
+
+Botswana
+  78 (2010)
+
+Brazil
+  4,072 (2010)
+
+British Indian Ocean Territory
+  1 (2010)
+
+British Virgin Islands
+  4 (2010)
+
+Brunei
+  2 (2010)
+
+Bulgaria
+  210 (2010)
+
+Burkina Faso
+  24 (2010)
+
+Burma
+  76 (2010)
+
+Burundi
+  8 (2010)
+
+Cambodia
+  17 (2010)
+
+Cameroon
+  34 (2010)
+
+Canada
+  1,404 (2010)
+
+Cape Verde
+  10 (2010)
+
+Cayman Islands
+  3 (2010)
+
+Central African Republic
+  37 (2010)
+
+Chad
+  56 (2010)
+
+Chile
+  366 (2010)
+
+China
+  502 (2010)
+
+Christmas Island
+  1 (2010)
+
+Cocos (Keeling) Islands
+  1 (2010)
+
+Colombia
+  990 (2010)
+
+Comoros
+  4 (2010)
+
+Congo, Democratic Republic of the
+  198 (2010)
+
+Congo, Republic of the
+  25 (2010)
+
+Cook Islands
+  10 (2010)
+
+Costa Rica
+  151 (2010)
+
+Cote d'Ivoire
+  27 (2010)
+
+Croatia
+  69 (2010)
+
+Cuba
+  136 (2010)
+
+Curacao
+  1
+
+Cyprus
+  15 (2010)
+
+Czech Republic
+  122 (2010)
+
+Denmark
+  92 (2010)
+
+Djibouti
+  13 (2010)
+
+Dominica
+  2 (2010)
+
+Dominican Republic
+  35 (2010)
+
+Ecuador
+  428 (2010)
+
+Egypt
+  86 (2010)
+
+El Salvador
+  65 (2010)
+
+Equatorial Guinea
+  7 (2010)
+
+Eritrea
+  13 (2010)
+
+Estonia
+  19 (2010)
+
+Ethiopia
+  61 (2010)
+
+European Union
+  3,383 (2010)
+
+Falkland Islands (Islas Malvinas)
+  7 (2010)
+
+Faroe Islands
+  1 (2010)
+
+Fiji
+  28 (2010)
+
+Finland
+  148 (2010)
+
+France
+  474 (2010)
+
+French Polynesia
+  53 (2010)
+
+French Southern and Antarctic Lands
+  4 (note - one each on Europa
+  Island, Glorioso Islands, Juan de Nova Island, and Tromelin Island
+  in the Iles Eparses district) (2010)
+
+Gabon
+  44 (2010)
+
+Gambia, The
+  1 (2010)
+
+Gaza Strip
+  1 (2010)
+
+Georgia
+  22 (2010)
+
+Germany
+  549 (2010)
+
+Ghana
+  11 (2010)
+
+Gibraltar
+  1 (2010)
+
+Greece
+  81 (2010)
+
+Greenland
+  15 (2010)
+
+Grenada
+  3 (2010)
+
+Guam
+  5; note - 2 serviceable (2010)
+
+Guatemala
+  372 (2010)
+
+Guernsey
+  2 (2010)
+
+Guinea
+  16 (2010)
+
+Guinea-Bissau
+  9 (2010)
+
+Guyana
+  96 (2010)
+
+Haiti
+  14 (2010)
+
+Honduras
+  104 (2010)
+
+Hong Kong
+  2 (2010)
+
+Hungary
+  43 (2010)
+
+Iceland
+  99 (2010)
+
+India
+  352 (2010)
+
+Indonesia
+  684 (2010)
+
+Iran
+  319 (2010)
+
+Iraq
+  104 (2010)
+
+Ireland
+  39 (2010)
+
+Isle of Man
+  1 (2010)
+
+Israel
+  48 (2010)
+
+Italy
+  132 (2010)
+
+Jamaica
+  27 (2010)
+
+Jan Mayen
+  1 (2010)
+
+Japan
+  176 (2010)
+
+Jersey
+  1 (2010)
+
+Jordan
+  18 (2010)
+
+Kazakhstan
+  97 (2010)
+
+Kenya
+  191 (2010)
+
+Kiribati
+  19 (2010)
+
+Korea, North
+  79 (2010)
+
+Korea, South
+  116 (2010)
+
+Kosovo
+  8 (2010)
+
+Kuwait
+  7 (2010)
+
+Kyrgyzstan
+  28 (2010)
+
+Laos
+  41 (2010)
+
+Latvia
+  42 (2010)
+
+Lebanon
+  7 (2010)
+
+Lesotho
+  26 (2010)
+
+Liberia
+  29 (2010)
+
+Libya
+  137 (2010)
+
+Lithuania
+  81 (2010)
+
+Luxembourg
+  2 (2010)
+
+Macau
+  1 (2010)
+
+Macedonia
+  14 (2010)
+
+Madagascar
+  84 (2010)
+
+Malawi
+  32 (2010)
+
+Malaysia
+  118 (2010)
+
+Maldives
+  5 (2010)
+
+Mali
+  20 (2010)
+
+Malta
+  1 (2010)
+
+Marshall Islands
+  15 (2010)
+
+Mauritania
+  28 (2010)
+
+Mauritius
+  5 (2010)
+
+Mayotte
+  1 (2010)
+
+Mexico
+  1,819 (2010)
+
+Micronesia, Federated States of
+  6 (2010)
+
+Moldova
+  11 (2010)
+
+Mongolia
+  46 (2010)
+
+Montenegro
+  5 (2010)
+
+Montserrat
+  2 (2010)
+
+Morocco
+  58 (2010)
+
+Mozambique
+  106 (2010)
+
+Namibia
+  129 (2010)
+
+Nauru
+  1 (2010)
+
+Nepal
+  47 (2010)
+
+Netherlands
+  27 (2010)
+
+New Caledonia
+  25 (2010)
+
+New Zealand
+  122 (2010)
+
+Nicaragua
+  143 (2010)
+
+Niger
+  27 (2010)
+
+Nigeria
+  54 (2010)
+
+Niue
+  1 (2010)
+
+Norfolk Island
+  1 (2010)
+
+Northern Mariana Islands
+  5 (2010)
+
+Norway
+  98 (2010)
+
+Oman
+  130 (2010)
+
+Pakistan
+  148 (2010)
+
+Palau
+  3 (2010)
+
+Panama
+  118 (2010)
+
+Papua New Guinea
+  562 (2010)
+
+Paracel Islands
+  1 (2010)
+
+Paraguay
+  800 (2010)
+
+Peru
+  211 (2010)
+
+Philippines
+  254 (2010)
+
+Poland
+  129 (2010)
+
+Portugal
+  65 (2010)
+
+Puerto Rico
+  29 (2010)
+
+Qatar
+  6 (2010)
+
+Romania
+  54 (2010)
+
+Russia
+  1,213 (2010)
+
+Rwanda
+  9 (2010)
+
+Saint Barthelemy
+  1 (2010)
+
+Saint Helena, Ascension, and Tristan da Cunha
+  1 (2010)
+
+Saint Kitts and Nevis
+  2 (2010)
+
+Saint Lucia
+  2 (2010)
+
+Saint Martin
+  1 (2010)
+
+Saint Pierre and Miquelon
+  2 (2010)
+
+Saint Vincent and the Grenadines
+  6 (2010)
+
+Samoa
+  4 (2010)
+
+Sao Tome and Principe
+  2 (2010)
+
+Saudi Arabia
+  217 (2010)
+
+Senegal
+  20 (2010)
+
+Serbia
+  29 (2010)
+
+Seychelles
+  14 (2010)
+
+Sierra Leone
+  9 (2010)
+
+Singapore
+  8 (2010)
+
+Sint Maarten
+  1
+
+Slovakia
+  36 (2010)
+
+Slovenia
+  16 (2010)
+
+Solomon Islands
+  36 (2010)
+
+Somalia
+  59 (2010)
+
+South Africa
+  578 (2010)
+
+Spain
+  154 (2010)
+
+Spratly Islands
+  4 (2010)
+
+Sri Lanka
+  18 (2010)
+
+Sudan
+  140 (2010)
+
+Suriname
+  51 (2010)
+
+Svalbard
+  4 (2010)
+
+Swaziland
+  15 (2010)
+
+Sweden
+  249 (2010)
+
+Switzerland
+  65 (2010)
+
+Syria
+  104 (2010)
+
+Taiwan
+  41 (2010)
+
+Tajikistan
+  26 (2010)
+
+Tanzania
+  124 (2010)
+
+Thailand
+  105 (2010)
+
+Timor-Leste
+  6 (2010)
+
+Togo
+  8 (2010)
+
+Tonga
+  6 (2010)
+
+Trinidad and Tobago
+  6 (2010)
+
+Tunisia
+  32 (2010)
+
+Turkey
+  99 (2010)
+
+Turkmenistan
+  27 (2010)
+
+Turks and Caicos Islands
+  8 (2010)
+
+Tuvalu
+  1 (2010)
+
+Uganda
+  46 (2010)
+
+Ukraine
+  425 (2010)
+
+United Arab Emirates
+  41 (2010)
+
+United Kingdom
+  505 (2010)
+
+United States
+  15,079 (2010)
+
+United States Pacific Island Wildlife Refuges
+  Baker Island: one
+  abandoned World War II runway of 1,665 m covered with vegetation and
+  unusable
+  Howland Island: airstrip constructed in 1937 for scheduled refueling
+  stop on the round-the-world flight of Amelia EARHART and Fred
+  NOONAN; the aviators left Lae, New Guinea, for Howland Island but
+  were never seen again; the airstrip is no longer serviceable
+  Johnston Atoll: one closed and not maintained
+  Kingman Reef: lagoon was used as a halfway station between Hawaii
+  and American Samoa by Pan American Airways for flying boats in 1937
+  and 1938
+  Midway Islands: 3 - one operational (2,409 m paved); no fuel for
+  sale except emergencies
+  Palmyra Atoll: 1 - 1,846 m unpaved runway; privately owned (2010)
+
+Uruguay
+  58 (2010)
+
+Uzbekistan
+  54 (2010)
+
+Vanuatu
+  31 (2010)
+
+Venezuela
+  409 (2010)
+
+Vietnam
+  44 (2010)
+
+Virgin Islands
+  2 (2010)
+
+Wake Island
+  1 (2010)
+
+Wallis and Futuna
+  2 (2010)
+
+West Bank
+  2 (2010)
+
+Western Sahara
+  6 (2010)
+
+World
+  total airports - 44,010 (2010)
+  top ten by passengers: Atlanta (ATL) - 88,032,086; London (LHR) -
+  66,037,578; Beijing (PEK) - 65,372,012; Chicago (ORD) - 64,158,343;
+  Tokyo (HND) - 61,903,656; Paris (CDG) - 57,906,866; Los Angeles
+  (LAX) - 56,520,843; Dallas/Fort Worth (DFW) - 56,030,457; Frankfurt
+  (FRA) - 50,932,840; Denver (DEN) - 50,167,485 (2009)
+  top ten by cargo (metric tons): Memphis (MEM) - 3,697,054; Hong Kong
+  (HKG) - 3,385,313; Shanghai (PVG) - 2,543,394; Inch'on (ICN) -
+  2,313,001; Paris (CDG) - 2,054,515; Anchorage (ANC) - 1,994,629;
+  Louisville (SDF) - 1,949,528; Dubai (DXB) - 1,927,520; Frankfurt
+  (FRA) - 1,887,686; Tokyo (NRT) - 1,851,972 (2009)
+
+Yemen
+  55 (2010)
+
+Zambia
+  94 (2010)
+
+Zimbabwe
+  216 (2010)
+
+
+
+
+======================================================================
+
+
+
+
+

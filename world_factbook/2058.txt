@@ -1,0 +1,921 @@
+2058
+
+
+Field Listing :: Imports - commodities
+
+  This entry provides a listing of the highest-valued imported
+  products; it sometimes includes the percent of total dollar value.
+  Country
+
+
+  Imports - commodities(%)
+
+Afghanistan
+  machinery and other capital goods, food, textiles,
+  petroleum products
+
+Albania
+  machinery and equipment, foodstuffs, textiles, chemicals
+
+Algeria
+  capital goods, foodstuffs, consumer goods
+
+American Samoa
+  raw materials for canneries 56%, food, petroleum
+  products, machinery and parts
+
+Andorra
+  consumer goods, food, electricity
+
+Angola
+  machinery and electrical equipment, vehicles and spare parts;
+  medicines, food, textiles, military goods
+
+Anguilla
+  fuels, foodstuffs, manufactures, chemicals, trucks, textiles
+
+Antigua and Barbuda
+  food and live animals, machinery and transport
+  equipment, manufactures, chemicals, oil
+
+Argentina
+  machinery, motor vehicles, petroleum and natural gas,
+  organic chemicals, plastics
+
+Armenia
+  natural gas, petroleum, tobacco products, foodstuffs,
+  diamonds
+
+Aruba
+  machinery and electrical equipment, crude oil for refining and
+  reexport, chemicals; foodstuffs
+
+Australia
+  machinery and transport equipment, computers and office
+  machines, telecommunication equipment and parts; crude oil and
+  petroleum products
+
+Austria
+  machinery and equipment, motor vehicles, chemicals, metal
+  goods, oil and oil products; foodstuffs
+
+Azerbaijan
+  machinery and equipment, oil products, foodstuffs,
+  metals, chemicals
+
+Bahamas, The
+  machinery and transport equipment, manufactures,
+  chemicals, mineral fuels; food and live animals
+
+Bahrain
+  crude oil, machinery, chemicals
+
+Bangladesh
+  machinery and equipment, chemicals, iron and steel,
+  textiles, foodstuffs, petroleum products, cement
+
+Barbados
+  consumer goods, machinery, foodstuffs, construction
+  materials, chemicals, fuel, electrical components
+
+Belarus
+  mineral products, machinery and equipment, chemicals,
+  foodstuffs, metals
+
+Belgium
+  raw materials, machinery and equipment, chemicals, raw
+  diamonds, pharmaceuticals, foodstuffs, transportation equipment, oil
+  products
+
+Belize
+  machinery and transport equipment, manufactured goods; fuels,
+  chemicals, pharmaceuticals; food, beverages, tobacco
+
+Benin
+  foodstuffs, capital goods, petroleum products
+
+Bermuda
+  clothing, fuels, machinery and transport equipment,
+  construction materials, chemicals, food and live animals
+
+Bhutan
+  fuel and lubricants, passenger cars, machinery and parts,
+  fabrics, rice (2008)
+
+Bolivia
+  petroleum products, plastics, paper, aircraft and aircraft
+  parts, prepared foods, automobiles, insecticides, soybeans
+
+Bosnia and Herzegovina
+  machinery and equipment, chemicals, fuels,
+  foodstuffs
+
+Botswana
+  foodstuffs, machinery, electrical goods, transport
+  equipment, textiles, fuel and petroleum products, wood and paper
+  products, metal and metal products
+
+Brazil
+  machinery, electrical and transport equipment, chemical
+  products, oil, automotive parts, electronics
+
+British Virgin Islands
+  building materials, automobiles, foodstuffs,
+  machinery
+
+Brunei
+  machinery and transport equipment, manufactured goods, food,
+  chemicals
+
+Bulgaria
+  machinery and equipment; metals and ores; chemicals and
+  plastics; fuels, minerals, and raw materials
+
+Burkina Faso
+  capital goods, foodstuffs, petroleum
+
+Burma
+  fabric, petroleum products, fertilizer, plastics, machinery,
+  transport equipment; cement, construction materials, crude oil; food
+  products, edible oil
+
+Burundi
+  capital goods, petroleum products, foodstuffs
+
+Cambodia
+  petroleum products, cigarettes, gold, construction
+  materials, machinery, motor vehicles, pharmaceutical products
+
+Cameroon
+  machinery, electrical equipment, transport equipment, fuel,
+  food
+
+Canada
+  machinery and equipment, motor vehicles and parts, crude oil,
+  chemicals, electricity, durable consumer goods
+
+Cape Verde
+  foodstuffs, industrial products, transport equipment,
+  fuels
+
+Cayman Islands
+  foodstuffs, manufactured goods, fuels
+
+Central African Republic
+  food, textiles, petroleum products,
+  machinery, electrical equipment, motor vehicles, chemicals,
+  pharmaceuticals
+
+Chad
+  machinery and transportation equipment, industrial goods,
+  foodstuffs, textiles
+
+Chile
+  petroleum and petroleum products, chemicals, electrical and
+  telecommunications equipment, industrial machinery, vehicles,
+  natural gas
+
+China
+  electrical and other machinery, oil and mineral fuels, optical
+  and medical equipment, metal ores, plastics, organic chemicals
+
+Christmas Island
+  consumer goods
+
+Cocos (Keeling) Islands
+  foodstuffs
+
+Colombia
+  industrial equipment, transportation equipment, consumer
+  goods, chemicals, paper products, fuels, electricity
+
+Comoros
+  rice and other foodstuffs, consumer goods, petroleum
+  products, cement, transport equipment
+
+Congo, Democratic Republic of the
+  foodstuffs, mining and other
+  machinery, transport equipment, fuels
+
+Congo, Republic of the
+  capital equipment, construction materials,
+  foodstuffs
+
+Cook Islands
+  foodstuffs, textiles, fuels, timber, capital goods
+
+Costa Rica
+  raw materials, consumer goods, capital equipment,
+  petroleum, construction materials
+
+Cote d'Ivoire
+  fuel, capital equipment, foodstuffs
+
+Croatia
+  machinery, transport and electrical equipment; chemicals,
+  fuels and lubricants; foodstuffs
+
+Cuba
+  petroleum, food, machinery and equipment, chemicals
+
+Curacao
+  crude petroleum, food, manufactures
+
+Cyprus
+  consumer goods, petroleum and lubricants, intermediate goods,
+  machinery, transport equipment
+
+Czech Republic
+  machinery and transport equipment, raw materials and
+  fuels, chemicals
+
+Denmark
+  machinery and equipment, raw materials and semimanufactures
+  for industry, chemicals, grain and foodstuffs, consumer goods
+
+Djibouti
+  foods, beverages, transport equipment, chemicals, petroleum
+  products
+
+Dominica
+  manufactured goods, machinery and equipment, food, chemicals
+
+Dominican Republic
+  foodstuffs, petroleum, cotton and fabrics,
+  chemicals and pharmaceuticals
+
+Ecuador
+  industrial materials, fuels and lubricants, nondurable
+  consumer goods
+
+Egypt
+  machinery and equipment, foodstuffs, chemicals, wood products,
+  fuels
+
+El Salvador
+  raw materials, consumer goods, capital goods, fuels,
+  foodstuffs, petroleum, electricity
+
+Equatorial Guinea
+  petroleum sector equipment, other equipment
+
+Eritrea
+  machinery, petroleum products, food, manufactured goods
+
+Estonia
+  machinery and equipment 35%, textiles 19%, mineral fuels
+  19%, chemical products 9%, foodstuffs 6%
+
+Ethiopia
+  food and live animals, petroleum and petroleum products,
+  chemicals, machinery, motor vehicles, cereals, textiles
+
+European Union
+  machinery, vehicles, aircraft, plastics, crude oil,
+  chemicals, textiles, metals, foodstuffs, clothing
+
+Falkland Islands (Islas Malvinas)
+  fuel, food and drink, building
+  materials, clothing
+
+Faroe Islands
+  consumer goods 36%, raw materials and
+  semi-manufactures 32%, machinery and transport equipment 29%, fuels,
+  fish, salt
+
+Fiji
+  manufactured goods, machinery and transport equipment,
+  petroleum products, food, chemicals
+
+Finland
+  foodstuffs, petroleum and petroleum products, chemicals,
+  transport equipment, iron and steel, machinery, textile yarn and
+  fabrics, grains
+
+France
+  machinery and equipment, vehicles, crude oil, aircraft,
+  plastics, chemicals
+
+French Polynesia
+  fuels, foodstuffs, machinery and equipment
+
+Gabon
+  machinery and equipment, foodstuffs, chemicals, construction
+  materials
+
+Gambia, The
+  foodstuffs, manufactures, fuel, machinery and transport
+  equipment
+
+Gaza Strip
+  food, consumer goods
+  note: Israel permits limited imports through crossings with Gaza,
+  but many "dual use" goods, such as construction materials, are
+  smuggled through tunnels beneath Gaza's border with Egypt
+
+Georgia
+  fuels, vehicles, machinery and parts, grain and other foods,
+  pharmaceuticals
+
+Germany
+  machinery, vehicles, chemicals, foodstuffs, textiles, metals
+
+Ghana
+  capital equipment, petroleum, foodstuffs
+
+Gibraltar
+  fuels, manufactured goods, and foodstuffs
+
+Greece
+  machinery, transport equipment, fuels, chemicals
+
+Greenland
+  machinery and transport equipment, manufactured goods,
+  food, petroleum products
+
+Grenada
+  food, manufactured goods, machinery, chemicals, fuel
+
+Guam
+  petroleum and petroleum products, food, manufactured goods
+
+Guatemala
+  fuels, machinery and transport equipment, construction
+  materials, grain, fertilizers, electricity
+
+Guernsey
+  coal, gasoline, oil, machinery and equipment
+
+Guinea
+  petroleum products, metals, machinery, transport equipment,
+  textiles, grain and other foodstuffs
+
+Guinea-Bissau
+  foodstuffs, machinery and transport equipment,
+  petroleum products
+
+Guyana
+  manufactures, machinery, petroleum, food
+
+Haiti
+  food, manufactured goods, machinery and transport equipment,
+  fuels, raw materials
+
+Honduras
+  machinery and transport equipment, industrial raw
+  materials, chemical products, fuels, foodstuffs
+
+Hong Kong
+  raw materials and semi-manufactures, consumer goods,
+  capital goods, foodstuffs, fuel (most is re-exported)
+
+Hungary
+  machinery and equipment 50%, fuels and electricity 11%, food
+  products, raw materials
+
+Iceland
+  machinery and equipment, petroleum products, foodstuffs,
+  textiles
+
+India
+  crude oil, precious stones, machinery, fertilizer, iron and
+  steel, chemicals
+
+Indonesia
+  machinery and equipment, chemicals, fuels, foodstuffs
+
+Iran
+  industrial raw materials and intermediate goods, capital goods,
+  foodstuffs and other consumer goods, technical services
+
+Iraq
+  food, medicine, manufactures
+
+Ireland
+  data processing equipment, other machinery and equipment,
+  chemicals, petroleum and petroleum products, textiles, clothing
+
+Isle of Man
+  timber, fertilizers, fish
+
+Israel
+  raw materials, military equipment, investment goods, rough
+  diamonds, fuels, grain, consumer goods
+
+Italy
+  engineering products, chemicals, transport equipment, energy
+  products, minerals and nonferrous metals, textiles and clothing;
+  food, beverages, and tobacco
+
+Jamaica
+  food and other consumer goods, industrial supplies, fuel,
+  parts and accessories of capital goods, machinery and transport
+  equipment, construction materials
+
+Japan
+  machinery and equipment, fuels, foodstuffs, chemicals,
+  textiles, raw materials
+
+Jersey
+  machinery and transport equipment, manufactured goods,
+  foodstuffs, mineral fuels, chemicals
+
+Jordan
+  crude oil, machinery, transport equipment, iron, cereals
+
+Kazakhstan
+  machinery and equipment, metal products, foodstuffs
+
+Kenya
+  machinery and transportation equipment, petroleum products,
+  motor vehicles, iron and steel, resins and plastics
+
+Kiribati
+  foodstuffs, machinery and equipment, miscellaneous
+  manufactured goods, fuel
+
+Korea, North
+  petroleum, coking coal, machinery and equipment,
+  textiles, grain
+
+Korea, South
+  machinery, electronics and electronic equipment, oil,
+  steel, transport equipment, organic chemicals, plastics
+
+Kosovo
+  foodstuffs, wood, petroleum, chemicals, machinery and
+  electrical equipment
+
+Kuwait
+  food, construction materials, vehicles and parts, clothing
+
+Kyrgyzstan
+  oil and gas, machinery and equipment, chemicals,
+  foodstuffs
+
+Laos
+  machinery and equipment, vehicles, fuel, consumer goods
+
+Latvia
+  machinery and equipment, chemicals, fuels, vehicles
+
+Lebanon
+  petroleum products, cars, medicinal products, clothing, meat
+  and live animals, consumer goods, paper, textile fabrics, tobacco,
+  electrical machinery and equipment, chemicals
+
+Lesotho
+  food; building materials, vehicles, machinery, medicines,
+  petroleum products
+
+Liberia
+  fuels, chemicals, machinery, transportation equipment,
+  manufactured goods; foodstuffs
+
+Libya
+  machinery, semi-finished goods, food, transport equipment,
+  consumer products
+
+Liechtenstein
+  agricultural products, raw materials, energy products,
+  machinery, metal goods, textiles, foodstuffs, motor vehicles
+
+Lithuania
+  mineral products, machinery and equipment, transport
+  equipment, chemicals, textiles and clothing, metals
+
+Luxembourg
+  minerals, metals, foodstuffs, quality consumer goods
+
+Macau
+  raw materials and semi-manufactured goods, consumer goods
+  (foodstuffs, beverages, tobacco), capital goods, mineral fuels and
+  oils
+
+Macedonia
+  machinery and equipment, automobiles, chemicals, fuels,
+  food products
+
+Madagascar
+  capital goods, petroleum, consumer goods, food
+
+Malawi
+  food, petroleum products, semimanufactures, consumer goods,
+  transportation equipment
+
+Malaysia
+  electronics, machinery, petroleum products, plastics,
+  vehicles, iron and steel products, chemicals
+
+Maldives
+  petroleum products, ships, foodstuffs, clothing,
+  intermediate and capital goods
+
+Mali
+  petroleum, machinery and equipment, construction materials,
+  foodstuffs, textiles
+
+Malta
+  mineral fuels and oils, electrical machinery, non-electrical
+  machinery, aircraft and other transport equipment, plastic and other
+  semi-manufactured goods; food, drink, tobacco
+
+Marshall Islands
+  foodstuffs, machinery and equipment, fuels,
+  beverages and tobacco
+
+Mauritania
+  machinery and equipment, petroleum products, capital
+  goods, foodstuffs, consumer goods
+
+Mauritius
+  manufactured goods, capital equipment, foodstuffs,
+  petroleum products, chemicals
+
+Mayotte
+  food, machinery and equipment, transportation equipment,
+  metals, chemicals
+
+Mexico
+  metalworking machines, steel mill products, agricultural
+  machinery, electrical equipment, car parts for assembly, repair
+  parts for motor vehicles, aircraft, and aircraft parts
+
+Micronesia, Federated States of
+  food, manufactured goods, machinery
+  and equipment, beverages
+
+Moldova
+  mineral products and fuel, machinery and equipment,
+  chemicals, textiles
+
+Mongolia
+  machinery and equipment, fuel, cars, food products,
+  industrial consumer goods, chemicals, building materials, sugar, tea
+
+Montserrat
+  machinery and transportation equipment, foodstuffs,
+  manufactured goods, fuels, lubricants, and related materials
+
+Morocco
+  crude petroleum, textile fabric, telecommunications
+  equipment, wheat, gas and electricity, transistors, plastics
+
+Mozambique
+  machinery and equipment, vehicles, fuel, chemicals, metal
+  products, foodstuffs, textiles
+
+Namibia
+  foodstuffs; petroleum products and fuel, machinery and
+  equipment, chemicals
+
+Nauru
+  food, fuel, manufactures, building materials, machinery
+
+Nepal
+  petroleum products, machinery and equipment, gold, electrical
+  goods, medicine
+
+Netherlands
+  machinery and transport equipment, chemicals, fuels,
+  foodstuffs, clothing
+
+New Caledonia
+  machinery and equipment, fuels, chemicals, foodstuffs
+
+New Zealand
+  machinery and equipment, vehicles and aircraft,
+  petroleum, electronics, textiles, plastics
+
+Nicaragua
+  consumer goods, machinery and equipment, raw materials,
+  petroleum products
+
+Niger
+  foodstuffs, machinery, vehicles and parts, petroleum, cereals
+
+Nigeria
+  machinery, chemicals, transport equipment, manufactured
+  goods, food and live animals
+
+Niue
+  food, live animals, manufactured goods, machinery, fuels,
+  lubricants, chemicals, drugs
+
+Norfolk Island
+  NA
+
+Northern Mariana Islands
+  food, construction equipment and materials,
+  petroleum products
+
+Norway
+  machinery and equipment, chemicals, metals, foodstuffs
+
+Oman
+  machinery and transport equipment, manufactured goods, food,
+  livestock, lubricants
+
+Pakistan
+  petroleum, petroleum products, machinery, plastics,
+  transportation equipment, edible oils, paper and paperboard, iron
+  and steel, tea
+
+Palau
+  machinery and equipment, fuels, metals; foodstuffs
+
+Panama
+  capital goods, foodstuffs, consumer goods, chemicals
+
+Papua New Guinea
+  machinery and transport equipment, manufactured
+  goods, food, fuels, chemicals
+
+Paraguay
+  road vehicles, consumer goods, tobacco, petroleum products,
+  electrical machinery, tractors, chemicals, vehicle parts
+
+Peru
+  petroleum and petroleum products, plastics, machinery,
+  vehicles, iron and steel, wheat, paper
+
+Philippines
+  electronic products, mineral fuels, machinery and
+  transport equipment, iron and steel, textile fabrics, grains,
+  chemicals, plastic
+
+Pitcairn Islands
+  fuel oil, machinery, building materials, flour,
+  sugar, other foodstuffs
+
+Poland
+  machinery and transport equipment 38%, intermediate
+  manufactured goods 21%, chemicals 15%, minerals, fuels, lubricants,
+  and related materials 9%
+
+Portugal
+  agricultural products, food products, oil products,
+  chemical products, plastics and rubber, skins and leather, wood and
+  cork, wood pulp and paper, textile materials, clothing, footwear,
+  minerals and mineral products, base metals, machinery and tools,
+  vehicles and other transport material, and optical and precision
+  instruments, computer accessories and parts, semi-conductors and
+  related devices, household goods, passenger cars new and used, and
+  wine products
+
+Puerto Rico
+  chemicals, machinery and equipment, clothing, food,
+  fish, petroleum products
+
+Qatar
+  machinery and transport equipment, food, chemicals
+
+Romania
+  machinery and equipment, fuels and minerals, chemicals,
+  textile and products, metals, agricultural products
+
+Russia
+  machinery, vehicles, pharmaceutical products, plastic,
+  semi-finished metal products, meat, fruits and nuts, optical and
+  medical instruments, iron, steel
+
+Rwanda
+  foodstuffs, machinery and equipment, steel, petroleum
+  products, cement and construction material
+
+Saint Helena, Ascension, and Tristan da Cunha
+  food, beverages,
+  tobacco, fuel oils, animal feed, building materials, motor vehicles
+  and parts, machinery and parts
+
+Saint Kitts and Nevis
+  machinery, manufactures, food, fuels
+
+Saint Lucia
+  food 23%, manufactured goods 21%, machinery and
+  transportation equipment 19%, chemicals, fuels
+
+Saint Martin
+  crude petroleum, food, manufactured items
+
+Saint Pierre and Miquelon
+  meat, clothing, fuel, electrical
+  equipment, machinery, building materials
+
+Saint Vincent and the Grenadines
+  foodstuffs, machinery and
+  equipment, chemicals and fertilizers, minerals and fuels
+
+Samoa
+  machinery and equipment, industrial supplies, foodstuffs
+
+San Marino
+  wide variety of consumer manufactures, food
+
+Sao Tome and Principe
+  machinery and electrical equipment, food
+  products, petroleum products
+
+Saudi Arabia
+  machinery and equipment, foodstuffs, chemicals, motor
+  vehicles, textiles
+
+Senegal
+  food and beverages, capital goods, fuels
+
+Seychelles
+  machinery and equipment, foodstuffs, petroleum products,
+  chemicals, other manufactured goods
+
+Sierra Leone
+  foodstuffs, machinery and equipment, fuels and
+  lubricants, chemicals
+
+Singapore
+  machinery and equipment, mineral fuels, chemicals,
+  foodstuffs, consumer goods
+
+Slovakia
+  machinery and transport equipment 31%, mineral products
+  13%, vehicles 12%, base metals 9%, chemicals 8%, plastics 6% (2009
+  est.)
+
+Slovenia
+  machinery and transport equipment, manufactured goods,
+  chemicals, fuels and lubricants, food
+
+Solomon Islands
+  food, plant and equipment, manufactured goods,
+  fuels, chemicals
+
+Somalia
+  manufactures, petroleum products, foodstuffs, construction
+  materials, qat
+
+South Africa
+  machinery and equipment, chemicals, petroleum products,
+  scientific instruments, foodstuffs
+
+Spain
+  machinery and equipment, fuels, chemicals, semifinished goods,
+  foodstuffs, consumer goods, measuring and medical control instruments
+
+Sri Lanka
+  petroleum, textiles, machinery and transportation
+  equipment, building materials, mineral products, foodstuffs
+
+Sudan
+  foodstuffs, manufactured goods, refinery and transport
+  equipment, medicines and chemicals, textiles, wheat
+
+Suriname
+  capital equipment, petroleum, foodstuffs, cotton, consumer
+  goods
+
+Swaziland
+  motor vehicles, machinery, transport equipment,
+  foodstuffs, petroleum products, chemicals
+
+Sweden
+  machinery, petroleum and petroleum products, chemicals, motor
+  vehicles, iron and steel; foodstuffs, clothing
+
+Switzerland
+  machinery, chemicals, vehicles, metals; agricultural
+  products, textiles
+
+Syria
+  machinery and transport equipment, electric power machinery,
+  food and livestock, metal and metal products, chemicals and chemical
+  products, plastics, yarn, paper
+
+Taiwan
+  electronics, machinery, crude petroleum, precision
+  instruments, organic chemicals, metals
+
+Tajikistan
+  electricity, petroleum products, aluminum oxide,
+  machinery and equipment, foodstuffs
+
+Tanzania
+  consumer goods, machinery and transportation equipment,
+  industrial raw materials, crude oil
+
+Thailand
+  capital goods, intermediate goods and raw materials,
+  consumer goods, fuels
+
+Timor-Leste
+  food, gasoline, kerosene, machinery
+
+Togo
+  machinery and equipment, foodstuffs, petroleum products
+
+Tokelau
+  foodstuffs, building materials, fuel
+
+Tonga
+  foodstuffs, machinery and transport equipment, fuels, chemicals
+
+Trinidad and Tobago
+  mineral fuels, lubricants, machinery,
+  transportation equipment, manufactured goods, food, chemicals, live
+  animals
+
+Tunisia
+  textiles, machinery and equipment, hydrocarbons, chemicals,
+  foodstuffs
+
+Turkey
+  machinery, chemicals, semi-finished goods, fuels, transport
+  equipment
+
+Turkmenistan
+  machinery and equipment, chemicals, foodstuffs
+
+Turks and Caicos Islands
+  food and beverages, tobacco, clothing,
+  manufactures, construction materials
+
+Tuvalu
+  food, animals, mineral fuels, machinery, manufactured goods
+
+Uganda
+  capital equipment, vehicles, petroleum, medical supplies;
+  cereals
+
+Ukraine
+  energy, machinery and equipment, chemicals
+
+United Arab Emirates
+  machinery and transport equipment, chemicals,
+  food
+
+United Kingdom
+  manufactured goods, machinery, fuels; foodstuffs
+
+United States
+  agricultural products 4.9%, industrial supplies 32.9%
+  (crude oil 8.2%), capital goods 30.4% (computers, telecommunications
+  equipment, motor vehicle parts, office machines, electric power
+  machinery), consumer goods 31.8% (automobiles, clothing, medicines,
+  furniture, toys)
+
+Uruguay
+  crude petroleum and petroleum products, machinery,
+  chemicals, road vehicles, paper, plastics
+
+Uzbekistan
+  machinery and equipment, foodstuffs, chemicals, ferrous
+  and non-ferrous metals
+
+Vanuatu
+  machinery and equipment, foodstuffs, fuels
+
+Venezuela
+  agricultural products, raw materials, machinery and
+  equipment, transport equipment, construction materials
+
+Vietnam
+  machinery and equipment, petroleum products, fertilizer,
+  steel products, raw cotton, grain, cement, motorcycles
+
+Virgin Islands
+  crude oil, foodstuffs, consumer goods, building
+  materials
+
+Wallis and Futuna
+  chemicals, machinery, consumer goods
+
+West Bank
+  food, consumer goods, construction materials, petroleum,
+  chemicals
+
+Western Sahara
+  fuel for fishing fleet, foodstuffs
+
+World
+  the whole range of industrial and agricultural goods and
+  services
+  top ten - share of world trade: see listing for exports
+
+Yemen
+  food and live animals, machinery and equipment, chemicals
+
+Zambia
+  machinery, transportation equipment, petroleum products,
+  electricity, fertilizer; foodstuffs, clothing
+
+Zimbabwe
+  machinery and transport equipment, other manufactures,
+  chemicals, fuels, food products
+
+
+
+
+======================================================================
+
+
+
+
+

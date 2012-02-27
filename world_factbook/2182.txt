@@ -1,0 +1,651 @@
+2182
+
+
+Field Listing :: Natural gas - imports
+
+  This entry is the total natural gas imported in cubic meters (cu m).
+  Country Comparison to the World
+  Country
+
+
+  Natural gas - imports(cu m)
+
+Afghanistan
+  0 cu m (2008 est.)
+
+Albania
+  0 cu m (2008 est.)
+
+Algeria
+  0 cu m (2008 est.)
+
+American Samoa
+  0 cu m (2008 est.)
+
+Angola
+  0 cu m (2008 est.)
+
+Antigua and Barbuda
+  0 cu m (2008 est.)
+
+Argentina
+  2.66 billion cu m (2009 est.)
+
+Armenia
+  1.93 billion cu m (2008 est.)
+
+Aruba
+  0 cu m (2008 est.)
+
+Australia
+  6.56 billion cu m (2009 est.)
+
+Austria
+  10.96 billion cu m (2009)
+
+Azerbaijan
+  0 cu m (2008 est.)
+
+Bahamas, The
+  0 cu m (2008 est.)
+
+Bahrain
+  0 cu m (2008 est.)
+
+Bangladesh
+  0 cu m (2008 est.)
+
+Barbados
+  0 cu m (2008 est.)
+
+Belarus
+  17.6 billion cu m (2009 est.)
+
+Belgium
+  16.78 billion cu m (2009 est.)
+
+Belize
+  0 cu m (2008 est.)
+
+Benin
+  0 cu m (2008 est.)
+
+Bermuda
+  0 cu m (2008 est.)
+
+Bhutan
+  0 cu m (2008 est.)
+
+Bolivia
+  0 cu m (2008 est.)
+
+Bosnia and Herzegovina
+  310 million cu m (2008 est.)
+
+Botswana
+  0 cu m (2008 est.)
+
+Brazil
+  8.44 billion cu m (2009 est.)
+
+British Virgin Islands
+  0 cu m (2008 est.)
+
+Brunei
+  0 cu m (2008 est.)
+
+Bulgaria
+  3.48 billion cu m (2008)
+
+Burkina Faso
+  0 cu m (2008 est.)
+
+Burma
+  0 cu m (2008 est.)
+
+Burundi
+  0 cu m (2008 est.)
+
+Cambodia
+  0 cu m (2008 est.)
+
+Cameroon
+  0 cu m (2008 est.)
+
+Canada
+  16.59 billion cu m (2009 est.)
+
+Cape Verde
+  0 cu m (2008 est.)
+
+Cayman Islands
+  0 cu m (2008 est.)
+
+Central African Republic
+  0 cu m (2008 est.)
+
+Chad
+  0 cu m (2008 est.)
+
+Chile
+  690 million cu m (2008 est.)
+
+China
+  7.462 billion cu m (2009)
+
+Colombia
+  0 cu m (2008 est.)
+
+Comoros
+  0 cu m (2008 est.)
+
+Congo, Democratic Republic of the
+  0 cu m (2008 est.)
+
+Congo, Republic of the
+  0 cu m (2008 est.)
+
+Cook Islands
+  0 cu m (2008 est.)
+
+Costa Rica
+  0 cu m (2008 est.)
+
+Cote d'Ivoire
+  0 cu m (2008 est.)
+
+Croatia
+  1.22 billion cu m (2009 est.)
+
+Cuba
+  0 cu m (2008 est.)
+
+Cyprus
+  0 cu m (2008 est.)
+
+Czech Republic
+  9.683 billion cu m (2009 est.)
+
+Denmark
+  0 cu m (2008)
+
+Djibouti
+  0 cu m (2008 est.)
+
+Dominica
+  0 cu m (2008 est.)
+
+Dominican Republic
+  470 million cu m (2008 est.)
+
+Ecuador
+  0 cu m (2008 est.)
+
+Egypt
+  0 cu m (2009 est.)
+
+El Salvador
+  0 cu m (2008 est.)
+
+Equatorial Guinea
+  0 cu m (2008 est.)
+
+Eritrea
+  0 cu m (2008 est.)
+
+Estonia
+  1.51 billion cu m (2008 est.)
+
+Ethiopia
+  0 cu m (2008 est.)
+
+European Union
+  NA cu m
+
+Falkland Islands (Islas Malvinas)
+  0 cu m (2008 est.)
+
+Faroe Islands
+  0 cu m (2008)
+
+Fiji
+  0 cu m (2008 est.)
+
+Finland
+  4.289 billion cu m (2009)
+
+France
+  45.85 billion cu m (2009 est.)
+
+French Polynesia
+  0 cu m (2008 est.)
+
+Gabon
+  0 cu m (2008 est.)
+
+Gambia, The
+  0 cu m (2008 est.)
+
+Georgia
+  1.72 billion cu m (2008 est.)
+
+Germany
+  94.57 billion cu m (2009 est.)
+
+Ghana
+  0 cu m (2008 est.)
+
+Gibraltar
+  0 cu m (2008 est.)
+
+Greece
+  3.556 billion cu m (2009 est.)
+
+Greenland
+  0 cu m (2008)
+
+Grenada
+  0 cu m (2008 est.)
+
+Guam
+  0 cu m (2008 est.)
+
+Guatemala
+  0 cu m (2008 est.)
+
+Guinea
+  0 cu m (2008 est.)
+
+Guinea-Bissau
+  0 cu m (2008 est.)
+
+Guyana
+  0 cu m (2008 est.)
+
+Haiti
+  0 cu m (2008 est.)
+
+Honduras
+  0 cu m (2008 est.)
+
+Hong Kong
+  2.83 billion cu m (2009 est.)
+
+Hungary
+  9.708 billion cu m (2009 est.)
+
+Iceland
+  0 cu m (2008 est.)
+
+India
+  12.62 billion cu m (2009 est.)
+
+Indonesia
+  0 cu m (2008 est.)
+
+Iran
+  5.2 billion cu m (2008 est.)
+
+Iraq
+  0 cu m (2008 est.)
+
+Ireland
+  4.723 billion cu m (2009 est.)
+
+Israel
+  0 cu m (2008 est.)
+
+Italy
+  69.24 billion cu m (2009 est.)
+
+Jamaica
+  0 cu m (2008 est.)
+
+Japan
+  90.29 billion cu m (2009 est.)
+
+Jordan
+  2.72 billion cu m (2008 est.)
+
+Kazakhstan
+  3.72 billion cu m (2009 est.)
+
+Kenya
+  0 cu m (2008 est.)
+
+Kiribati
+  0 cu m (2008 est.)
+
+Korea, North
+  0 cu m (2008 est.)
+
+Korea, South
+  32.69 billion cu m (2009 est.)
+
+Kuwait
+  300 million cu m (2009 est.)
+  note: Kuwait signed a deal with ?XX? to import 2 billion cu m per
+  year in 2010 and beyond (2009 est.)
+
+Kyrgyzstan
+  720 million cu m (2008 est.)
+
+Laos
+  0 cu m (2008 est.)
+
+Latvia
+  2.05 billion cu m (2008 est.)
+
+Lebanon
+  0 cu m (2008 est.)
+
+Lesotho
+  0 cu m (2008 est.)
+
+Liberia
+  0 cu m (2008 est.)
+
+Libya
+  0 cu m (2008 est.)
+
+Lithuania
+  3.53 billion cu m (2008 est.)
+
+Luxembourg
+  1.263 billion cu m (2009 est.)
+
+Macau
+  97.8 million cu m (2009 est.)
+
+Macedonia
+  82 million cu m (2009 est.)
+
+Madagascar
+  0 cu m (2008 est.)
+
+Malawi
+  0 cu m (2008 est.)
+
+Malaysia
+  0 cu m (2008 est.)
+
+Maldives
+  0 cu m (2009 est.)
+
+Mali
+  0 cu m (2008 est.)
+
+Malta
+  0 cu m (2009 est.)
+
+Mauritania
+  0 cu m (2008 est.)
+
+Mauritius
+  0 cu m (2008 est.)
+
+Mexico
+  11.84 billion cu m (2009 est.)
+
+Moldova
+  2.52 billion cu m (2008 est.)
+
+Mongolia
+  0 cu m (2008 est.)
+
+Montserrat
+  0 cu m (2008 est.)
+
+Morocco
+  500 million cu m (2008 est.)
+
+Mozambique
+  0 cu m (2008 est.)
+
+Namibia
+  0 cu m (2008 est.)
+
+Nauru
+  0 cu m (2008 est.)
+
+Nepal
+  0 cu m (2009 est.)
+
+Netherlands
+  24.6 billion cu m (2009 est.)
+
+New Caledonia
+  0 cu m (2008 est.)
+
+New Zealand
+  NA (2008 est.)
+
+Nicaragua
+  0 cu m (2008 est.)
+
+Niger
+  0 cu m (2008 est.)
+
+Nigeria
+  0 cu m (2008 est.)
+
+Niue
+  0 cu m (2008 est.)
+
+Norway
+  0 cu m (2008 est.)
+
+Oman
+  350 million cu m (2008 est.)
+
+Pakistan
+  0 cu m (2008 est.)
+
+Panama
+  0 cu m (2008 est.)
+
+Papua New Guinea
+  0 cu m (2008 est.)
+
+Paraguay
+  0 cu m (2009 est.)
+
+Peru
+  0 cu m (2008 est.)
+
+Philippines
+  0 cu m (2008 est.)
+
+Poland
+  9.954 billion cu m (2009 est.)
+
+Portugal
+  4.895 billion cu m (2009 est.)
+
+Puerto Rico
+  806.6 million cu m (2008 est.)
+
+Qatar
+  0 cu m (2008 est.)
+
+Romania
+  5.5 billion cu m (2008 est.)
+
+Russia
+  35.1 billion cu m (2009)
+
+Rwanda
+  0 cu m (2008 est.)
+
+Saint Helena, Ascension, and Tristan da Cunha
+  0 cu m (2008 est.)
+
+Saint Kitts and Nevis
+  0 cu m (2008 est.)
+
+Saint Lucia
+  0 cu m (2008 est.)
+
+Saint Pierre and Miquelon
+  0 cu m (2008 est.)
+
+Saint Vincent and the Grenadines
+  0 cu m (2008 est.)
+
+Samoa
+  0 cu m (2008 est.)
+
+Sao Tome and Principe
+  0 cu m (2008 est.)
+
+Saudi Arabia
+  0 cu m (2008 est.)
+
+Senegal
+  0 cu m (2008 est.)
+
+Serbia
+  2.4 billion cu m (2008 est.)
+
+Seychelles
+  0 cu m (2008 est.)
+
+Sierra Leone
+  0 cu m (2008 est.)
+
+Singapore
+  8.27 billion cu m
+  note: from Indonesia and Malaysia (2008 est.)
+
+Slovakia
+  6.974 billion cu m (2009 est.)
+
+Slovenia
+  1.05 billion cu m (2009 est.)
+
+Solomon Islands
+  0 cu m (2008 est.)
+
+Somalia
+  0 cu m (2008 est.)
+
+South Africa
+  3.2 billion cu m (2008 est.)
+
+Spain
+  34.67 billion cu m (2009 est.)
+
+Sudan
+  0 cu m (2008 est.)
+
+Suriname
+  0 cu m (2008 est.)
+
+Swaziland
+  0 cu m (2008 est.)
+
+Sweden
+  1.229 billion cu m (2009 est.)
+
+Switzerland
+  3.282 billion cu m (2009 est.)
+
+Syria
+  140 million cu m (2008 est.)
+
+Taiwan
+  12.08 billion cu m (2008 est.)
+
+Tajikistan
+  250 million cu m (2009 est.)
+
+Tanzania
+  0 cu m (2008 est.)
+
+Thailand
+  8.55 billion cu m (2008 est.)
+
+Timor-Leste
+  0 cu m (2008 est.)
+
+Togo
+  0 cu m (2008 est.)
+
+Tonga
+  0 cu m (2008 est.)
+
+Trinidad and Tobago
+  0 cu m (2008 est.)
+
+Tunisia
+  1.25 billion cu m (2008 est.)
+
+Turkey
+  35.77 billion cu m (2009 est.)
+
+Turkmenistan
+  0 cu m (2008 est.)
+
+Turks and Caicos Islands
+  0 cu m (2008 est.)
+
+Uganda
+  0 cu m (2008 est.)
+
+Ukraine
+  26.83 billion cu m (2009 est.)
+
+United Arab Emirates
+  16.75 billion cu m (2008 est.)
+
+United Kingdom
+  41.06 billion cu m (2009 est.)
+
+United States
+  106.1 billion cu m (2009 est.)
+
+Uruguay
+  70 million cu m (2008 est.)
+
+Uzbekistan
+  0 cu m (2008 est.)
+
+Vanuatu
+  0 cu m (2008 est.)
+
+Venezuela
+  1.8 billion cu m (2009 est.)
+
+Vietnam
+  380,000 cu m (2009 est.)
+
+Virgin Islands
+  0 cu m (2008 est.)
+
+West Bank
+  0 cu m (2008 est.)
+
+Western Sahara
+  0 cu m (2008 est.)
+
+World
+  947.2 billion cu m (2008 est.)
+
+Yemen
+  0 cu m (2008 est.)
+
+Zambia
+  0 cu m (2008 est.)
+
+Zimbabwe
+  0 cu m (2008 est.)
+
+
+
+
+======================================================================
+
+
+
+
+

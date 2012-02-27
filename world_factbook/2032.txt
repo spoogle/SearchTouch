@@ -1,0 +1,1516 @@
+2032
+
+
+Field Listing :: Environment - current issues
+
+  This entry lists the most pressing and important environmental
+  problems. The following terms and abbreviations are used throughout
+  the entry:
+  Acidification - the lowering of soil and water pH due to acid
+  precipitation and deposition usually through precipitation; this
+  process disrupts ecosystem nutrient flows and may kill freshwater
+  fish and plants dependent on more neutral or alkaline conditions
+  (see acid rain).
+  Acid rain - characterized as containing harmful levels of sulfur
+  dioxide or nitrogen oxide; acid rain is damaging and potentially
+  deadly to the earth's fragile ecosystems; acidity is measured using
+  the pH scale where 7 is neutral, values greater than 7 are
+  considered alkaline, and values below 5.6 are considered acid
+  precipitation; note - a pH of 2.4 (the acidity of vinegar) has been
+  measured in rainfall in New England.
+  Aerosol - a collection of airborne particles dispersed in a gas,
+  smoke, or fog.
+  Afforestation - converting a bare or agricultural space by planting
+  trees and plants; reforestation involves replanting trees on areas
+  that have been cut or destroyed by fire.
+  Asbestos - a naturally occurring soft fibrous mineral commonly used
+  in fireproofing materials and considered to be highly carcinogenic
+  in particulate form.
+  Biodiversity - also biological diversity; the relative number of
+  species, diverse in form and function, at the genetic, organism,
+  community, and ecosystem level; loss of biodiversity reduces an
+  ecosystem's ability to recover from natural or man-induced
+  disruption.
+  Bio-indicators - a plant or animal species whose presence,
+  abundance, and health reveal the general condition of its habitat.
+  Biomass - the total weight or volume of living matter in a given
+  area or volume.
+  Carbon cycle - the term used to describe the exchange of carbon (in
+  various forms, e.g., as carbon dioxide) between the atmosphere,
+  ocean, terrestrial biosphere, and geological deposits.
+  Catchments - assemblages used to capture and retain rainwater and
+  runoff; an important water management technique in areas with
+  limited freshwater resources, such as Gibraltar.
+  DDT (dichloro-diphenyl-trichloro-ethane) - a colorless, odorless
+  insecticide that has toxic effects on most animals; the use of DDT
+  was banned in the US in 1972.
+  Defoliants - chemicals which cause plants to lose their leaves
+  artificially; often used in agricultural practices for weed control,
+  and may have detrimental impacts on human and ecosystem health.
+  Deforestation - the destruction of vast areas of forest (e.g.,
+  unsustainable forestry practices, agricultural and range land
+  clearing, and the over exploitation of wood products for use as
+  fuel) without planting new growth.
+  Desertification - the spread of desert-like conditions in arid or
+  semi-arid areas, due to overgrazing, loss of agriculturally
+  productive soils, or climate change.
+  Dredging - the practice of deepening an existing waterway; also, a
+  technique used for collecting bottom-dwelling marine organisms
+  (e.g., shellfish) or harvesting coral, often causing significant
+  destruction of reef and ocean-floor ecosystems.
+  Drift-net fishing - done with a net, miles in extent, that is
+  generally anchored to a boat and left to float with the tide; often
+  results in an over harvesting and waste of large populations of
+  non-commercial marine species (by-catch) by its effect of "sweeping
+  the ocean clean."
+  Ecosystems - ecological units comprised of complex communities of
+  organisms and their specific environments.
+  Effluents - waste materials, such as smoke, sewage, or industrial
+  waste which are released into the environment, subsequently
+  polluting it.
+  Endangered species - a species that is threatened with extinction
+  either by direct hunting or habitat destruction.
+  Freshwater - water with very low soluble mineral content; sources
+  include lakes, streams, rivers, glaciers, and underground aquifers.
+  Greenhouse gas - a gas that "traps" infrared radiation in the lower
+  atmosphere causing surface warming; water vapor, carbon dioxide,
+  nitrous oxide, methane, hydrofluorocarbons, and ozone are the
+  primary greenhouse gases in the Earth's atmosphere.
+  Groundwater - water sources found below the surface of the earth
+  often in naturally occurring reservoirs in permeable rock strata;
+  the source for wells and natural springs.
+  Highlands Water Project - a series of dams constructed jointly by
+  Lesotho and South Africa to redirect Lesotho's abundant water supply
+  into a rapidly growing area in South Africa; while it is the largest
+  infrastructure project in southern Africa, it is also the most
+  costly and controversial; objections to the project include claims
+  that it forces people from their homes, submerges farmlands, and
+  squanders economic resources.
+  Inuit Circumpolar Conference (ICC) - represents the roughly 150,000
+  Inuits of Alaska, Canada, Greenland, and Russia in international
+  environmental issues; a General Assembly convenes every three years
+  to determine the focus of the ICC; the most current concerns are
+  long-range transport of pollutants, sustainable development, and
+  climate change.
+  Metallurgical plants - industries which specialize in the science,
+  technology, and processing of metals; these plants produce highly
+  concentrated and toxic wastes which can contribute to pollution of
+  ground water and air when not properly disposed.
+  Noxious substances - injurious, very harmful to living beings.
+  Overgrazing - the grazing of animals on plant material faster than
+  it can naturally regrow leading to the permanent loss of plant
+  cover, a common effect of too many animals grazing limited range
+  land.
+  Ozone shield - a layer of the atmosphere composed of ozone gas (O3)
+  that resides approximately 25 miles above the Earth's surface and
+  absorbs solar ultraviolet radiation that can be harmful to living
+  organisms.
+  Poaching - the illegal killing of animals or fish, a great concern
+  with respect to endangered or threatened species.
+  Pollution - the contamination of a healthy environment by man-made
+  waste.
+  Potable water - water that is drinkable, safe to be consumed.
+  Salination - the process through which fresh (drinkable) water
+  becomes salt (undrinkable) water; hence, desalination is the reverse
+  process; also involves the accumulation of salts in topsoil caused
+  by evaporation of excessive irrigation water, a process that can
+  eventually render soil incapable of supporting crops.
+  Siltation - occurs when water channels and reservoirs become clotted
+  with silt and mud, a side effect of deforestation and soil erosion.
+  Slash-and-burn agriculture - a rotating cultivation technique in
+  which trees are cut down and burned in order to clear land for
+  temporary agriculture; the land is used until its productivity
+  declines at which point a new plot is selected and the process
+  repeats; this practice is sustainable while population levels are
+  low and time is permitted for regrowth of natural vegetation;
+  conversely, where these conditions do not exist, the practice can
+  have disastrous consequences for the environment.
+  Soil degradation - damage to the land's productive capacity because
+  of poor agricultural practices such as the excessive use of
+  pesticides or fertilizers, soil compaction from heavy equipment, or
+  erosion of topsoil, eventually resulting in reduced ability to
+  produce agricultural products.
+  Soil erosion - the removal of soil by the action of water or wind,
+  compounded by poor agricultural practices, deforestation,
+  overgrazing, and desertification.
+  Ultraviolet (UV) radiation - a portion of the electromagnetic energy
+  emitted by the sun and naturally filtered in the upper atmosphere by
+  the ozone layer; UV radiation can be harmful to living organisms and
+  has been linked to increasing rates of skin cancer in humans.
+  Waterborne diseases - those in which bacteria survive in, and are
+  transmitted through, water; always a serious threat in areas with an
+  untreated water supply.
+  Country
+
+
+  Environment - current issues
+
+Afghanistan
+  limited natural fresh water resources; inadequate
+  supplies of potable water; soil degradation; overgrazing;
+  deforestation (much of the remaining forests are being cut down for
+  fuel and building materials); desertification; air and water
+  pollution
+
+Akrotiri
+  hunting around the salt lake; note - breeding place for
+  loggerhead and green turtles; only remaining colony of griffon
+  vultures is on the base
+
+Albania
+  deforestation; soil erosion; water pollution from industrial
+  and domestic effluents
+
+Algeria
+  soil erosion from overgrazing and other poor farming
+  practices; desertification; dumping of raw sewage, petroleum
+  refining wastes, and other industrial effluents is leading to the
+  pollution of rivers and coastal waters; Mediterranean Sea, in
+  particular, becoming polluted from oil wastes, soil erosion, and
+  fertilizer runoff; inadequate supplies of potable water
+
+American Samoa
+  limited natural fresh water resources; the water
+  division of the government has spent substantial funds in the past
+  few years to improve water catchments and pipelines
+
+Andorra
+  deforestation; overgrazing of mountain meadows contributes
+  to soil erosion; air pollution; wastewater treatment and solid waste
+  disposal
+
+Angola
+  overuse of pastures and subsequent soil erosion attributable
+  to population pressures; desertification; deforestation of tropical
+  rain forest, in response to both international demand for tropical
+  timber and to domestic use as fuel, resulting in loss of
+  biodiversity; soil erosion contributing to water pollution and
+  siltation of rivers and dams; inadequate supplies of potable water
+
+Anguilla
+  supplies of potable water sometimes cannot meet increasing
+  demand largely because of poor distribution system
+
+Antarctica
+  in 1998, NASA satellite data showed that the Antarctic
+  ozone hole was the largest on record, covering 27 million square
+  kilometers; researchers in 1997 found that increased ultraviolet
+  light passing through the hole damages the DNA of icefish, an
+  Antarctic fish lacking hemoglobin; ozone depletion earlier was shown
+  to harm one-celled Antarctic marine plants; in 2002, significant
+  areas of ice shelves disintegrated in response to regional warming
+
+Antigua and Barbuda
+  water management - a major concern because of
+  limited natural fresh water resources - is further hampered by the
+  clearing of trees to increase crop production, causing rainfall to
+  run off quickly
+
+Arctic Ocean
+  endangered marine species include walruses and whales;
+  fragile ecosystem slow to change and slow to recover from
+  disruptions or damage; thinning polar icepack
+
+Argentina
+  environmental problems (urban and rural) typical of an
+  industrializing economy such as deforestation, soil degradation,
+  desertification, air pollution, and water pollution
+  note: Argentina is a world leader in setting voluntary greenhouse
+  gas targets
+
+Armenia
+  soil pollution from toxic chemicals such as DDT; the energy
+  crisis of the 1990s led to deforestation when citizens scavenged for
+  firewood; pollution of Hrazdan (Razdan) and Aras Rivers; the
+  draining of Sevana Lich (Lake Sevan), a result of its use as a
+  source for hydropower, threatens drinking water supplies; restart of
+  Metsamor nuclear power plant in spite of its location in a
+  seismically active zone
+
+Aruba
+  NA
+
+Ashmore and Cartier Islands
+  illegal killing of protected wildlife by
+  traditional Indonesian fisherman, as well as fishing by
+  non-traditional Indonesian vessels, are ongoing problems
+
+Atlantic Ocean
+  endangered marine species include the manatee, seals,
+  sea lions, turtles, and whales; drift net fishing is hastening the
+  decline of fish stocks and contributing to international disputes;
+  municipal sludge pollution off eastern US, southern Brazil, and
+  eastern Argentina; oil pollution in Caribbean Sea, Gulf of Mexico,
+  Lake Maracaibo, Mediterranean Sea, and North Sea; industrial waste
+  and municipal sewage pollution in Baltic Sea, North Sea, and
+  Mediterranean Sea
+
+Australia
+  soil erosion from overgrazing, industrial development,
+  urbanization, and poor farming practices; soil salinity rising due
+  to the use of poor quality water; desertification; clearing for
+  agricultural purposes threatens the natural habitat of many unique
+  animal and plant species; the Great Barrier Reef off the northeast
+  coast, the largest coral reef in the world, is threatened by
+  increased shipping and its popularity as a tourist site; limited
+  natural fresh water resources
+
+Austria
+  some forest degradation caused by air and soil pollution;
+  soil pollution results from the use of agricultural chemicals; air
+  pollution results from emissions by coal- and oil-fired power
+  stations and industrial plants and from trucks transiting Austria
+  between northern and southern Europe
+
+Azerbaijan
+  local scientists consider the Abseron Yasaqligi (Apsheron
+  Peninsula) (including Baku and Sumqayit) and the Caspian Sea to be
+  the ecologically most devastated area in the world because of severe
+  air, soil, and water pollution; soil pollution results from oil
+  spills, from the use of DDT pesticide, and from toxic defoliants
+  used in the production of cotton
+
+Bahamas, The
+  coral reef decay; solid waste disposal
+
+Bahrain
+  desertification resulting from the degradation of limited
+  arable land, periods of drought, and dust storms; coastal
+  degradation (damage to coastlines, coral reefs, and sea vegetation)
+  resulting from oil spills and other discharges from large tankers,
+  oil refineries, and distribution stations; lack of freshwater
+  resources (groundwater and seawater are the only sources for all
+  water needs)
+
+Bangladesh
+  many people are landless and forced to live on and
+  cultivate flood-prone land; waterborne diseases prevalent in surface
+  water; water pollution, especially of fishing areas, results from
+  the use of commercial pesticides; ground water contaminated by
+  naturally occurring arsenic; intermittent water shortages because of
+  falling water tables in the northern and central parts of the
+  country; soil degradation and erosion; deforestation; severe
+  overpopulation
+
+Barbados
+  pollution of coastal waters from waste disposal by ships;
+  soil erosion; illegal solid waste disposal threatens contamination
+  of aquifers
+
+Belarus
+  soil pollution from pesticide use; southern part of the
+  country contaminated with fallout from 1986 nuclear reactor accident
+  at Chornobyl' in northern Ukraine
+
+Belgium
+  the environment is exposed to intense pressures from human
+  activities: urbanization, dense transportation network, industry,
+  extensive animal breeding and crop cultivation; air and water
+  pollution also have repercussions for neighboring countries;
+  uncertainties regarding federal and regional responsibilities (now
+  resolved) had slowed progress in tackling environmental challenges
+
+Belize
+  deforestation; water pollution from sewage, industrial
+  effluents, agricultural runoff; solid and sewage waste disposal
+
+Benin
+  inadequate supplies of potable water; poaching threatens
+  wildlife populations; deforestation; desertification
+
+Bermuda
+  sustainable development
+
+Bhutan
+  soil erosion; limited access to potable water
+
+Bolivia
+  the clearing of land for agricultural purposes and the
+  international demand for tropical timber are contributing to
+  deforestation; soil erosion from overgrazing and poor cultivation
+  methods (including slash-and-burn agriculture); desertification;
+  loss of biodiversity; industrial pollution of water supplies used
+  for drinking and irrigation
+
+Bosnia and Herzegovina
+  air pollution from metallurgical plants;
+  sites for disposing of urban waste are limited; water shortages and
+  destruction of infrastructure because of the 1992-95 civil strife;
+  deforestation
+
+Botswana
+  overgrazing; desertification; limited fresh water resources
+
+Bouvet Island
+  NA
+
+Brazil
+  deforestation in Amazon Basin destroys the habitat and
+  endangers a multitude of plant and animal species indigenous to the
+  area; there is a lucrative illegal wildlife trade; air and water
+  pollution in Rio de Janeiro, Sao Paulo, and several other large
+  cities; land degradation and water pollution caused by improper
+  mining activities; wetland degradation; severe oil spills
+
+British Indian Ocean Territory
+  NA
+
+British Virgin Islands
+  limited natural fresh water resources (except
+  for a few seasonal streams and springs on Tortola, most of the
+  islands' water supply comes from wells and rainwater catchments)
+
+Brunei
+  seasonal smoke/haze resulting from forest fires in Indonesia
+
+Bulgaria
+  air pollution from industrial emissions; rivers polluted
+  from raw sewage, heavy metals, detergents; deforestation; forest
+  damage from air pollution and resulting acid rain; soil
+  contamination from heavy metals from metallurgical plants and
+  industrial wastes
+
+Burkina Faso
+  recent droughts and desertification severely affecting
+  agricultural activities, population distribution, and the economy;
+  overgrazing; soil degradation; deforestation
+
+Burma
+  deforestation; industrial pollution of air, soil, and water;
+  inadequate sanitation and water treatment contribute to disease
+
+Burundi
+  soil erosion as a result of overgrazing and the expansion of
+  agriculture into marginal lands; deforestation (little forested land
+  remains because of uncontrolled cutting of trees for fuel); habitat
+  loss threatens wildlife populations
+
+Cambodia
+  illegal logging activities throughout the country and strip
+  mining for gems in the western region along the border with Thailand
+  have resulted in habitat loss and declining biodiversity (in
+  particular, destruction of mangrove swamps threatens natural
+  fisheries); soil erosion; in rural areas, most of the population
+  does not have access to potable water; declining fish stocks because
+  of illegal fishing and overfishing
+
+Cameroon
+  waterborne diseases are prevalent; deforestation;
+  overgrazing; desertification; poaching; overfishing
+
+Canada
+  air pollution and resulting acid rain severely affecting
+  lakes and damaging forests; metal smelting, coal-burning utilities,
+  and vehicle emissions impacting on agricultural and forest
+  productivity; ocean waters becoming contaminated due to
+  agricultural, industrial, mining, and forestry activities
+
+Cape Verde
+  soil erosion; deforestation due to demand for wood used
+  as fuel; water shortages; desertification; environmental damage has
+  threatened several species of birds and reptiles; illegal beach sand
+  extraction; overfishing
+
+Cayman Islands
+  no natural fresh water resources; drinking water
+  supplies must be met by rainwater catchments
+
+Central African Republic
+  tap water is not potable; poaching has
+  diminished the country's reputation as one of the last great
+  wildlife refuges; desertification; deforestation
+
+Chad
+  inadequate supplies of potable water; improper waste disposal
+  in rural areas contributes to soil and water pollution;
+  desertification
+
+Chile
+  widespread deforestation and mining threaten natural
+  resources; air pollution from industrial and vehicle emissions;
+  water pollution from raw sewage
+
+China
+  air pollution (greenhouse gases, sulfur dioxide particulates)
+  from reliance on coal produces acid rain; water shortages,
+  particularly in the north; water pollution from untreated wastes;
+  deforestation; estimated loss of one-fifth of agricultural land
+  since 1949 to soil erosion and economic development;
+  desertification; trade in endangered species
+
+Christmas Island
+  loss of rainforest; impact of phosphate mining
+
+Clipperton Island
+  NA
+
+Cocos (Keeling) Islands
+  fresh water resources are limited to
+  rainwater accumulations in natural underground reservoirs
+
+Colombia
+  deforestation; soil and water quality damage from overuse
+  of pesticides; air pollution, especially in Bogota, from vehicle
+  emissions
+
+Comoros
+  soil degradation and erosion results from crop cultivation
+  on slopes without proper terracing; deforestation
+
+Congo, Democratic Republic of the
+  poaching threatens wildlife
+  populations; water pollution; deforestation; refugees responsible
+  for significant deforestation, soil erosion, and wildlife poaching;
+  mining of minerals (coltan - a mineral used in creating capacitors,
+  diamonds, and gold) causing environmental damage
+
+Congo, Republic of the
+  air pollution from vehicle emissions; water
+  pollution from the dumping of raw sewage; tap water is not potable;
+  deforestation
+
+Cook Islands
+  NA
+
+Coral Sea Islands
+  no permanent fresh water resources
+
+Costa Rica
+  deforestation and land use change, largely a result of
+  the clearing of land for cattle ranching and agriculture; soil
+  erosion; coastal marine pollution; fisheries protection; solid waste
+  management; air pollution
+
+Cote d'Ivoire
+  deforestation (most of the country's forests - once
+  the largest in West Africa - have been heavily logged); water
+  pollution from sewage and industrial and agricultural effluents
+
+Croatia
+  air pollution (from metallurgical plants) and resulting acid
+  rain is damaging the forests; coastal pollution from industrial and
+  domestic waste; landmine removal and reconstruction of
+  infrastructure consequent to 1992-95 civil strife
+
+Cuba
+  air and water pollution; biodiversity loss; deforestation
+
+Curacao
+  NA
+
+Cyprus
+  water resource problems (no natural reservoir catchments,
+  seasonal disparity in rainfall, sea water intrusion to island's
+  largest aquifer, increased salination in the north); water pollution
+  from sewage and industrial wastes; coastal degradation; loss of
+  wildlife habitats from urbanization
+
+Czech Republic
+  air and water pollution in areas of northwest Bohemia
+  and in northern Moravia around Ostrava present health risks; acid
+  rain damaging forests; efforts to bring industry up to EU code
+  should improve domestic pollution
+
+Denmark
+  air pollution, principally from vehicle and power plant
+  emissions; nitrogen and phosphorus pollution of the North Sea;
+  drinking and surface water becoming polluted from animal wastes and
+  pesticides
+
+Dhekelia
+  netting and trapping of small migrant songbirds in the
+  spring and autumn
+
+Djibouti
+  inadequate supplies of potable water; limited arable land;
+  desertification; endangered species
+
+Dominica
+  NA
+
+Dominican Republic
+  water shortages; soil eroding into the sea
+  damages coral reefs; deforestation
+
+Ecuador
+  deforestation; soil erosion; desertification; water
+  pollution; pollution from oil production wastes in ecologically
+  sensitive areas of the Amazon Basin and Galapagos Islands
+
+Egypt
+  agricultural land being lost to urbanization and windblown
+  sands; increasing soil salination below Aswan High Dam;
+  desertification; oil pollution threatening coral reefs, beaches, and
+  marine habitats; other water pollution from agricultural pesticides,
+  raw sewage, and industrial effluents; limited natural fresh water
+  resources away from the Nile, which is the only perennial water
+  source; rapid growth in population overstraining the Nile and
+  natural resources
+
+El Salvador
+  deforestation; soil erosion; water pollution;
+  contamination of soils from disposal of toxic wastes
+
+Equatorial Guinea
+  tap water is not potable; deforestation
+
+Eritrea
+  deforestation; desertification; soil erosion; overgrazing;
+  loss of infrastructure from civil warfare
+
+Estonia
+  air polluted with sulfur dioxide from oil-shale burning
+  power plants in northeast; however, the amount of pollutants emitted
+  to the air have fallen steadily, the emissions of 2000 were 80% less
+  than in 1980; the amount of unpurified wastewater discharged to
+  water bodies in 2000 was one-20th the level of 1980; in connection
+  with the start-up of new water purification plants, the pollution
+  load of wastewater decreased; Estonia has more than 1,400 natural
+  and manmade lakes, the smaller of which in agricultural areas need
+  to be monitored; coastal seawater is polluted in certain locations
+
+Ethiopia
+  deforestation; overgrazing; soil erosion; desertification;
+  water shortages in some areas from water-intensive farming and poor
+  management
+
+European Union
+  NA
+
+Falkland Islands (Islas Malvinas)
+  overfishing by unlicensed vessels
+  is a problem; reindeer were introduced to the islands in 2001 for
+  commercial reasons; this is the only commercial reindeer herd in the
+  world unaffected by the 1986 Chornobyl disaster
+
+Faroe Islands
+  NA
+
+Fiji
+  deforestation; soil erosion
+
+Finland
+  air pollution from manufacturing and power plants
+  contributing to acid rain; water pollution from industrial wastes,
+  agricultural chemicals; habitat loss threatens wildlife populations
+
+France
+  some forest damage from acid rain; air pollution from
+  industrial and vehicle emissions; water pollution from urban wastes,
+  agricultural runoff
+
+French Polynesia
+  NA
+
+French Southern and Antarctic Lands
+  introduction of foreign species
+  on Iles Crozet has caused severe damage to the original ecosystem;
+  overfishing of Patagonian toothfish around Iles Crozet and Iles
+  Kerguelen
+
+Gabon
+  deforestation; poaching
+
+Gambia, The
+  deforestation; desertification; water-borne diseases
+  prevalent
+
+Gaza Strip
+  desertification; salination of fresh water; sewage
+  treatment; water-borne disease; soil degradation; depletion and
+  contamination of underground water resources
+
+Georgia
+  air pollution, particularly in Rust'avi; heavy pollution of
+  Mtkvari River and the Black Sea; inadequate supplies of potable
+  water; soil pollution from toxic chemicals
+
+Germany
+  emissions from coal-burning utilities and industries
+  contribute to air pollution; acid rain, resulting from sulfur
+  dioxide emissions, is damaging forests; pollution in the Baltic Sea
+  from raw sewage and industrial effluents from rivers in eastern
+  Germany; hazardous waste disposal; government established a
+  mechanism for ending the use of nuclear power over the next 15
+  years; government working to meet EU commitment to identify nature
+  preservation areas in line with the EU's Flora, Fauna, and Habitat
+  directive
+
+Ghana
+  recurrent drought in north severely affects agricultural
+  activities; deforestation; overgrazing; soil erosion; poaching and
+  habitat destruction threatens wildlife populations; water pollution;
+  inadequate supplies of potable water
+
+Gibraltar
+  limited natural freshwater resources: large concrete or
+  natural rock water catchments collect rainwater (no longer used for
+  drinking water) and adequate desalination plant
+
+Greece
+  air pollution; water pollution
+
+Greenland
+  protection of the arctic environment; preservation of the
+  Inuit traditional way of life, including whaling and seal hunting
+
+Grenada
+  NA
+
+Guam
+  extirpation of native bird population by the rapid
+  proliferation of the brown tree snake, an exotic, invasive species
+
+Guatemala
+  deforestation in the Peten rainforest; soil erosion; water
+  pollution
+
+Guernsey
+  NA
+
+Guinea
+  deforestation; inadequate supplies of potable water;
+  desertification; soil contamination and erosion; overfishing,
+  overpopulation in forest region; poor mining practices have led to
+  environmental damage
+
+Guinea-Bissau
+  deforestation; soil erosion; overgrazing; overfishing
+
+Guyana
+  water pollution from sewage and agricultural and industrial
+  chemicals; deforestation
+
+Haiti
+  extensive deforestation (much of the remaining forested land
+  is being cleared for agriculture and used as fuel); soil erosion;
+  inadequate supplies of potable water
+
+Heard Island and McDonald Islands
+  NA
+
+Holy See (Vatican City)
+  NA
+
+Honduras
+  urban population expanding; deforestation results from
+  logging and the clearing of land for agricultural purposes; further
+  land degradation and soil erosion hastened by uncontrolled
+  development and improper land use practices such as farming of
+  marginal lands; mining activities polluting Lago de Yojoa (the
+  country's largest source of fresh water), as well as several rivers
+  and streams, with heavy metals
+
+Hong Kong
+  air and water pollution from rapid urbanization
+
+Hungary
+  the upgrading of Hungary's standards in waste management,
+  energy efficiency, and air, soil, and water pollution to meet EU
+  requirements will require large investments
+
+Iceland
+  water pollution from fertilizer runoff; inadequate
+  wastewater treatment
+
+India
+  deforestation; soil erosion; overgrazing; desertification; air
+  pollution from industrial effluents and vehicle emissions; water
+  pollution from raw sewage and runoff of agricultural pesticides; tap
+  water is not potable throughout the country; huge and growing
+  population is overstraining natural resources
+
+Indian Ocean
+  endangered marine species include the dugong, seals,
+  turtles, and whales; oil pollution in the Arabian Sea, Persian Gulf,
+  and Red Sea
+
+Indonesia
+  deforestation; water pollution from industrial wastes,
+  sewage; air pollution in urban areas; smoke and haze from forest
+  fires
+
+Iran
+  air pollution, especially in urban areas, from vehicle
+  emissions, refinery operations, and industrial effluents;
+  deforestation; overgrazing; desertification; oil pollution in the
+  Persian Gulf; wetland losses from drought; soil degradation
+  (salination); inadequate supplies of potable water; water pollution
+  from raw sewage and industrial waste; urbanization
+
+Iraq
+  government water control projects have drained most of the
+  inhabited marsh areas east of An Nasiriyah by drying up or diverting
+  the feeder streams and rivers; a once sizable population of Marsh
+  Arabs, who inhabited these areas for thousands of years, has been
+  displaced; furthermore, the destruction of the natural habitat poses
+  serious threats to the area's wildlife populations; inadequate
+  supplies of potable water; development of the Tigris and Euphrates
+  rivers system contingent upon agreements with upstream riparian
+  Turkey; air and water pollution; soil degradation (salination) and
+  erosion; desertification
+
+Ireland
+  water pollution, especially of lakes, from agricultural
+  runoff
+
+Isle of Man
+  waste disposal (both household and industrial);
+  transboundary air pollution
+
+Israel
+  limited arable land and natural fresh water resources pose
+  serious constraints; desertification; air pollution from industrial
+  and vehicle emissions; groundwater pollution from industrial and
+  domestic waste, chemical fertilizers, and pesticides
+
+Italy
+  air pollution from industrial emissions such as sulfur
+  dioxide; coastal and inland rivers polluted from industrial and
+  agricultural effluents; acid rain damaging lakes; inadequate
+  industrial waste treatment and disposal facilities
+
+Jamaica
+  heavy rates of deforestation; coastal waters polluted by
+  industrial waste, sewage, and oil spills; damage to coral reefs; air
+  pollution in Kingston results from vehicle emissions
+
+Jan Mayen
+  NA
+
+Japan
+  air pollution from power plant emissions results in acid rain;
+  acidification of lakes and reservoirs degrading water quality and
+  threatening aquatic life; Japan is one of the largest consumers of
+  fish and tropical timber, contributing to the depletion of these
+  resources in Asia and elsewhere
+
+Jersey
+  NA
+
+Jordan
+  limited natural fresh water resources; deforestation;
+  overgrazing; soil erosion; desertification
+
+Kazakhstan
+  radioactive or toxic chemical sites associated with
+  former defense industries and test ranges scattered throughout the
+  country pose health risks for humans and animals; industrial
+  pollution is severe in some cities; because the two main rivers that
+  flowed into the Aral Sea have been diverted for irrigation, it is
+  drying up and leaving behind a harmful layer of chemical pesticides
+  and natural salts; these substances are then picked up by the wind
+  and blown into noxious dust storms; pollution in the Caspian Sea;
+  soil pollution from overuse of agricultural chemicals and salination
+  from poor infrastructure and wasteful irrigation practices
+
+Kenya
+  water pollution from urban and industrial wastes; degradation
+  of water quality from increased use of pesticides and fertilizers;
+  water hyacinth infestation in Lake Victoria; deforestation; soil
+  erosion; desertification; poaching
+
+Kiribati
+  heavy pollution in lagoon of south Tarawa atoll due to
+  heavy migration mixed with traditional practices such as lagoon
+  latrines and open-pit dumping; ground water at risk
+
+Korea, North
+  water pollution; inadequate supplies of potable water;
+  waterborne disease; deforestation; soil erosion and degradation
+
+Korea, South
+  air pollution in large cities; acid rain; water
+  pollution from the discharge of sewage and industrial effluents;
+  drift net fishing
+
+Kuwait
+  limited natural fresh water resources; some of world's
+  largest and most sophisticated desalination facilities provide much
+  of the water; air and water pollution; desertification
+
+Kyrgyzstan
+  water pollution; many people get their water directly
+  from contaminated streams and wells; as a result, water-borne
+  diseases are prevalent; increasing soil salinity from faulty
+  irrigation practices
+
+Laos
+  unexploded ordnance; deforestation; soil erosion; most of the
+  population does not have access to potable water
+
+Latvia
+  Latvia's environment has benefited from a shift to service
+  industries after the country regained independence; the main
+  environmental priorities are improvement of drinking water quality
+  and sewage system, household, and hazardous waste management, as
+  well as reduction of air pollution; in 2001, Latvia closed the EU
+  accession negotiation chapter on environment committing to full
+  enforcement of EU environmental directives by 2010
+
+Lebanon
+  deforestation; soil erosion; desertification; air pollution
+  in Beirut from vehicular traffic and the burning of industrial
+  wastes; pollution of coastal waters from raw sewage and oil spills
+
+Lesotho
+  population pressure forcing settlement in marginal areas
+  results in overgrazing, severe soil erosion, and soil exhaustion;
+  desertification; Highlands Water Project controls, stores, and
+  redirects water to South Africa
+
+Liberia
+  tropical rain forest deforestation; soil erosion; loss of
+  biodiversity; pollution of coastal waters from oil residue and raw
+  sewage
+
+Libya
+  desertification; limited natural fresh water resources; the
+  Great Manmade River Project, the largest water development scheme in
+  the world, is being built to bring water from large aquifers under
+  the Sahara to coastal cities
+
+Liechtenstein
+  NA
+
+Lithuania
+  contamination of soil and groundwater with petroleum
+  products and chemicals at military bases
+
+Luxembourg
+  air and water pollution in urban areas, soil pollution of
+  farmland
+
+Macau
+  NA
+
+Macedonia
+  air pollution from metallurgical plants
+
+Madagascar
+  soil erosion results from deforestation and overgrazing;
+  desertification; surface water contaminated with raw sewage and
+  other organic wastes; several endangered species of flora and fauna
+  unique to the island
+
+Malawi
+  deforestation; land degradation; water pollution from
+  agricultural runoff, sewage, industrial wastes; siltation of
+  spawning grounds endangers fish populations
+
+Malaysia
+  air pollution from industrial and vehicular emissions;
+  water pollution from raw sewage; deforestation; smoke/haze from
+  Indonesian forest fires
+
+Maldives
+  depletion of freshwater aquifers threatens water supplies;
+  global warming and sea level rise; coral reef bleaching
+
+Mali
+  deforestation; soil erosion; desertification; inadequate
+  supplies of potable water; poaching
+
+Malta
+  limited natural fresh water resources; increasing reliance on
+  desalination
+
+Marshall Islands
+  inadequate supplies of potable water; pollution of
+  Majuro lagoon from household waste and discharges from fishing
+  vessels
+
+Mauritania
+  overgrazing, deforestation, and soil erosion aggravated
+  by drought are contributing to desertification; limited natural
+  fresh water resources away from the Senegal, which is the only
+  perennial river; locust infestation
+
+Mauritius
+  water pollution, degradation of coral reefs
+
+Mayotte
+  NA
+
+Mexico
+  scarcity of hazardous waste disposal facilities; rural to
+  urban migration; natural fresh water resources scarce and polluted
+  in north, inaccessible and poor quality in center and extreme
+  southeast; raw sewage and industrial effluents polluting rivers in
+  urban areas; deforestation; widespread erosion; desertification;
+  deteriorating agricultural lands; serious air and water pollution in
+  the national capital and urban centers along US-Mexico border; land
+  subsidence in Valley of Mexico caused by groundwater depletion
+  note: the government considers the lack of clean water and
+  deforestation national security issues
+
+Micronesia, Federated States of
+  overfishing, climate change,
+  pollution
+
+Moldova
+  heavy use of agricultural chemicals, including banned
+  pesticides such as DDT, has contaminated soil and groundwater;
+  extensive soil erosion from poor farming methods
+
+Monaco
+  NA
+
+Mongolia
+  limited natural fresh water resources in some areas; the
+  policies of former Communist regimes promoted rapid urbanization and
+  industrial growth that had negative effects on the environment; the
+  burning of soft coal in power plants and the lack of enforcement of
+  environmental laws severely polluted the air in Ulaanbaatar;
+  deforestation, overgrazing, and the converting of virgin land to
+  agricultural production increased soil erosion from wind and rain;
+  desertification and mining activities had a deleterious effect on
+  the environment
+
+Montenegro
+  pollution of coastal waters from sewage outlets,
+  especially in tourist-related areas such as Kotor
+
+Montserrat
+  land erosion occurs on slopes that have been cleared for
+  cultivation
+
+Morocco
+  land degradation/desertification (soil erosion resulting
+  from farming of marginal areas, overgrazing, destruction of
+  vegetation); water supplies contaminated by raw sewage; siltation of
+  reservoirs; oil pollution of coastal waters
+
+Mozambique
+  a long civil war and recurrent drought in the hinterlands
+  have resulted in increased migration of the population to urban and
+  coastal areas with adverse environmental consequences;
+  desertification; pollution of surface and coastal waters; elephant
+  poaching for ivory is a problem
+
+Namibia
+  limited natural fresh water resources; desertification;
+  wildlife poaching; land degradation has led to few conservation areas
+
+Nauru
+  limited natural fresh water resources, roof storage tanks
+  collect rainwater but mostly dependent on a single, aging
+  desalination plant; intensive phosphate mining during the past 90
+  years - mainly by a UK, Australia, and NZ consortium - has left the
+  central 90% of Nauru a wasteland and threatens limited remaining
+  land resources
+
+Navassa Island
+  NA
+
+Nepal
+  deforestation (overuse of wood for fuel and lack of
+  alternatives); contaminated water (with human and animal wastes,
+  agricultural runoff, and industrial effluents); wildlife
+  conservation; vehicular emissions
+
+Netherlands
+  water pollution in the form of heavy metals, organic
+  compounds, and nutrients such as nitrates and phosphates; air
+  pollution from vehicles and refining activities; acid rain
+
+New Caledonia
+  erosion caused by mining exploitation and forest fires
+
+New Zealand
+  deforestation; soil erosion; native flora and fauna
+  hard-hit by invasive species
+
+Nicaragua
+  deforestation; soil erosion; water pollution
+
+Niger
+  overgrazing; soil erosion; deforestation; desertification;
+  wildlife populations (such as elephant, hippopotamus, giraffe, and
+  lion) threatened because of poaching and habitat destruction
+
+Nigeria
+  soil degradation; rapid deforestation; urban air and water
+  pollution; desertification; oil pollution - water, air, and soil;
+  has suffered serious damage from oil spills; loss of arable land;
+  rapid urbanization
+
+Niue
+  increasing attention to conservationist practices to counter
+  loss of soil fertility from traditional slash and burn agriculture
+
+Norfolk Island
+  NA
+
+Northern Mariana Islands
+  contamination of groundwater on Saipan may
+  contribute to disease; clean-up of landfill; protection of
+  endangered species conflicts with development
+
+Norway
+  water pollution; acid rain damaging forests and adversely
+  affecting lakes, threatening fish stocks; air pollution from vehicle
+  emissions
+
+Oman
+  rising soil salinity; beach pollution from oil spills; limited
+  natural fresh water resources
+
+Pacific Ocean
+  endangered marine species include the dugong, sea
+  lion, sea otter, seals, turtles, and whales; oil pollution in
+  Philippine Sea and South China Sea
+
+Pakistan
+  water pollution from raw sewage, industrial wastes, and
+  agricultural runoff; limited natural fresh water resources; most of
+  the population does not have access to potable water; deforestation;
+  soil erosion; desertification
+
+Palau
+  inadequate facilities for disposal of solid waste; threats to
+  the marine ecosystem from sand and coral dredging, illegal fishing
+  practices, and overfishing
+
+Panama
+  water pollution from agricultural runoff threatens fishery
+  resources; deforestation of tropical rain forest; land degradation
+  and soil erosion threatens siltation of Panama Canal; air pollution
+  in urban areas; mining threatens natural resources
+
+Papua New Guinea
+  rain forest subject to deforestation as a result of
+  growing commercial demand for tropical timber; pollution from mining
+  projects; severe drought
+
+Paracel Islands
+  NA
+
+Paraguay
+  deforestation; water pollution; inadequate means for waste
+  disposal pose health risks for many urban residents; loss of wetlands
+
+Peru
+  deforestation (some the result of illegal logging); overgrazing
+  of the slopes of the costa and sierra leading to soil erosion;
+  desertification; air pollution in Lima; pollution of rivers and
+  coastal waters from municipal and mining wastes
+
+Philippines
+  uncontrolled deforestation especially in watershed
+  areas; soil erosion; air and water pollution in major urban centers;
+  coral reef degradation; increasing pollution of coastal mangrove
+  swamps that are important fish breeding grounds
+
+Pitcairn Islands
+  deforestation (only a small portion of the original
+  forest remains because of burning and clearing for settlement)
+
+Poland
+  situation has improved since 1989 due to decline in heavy
+  industry and increased environmental concern by post-Communist
+  governments; air pollution nonetheless remains serious because of
+  sulfur dioxide emissions from coal-fired power plants, and the
+  resulting acid rain has caused forest damage; water pollution from
+  industrial and municipal sources is also a problem, as is disposal
+  of hazardous wastes; pollution levels should continue to decrease as
+  industrial establishments bring their facilities up to EU code, but
+  at substantial cost to business and the government
+
+Portugal
+  soil erosion; air pollution caused by industrial and
+  vehicle emissions; water pollution, especially in coastal areas
+
+Puerto Rico
+  erosion; occasional drought causing water shortages
+
+Qatar
+  limited natural fresh water resources are increasing
+  dependence on large-scale desalination facilities
+
+Romania
+  soil erosion and degradation; water pollution; air pollution
+  in south from industrial effluents; contamination of Danube delta
+  wetlands
+
+Russia
+  air pollution from heavy industry, emissions of coal-fired
+  electric plants, and transportation in major cities; industrial,
+  municipal, and agricultural pollution of inland waterways and
+  seacoasts; deforestation; soil erosion; soil contamination from
+  improper application of agricultural chemicals; scattered areas of
+  sometimes intense radioactive contamination; groundwater
+  contamination from toxic waste; urban solid waste management;
+  abandoned stocks of obsolete pesticides
+
+Rwanda
+  deforestation results from uncontrolled cutting of trees for
+  fuel; overgrazing; soil exhaustion; soil erosion; widespread poaching
+
+Saint Barthelemy
+  with no natural rivers or streams, fresh water is
+  in short supply, especially in summer, and provided by
+  desalinization of sea water, collection of rain water, or imported
+  via water tanker
+
+Saint Helena, Ascension, and Tristan da Cunha
+  NA
+
+Saint Kitts and Nevis
+  NA
+
+Saint Lucia
+  deforestation; soil erosion, particularly in the
+  northern region
+
+Saint Martin
+  fresh water supply is dependent on desalinization of
+  sea water
+
+Saint Pierre and Miquelon
+  recent test drilling for oil in waters
+  around Saint Pierre and Miquelon may bring future development that
+  would impact the environment
+
+Saint Vincent and the Grenadines
+  pollution of coastal waters and
+  shorelines from discharges by pleasure yachts and other effluents;
+  in some areas, pollution is severe enough to make swimming
+  prohibitive
+
+Samoa
+  soil erosion, deforestation, invasive species, overfishing
+
+San Marino
+  NA
+
+Sao Tome and Principe
+  deforestation; soil erosion and exhaustion
+
+Saudi Arabia
+  desertification; depletion of underground water
+  resources; the lack of perennial rivers or permanent water bodies
+  has prompted the development of extensive seawater desalination
+  facilities; coastal pollution from oil spills
+
+Senegal
+  wildlife populations threatened by poaching; deforestation;
+  overgrazing; soil erosion; desertification; overfishing
+
+Serbia
+  air pollution around Belgrade and other industrial cities;
+  water pollution from industrial wastes dumped into the Sava which
+  flows into the Danube
+
+Seychelles
+  water supply depends on catchments to collect rainwater
+
+Sierra Leone
+  rapid population growth pressuring the environment;
+  overharvesting of timber, expansion of cattle grazing, and
+  slash-and-burn agriculture have resulted in deforestation and soil
+  exhaustion; civil war depleted natural resources; overfishing
+
+Singapore
+  industrial pollution; limited natural fresh water
+  resources; limited land availability presents waste disposal
+  problems; seasonal smoke/haze resulting from forest fires in
+  Indonesia
+
+Sint Maarten
+  NA
+
+Slovakia
+  air pollution from metallurgical plants presents human
+  health risks; acid rain damaging forests
+
+Slovenia
+  Sava River polluted with domestic and industrial waste;
+  pollution of coastal waters with heavy metals and toxic chemicals;
+  forest damage near Koper from air pollution (originating at
+  metallurgical and chemical plants) and resulting acid rain
+
+Solomon Islands
+  deforestation; soil erosion; many of the surrounding
+  coral reefs are dead or dying
+
+Somalia
+  famine; use of contaminated water contributes to human
+  health problems; deforestation; overgrazing; soil erosion;
+  desertification
+
+South Africa
+  lack of important arterial rivers or lakes requires
+  extensive water conservation and control measures; growth in water
+  usage outpacing supply; pollution of rivers from agricultural runoff
+  and urban discharge; air pollution resulting in acid rain; soil
+  erosion; desertification
+
+South Georgia and South Sandwich Islands
+  NA
+
+Southern Ocean
+  increased solar ultraviolet radiation resulting from
+  the Antarctic ozone hole in recent years, reducing marine primary
+  productivity (phytoplankton) by as much as 15% and damaging the DNA
+  of some fish; illegal, unreported, and unregulated fishing in recent
+  years, especially the landing of an estimated five to six times more
+  Patagonian toothfish than the regulated fishery, which is likely to
+  affect the sustainability of the stock; large amount of incidental
+  mortality of seabirds resulting from long-line fishing for toothfish
+  note: the now-protected fur seal population is making a strong
+  comeback after severe overexploitation in the 18th and 19th centuries
+
+Spain
+  pollution of the Mediterranean Sea from raw sewage and
+  effluents from the offshore production of oil and gas; water quality
+  and quantity nationwide; air pollution; deforestation;
+  desertification
+
+Spratly Islands
+  NA
+
+Sri Lanka
+  deforestation; soil erosion; wildlife populations
+  threatened by poaching and urbanization; coastal degradation from
+  mining activities and increased pollution; freshwater resources
+  being polluted by industrial wastes and sewage runoff; waste
+  disposal; air pollution in Colombo
+
+Sudan
+  inadequate supplies of potable water; wildlife populations
+  threatened by excessive hunting; soil erosion; desertification;
+  periodic drought
+
+Suriname
+  deforestation as timber is cut for export; pollution of
+  inland waterways by small-scale mining activities
+
+Svalbard
+  NA
+
+Swaziland
+  limited supplies of potable water; wildlife populations
+  being depleted because of excessive hunting; overgrazing; soil
+  degradation; soil erosion
+
+Sweden
+  acid rain damage to soils and lakes; pollution of the North
+  Sea and the Baltic Sea
+
+Switzerland
+  air pollution from vehicle emissions and open-air
+  burning; acid rain; water pollution from increased use of
+  agricultural fertilizers; loss of biodiversity
+
+Syria
+  deforestation; overgrazing; soil erosion; desertification;
+  water pollution from raw sewage and petroleum refining wastes;
+  inadequate potable water
+
+Taiwan
+  air pollution; water pollution from industrial emissions, raw
+  sewage; contamination of drinking water supplies; trade in
+  endangered species; low-level radioactive waste disposal
+
+Tajikistan
+  inadequate sanitation facilities; increasing levels of
+  soil salinity; industrial pollution; excessive pesticides
+
+Tanzania
+  soil degradation; deforestation; desertification;
+  destruction of coral reefs threatens marine habitats; recent
+  droughts affected marginal agriculture; wildlife threatened by
+  illegal hunting and trade, especially for ivory
+
+Thailand
+  air pollution from vehicle emissions; water pollution from
+  organic and factory wastes; deforestation; soil erosion; wildlife
+  populations threatened by illegal hunting
+
+Timor-Leste
+  widespread use of slash and burn agriculture has led to
+  deforestation and soil erosion
+
+Togo
+  deforestation attributable to slash-and-burn agriculture and
+  the use of wood for fuel; water pollution presents health hazards
+  and hinders the fishing industry; air pollution increasing in urban
+  areas
+
+Tokelau
+  limited natural resources and overcrowding are contributing
+  to emigration to New Zealand
+
+Tonga
+  deforestation results as more and more land is being cleared
+  for agriculture and settlement; some damage to coral reefs from
+  starfish and indiscriminate coral and shell collectors; overhunting
+  threatens native sea turtle populations
+
+Trinidad and Tobago
+  water pollution from agricultural chemicals,
+  industrial wastes, and raw sewage; oil pollution of beaches;
+  deforestation; soil erosion
+
+Tunisia
+  toxic and hazardous waste disposal is ineffective and poses
+  health risks; water pollution from raw sewage; limited natural fresh
+  water resources; deforestation; overgrazing; soil erosion;
+  desertification
+
+Turkey
+  water pollution from dumping of chemicals and detergents; air
+  pollution, particularly in urban areas; deforestation; concern for
+  oil spills from increasing Bosporus ship traffic
+
+Turkmenistan
+  contamination of soil and groundwater with agricultural
+  chemicals, pesticides; salination, water logging of soil due to poor
+  irrigation methods; Caspian Sea pollution; diversion of a large
+  share of the flow of the Amu Darya into irrigation contributes to
+  that river's inability to replenish the Aral Sea; desertification
+
+Turks and Caicos Islands
+  limited natural fresh water resources,
+  private cisterns collect rainwater
+
+Tuvalu
+  since there are no streams or rivers and groundwater is not
+  potable, most water needs must be met by catchment systems with
+  storage facilities (the Japanese Government has built one
+  desalination plant and plans to build one other); beachhead erosion
+  because of the use of sand for building materials; excessive
+  clearance of forest undergrowth for use as fuel; damage to coral
+  reefs from the spread of the Crown of Thorns starfish; Tuvalu is
+  concerned about global increases in greenhouse gas emissions and
+  their effect on rising sea levels, which threaten the country's
+  underground water table; in 2000, the government appealed to
+  Australia and New Zealand to take in Tuvaluans if rising sea levels
+  should make evacuation necessary
+
+Uganda
+  draining of wetlands for agricultural use; deforestation;
+  overgrazing; soil erosion; water hyacinth infestation in Lake
+  Victoria; widespread poaching
+
+Ukraine
+  inadequate supplies of potable water; air and water
+  pollution; deforestation; radiation contamination in the northeast
+  from 1986 accident at Chornobyl' Nuclear Power Plant
+
+United Arab Emirates
+  lack of natural freshwater resources
+  compensated by desalination plants; desertification; beach pollution
+  from oil spills
+
+United Kingdom
+  continues to reduce greenhouse gas emissions (has met
+  Kyoto Protocol target of a 12.5% reduction from 1990 levels and
+  intends to meet the legally binding target and move toward a
+  domestic goal of a 20% cut in emissions by 2010); by 2005 the
+  government reduced the amount of industrial and commercial waste
+  disposed of in landfill sites to 85% of 1998 levels and recycled or
+  composted at least 25% of household waste, increasing to 33% by 2015
+
+United States
+  air pollution resulting in acid rain in both the US
+  and Canada; the US is the largest single emitter of carbon dioxide
+  from the burning of fossil fuels; water pollution from runoff of
+  pesticides and fertilizers; limited natural fresh water resources in
+  much of the western part of the country require careful management;
+  desertification
+
+United States Pacific Island Wildlife Refuges
+  Baker, Howland, and
+  Jarvis Islands, and Johnston Atoll: no natural fresh water resources
+  Kingman Reef: none
+  Midway Islands and Palmyra Atoll: NA
+
+Uruguay
+  water pollution from meat packing/tannery industry;
+  inadequate solid/hazardous waste disposal
+
+Uzbekistan
+  shrinkage of the Aral Sea is resulting in growing
+  concentrations of chemical pesticides and natural salts; these
+  substances are then blown from the increasingly exposed lake bed and
+  contribute to desertification; water pollution from industrial
+  wastes and the heavy use of fertilizers and pesticides is the cause
+  of many human health disorders; increasing soil salination; soil
+  contamination from buried nuclear processing and agricultural
+  chemicals, including DDT
+
+Vanuatu
+  most of the population does not have access to a reliable
+  supply of potable water; deforestation
+
+Venezuela
+  sewage pollution of Lago de Valencia; oil and urban
+  pollution of Lago de Maracaibo; deforestation; soil degradation;
+  urban and industrial pollution, especially along the Caribbean
+  coast; threat to the rainforest ecosystem from irresponsible mining
+  operations
+
+Vietnam
+  logging and slash-and-burn agricultural practices contribute
+  to deforestation and soil degradation; water pollution and
+  overfishing threaten marine life populations; groundwater
+  contamination limits potable water supply; growing urban
+  industrialization and population migration are rapidly degrading
+  environment in Hanoi and Ho Chi Minh City
+
+Virgin Islands
+  lack of natural freshwater resources
+
+Wake Island
+  NA
+
+Wallis and Futuna
+  deforestation (only small portions of the original
+  forests remain) largely as a result of the continued use of wood as
+  the main fuel source; as a consequence of cutting down the forests,
+  the mountainous terrain of Futuna is particularly prone to erosion;
+  there are no permanent settlements on Alofi because of the lack of
+  natural fresh water resources
+
+West Bank
+  adequacy of fresh water supply; sewage treatment
+
+Western Sahara
+  sparse water and lack of arable land
+
+World
+  large areas subject to overpopulation, industrial disasters,
+  pollution (air, water, acid rain, toxic substances), loss of
+  vegetation (overgrazing, deforestation, desertification), loss of
+  wildlife, soil degradation, soil depletion, erosion; global warming
+  becoming a greater concern
+
+Yemen
+  limited natural fresh water resources; inadequate supplies of
+  potable water; overgrazing; soil erosion; desertification
+
+Zambia
+  air pollution and resulting acid rain in the mineral
+  extraction and refining region; chemical runoff into watersheds;
+  poaching seriously threatens rhinoceros, elephant, antelope, and
+  large cat populations; deforestation; soil erosion; desertification;
+  lack of adequate water treatment presents human health risks
+
+Zimbabwe
+  deforestation; soil erosion; land degradation; air and
+  water pollution; the black rhinoceros herd - once the largest
+  concentration of the species in the world - has been significantly
+  reduced by poaching; poor mining practices have led to toxic waste
+  and heavy metal pollution
+
+
+
+
+======================================================================
+
+
+
+
+

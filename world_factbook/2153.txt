@@ -1,0 +1,690 @@
+2153
+
+
+Field Listing :: Internet users
+
+  This entry gives the number of users within a country that access
+  the Internet. Statistics vary from country to country and may
+  include users who access the Internet at least several times a week
+  to those who access it only once within a period of several months.
+  Country Comparison to the World
+  Country
+
+
+  Internet users
+
+Afghanistan
+  1 million (2009)
+
+Albania
+  1.3 million (2009)
+
+Algeria
+  4.7 million (2009)
+
+American Samoa
+  NA
+
+Andorra
+  67,100 (2009)
+
+Angola
+  606,700 (2009)
+
+Anguilla
+  3,700 (2009)
+
+Antigua and Barbuda
+  65,000 (2009)
+
+Argentina
+  13.694 million (2009)
+
+Armenia
+  208,200 (2009)
+
+Aruba
+  24,000 (2009)
+
+Australia
+  15.81 million (2009)
+
+Austria
+  6.143 million (2009)
+
+Azerbaijan
+  2.42 million (2009)
+
+Bahamas, The
+  115,800 (2009)
+
+Bahrain
+  419,500 (2009)
+
+Bangladesh
+  617,300 (2009)
+
+Barbados
+  188,000 (2008)
+
+Belarus
+  2.643 million (2009)
+
+Belgium
+  8.113 million (2009)
+
+Belize
+  36,000 (2009)
+
+Benin
+  200,100 (2009)
+
+Bermuda
+  54,000 (2009)
+
+Bhutan
+  50,000 (2009)
+
+Bolivia
+  1.103 million (2009)
+
+Bosnia and Herzegovina
+  1.422 million (2009)
+
+Botswana
+  120,000 (2009)
+
+Brazil
+  75.982 million (2009)
+
+British Virgin Islands
+  4,000 (2002)
+
+Brunei
+  314,900 (2009)
+
+Bulgaria
+  3.395 million (2009)
+
+Burkina Faso
+  178,100 (2009)
+
+Burma
+  110,000 (2009)
+
+Burundi
+  157,800 (2009)
+
+Cambodia
+  78,500 (2009)
+
+Cameroon
+  749,600 (2009)
+
+Canada
+  26.96 million (2009)
+
+Cape Verde
+  150,000 (2009)
+
+Cayman Islands
+  23,000 (2008)
+
+Central African Republic
+  22,600 (2009)
+
+Chad
+  168,100 (2009)
+
+Chile
+  7.009 million (2009)
+
+China
+  389 million (2009)
+
+Christmas Island
+  464 (2001)
+
+Colombia
+  22.538 million (2009)
+
+Comoros
+  24,300 (2009)
+
+Congo, Democratic Republic of the
+  290,000 (2008)
+
+Congo, Republic of the
+  245,200 (2009)
+
+Cook Islands
+  6,000 (2009)
+
+Costa Rica
+  1.485 million (2009)
+
+Cote d'Ivoire
+  967,300 (2009)
+
+Croatia
+  2.234 million (2009)
+
+Cuba
+  1.606 million
+  note: private citizens are prohibited from buying computers or
+  accessing the Internet without special authorization; foreigners may
+  access the Internet in large hotels but are subject to firewalls;
+  some Cubans buy illegal passwords on the black market or take
+  advantage of public outlets to access limited email and the
+  government-controlled "intranet" (2009)
+
+Cyprus
+  433,900 (2009)
+
+Czech Republic
+  6.681 million (2009)
+
+Denmark
+  4.75 million (2009)
+
+Djibouti
+  25,900 (2009)
+
+Dominica
+  28,000 (2009)
+
+Dominican Republic
+  2.701 million (2009)
+
+Ecuador
+  3.352 million (2009)
+
+Egypt
+  20.136 million (2009)
+
+El Salvador
+  746,000 (2009)
+
+Equatorial Guinea
+  14,400 (2009)
+
+Eritrea
+  200,000 (2008)
+
+Estonia
+  971,700 (2009)
+
+Ethiopia
+  447,300 (2009)
+
+European Union
+  247 million (2006)
+
+Falkland Islands (Islas Malvinas)
+  2,900 (2009)
+
+Faroe Islands
+  37,500 (2009)
+
+Fiji
+  114,200 (2009)
+
+Finland
+  4.393 million (2009)
+
+France
+  45.262 million; 44.625 million (metropolitan France) (2009)
+
+French Polynesia
+  120,000 (2009)
+
+Gabon
+  98,800 (2009)
+
+Gambia, The
+  130,100 (2009)
+
+Gaza Strip
+  1.379 million (includes West Bank) (2009)
+
+Georgia
+  1.3 million (2009)
+
+Germany
+  65.125 million (2009)
+
+Ghana
+  1.297 million (2009)
+
+Gibraltar
+  20,200 (2009)
+
+Greece
+  4.971 million (2009)
+
+Greenland
+  36,000 (2009)
+
+Grenada
+  25,000 (2009)
+
+Guam
+  90,000 (2009)
+
+Guatemala
+  2.279 million (2009)
+
+Guernsey
+  48,300 (2009)
+
+Guinea
+  95,000 (2009)
+
+Guinea-Bissau
+  37,100 (2009)
+
+Guyana
+  189,600 (2009)
+
+Haiti
+  1 million (2009)
+
+Honduras
+  731,700 (2009)
+
+Hong Kong
+  4.873 million (2009)
+
+Hungary
+  6.176 million (2009)
+
+Iceland
+  301,600 (2009)
+
+India
+  61.338 million (2009)
+
+Indonesia
+  20 million (2009)
+
+Iran
+  8.214 million (2009)
+
+Iraq
+  325,900 (2009)
+
+Ireland
+  3.042 million (2009)
+
+Israel
+  4.525 million (2009)
+
+Italy
+  29.235 million (2009)
+
+Jamaica
+  1.581 million (2009)
+
+Japan
+  99.182 million (2009)
+
+Jersey
+  29,500 (2009)
+
+Jordan
+  1.642 million (2009)
+
+Kazakhstan
+  5.299 million (2009)
+
+Kenya
+  3.996 million (2009)
+
+Kiribati
+  7,800 (2009)
+
+Korea, South
+  39.4 million (2009)
+
+Kuwait
+  1.1 million (2009)
+
+Kyrgyzstan
+  2.195 million (2009)
+
+Laos
+  300,000 (2009)
+
+Latvia
+  1.504 million (2009)
+
+Lebanon
+  1 million (2009)
+
+Lesotho
+  76,800 (2009)
+
+Liberia
+  20,000 (2009)
+
+Libya
+  353,900 (2009)
+
+Liechtenstein
+  23,000 (2009)
+
+Lithuania
+  1.964 million (2009)
+
+Luxembourg
+  424,500 (2009)
+
+Macau
+  270,200 (2009)
+
+Macedonia
+  1.057 million (2009)
+
+Madagascar
+  319,900 (2009)
+
+Malawi
+  716,400 (2009)
+
+Malaysia
+  15.355 million (2009)
+
+Maldives
+  86,400 (2009)
+
+Mali
+  249,800 (2009)
+
+Malta
+  240,600 (2009)
+
+Marshall Islands
+  2,200 (2009)
+
+Mauritania
+  75,000 (2009)
+
+Mauritius
+  290,000 (2009)
+
+Mexico
+  31.02 million (2009)
+
+Micronesia, Federated States of
+  17,000 (2009)
+
+Moldova
+  1.333 million (2009)
+
+Monaco
+  23,000 (2009)
+
+Mongolia
+  330,000 (2008)
+
+Montenegro
+  280,000 (2009)
+
+Montserrat
+  1,200 (2009)
+
+Morocco
+  13.213 million (2009)
+
+Mozambique
+  613,600 (2009)
+
+Namibia
+  127,500 (2009)
+
+Nepal
+  577,800 (2009)
+
+Netherlands
+  14.872 million (2009)
+
+New Caledonia
+  85,000 (2009)
+
+New Zealand
+  3.4 million (2009)
+
+Nicaragua
+  199,800 (2009)
+
+Niger
+  115,900 (2009)
+
+Nigeria
+  43.989 million (2009)
+
+Niue
+  1,100 (2009)
+
+Norway
+  4.431 million (2009)
+
+Oman
+  1.465 million (2009)
+
+Pakistan
+  20.431 million (2009)
+
+Panama
+  959,800 (2009)
+
+Papua New Guinea
+  125,000 (2009)
+
+Paraguay
+  1.105 million (2009)
+
+Peru
+  9.158 million (2009)
+
+Philippines
+  8.278 million (2009)
+
+Poland
+  22.452 million (2009)
+
+Portugal
+  5.168 million (2009)
+
+Puerto Rico
+  1 million (2009)
+
+Qatar
+  563,800 (2009)
+
+Romania
+  7.787 million (2009)
+
+Russia
+  40.853 million (2009)
+
+Rwanda
+  450,000 (2009)
+
+Saint Helena, Ascension, and Tristan da Cunha
+  900 (2009)
+
+Saint Kitts and Nevis
+  17,000 (2009)
+
+Saint Lucia
+  142,900 (2009)
+
+Saint Vincent and the Grenadines
+  76,000 (2009)
+
+Samoa
+  9,000 (2009)
+
+San Marino
+  17,000 (2009)
+
+Sao Tome and Principe
+  26,700 (2009)
+
+Saudi Arabia
+  9.774 million (2009)
+
+Senegal
+  1.818 million (2009)
+
+Serbia
+  4.107 million (2009)
+
+Seychelles
+  32,000 (2008)
+
+Sierra Leone
+  14,900 (2009)
+
+Singapore
+  3.235 million (2009)
+
+Slovakia
+  4.063 million (2009)
+
+Slovenia
+  1.298 million (2009)
+
+Solomon Islands
+  10,000 (2009)
+
+Somalia
+  106,000 (2009)
+
+South Africa
+  4.42 million (2009)
+
+Spain
+  28.119 million (2009)
+
+Sri Lanka
+  1.777 million (2009)
+
+Sudan
+  4.2 million (2008)
+
+Suriname
+  163,000 (2009)
+
+Swaziland
+  90,100 (2009)
+
+Sweden
+  8.398 million (2009)
+
+Switzerland
+  6.152 million (2009)
+
+Syria
+  4.469 million (2009)
+
+Taiwan
+  16.147 million (2009)
+
+Tajikistan
+  700,000 (2009)
+
+Tanzania
+  678,000 (2009)
+
+Thailand
+  17.483 million (2009)
+
+Timor-Leste
+  2,100 (2009)
+
+Togo
+  356,300 (2009)
+
+Tokelau
+  800 (2008)
+
+Tonga
+  8,400 (2009)
+
+Trinidad and Tobago
+  593,000 (2009)
+
+Tunisia
+  3.5 million (2009)
+
+Turkey
+  27.233 million (2009)
+
+Turkmenistan
+  80,400 (2009)
+
+Tuvalu
+  4,200 (2008)
+
+Uganda
+  3.2 million (2009)
+
+Ukraine
+  7.77 million (2009)
+
+United Arab Emirates
+  3.449 million (2009)
+
+United Kingdom
+  51.444 million (2009)
+
+United States
+  245 million (2009)
+
+Uruguay
+  1.405 million (2009)
+
+Uzbekistan
+  4.689 million (2009)
+
+Vanuatu
+  17,000 (2009)
+
+Venezuela
+  8.918 million (2009)
+
+Vietnam
+  23.382 million (2009)
+
+Virgin Islands
+  30,000 (2009)
+
+Wallis and Futuna
+  1,300 (2009)
+
+West Bank
+  1.379 million (includes Gaza Strip) (2009)
+
+World
+  2.1 billion (2010)
+
+Yemen
+  2.349 million (2009)
+
+Zambia
+  816,200 (2009)
+
+Zimbabwe
+  1.423 million (2009)
+
+
+
+
+======================================================================
+
+
+
+
+
