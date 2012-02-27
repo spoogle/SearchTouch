@@ -27,20 +27,27 @@
     /*! Number of documents containing each word - used for IDF calculation */
     NSMutableDictionary *nDocsContainingWord = [NSMutableDictionary dictionary];
     NSMutableDictionary *wordToDocTreeMapping = [NSMutableDictionary dictionary];
+    NSString *directory = [self.sourcename stringByDeletingLastPathComponent];
     NSString *fileList = [NSString stringWithContentsOfFile:self.sourcename encoding:NSStringEncodingConversionAllowLossy error:nil];
     NSArray *files = [fileList componentsSeparatedByString:@"\n"];
     self.ndocs = (int)[files count];
     int onePercent = self.ndocs / 100;
     if (onePercent == 0) onePercent = 1;
-    
     int i = 0;
     for (NSString *f in files) {
         if (++i % onePercent == 0) {
             putc('.',stdout);
             fflush(stdout);
         }
-        Extractor *e = [[Extractor alloc] initWithFile:f];
-        [self addDetailsForDoc:[e docid] andName:f andText:(storetext ? [e tokenizedText] : @"") andLength:[e doclen]];
+        NSString *fullPathFilename;
+        if ([f isAbsolutePath]) {
+            fullPathFilename = f;
+        }
+        else {
+            fullPathFilename = [directory stringByAppendingPathComponent:f];
+        }
+        Extractor *e = [[Extractor alloc] initWithFile:fullPathFilename];
+        [self addDetailsForDoc:[e docid] andName:fullPathFilename andText:(storetext ? [e tokenizedText] : @"") andLength:[e doclen]];
         totaldoclen += [e doclen];
         for (NSString *w in [[e wordPositions] allKeys]) {
             NSMutableArray *val;

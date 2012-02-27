@@ -17,8 +17,7 @@ int main (int argc, const char * argv[])
 {
     NSAutoreleasePool *pool = [[NSAutoreleasePool alloc] init];
 
-    Index *index = [[Index alloc] initWithFilenamesFromFile:
-              @"/Users/julianr/Dropbox/Private/world_factbook/files.txt"];
+    Index *index = [[Index alloc] initWithFilenamesFromFile:@"/Users/me/SearchTouch/world_factbook/files.txt"];
     if (!index || ![index hasBeenBuilt]) {
         [index buildIndex:[NSDictionary dictionaryWithObject:[NSNumber numberWithBool:NO] forKey:@"storetext"]];
     }

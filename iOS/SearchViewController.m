@@ -34,7 +34,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-    _index = [[Index alloc] initWithFilenamesFromFile:@"/Users/julianr/Dropbox/Private/world_factbook/files.txt"];
+    _index = [[Index alloc] initWithFilenamesFromFile:@"/Users/me/SearchTouch/world_factbook/files.txt"];
     if (!_index || ![_index hasBeenBuilt]) {
         [_index buildIndex:
             [NSDictionary dictionaryWithObject:[NSNumber numberWithBool:NO] 
